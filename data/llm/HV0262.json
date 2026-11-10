@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Allee Hausverwaltung und Immobilien GmbH ist Profi im Bereich der Verwaltung von Wohn- und Geschäftshäusern.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1992,
+ "founded_evidence": "Seit 1992 verwalten wir erfolgreich Wohn- und Geschäftshäuser, Woh- nungseigentumsanlagen und Gewerbeimmobilien in Berlin und Brandenburg.",
+ "managing_directors": [
+  "Alexander Quade",
+  "Susen Schiela-Gropp"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Alexander Quade & Susen Schiela-Gropp",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1992) for residential, WEG and commercial properties in Berlin and Brandenburg, also active in brokerage and sales.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.allee-berlin.de/",
+  "services": "https://www.allee-berlin.de/verwaltung.htm",
+  "impressum": "https://www.allee-berlin.de/kontakt-impressum.htm"
+ }
+}

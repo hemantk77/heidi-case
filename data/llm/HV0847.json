@@ -1,0 +1,39 @@
+{
+ "buildings_managed": 114,
+ "buildings_evidence": "Häuser \nmodernisiert\n114",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1984,
+ "founded_evidence": "seit\n1984",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Monatliches Mietinkasso und jährliche Heiz- und Betriebskostenabrechnung",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung \nseit\n1984\nEinheiten \nverwaltet\n11.806",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Stephan Gumz"
+ ],
+ "managing_directors_evidence": "Geschäftsführung\nDipl.-Kfm. Stephan Gumz",
+ "portal_or_app": "Onlineportale",
+ "portal_evidence": "Die Ergebnisse stellen wir unseren Kunden über unsere Onlineportale zur Verfügung .",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 11806,
+ "units_evidence": "Einheiten \nverwaltet\n11.806",
+ "segment_note": "Berlin residential specialist (since 1984) offering WEG, rental, special-property and commercial management plus brokerage, with about 11,806 managed units and in-house online portals.",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.anton-schmittlein.de/",
+  "jobs": "https://www.anton-schmittlein.de/karriere/",
+  "services": "https://www.anton-schmittlein.de/verwalten",
+  "impressum": "https://www.anton-schmittlein.de/impressum/"
+ }
+}

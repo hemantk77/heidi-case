@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr professioneller Mietverwalter für Berlin und Umgebung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Kasperczyk",
+  "Ragnhild Neumann"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Alexander Kasperczyk",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von rechtssicheren Heiz- und Betriebskostenabrechnungen einschließlich Anpassung der Vorauszahlungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "KIN GmbH Hausverwaltungen is a Berlin residential property manager (Lichterfelde office) serving foundations, social/religious institutions and private landlords, also licensed as a broker.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kin-hv.de/",
+  "about": "https://kin-hv.de/ueber-uns/",
+  "impressum": "https://kin-hv.de/kontakt/"
+ }
+}

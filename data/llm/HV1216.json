@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind eine Berliner Mietergenossenschaft mit bewegter Geschichte, die mit ihren Mitgliedern Wohnprojekte plant und umsetzt.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "SelbstBau e.G. is a Berlin tenant cooperative that plans and develops housing projects with its members; the site describes no property management service for third parties.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.selbstbau-eg.de/",
+  "about": "https://selbstbau-eg.de/ueber-uns/"
+ }
+}

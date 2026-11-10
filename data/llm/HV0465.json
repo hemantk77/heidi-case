@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit über 25 Jahren arbeiten wir in Berlin hauptsächlich in den Bereichen: Wohnungseigentumsverwaltung, Sondereigentumsverwaltung im Wohnungseigentum, Mietwohnhausverwaltung und Abrechnungsservice",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2007,
+ "founded_evidence": "mein seit 2007 bestehendes Privatunternehmen",
+ "managing_directors": [
+  "Karsten Hamelow"
+ ],
+ "managing_directors_evidence": "Die Gesellschaft wird vetreten durch: Karsten Hamelow",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungsservice",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (Charlottenburg) offering WEG administration, rental building management and a billing service, with a private company founded in 2007 led by Karsten Hamelow.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.khhaus.de/",
+  "about": "https://www.khhaus.de/ueber-uns.html",
+  "services": "https://www.khhaus.de/unsere-angebote.html",
+  "portal": "https://www.khhaus.de/service/login.html",
+  "impressum": "https://www.khhaus.de/kontakt/impressum.html"
+ }
+}

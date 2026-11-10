@@ -1,0 +1,39 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": "Wir sind ein fünfköpfiges Team, welches hauptsächlich aus Kaufleuten besteht.",
+ "founded_year": 1928,
+ "founded_evidence": "Die Gustav Schneider Erben Hausverwaltung wurde im Jahr 1928 von Herrn Gustav Schneider gegründet.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Miethaus-Verwaltung WEG-Verwaltung Sondereigentums-Verwaltung Immobilien",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Uwe Ehlert"
+ ],
+ "managing_directors_evidence": "Inhaber Uwe Ehlert e. Kfm.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "segment_note": "Small Berlin property manager (five-person team, founded 1928) handling rental houses, WEG and special-property management, plus property sales and rentals.",
+ "employees_rejected": 5,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvw-schneidererben.de/",
+  "services": "https://www.hvw-schneidererben.de/leistungen/",
+  "jobs": "https://www.hvw-schneidererben.de/stellen/",
+  "about": "https://www.hvw-schneidererben.de/uber-uns/",
+  "impressum": "https://www.hvw-schneidererben.de/impressum/"
+ }
+}

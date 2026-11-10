@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1956,
+ "founded_evidence": "Am 26. Januar 1956 gründeten 42 Arbeiter und Angestellte der BEWAG",
+ "managing_directors": [
+  "Torsten Eckel",
+  "Torsten Klimke"
+ ],
+ "managing_directors_evidence": "Vorstand\nTorsten Eckel\nTorsten Klimke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (Wohnungsbaugenossenschaft founded 1956) with its own housing stock in Mitte and Lichtenberg, offering in-house Hausverwaltung; no unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wg-solidaritaet.de/",
+  "about": "https://wg-solidaritaet.de/solidaritaet/geschichte/",
+  "services": "https://wg-solidaritaet.de/wohnen/mietangebote/",
+  "jobs": "https://wg-solidaritaet.de/kontakt/ansprechpartner/",
+  "impressum": "https://wg-solidaritaet.de/impressum/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": "544 \n Liegenschaften",
+ "buildings_managed": 544,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "2016 \n Gründung",
+ "founded_year": 2016,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Das Unternehmen deckt den kompletten Lebenszyklus eines Objektes ab – durch Asset Management, Property Management, Projektmanagement und Accounting-Leistungen.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "3PM Services is a Berlin-based commercial real-estate firm offering property management, asset management, project management and accounting for office, retail, hotel and logistics assets, with 544 properties (Liegenschaften) and about 1.86 Mio. sqm managed.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.3pm-services.com/",
+  "about": "https://3pm-services.com/unternehmen/",
+  "jobs": "https://3pm-services.com/team-de/jobs/",
+  "services": "https://3pm-services.com/services/"
+ }
+}

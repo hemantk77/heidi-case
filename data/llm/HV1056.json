@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Miet- und Eigentumsverwalter im Raum Berlin und Brandenburg betreuen wir Objekte unterschiedlichster Art",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "© 2011 - 2026 BENEA. Verwaltung von Immobilien",
+ "managing_directors": [
+  "David Neumann"
+ ],
+ "managing_directors_evidence": "David\nNeumann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungsservice",
+ "portal_or_app": "Portal24",
+ "portal_evidence": "Unser Service- und Informationsportal",
+ "segment_note": "BENEA is a Berlin/Brandenburg property manager offering WEG, rental and special-property management plus utility cost billing, with a Portal24 service portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.benea-berlin.de/",
+  "services": "https://www.benea-berlin.de/leistungen/",
+  "impressum": "https://www.benea-berlin.de/impressum/",
+  "portal": "https://www.benea-berlin.de/portal24/"
+ }
+}

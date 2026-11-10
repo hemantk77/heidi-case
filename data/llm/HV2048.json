@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mein Ziel ist eine Hausverwaltung, die erreichbar ist, mitdenkt und Verantwortung übernimmt.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sarah Globisch"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführerin: Sarah Globisch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "digitale Eigentümerplattform",
+ "portal_evidence": "digitale Eigentümerplattform",
+ "segment_note": "House Around Management is a Berlin property manager (Hausverwaltung) focused on owner communication, with a digital owner platform and cost/contract review services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.housearoundmanagement.de/",
+  "services": "https://housearoundmanagement.de/dienstleistungen/",
+  "about": "https://housearoundmanagement.de/ueber-uns/",
+  "impressum": "https://housearoundmanagement.de/impressum/"
+ }
+}

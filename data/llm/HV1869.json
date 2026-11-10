@@ -1,0 +1,41 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als inhabergeführtes Unternehmen verwaltet und betreut die kfh Immobilien Management GmbH von den Standorten Bielefeld, Berlin, Hamburg, Köln, Bremen, Braunschweig, Leipzig und Dresden aus rund 18.000 Wohn- und Gewerbeeinheiten",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 18000,
+ "units_evidence": "aus rund 18.000 Wohn- und Gewerbeeinheiten mit einer Gesamtfläche von ca. 1,3 Mio. m²",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 150,
+ "employees_evidence": "Mehr als 150 Mitarbeitende gewährleisten",
+ "founded_year": 2001,
+ "founded_evidence": "beschloss er im Jahre 2001 eine eigene Verwaltungsgesellschaft zu gründen",
+ "managing_directors": [
+  "Karl-Friedrich Hensiek",
+  "Alexander Hensiek",
+  "Guido Krüger",
+  "Giacomo Petrovic",
+  "Julia Reger"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Karl-Friedrich Hensiek, Alexander Hensiek, Guido Krüger, Giacomo Petrovic und Julia Reger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "kfh Immobilien Management GmbH (Bielefeld/Melle, not Berlin-based) is an owner-managed property manager for private and institutional owners with about 18,000 units across nine sites including Berlin.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gemak.de/",
+  "jobs": "https://www.kfh-hv.de/karriere/",
+  "about": "https://www.kfh-hv.de/unternehmen/",
+  "services": "https://www.kfh-hv.de/institutionell/",
+  "impressum": "https://www.kfh-hv.de/impressum/"
+ }
+}

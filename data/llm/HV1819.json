@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Leistungensangebot umfasst folgende Bereiche: Immobilienberatung ... Verkauf ... Vermietung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "C. Schönherr"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: GF C. Schönherr",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MI-KA Immobilien is a Berlin brokerage offering sales and rental marketing for owners and advisory for buyers/tenants; no property management services are described on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mika-immobilien.de/",
+  "impressum": "http://www.mika-immobilien.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Habitalix ist Ihr Experte für Sondereigentumsverwaltung in Berlin und Brandenburg.",
+ "main_business": "property_management",
+ "services": [
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Céline Danto",
+  "Arnfried Nagel"
+ ],
+ "managing_directors_evidence": "Geschäftsführerinnen: Céline Danto & Arnfried Nagel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Ob Mieteransprachen, Handwerker-Koordination oder Betriebskostenabrechnung – Habitalix bietet das Rundum-Sorglos-Paket für Sondereigentumsverwaltungen in Berlin.",
+ "portal_or_app": "Eigentümer-Login",
+ "portal_evidence": "Das von Habitalix entwickelte smarte Eigentümerportal bildet alle wesentlichen Informationen, Standardprozesse der Immobilienverwaltung sowie Portfoliofragen online ab",
+ "segment_note": "Berlin-based digital property manager (Sondereigentum and Mietshaus) with an owner portal, also offering Betriebskostenabrechnung, smart-building and energy consulting.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://habitalix.de/",
+  "services": "https://habitalix.de/sondereigentumsverwaltung",
+  "portal": "https://habitalix.de/eigent%C3%BCmer-login",
+  "jobs": "https://habitalix.de/karriere-1",
+  "impressum": "https://habitalix.de/impressum"
+ }
+}

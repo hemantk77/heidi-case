@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Grossmann & Berger is a real-estate brokerage (Makler) for residential and commercial property; the scraped text does not describe any property management service.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.grossmann-berger.de/",
+  "services": "https://www.grossmann-berger.de/kapitalanlage/servicewohnen",
+  "about": "https://www.grossmann-berger.de/unternehmen",
+  "jobs": "https://www.grossmann-berger.de/karriere",
+  "portal": "https://www.grossmann-berger.de/unternehmen/news/hamburger-investmentmarkt-verliert-an-tempo",
+  "impressum": "https://www.grossmann-berger.de/impressum"
+ }
+}

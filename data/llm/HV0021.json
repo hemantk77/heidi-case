@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "property_management",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Astrid Kern",
+  "Mercedes Keller",
+  "Friedrich Kern"
+ ],
+ "managing_directors_evidence": "Geschäftsführung:  Dr. Astrid Kern, Mercedes Keller, Friedrich Kern",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "core ImmobilienManagement GmbH is a Berlin company whose website shows the navigation items \"ImmobilienManagement\" and \"Vermietung\" but gives no detailed service description.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.core-berlin.de/",
+  "impressum": "http://www.core-berlin.de/de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Gerlach steht für die persönliche und professionelle Verwaltung von Wohn- und Gewerbeimmobilien in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marina Willscher",
+  "Manfred Gerlach"
+ ],
+ "managing_directors_evidence": "Vertreten durch Marina Willscher & Manfred Gerlach",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Gerlach HV App",
+ "portal_evidence": "Die Gerlach HV App",
+ "segment_note": "Berlin property manager for residential and commercial properties, serving clients across Europe, with its own Gerlach HV app.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gerlach.berlin/",
+  "portal": "https://www.gerlach.berlin/app.php",
+  "about": "https://www.gerlach.berlin/ueber-uns.php",
+  "impressum": "https://www.gerlach.berlin/impressum.php"
+ }
+}

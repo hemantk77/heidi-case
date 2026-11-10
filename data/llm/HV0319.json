@@ -1,0 +1,40 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "Seit 1990 sind wir erfolgreich als Verwalter und Makler aktiv.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Full-Service Hausverwaltung sind wir für unsere anspruchsvolle Kundschaft als Verwalter von Miethäusern, Wohnungseigentumsgemeinschaften und Gewerbeobjekten tätig",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Solvejg Rosenbaum"
+ ],
+ "managing_directors_evidence": "Solvejg Rosenbaum (Geschäftsführerin)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) for rental buildings, WEGs and commercial properties, also brokerage, founded 1990, managing director Solvejg Rosenbaum.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.conforma.de/",
+  "services": "https://conforma-hausverwaltung.de/hausverwaltung/",
+  "about": "https://conforma-hausverwaltung.de/hausverwaltung/",
+  "jobs": "https://conforma-hausverwaltung.de/karriere/",
+  "impressum": "https://conforma-hausverwaltung.de/impressum/"
+ }
+}

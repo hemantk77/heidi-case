@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Nautilus Facility Cleaning ist der Reinigungspartner für Hausverwaltungen und WEGs in Berlin: mehrere Objekte, ein Ansprechpartner, Festpreis je Objekt.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 20,
+ "buildings_evidence": "20+ in Berlin aktiv",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Philipp Pascal De Boer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Philipp Pascal De Boer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Nautilus Dashboard",
+ "portal_evidence": "Das Nautilus Dashboard",
+ "segment_note": "Berlin cleaning company serving private and commercial clients, including housing managers and WEGs, with digital protocols via its own dashboard; it is a cleaning provider, not a property manager.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://nautilus-facility.de/",
+  "jobs": "https://nautilus-facility.de/grundreinigung-berlin/",
+  "services": "https://nautilus-facility.de/hausverwaltungen-berlin/",
+  "about": "https://nautilus-facility.de/ueber-uns/",
+  "impressum": "https://nautilus-facility.de/impressum/"
+ }
+}

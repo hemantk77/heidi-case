@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung für den Süden Berlins",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "E.-Olaf Peters"
+ ],
+ "managing_directors_evidence": "E.-Olaf Peters (Geschäftsführender Gesellschafter)",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung",
+ "portal_or_app": "Kundenbereich",
+ "portal_evidence": "Im Kundenkonto anmelden",
+ "segment_note": "Berlin property manager for the south of the city offering WEG, rental and special-property management, plus technical building oversight and brokerage-type sales services.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.fladee-peters.de/",
+  "portal": "https://fladee-peters.de/login/",
+  "impressum": "https://fladee-peters.de/impressum/"
+ }
+}

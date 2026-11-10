@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ich bin in Berlin & Brandenburg als Immobilienmakler für Sie da!",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Immosiv is a Berlin and Brandenburg real-estate brokerage selling and renting exclusive properties to owners and buyers; the site shows no property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immosiv.de/",
+  "services": "https://www.immosiv.de/Immobilienangebote.htm",
+  "impressum": "https://www.immosiv.de/Impressum.htm"
+ }
+}

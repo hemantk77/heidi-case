@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Lanz & Melzer – Wir haben die Erfahrung: \"Nicht nur in Berlin-Mitte, sondern auch in den begehrten Innenstadtlagen sind wir seit vielen Jahren mit dem Verkauf und der Vermietung von Wohnungen und Gewerbeflächen sowie der Vermittlung von Investments erfolgreich tätig.\"",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Seit Unternehmensgründung im Jahr 2005 sind wir Mitglied im Immobilienverband Deutschland (IVD).",
+ "managing_directors": [
+  "Oliver Korn"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Oliver Korn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage (sales and rentals of apartments and commercial space, investment brokerage) with no stated managed-unit portfolio.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lanzundmelzer.de/",
+  "services": "https://lanzundmelzer.de/immobilienangebote",
+  "about": "https://lanzundmelzer.de/ueber-uns",
+  "impressum": "https://lanzundmelzer.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Alle kaufmännischen Verwaltungsarbeiten, insbesondere die Buchhaltung, die  monatliche und jährliche Hausabrechnung, der Zahlungsverkehr oder auch das Mahnwesen werden online mit Hilfe des weitgehend automatisierten Verwalterservices",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Folgende Leistungen biete ich mit meiner Hausverwaltung an: Abschluss von Wohn- und Gewerberaum-Mietverträgen",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Carsten Eßer"
+ ],
+ "managing_directors_evidence": "Eßer Hausverwaltung Carsten Eßer Pücklerstr. 23 10997 Berlin",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Small Berlin property manager (Carsten Eßer, offices in Kreuzberg and Zehlendorf) handling about 250 residential and commercial units, with rent, operating-cost and annual billing services.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": "Bei meiner Hausverwaltung handelt es sich um ein kleineres Unternehmen mit zurzeit ca. 250 Wohn- und Gewerbeeinheiten.",
+ "units_managed": 250,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hv-esser.de/",
+  "services": "https://www.hv-esser.de/leistungsprofil",
+  "impressum": "https://www.hv-esser.de/impressum"
+ }
+}

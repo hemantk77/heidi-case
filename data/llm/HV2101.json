@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Penta Gruppe bietet die kaufmännische Betriebsführung von Immobilien mit einer ausbalancierten Struktur von kaufmännischer Leitung, Controlling der Finanzflüsse",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "Die Penta Gruppe hat seit 1990 mehr als 2.000 Wohnungen",
+ "managing_directors": [
+  "Kai Schurkemeyer",
+  "Jörg Lemhöfer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Kai Schurkemeyer, Dipl.-Kfm. Jörg Lemhöfer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Penta Gruppe is a Berlin project developer and condo sales firm (Mallorca and Baltic holiday properties) that also offers commercial property management (Hausverwaltung) and holds around 300 own units.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://penta-gruppe.de/",
+  "about": "https://penta-gruppe.de/unternehmen",
+  "services": "https://penta-gruppe.de/unternehmen/",
+  "impressum": "https://penta-gruppe.de/impressum"
+ }
+}

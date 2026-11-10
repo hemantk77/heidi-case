@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Benjamin Budde"
+ ],
+ "managing_directors_evidence": "Geschäftsführender Gesellschafter: Benjamin Budde",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin company (Edition Primus Rolf Budde KG, Hohenzollerndamm 54a) whose website names it only in the header and imprint; the website does not describe its services.",
+ "heating_billing_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.editionprimus.de/",
+  "impressum": "https://www.editionprimus.de/impressum"
+ }
+}

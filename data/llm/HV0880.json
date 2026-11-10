@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "GISK GmbH - Berlin | Hausverwaltung Grundstücksverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "GISK GmbH is a Berlin company whose homepage title describes it as a Hausverwaltung (property management) and Grundstücksverwaltung (land management) firm; the site has no other details.",
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "managing_directors_evidence": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gisk-gmbh.de/"
+ }
+}

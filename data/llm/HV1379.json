@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Ilja Gop",
+  "John Amram"
+ ],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "TRENDCITY GmbH is a Berlin real-estate company selling condominiums and developing projects (Green Lofts, Leibniz77-78); the site shows no property management services.",
+ "managing_directors_evidence": "Geschäftsführer:\nDr. Ilja Gop, John Amram",
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.trendcity.de/",
+  "services": "https://www.trendcity.de/newsletter-anmeldung/",
+  "about": "https://www.trendcity.de/ueber-uns/",
+  "jobs": "https://www.trendcity.de/ueber-uns/karriere/",
+  "impressum": "https://www.trendcity.de/impressum/"
+ }
+}

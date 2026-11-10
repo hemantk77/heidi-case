@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Facility Management: Die gruppeneigene Immobilienverwaltung. Schlaue und profitable Lösungen zur Ertrags-maximierung der verwalteten Immobilien- nicht nur für unsere Bestandsimmobilien, sondern ebenso für Fremdimmobilien.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Robert Tecle"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Robert Tecle",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Galant Group is an investment and development firm with a group-owned property management arm (Facility Management) that also manages third-party properties; it also does property trading and sales.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.galant-group.de/",
+  "about": "http://www.galant-group.de/die-galant-group/unternehmen-geschaeftsphilosophie/",
+  "services": "http://www.galant-group.de/unsere-services/",
+  "impressum": "http://www.galant-group.de/rechtliches/"
+ }
+}

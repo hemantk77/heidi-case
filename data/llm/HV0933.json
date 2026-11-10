@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als bankenunabhängiger Vermögensverwalter bieten wir mehr als nur Rendite – wir schaffen Sicherheit, bewahren Werte und bauen langfristige, vertrauensvolle Beziehungen auf.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": "Anzahl Mitarbeiter*innen",
+ "founded_year": 2001,
+ "founded_evidence": "2001\nGründung der Hansen & Heinrich AG",
+ "managing_directors": [
+  "Timon Heinrich",
+  "Dr. Lars Slomka"
+ ],
+ "managing_directors_evidence": "Timon Heinrich\nDr. Lars Slomka\n Aufsichtsrat:",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "H&H Mandantenportal",
+ "portal_evidence": "H&H Events H&H Mandantenportal H&H Vermögenscockpit",
+ "segment_note": "Berlin-based, bank-independent wealth manager (Vermögensverwalter) with a Immobilienservice subsidiary; no property management for third parties is described on the pages reviewed.",
+ "employees_rejected": 50,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hansen-heinrich.de/",
+  "services": "https://www.hansen-heinrich.de/angebot/vermoegensverwaltung",
+  "about": "https://www.hansen-heinrich.de/unser-unternehmen",
+  "jobs": "https://www.hansen-heinrich.de/karriere-bei-uns",
+  "portal": "https://www.hansen-heinrich.de/unser-team",
+  "impressum": "https://www.hansen-heinrich.de/impressum"
+ }
+}

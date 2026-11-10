@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die MERKUR Betreuungs- und Vermittlungs GmbH ist als inhabergeführtes Maklerunternehmen seit über 25 Jahren erfolgreich auf dem Berliner Immobilienmarkt tätig und hat sich auf die Vermittlung von Mietwohnungen, Eigentumswohnungen und Einfamilienhäusern spezialisiert.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Antonia Seidel"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführende Gesellschafterin: Dipl.-Pol. Antonia Seidel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-managed Berlin brokerage (Makler) with over 25 years in business, specializing in rental, condo and single-family home brokerage; no property management offered per the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.merkur-berlin.de/",
+  "about": "https://www.merkur-berlin.de/?page_id=18",
+  "impressum": "https://www.merkur-berlin.de/?page_id=150"
+ }
+}

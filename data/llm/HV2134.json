@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr MAKLER – für den erfolgreichen Verkauf Ihrer Wohn- oder Gewerbeimmobilie oder Ihres Portfolios",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Karsten Schwenke"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nKarsten Schwenke ",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin consultant offering real estate development advice, certified property valuation, and brokerage for property sales; the site mentions no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.karsten-schwenke.de/",
+  "impressum": "https://karsten-schwenke.de/impressum"
+ }
+}

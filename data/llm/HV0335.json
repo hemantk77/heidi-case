@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 25 Jahren steht Immobilien & Hausverwaltung Ernst Konrad & Sohn OHG für zuverlässigen Service rund um Ihre Immobilie.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Immobilen & Hausverwaltungsfirma Ernst Konrad, hat ihren Ursprung in der Tradition und dem Wunsch, das im Familienbesitz befindliche Haus- und Grundeigentum zu erhalten.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ernst Konrad",
+  "Patrick Konrad"
+ ],
+ "managing_directors_evidence": "Gesellschafter: Ernst Konrad & Patrick Konrad",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property management firm (Ernst Konrad & Sohn OHG) offering Miethaus and WEG administration plus tenant rental, run by the Konrad family.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilien-konrad.com/",
+  "about": "https://www.immobilien-konrad.com/wir-ueber-uns",
+  "services": "https://www.immobilien-konrad.com/immobilien-hausverwaltung",
+  "impressum": "https://www.immobilien-konrad.com/impressum"
+ }
+}

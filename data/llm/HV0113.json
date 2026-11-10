@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die INTERRA Hausverwaltung GmbH umfasst die kaufmännische, technische und allgemeine Verwaltung von Wohn- und Geschäftsflächen in ganz Deutschland.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "P. Heidel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: P. Heidel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "INTERRA Hausverwaltung is a Berlin property manager handling commercial and residential property across Germany, including rental management, commercial management, and operating-cost billing.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.interrahv.de/",
+  "about": "https://www.interrahv.de/ueber-uns/",
+  "services": "https://www.interrahv.de/leistungen/",
+  "impressum": "https://www.interrahv.de/interra/impressum/"
+ }
+}

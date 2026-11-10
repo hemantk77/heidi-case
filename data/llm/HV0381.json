@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten das Grundeigentum gemeinnütziger Stiftungen und Verbände, größere Eigentümerwohnanlagen (WEG) und unterschiedlichste größere Mietshäuser in vielen Berliner Bezirken.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Tobias Bogdanski"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Rechtsanwalt Tobias Bogdanski",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin property manager for foundations, associations, WEG communities and rental buildings, run as a family team with a managing director who is a lawyer.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-bogdanski.de/",
+  "services": "https://www.hv-bogdanski.de/bogdanski-hausverwaltung-gmbh.html",
+  "impressum": "https://www.hv-bogdanski.de/kontakt-impressum.html"
+ }
+}

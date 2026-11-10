@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 22,
+ "employees_evidence": "Wir bei der R & W Living GmbH sind ein Team von derzeit 22 Hausverwaltungs-Spezialisten",
+ "founded_evidence": "Aus unserer langjährigen Erfahrung am Berliner Immobilienmarkt heraus haben sich im Dezember 2018 die beiden Unternehmen",
+ "founded_year": 2018,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltungsboutique mit Herz.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michael Kranz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Kranz",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property management boutique (Hausverwaltung, WEG administration, rentals) with about 4,000 units and 22 staff, founded 2018 by R&W Immobilienanlagen and HOPPE Gruppe.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": "Aktuell betreuen wir mehr als 4.000 Wohn- und Geschäftseinheiten mit rund 300.000qm Fläche",
+ "units_managed": 4000,
+ "units_managed_note": null,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rw-living.immo/",
+  "about": "https://www.rw-living.immo/unternehmen/philosophie",
+  "services": "https://www.rw-living.immo/service",
+  "jobs": "https://www.rw-living.immo/unternehmen/stellenangebote"
+ }
+}

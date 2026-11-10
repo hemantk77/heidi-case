@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "UJ Immobilienmanagement ist eine moderne Hausverwaltung in Berlin. Wir betreuen für unsere Kunden Häuser in und um Berlin ... Wir übernehmen Aufträge für WEG-, SEV- und Mietverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ullrich Janke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ullrich Janke",
+ "portal_or_app": "Portal24",
+ "portal_evidence": "Dafür nutzen wir die Software Immoware24 und das Eigentümerportal Portal24.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "segment_note": "UJ Immobilienmanagement is a Berlin property manager offering WEG, SEV and rental management, using Immoware24 software and the Portal24 owner portal.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.uj-immobilien.de/",
+  "impressum": "https://www.uj-immobilien.de/impressum-datenschutz",
+  "portal": "http://portal.uj-immobilien.de"
+ }
+}

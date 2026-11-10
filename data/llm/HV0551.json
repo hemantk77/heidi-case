@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir übernehmen die gesamte Betreuung Ihres Gebäudes, so dass Sie sich entspannt zurücklehnen können. Alle Aufgaben eines Gebäudeservices nehmen wir Ihnen gerne ab.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1953,
+ "founded_evidence": "Wir sind seit 1953 Teil der Bürgermeister-Reuter-Stiftung",
+ "managing_directors": [
+  "Anja Landvoigt"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Anja Landvoigt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based building service company (Gebäudeservice, cleaning, craftsmen, hotel operation) part of the Bürgermeister-Reuter-Stiftung; no property management offered per the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://immobilienservice-brst.de/",
+  "about": "https://immobilienservice-brst.de/unternehmen/",
+  "impressum": "https://immobilienservice-brst.de/impressum/"
+ }
+}

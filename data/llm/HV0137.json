@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Francke´sche Grundstücksverwaltung verwaltet seit 1920 Immobilien in Berlin.",
+ "founded_year": 1920,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Im Rahmen unserer Hausverwaltung betreuen wir vollumfänglich sämtliche damit verbundenen Dienstleistungen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Christina von Schintling-Horny",
+  "Lorenz von Schintling-Horny"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Christina von Schintling-Horny cvsh@fgv-berlin.de Lorenz von Schintling-Horny lvsh@fgv-berlin.de",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin family-run property manager (since 1920) with Hausverwaltung full-service and individual services, also advising owners and developing properties; no units or portal stated.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.fgv-berlin.de/",
+  "impressum": "https://fgv-berlin.de/impressum.html"
+ }
+}

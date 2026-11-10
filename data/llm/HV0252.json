@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ich unterstütze Sie bei der befristeten Vermietung und Verwaltung Ihrer Immobilie",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Stefanie Gurow"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Stefanie Gurow",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "VICA offers temporary letting and management of homes for expats and people away from Berlin, plus rental consulting; it is a small, owner-led service in Berlin and surroundings.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://vica.berlin/",
+  "impressum": "https://vica.berlin/impressum/"
+ }
+}

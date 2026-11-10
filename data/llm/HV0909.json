@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "BNP Paribas Real Estate ist einer der führenden deutschen und internationalen Immobilienberater, der seinen Kunden umfassende Leistungen in den Segmenten Büro, Industrie, Logistik, Einzelhandel, Hotels, Grundstücke und Wohnimmobilien bietet.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marcus Zorn",
+  "Nico Keller",
+  "Philipp Benseler",
+  "Eva Desens"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marcus Zorn (Vorsitzender) Nico Keller (stv. Vorsitzender) Philipp Benseler Eva Desens",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BNP Paribas Real Estate is a commercial real estate advisor focused on office, industrial, logistics and retail brokerage, with no property management offering shown on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bnppre.de/",
+  "impressum": "https://www.bnppre.de/mandatory/impressum/"
+ }
+}

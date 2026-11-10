@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "GaLa Immobilien steht für professionelle Immobilienvermittlung mit Bodenhaftung.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gabriele Langner"
+ ],
+ "managing_directors_evidence": "Inhaber: Gabriele Langner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GaLa Immobilien (Gabriele Langner, Berlin) is a property brokerage focused on buying and selling; the site mentions no property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://galaimmobilien.de/",
+  "impressum": "https://www.galaimmobilien.de/about/",
+  "services": "https://www.galaimmobilien.de/j/legal-guarantee"
+ }
+}

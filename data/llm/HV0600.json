@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung: Wir steuern kaufmännische, technische und organisatorische Aufgaben so, dass Eigentümer den Überblick behalten und Immobilien zuverlässig bewirtschaftet werden.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 165,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2007,
+ "founded_evidence": "Immobilienmanagement seit 2007",
+ "managing_directors": [
+  "Andreas Fette"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Fette",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Heizkostenabrechnung",
+ "portal_or_app": null,
+ "units_evidence": "Umfang165 Einheiten",
+ "segment_note": "Berlin and Schwerin property manager (since 2007, owner-led) offering commercial and technical administration, rentals, and facility management for residential and commercial properties; the site names 165 units for one listed property, with no portfolio total stated.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.conwimo.de/",
+  "services": "http://www.conwimo.de/verwaltung.html",
+  "about": "http://www.conwimo.de/team.html",
+  "impressum": "http://www.conwimo.de/impressum.html"
+ }
+}

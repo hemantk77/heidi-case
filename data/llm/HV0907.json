@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr zuverlässiger Partner für Miet- und Wohnungseigentumsverwaltung in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 3000,
+ "units_evidence": "Unser aktueller Verwaltungsbestand umfasst zurzeit knapp 3.000 Wohn- und Gewerbeeinheiten in gut 65 verschiedenen Objekten",
+ "buildings_managed": 65,
+ "buildings_evidence": "Unser aktueller Verwaltungsbestand umfasst zurzeit knapp 3.000 Wohn- und Gewerbeeinheiten in gut 65 verschiedenen Objekten",
+ "employees": 12,
+ "employees_evidence": "Mit unseren momentan 12 Köpfen sind wir nicht ganz klein und nicht ganz groß",
+ "founded_year": 1986,
+ "founded_evidence": "Gegründet 1986",
+ "managing_directors": [
+  "Rainer Baer",
+  "Daniela Baer"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Rainer Baer und Daniela Baer (jeweils alleinvertretungsberechtigt)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "WEG-Portal",
+ "portal_evidence": "WEG-Portal",
+ "segment_note": "Berlin property manager since 1986 handling rental and WEG administration (about 3,000 units in 65 properties) with 12 staff, owner-managed.",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.renova-kg.de/",
+  "about": "https://www.renova-kg.de/de/ueber-uns",
+  "services": "https://www.renova-kg.de/de/unsere-leistungen",
+  "portal": "https://www.renova-kg.de/de/wedokumente",
+  "jobs": "https://www.renova-kg.de/de/stellenangebote",
+  "impressum": "https://www.renova-kg.de/impressum"
+ }
+}

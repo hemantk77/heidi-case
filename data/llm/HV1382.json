@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Unternehmen ist tätig als Dienstleister rund um Haus und Garten, vor allem in Berlin.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ahmed Al Khatab"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ahmed Al Khatab,",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "H&A Hausservice GmbH is a Berlin service provider for house and garden work, offering caretaker, renovation and cleaning services rather than property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ha-hausservice.de/",
+  "services": "https://www.ha-hausservice.de/portfolio",
+  "impressum": "https://www.ha-hausservice.de/impressum"
+ }
+}

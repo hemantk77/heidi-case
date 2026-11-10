@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind Ihre kompetente Adresse für professionelle Hausverwaltungsdienstleistungen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Tarkan Özcoban",
+  "Eren Berke Kirac"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Herr Tarkan Özcoban Herr Eren Berke Kirac",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "Alle Belege, Abrechnungen und Beschlüsse sind jederzeit im digitalen Eigentümerportal einsehbar.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "segment_note": "Berlin property manager offering WEG, rental and special-property administration with an owner portal powered by Casavi.",
+ "units_evidence": "200+ verwaltete Einheiten",
+ "units_managed": 200,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hirtenberg-immobilien.de/",
+  "services": "https://hirtenberg-immobilien.de/weg-verwaltung",
+  "about": "https://hirtenberg-immobilien.de/ueber-uns/",
+  "portal": "https://portal.hirtenberg-immobilien.de",
+  "impressum": "https://hirtenberg-immobilien.de/impressum/"
+ }
+}

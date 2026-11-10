@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Moderne Hausverwaltung in Berlin. Transparent, digital und konsequent serviceorientiert.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Susanne Eberle"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Susanne Eberle",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Miet-Verwaltung: Rundum-Betreuung von Mietobjekten – inkl. Mieteingänge, Nebenkostenabrechnung und Mieterkommunikation.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Prenzlauer Berg) offering WEG, rental and SEV management with a digital ticket system; no unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.cosmoliving.de/",
+  "services": "https://cosmoliving.de/angebot.html",
+  "impressum": "https://cosmoliving.de/impressum.html"
+ }
+}

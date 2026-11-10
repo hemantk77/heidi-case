@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "In den rund 35.000 Mietwohnungen leben ca. 85.000 Berliner*innen aus über 100 Nationen.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Lars Dormeyer",
+  "Steffen Helbig"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Lars Dormeyer Steffen Helbig",
+ "portal_or_app": "Meine WBM",
+ "portal_evidence": "Kundenportal Meine WBM",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "WBM is a Berlin municipal housing company that owns and manages about 35,000 apartments and roughly 314,000 m² of commercial space, with a customer portal \"Meine WBM\".",
+ "units_evidence": "In den rund 35.000 Mietwohnungen leben ca. 85.000 Berliner*innen aus über 100 Nationen.",
+ "units_managed": 35000,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wbm.de/",
+  "services": "https://www.wbm.de/mieterservice/",
+  "about": "https://www.wbm.de/unternehmen/",
+  "jobs": "https://www.wbm.de/karriere/",
+  "impressum": "https://www.wbm.de/impressum/"
+ }
+}

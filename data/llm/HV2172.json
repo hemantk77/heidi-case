@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten ein Team mit jahrelanger Erfahrung in der Pflege und Werterhaltung Ihrer Immobilie mit Leistungen rund um Ihre Immobilie sowie in der Hausverwaltung (WEG- und Mietverwaltung).",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Cornelia Schumacher",
+  "Andreas Erbe"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Cornelia Schumacher Andreas Erbe",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin facility and property manager offering WEG and rental management plus cleaning, winter service and Nebenkostenabrechnungen, with no portal or unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.activ-clean-service.de/",
+  "impressum": "http://www.activ-clean-service.de/impressum/",
+  "services": "http://www.activ-clean-service.de/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnungseigentums- und Miethausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": 4948,
+ "buildings_managed": null,
+ "employees": 22,
+ "founded_year": 2006,
+ "founded_evidence": "Property Management & Sales since 2006",
+ "managing_directors": [
+  "Dipl.-Ing. Andreas Cico-Wojahn",
+  "Tim Dexheimer"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer Dipl.-Ing. Andreas Cico-Wojahn Kfm. der Grundstücks- und Wohnungswirtschaft (IHK) Tim Dexheimer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Hohe Spezialisierung durch abteilungsübergreifende Fachstelle für Buchhaltung und Abrechnungserstellung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": "4948 Verwaltete Einheiten",
+ "employees_evidence": "22 Mitarbeiter",
+ "segment_note": "Berlin property manager (WEG and rental management, plus sales and rentals) with about 4,948 managed units and 22 staff, founded 2006.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://brhberlin.de/",
+  "services": "https://brhberlin.de/verwaltung/",
+  "impressum": "https://brhberlin.de/impressum/"
+ }
+}

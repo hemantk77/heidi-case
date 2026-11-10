@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Mietshäusern",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Guido Arnold"
+ ],
+ "managing_directors_evidence": "Guido Arnold ( Geschäftsführender Gesellschafter)",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Heizkostenabrechnungen",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "segment_note": "habitar Hausverwaltungs GmbH is a Berlin property manager offering rental and WEG administration, technical management, and heating/operating cost billing, with a digital owner/tenant portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://habitar.de/",
+  "impressum": "https://habitar.de/impressum",
+  "services": "https://habitar.de/leistungskatalog",
+  "portal": "https://tickets.habitar.de/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Bestandsverwalterin Frau Brockmann unter 030 / 41 40 14 – 15",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Frank-Peter Pollenske",
+  "Sebastian Griese"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Frank-Peter Pollenske Sebastian Griese",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "GEWIWO is a Berlin housing cooperative (Wohnungsbaugenossenschaft eG) that rents apartments to members and runs member amenities such as saunas and laundry houses.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gewiwo.de/",
+  "impressum": "https://www.gewiwo.de/impressum/",
+  "services": "https://www.gewiwo.de/service/",
+  "jobs": "https://www.gewiwo.de/stellenangebote/"
+ }
+}

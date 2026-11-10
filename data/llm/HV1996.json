@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Individuelle Nachhilfe für Verwaltungslehrgänge, Ausbildung und Studium",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marit Raschke"
+ ],
+ "managing_directors_evidence": "Marit Raschke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Versteh-Verwaltung is a private tutoring business preparing people for public-sector administration training and exams; it does not offer property management.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.versteh-verwaltung.de/",
+  "impressum": "https://www.versteh-verwaltung.de/impressum"
+ }
+}

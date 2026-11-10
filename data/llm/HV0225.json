@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "In Berlin und Umgebung sind wir Ihr Partner, wenn es um die Vermietung und Verwaltung von Immobilien geht.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Kompetenz seit rund 40 Jahren ... Seit den 70er Jahren des letzten Jahrhunderts ist die BIMA GmbH auf dem Berlin Immobilienmarkt tätig.",
+ "managing_directors": [
+  "Gerald Bialek"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Herrn Gerald Bialek",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BIMA is a Berlin company active since the 1970s in renting out and managing properties, also offering facility management, with no stated unit counts or portal.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bima-gmbh.de/",
+  "services": "http://www.bima-gmbh.de/index.php",
+  "impressum": "http://www.bima-gmbh.de/impress.php"
+ }
+}

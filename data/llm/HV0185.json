@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere deutschlandweit tätige Hausverwaltungsgesellschaft befasst sich seit 1999 erfolgreich mit dieser komplexen Aufgabe.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 1100,
+ "units_evidence": "Unser Verwaltungsbestand besteht zur Zeit aus circa 1.100 Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "Seit Gründung im Jahr 1999 beschäftigen wir uns  mit der Verwaltung von eigenem und fremdem Grundbesitz aller Art.",
+ "managing_directors": [
+  "Ralf Liebke"
+ ],
+ "managing_directors_evidence": "Herr Ralf Liebke (Geschäftsführer)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GOGEMA is a Berlin property manager founded in 1999, managing about 1,100 residential units for WEG, rental and special-property owners.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gogema.de/",
+  "impressum": "https://gogema.de/impressum"
+ }
+}

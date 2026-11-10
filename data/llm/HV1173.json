@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr immobilienmakler rund um Berlin, brandenburg und Mecklenburg-Vorpommern",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Thomas Ziegan"
+ ],
+ "managing_directors_evidence": "GF: Thomas Ziegan",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Completa Immobilien is a real-estate brokerage (sales, rentals, valuations, financing) for Berlin, Brandenburg and Mecklenburg-Vorpommern; the website shows no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.completa-immobilien.de/",
+  "about": "https://completa-immobilien.de/index.php/unternehmen/unsere-prinzipien/",
+  "services": "https://completa-immobilien.de/index.php/immobilien/",
+  "jobs": "https://completa-immobilien.de/index.php/kontakt/bewerbung/offene-stellen/",
+  "impressum": "https://completa-immobilien.de/index.php/rechtliches/impressum/"
+ }
+}

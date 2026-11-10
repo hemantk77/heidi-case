@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung: Kompetente Verwaltung von Wohnungseigentümergemeinschaften gemäß WEMoG",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Tobias Gallitzky"
+ ],
+ "managing_directors_evidence": "Vertreten durch:  Tobias Gallitzky",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "LuTh Immobilien GmbH is a Berlin firm offering WEG administration, special-property management, rental/commercial property management, and brokerage.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.luth-immobilien.de/",
+  "services": "https://www.luth-immobilien.de/unsere-leistungen/",
+  "impressum": "https://www.luth-immobilien.de/impressum/"
+ }
+}

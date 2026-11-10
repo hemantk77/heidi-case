@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-VERWALTUNG Wir bieten professionelle Verwaltungsdienstleistungen für Wohnungseigentumsgemeinschaften",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Utz Mulka"
+ ],
+ "managing_directors_evidence": "Geschäftsführer   Utz Mulka",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Gemeinsame Plattform (digitales Kundenportal, Partner Domus)",
+ "portal_evidence": "ein digitales Kundenportal, in dem alle wichtigen Unterlagen des Objektes und auch die individuellen Abrechnungen Datenschutz konform zur Verfügung gestellt werden",
+ "segment_note": "Berlin property manager (WEG, rental, commercial, special property) that also brokers and offers caretaking, with a digital owner/tenant portal via Domus.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.igwt-hv.de/",
+  "services": "https://igwt-hv.de/leistungen/",
+  "about": "https://igwt-hv.de/team/",
+  "impressum": "https://igwt-hv.de/impressum/"
+ }
+}

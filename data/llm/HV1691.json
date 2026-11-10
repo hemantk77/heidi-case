@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung  WEG- und SE Verwaltungen",
+ "main_business": "investment_or_development",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Holger Steinick",
+  "René Strehlau"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Holger Steinick, René Strehlau",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based UG offering property sales brokerage, real estate investment products, and WEG and Sondereigentum administration, plus financing and developer services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilienwerte24.de/",
+  "services": "https://immobilienwerte24.de/service/",
+  "impressum": "https://immobilienwerte24.de/impressum/"
+ }
+}

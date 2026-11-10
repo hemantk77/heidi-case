@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind ein aktives Berliner Immobilienunternehmen im In- und Ausland mit jahrelangem Rückblick und Erfahrung von \"Kaufen und Verkaufen, Projektieren, Vermitteln, Unternehmensberatung\" von Objekten und Liegenschaften aller Art.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "since 1990",
+ "managing_directors": [
+  "Aleksander Vukas"
+ ],
+ "managing_directors_evidence": "Aleksander Vukas",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AV Immobilien Berlin is a Berlin company focused on buying, selling, projecting and brokering properties (plus virtual tours and consulting), with no property management offering shown on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.av-immobilien-berlin.de/",
+  "about": "https://portal.av-immobilien-berlin.de/index.php/de/176/das_unternehmen",
+  "services": "https://portal.av-immobilien-berlin.de/index.php/de/174/service",
+  "impressum": "https://portal.av-immobilien-berlin.de/index.php/de/177/impressum"
+ }
+}

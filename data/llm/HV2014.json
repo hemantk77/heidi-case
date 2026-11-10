@@ -1,0 +1,32 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "seit 1990 in der Immobilienbranche tätig und Gründer von M. Wolf Immobilien in Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ich bin Manfred Wolf, seit 1990 in der Immobilienbranche tätig und Gründer von M. Wolf Immobilien in Berlin. ... Nach einigen Jahren erhielt ich den Auftrag eines rheinländischen Immobilienvertriebs, in Berlin eine Repräsentanz aufzubauen.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Manfred Wolf"
+ ],
+ "managing_directors_evidence": "Name des Inhabers Manfred Wolf",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler"
+ ],
+ "segment_note": "M. Wolf Immobilien is a Berlin brokerage run by owner Manfred Wolf (in real estate since 1990), listing properties for sale, with no property management services shown on the site.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://mwolfimmobilien.de/",
+  "impressum": "https://www.mwolfimmobilien.de/impressum"
+ }
+}

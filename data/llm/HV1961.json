@@ -1,0 +1,30 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als rechtlicher Betreuer vertrete ich die Betreuten gerichtlich und außergerichtlich.",
+ "main_business": "other",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Berlin office offering legal guardianship (rechtlicher Betreuer) for individuals, covering finances, authority correspondence and housing matters; not a property manager.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://stark-betreuung.de/",
+  "services": "http://stark-betreuung.de/Betreuung_Kosten.html"
+ }
+}

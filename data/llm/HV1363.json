@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Acquisition, management, brokerage and sale of real estate",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Guy Ben Edelsburg"
+ ],
+ "managing_directors_evidence": "Managing Director: Guy Ben Edelsburg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "EDEL Real Estate is a Berlin and Leipzig full-service agency doing brokerage, sales, asset management and management/leasing of furnished apartments and office space.",
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.edel-re.com/",
+  "about": "https://www.edel-re.com/about-edel",
+  "jobs": "https://www.edel-re.com/about-edel/career",
+  "impressum": "https://www.edel-re.com/imprint"
+ }
+}

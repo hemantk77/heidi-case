@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Das Objekt: Büroflächen Berlin Siemensstadt; Die Unternehmen schätzen insbesondere die flexiblen Büroflächen mit Loftcharakter und das umfangreiche Serviceangebot",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Moshe Maimon Cohen"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer: Moshe Maimon Cohen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Operator of the Werkhaus Siemensdamm office tower in Berlin-Siemensstadt, offering flexible commercial office space rather than third-party property management.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://werkhaus-siemensdamm.de/",
+  "impressum": "https://werkhaus-siemensdamm.de/werkhaus-siemensdamm.de/impressum"
+ }
+}

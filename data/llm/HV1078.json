@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Das Immobilienkontor Priemer ist eine inhabergeführte Hausverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2008,
+ "founded_evidence": "Seit 2008 führt Sabine Priemer das Immobilienkontor mit Charme und Sachverstand.",
+ "managing_directors": [
+  "Sabine Priemer"
+ ],
+ "managing_directors_evidence": "Geschäftsleitung: Sabine Priemer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung der Betriebskosten und Heizkosten",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-managed Berlin property manager (WEG, rental and special-property administration) founded 2008, also offering heating and operating cost billing; no portal or unit count stated.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immobilienkontor.berlin/",
+  "about": "https://www.immobilienkontor.berlin/de/ueber-uns",
+  "services": "https://www.immobilienkontor.berlin/de/miethaus-verwaltung",
+  "impressum": "https://www.immobilienkontor.berlin/de/impressum"
+ }
+}

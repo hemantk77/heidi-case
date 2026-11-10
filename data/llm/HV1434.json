@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Synergie Inkasso GmbH | Professioneller Forderungseinzug",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Ute Sheriff"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Ute Sheriff",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Synergie Inkasso GmbH is a Berlin debt collection agency (Forderungseinzug), not a property manager, so it is not a fit for property-management software.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.synergie-inkasso.de/",
+  "jobs": "https://synergie-inkasso.de/karriere/",
+  "impressum": "https://synergie-inkasso.de/impressum/"
+ }
+}

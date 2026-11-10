@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Handschuck Hausverwaltung - Handschuck Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Oliver Handschuck"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Oliver Handschuck",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Die Hausgeldabrechnung führen wir bis spätestens sechs Monate nach Ablauf des Wirtschaftsjahres durch.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Handschuck Hausverwaltung, brand of Belus Property GmbH) focused on WEG administration, with managing director Oliver Handschuck.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://handschuck.com/",
+  "impressum": "https://handschuck.com/impressum/"
+ }
+}

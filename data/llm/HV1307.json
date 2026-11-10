@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Vincent Mochow"
+ ],
+ "managing_directors_evidence": "Vertreten durch: den Geschäftsführer Vincent Mochow",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin/Brandenburg real-estate brokerage (sales and rentals of properties); the site shows no property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mochow-immobilien.de/",
+  "services": "https://mochow-immobilien.de/immobilienangebote",
+  "about": "https://mochow-immobilien.de/unternehmen",
+  "jobs": "https://mochow-immobilien.de/karriere",
+  "impressum": "https://mochow-immobilien.de/impressum"
+ }
+}

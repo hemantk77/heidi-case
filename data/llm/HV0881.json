@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind Experten in den Bereichen WEG-Verwaltung, Miethausverwaltung und Sondereigentumsverwaltung – von der Verwaltung bis zur Restaurierung bieten wir ein breites Portfolio.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Wolfgang Wehrheim"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtiger Geschäftsführer: Wolfgang Wehrheim",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Berlussimo",
+ "portal_evidence": "Durch unsere firmeneigene Software Berlussimo haben Sie jederzeit und just in time Ihr Zahlenwerk unter Kontrolle.",
+ "segment_note": "Berlin property manager (WEG, residential rental and special-property administration) that uses its own software Berlussimo and focuses on value optimization for owners.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung.de/",
+  "impressum": "http://www.hausverwaltung.de/impressum.html"
+ }
+}

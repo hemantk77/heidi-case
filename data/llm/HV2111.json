@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Was wir nicht sind: die Hausverwaltung",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "Der Mieterbeirat Berlin-Spittelmarkt (MBR) ist seit 2011 die gewählte ehrenamtliche Vertretung der Mieter",
+ "managing_directors": [
+  "Walter Neumann"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt: Botschafter a. D. Walter Neumann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "This is a volunteer tenant representation body (Mieterbeirat) for buildings managed by WBM, not a property manager; it explicitly states it is not the Hausverwaltung.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://mieterbeirat-berlin-spittelmarkt.de/",
+  "portal": "https://mieterbeirat-berlin-spittelmarkt.de/login/",
+  "about": "https://mieterbeirat-berlin-spittelmarkt.de/ueber-uns/",
+  "impressum": "https://mieterbeirat-berlin-spittelmarkt.de/impressum-1/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung & WEG-Verwaltung Mit der CIB Immobilien & Assetmanagement GmbH haben Sie einen kompetenten und zuverlässigen Partner an Ihrer Seite ... Wir bieten eine kaufmännische und technische Verwaltung Ihrer Immobilie an.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Nadeem Saleem"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Nadeem Saleem",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "CIB Immobilien & Assetmanagement is a family-run Berlin firm offering commercial and technical property management (Hausverwaltung, WEG-Verwaltung) plus asset management and brokerage; no unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.cib-immobilien.de/",
+  "services": "https://www.cib-immobilien.de/leistungen",
+  "impressum": "https://www.cib-immobilien.de/impressum",
+  "jobs": "https://www.cib-immobilien.de/jobs"
+ }
+}

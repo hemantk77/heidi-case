@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 10,
+ "employees_evidence": "unser 10-köpfiges Team um Liegenschaften wie",
+ "founded_evidence": "Seit 1952 im Dienste der Kunden",
+ "founded_year": 1952,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Tätigkeitsfeld umfasst die klassische Haus- und Grundbesitzverwaltung und die Maklertätigkeit mit der Vermittlung ausgewählter Objekte.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Eberhard Rick",
+  "Gabriele Rick",
+  "Thomas Schlaak"
+ ],
+ "managing_directors_evidence": "Geschäftsführende Gesellschafter: Eberhard Rick, Gabriele Rick und Thomas Schlaak",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "segment_note": "Family-run Berlin property manager since 1952 (Hausverwaltung for rental houses, WEGs and commercial units) that also does brokerage, with a 10-person team.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.walter-loll.de/",
+  "about": "https://www.walter-loll.de/ueber-uns/",
+  "services": "https://www.walter-loll.de/hausverwaltung-berlin/",
+  "impressum": "https://www.walter-loll.de/impressum/"
+ }
+}

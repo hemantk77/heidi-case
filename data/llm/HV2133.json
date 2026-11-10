@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Home World Alanya wurde 2004 in Yeşilköy, Istanbul, gegründet und hat sich mit langjähriger Erfahrung, höchster Expertise und einem anspruchsvollen Serviceansatz als führendes Unternehmen im Immobilien- und Bausektor etabliert.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2004,
+ "founded_evidence": "Home World Alanya wurde 2004 in Yeşilköy, Istanbul, gegründet",
+ "managing_directors": [
+  "Birol Dikmen"
+ ],
+ "managing_directors_evidence": "Unser Gründer und Geschäftsführer Birol Dikmen wurde in Deutschland geboren und ist dort aufgewachsen.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Home World Alanya is a real-estate sales and investment company focused on properties in Alanya, Turkey, with a small Berlin office; it does not offer property management for third parties in the text.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.homeworldalanya.com/",
+  "about": "https://homeworldalanya.com/about/",
+  "services": "https://homeworldalanya.com/dienstleistungen/",
+  "impressum": "https://homeworldalanya.com/impressum/"
+ }
+}

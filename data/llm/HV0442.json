@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die Verwaltung von Wohnungseigentümergemeinschaften werden darüber hin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": 950,
+ "units_evidence": "Wir verwalten und betreuen derzeit 950 Wohn- und Gewerbeeinheiten, verteilt auf 60 Objekte, darunter 30 Eigentümergemeinschaften.",
+ "buildings_managed": 60,
+ "buildings_evidence": "Wir verwalten und betreuen derzeit 950 Wohn- und Gewerbeeinheiten, verteilt auf 60 Objekte, darunter 30 Eigentümergemeinschaften.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1992,
+ "founded_evidence": "Die WEV GmbH ist seit 1993 in Berlin tätig, die Gesellschaft wurde 1992 in Hamburg gegründet.",
+ "managing_directors": [
+  "Dr. Michael Voß"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dr. Michael Voß, Geschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Pankow property manager for 950 residential and commercial units in 60 properties (30 WEGs), also active in brokerage/sales and construction management.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://wevg.de/",
+  "services": "https://wevg.de/service/",
+  "portal": "https://wevg.de/wp-login.php",
+  "about": "https://wevg.de/unternehmen/die-wev-gmbh/",
+  "impressum": "https://wevg.de/impressum/"
+ }
+}

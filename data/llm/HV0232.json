@@ -1,0 +1,37 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "Hausverwaltung in Berlin seit 1999",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Ihr Wohnhaus oder Ihre Wohnanlage mit Sorgfalt und sichern langfristig ihren Wert.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Pedro Elsbach",
+  "Ingo Schröder"
+ ],
+ "managing_directors_evidence": "Gesetzlicher Vertreter: Pedro Elsbach, Ingo Schröder",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager (Hausverwaltung) since 1999 for residential buildings, serving owners who value fair and ethical standards; also does rentals and viewings.",
+ "units_managed": 1000,
+ "units_evidence": "rund 1.000 Zuhause, die wir betreuen",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.elsbachimmo.de/",
+  "services": "https://www.elsbachimmo.de/hausverwaltung/",
+  "about": "https://www.elsbachimmo.de/team/",
+  "impressum": "https://www.elsbachimmo.de/impressum/"
+ }
+}

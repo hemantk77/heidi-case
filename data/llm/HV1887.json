@@ -1,0 +1,21 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "KISEKI Immobilien GmbH is a Berlin firm whose homepage title names brokerage (Immobilienmakler), valuation and Hausverwaltung, but the page text provided gives no further detail.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kiseki-immobilien.de/"
+ }
+}

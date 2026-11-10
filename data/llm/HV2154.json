@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Hardi Gehrmann",
+  "Theresa Gehrmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Hardi Gehrmann, Theresa Gehrmann",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "HTG Consulting GmbH is a Berlin company whose website shows only contact and legal details, with no description of its business activities.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://htgconsulting.wixsite.com/website"
+ }
+}

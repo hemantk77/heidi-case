@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Von Albert Real Estate übt die erlaubnispflichtige Tätigkeit eines Immobilienmaklers aus und verfügt über eine Erlaubnis gemäß § 34c der Gewerbeordnung (GewO).",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2004,
+ "founded_evidence": "Gegr. 2004",
+ "managing_directors": [
+  "Alexander von Albert"
+ ],
+ "managing_directors_evidence": "Inhaber: Alexander von Albert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin luxury real estate brokerage (sales, rentals, investment advice) with a relocation service; the site does not mention any property management for third parties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.von-albert.com/",
+  "about": "https://www.von-albert.com/de/company",
+  "portal": "https://www.von-albert.com/de/market-updates/off-market-transactions-berlin-prime",
+  "services": "https://www.von-albert.com/de/relocation-service",
+  "impressum": "https://www.von-albert.com/de/imprint"
+ }
+}

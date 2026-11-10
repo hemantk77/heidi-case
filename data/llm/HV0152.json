@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Meudtner Haus- und Grundstücksverwaltungs GmbH ist im Jahr 2007 gegründet worden und verwaltet seit über 10 Jahren Miethäuer, Geschäftshäuser, Wohnungseigentümergemeinschaften (WEG-Verwaltung) und Sondereigentum.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2007,
+ "founded_evidence": "im Jahr 2007 gegründet worden",
+ "managing_directors": [
+  "Kai-Henning Meudtner",
+  "Fabian Meudtner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Kai-Henning Meudtner Fabian Meudtner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-managed Berlin property manager (founded 2007) handling rental houses, commercial buildings, WEG and Sondereigentum, also doing its own rental lettings via ImmobilienScout24.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.meudtner-hausverwaltung.de/",
+  "services": "https://meudtner-hausverwaltung.de/leistungen/",
+  "about": "https://meudtner-hausverwaltung.de/unternehmen/",
+  "impressum": "https://meudtner-hausverwaltung.de/impressum/"
+ }
+}

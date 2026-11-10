@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": "Seit 2023 ist der Verwaltungsbestand auf über 80 Objekte mit rund 1.500 Einheiten gewachsen.",
+ "buildings_managed": 80,
+ "employees": 15,
+ "employees_evidence": "Unser Team besteht mittlerweile aus 15 Mitarbeitern, einer auszubildenden Immobilienkauffrau sowie einem ausgewählten Stamm von freien Mitarbeitern- / Sonderfachleuten.",
+ "founded_evidence": "Ursprünglich als Salaground Hausverwaltung GmbH Mitte 2008 gegründet",
+ "founded_year": 2008,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung (Mietverwaltung)",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sabine Hartwig",
+  "Maikel Köhler"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Ing. (FH) Sabine Hartwig und Maikel Köhler",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SHK Hausverwaltung is a Berlin property manager (rental and WEG administration, plus a brokerage arm) with about 80 managed properties and roughly 1,500 units, 15 staff.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": "Seit 2023 ist der Verwaltungsbestand auf über 80 Objekte mit rund 1.500 Einheiten gewachsen.",
+ "units_managed": 1500,
+ "units_managed_evidence": null,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.shk-immobilien.de/",
+  "impressum": "https://www.shk-immobilien.de/impressum.php",
+  "about": "https://www.shk-immobilien.de/unternehmen.php",
+  "services": "https://www.shk-immobilien.de/leistungen.php"
+ }
+}

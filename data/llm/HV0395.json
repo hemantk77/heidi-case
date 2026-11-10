@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Evita International Hausverwaltung GmbH wurde im Jahr 2012 auf Wunsch eines langjährigen Geschäftspartners ins Leben gerufen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2012,
+ "founded_evidence": "Unsere Evita International Hausverwaltung GmbH wurde im Jahr 2012 auf Wunsch eines langjährigen Geschäftspartners ins Leben gerufen.",
+ "managing_directors": [
+  "E.-Olaf Peters"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: E.-Olaf Peters",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung und Heizkostenabrechnung.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "EVITA International is a Berlin-Pankow property manager founded in 2012, offering rental and residential management including utility and heating cost billing, with no units or portal stated.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.evita-hv.de/",
+  "impressum": "https://www.evita-hv.de/impressum.html"
+ }
+}

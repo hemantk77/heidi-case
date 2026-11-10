@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1997,
+ "founded_evidence": "Familienunternehmen mit Leidenschaft seit 1997",
+ "managing_directors": [
+  "M. Probstel"
+ ],
+ "managing_directors_evidence": "Verantwortlicher im Sinne des Presse-Rechts:  M. Probstel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AKM Berlin Immobilien GmbH is a family-run Berlin-Adlershof firm offering rental brokerage, craftsman/caretaking services and insurance brokerage for property owners, with no stated property management portfolio size.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.akmimmo.de/",
+  "services": "https://www.akmimmo.de/angebot",
+  "jobs": "https://www.akmimmo.de/jobs",
+  "about": "https://www.akmimmo.de/ueber-uns",
+  "impressum": "https://www.akmimmo.de/impressum"
+ }
+}

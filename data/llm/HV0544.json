@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Verwaltung seit 1992 in Berlin",
+ "founded_year": 1992,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "C.Rothe Hausverwaltungs-GmbH verwaltet eine Vielzahl von Objekten unterschiedlichster Art und Größe. Ob in der WEG-Verwaltung, der Miet- oder der Gewerbeverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl. Kfm. Christian Rothe"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl. Kfm. Christian Rothe",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager since 1992 offering WEG, residential rental and commercial property management; no portal or unit count stated.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://crothe.com/",
+  "about": "https://www.crothe.com/das-unternehmen/",
+  "services": "https://www.crothe.com/leistungen/",
+  "impressum": "https://www.crothe.com/impressum/"
+ }
+}

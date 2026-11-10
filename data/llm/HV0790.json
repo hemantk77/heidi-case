@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "WEG-Verwaltung: \"Effiziente Verwaltung Ihrer Wohnungseigentümergemeinschaft für Werterhalt und optimale Nutzung.\" ... Mietverwaltung: \"Zuverlässige Mietverwaltung inklusive Vertragsmanagement und Mieterkommunikation.\"",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Julia Wolter"
+ ],
+ "managing_directors_evidence": "Seitenbetreiber: Julia Wolter Zira Immobilienverwaltung (Einzelunternehmen)",
+ "portal_evidence": "Kundenportal",
+ "portal_or_app": "Kundenportal (Portal24 / portal.zira-immobilien.de)",
+ "segment_note": "Berlin-based sole proprietor (Julia Wolter) offering WEG/GdWE administration, rental management and property sales, with a digital customer portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zira-immobilien.de/",
+  "about": "https://zira-immobilien.de/uber-uns",
+  "services": "https://zira-immobilien.de/weg-verwaltung-or-gdwe-verwaltung",
+  "portal": "https://portal.zira-immobilien.de/user/auth/login",
+  "impressum": "https://zira-immobilien.de/impressum"
+ }
+}

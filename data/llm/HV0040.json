@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung in Berlin und Cottbus",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": 7000,
+ "units_evidence": "Mit über 7.000 betreuten Einheiten in Berlin und Cottbus",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 32,
+ "employees_evidence": "32\nMitarbeiter",
+ "founded_year": 1996,
+ "founded_evidence": "Gegründet 1996 in Cottbus, heute mit Hauptsitz in Berlin-Friedrichshain.",
+ "managing_directors": [
+  "Michael Domnig"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nMichael Domnig",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Digitale Hausverwaltung\nUnsere digitale Plattform zur Verwaltung Ihrer Immobilie.",
+ "segment_note": "Berlin and Cottbus property manager (WEG, rental and commercial management, plus brokerage) with about 7,000 units, 32 staff, and a digital platform.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.abakus-immobilien.de/",
+  "services": "https://www.abakus-immobilien.de/leistungen/",
+  "about": "https://www.abakus-immobilien.de/ueber-uns/",
+  "jobs": "https://www.abakus-immobilien.de/job-als-hausverwalter/",
+  "impressum": "https://www.abakus-immobilien.de/impressum/"
+ }
+}

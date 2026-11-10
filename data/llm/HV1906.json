@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Ihr Finanzmakler in Berlin - Immobilienmakler (§ 34c GeWO) ... Versicherungsmakler (§34 d GeWO) ... Finanzanlagenvermittler (§34 f Absatz 1-3 GeWO) und Immobiliendarlehensvermittler (§34 i GeWO)",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "Anfang 2000 die bikap GmbH als unabhängigen Finanz- und Versicherungsmakler gegründet",
+ "managing_directors": [
+  "Torsten Franke"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Torsten Franke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "bikap is a Berlin financial and insurance broker (Immobilienmakler, Versicherungs-, Finanzanlagen- and Immobiliendarlehensvermittler) with no property management services mentioned on the website.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bikap.de/",
+  "about": "https://www.bikap.de/ueber_uns.html",
+  "services": "https://www.bikap.de/service.html",
+  "portal": "https://www.bikap.de/schaden_melden.html",
+  "impressum": "https://www.bikap.de/impressum-325070.html"
+ }
+}

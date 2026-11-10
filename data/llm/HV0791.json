@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskosten- und Heizkostenabrechnung",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "CustoDomus verwaltet Wohnungseigentümergemeinschaften, Mietshäuser komplexe Gewerbeimmobilien, Sondereigentum und Spezialimmobilien",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michael Räder"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Räder",
+ "portal_evidence": "Ihre Mieter melden Anliegen und Schäden rund um die Uhr über unser Kundenportal oder die App.",
+ "portal_or_app": "Kundenportal / App (Mieter-Portal)",
+ "segment_note": "Berlin property manager offering WEG, rental, commercial and special-property management, with a tenant portal/app and heating-cost billing.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://custodomus.de/",
+  "services": "https://custodomus.de/mietverwaltung/",
+  "impressum": "https://custodomus.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "Verwaltete Immobilien",
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2008,
+ "founded_evidence": "Seit 2008 sind wir ein vertrauenswürdiger Anbieter von Immobilien- und Facility-Management-Dienstleistungen in ganz Deutschland.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wirtschaftliche Verwaltung in Deutschland - Hausverwaltung (Property Management)",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Alexander Tischer"
+ ],
+ "managing_directors_evidence": "VERTRETEN DURCH Herr Alexander Tischer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin-based Immobilien- und Facility-Management firm (since 2008) offering Hausverwaltung, technical building services, and sale of investment properties to clients across Germany.",
+ "buildings_managed_rejected": 50,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.tischerco.de/",
+  "services": "https://tischerco.de/projektentwicklung-im-rahmen-der-immobilienverwaltung/",
+  "impressum": "https://tischerco.de/impressum/"
+ }
+}

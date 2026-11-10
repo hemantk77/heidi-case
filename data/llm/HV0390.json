@@ -1,0 +1,31 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1989,
+ "founded_evidence": "seit 1989",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung – wir übernehmen sämtliche Aufgaben der Mietverwaltung für Sie.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Mietverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "segment_note": "Berlin-based property management firm (Hausverwaltung) founded 1989, offering rental, WEG and special-property management, family-owned.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.grabenhorst-hv.com/"
+ }
+}

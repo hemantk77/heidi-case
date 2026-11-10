@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir unterstützen Sie gerne mit unserem Portfolio in der Miethausverwaltung sowie der WEG-Verwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dr. Maximilian Offizier",
+  "Norbert Offizier"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dr. Maximilian Offizier, Norbert Offizier",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering rental and WEG administration plus owner advisory and project development, run by two owner-managers with over 35 years of experience.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.offizier-immobilien.de/",
+  "jobs": "https://www.offizier-immobilien.de/de/jobs/",
+  "impressum": "https://www.offizier-immobilien.de/de/disclaimer/",
+  "about": "https://www.offizier-immobilien.de/ueber-uns/",
+  "services": "https://www.offizier-immobilien.de/portfolio/"
+ }
+}

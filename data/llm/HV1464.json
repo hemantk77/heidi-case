@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die aitia Gesellschaft für Haus- und Grundstücksverwaltung mbH bietet Ihnen sowohl die WEG-Verwaltung, als auch die individuelle Verwaltung von Miet- und Eigentumsobjekten.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "aitia is a property management group offering WEG administration and individual rental and owner-occupied property management, with a login area for clients.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.aitia-gmbh.de/",
+  "services": "https://www.aitia-gmbh.de/aitia-die-gesellschaft-fuer-haus-und-grundstuecksverwaltung/"
+ }
+}

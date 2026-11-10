@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Hausverwaltung beschäftigt sich mit der Verwaltung von vermieteten Wohnhäusern (meist Mehrparteienhäuser), Wohnanlagen, Eigentumswohnungen und Gewerbeobjekten vorwiegend in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1967,
+ "founded_evidence": "1967 als Tochter der bekannten und erfolgreichen Münchener WOWOBAU Wohnungsbaugesellschaft gegründet",
+ "managing_directors": [
+  "Martin Bischoff"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Martin Bischoff",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (founded 1967, subsidiary of WOWOBAU) offering WEG, rental, commercial and special-property management plus brokerage, with annual service charge statements included.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.pimg-berlin.de/",
+  "about": "https://www.pimg-berlin.de/ueber-uns.html",
+  "services": "https://www.pimg-berlin.de/hausverwaltung.html",
+  "impressum": "https://www.pimg-berlin.de/impressum.html"
+ }
+}

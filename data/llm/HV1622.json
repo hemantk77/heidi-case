@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Der AMV unterstützt seine Mitglieder und Mitbürger bei der Wahrnehmung und Durchsetzung ihrer berechtigten Interessen als Mieter und Verbraucher.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2014,
+ "founded_evidence": "Der AMV ist ein im Jahr 2014 neu gegründeter Mieter- und Verbraucherschutzbund",
+ "managing_directors": [
+  "Marcel Eupen",
+  "Uwe Piper"
+ ],
+ "managing_directors_evidence": "1. Vorsitzender: Assessor Marcel Eupen 2. Vorsitzender: Assessor Uwe Piper",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AMV is a 2014-founded tenant and consumer protection association in Berlin that advises members, with no property management business.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://mieter-verbraucherschutz.berlin/",
+  "impressum": "http://mieter-verbraucherschutz.berlin/impressum/"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir übernehmen für Sie die komplette kaufmännische und organisatorische Verwaltung Ihrer Mietobjekte",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1949,
+ "founded_evidence": "Hausverwaltung in Berlin seit 1949",
+ "managing_directors": [
+  "Felix Reiff"
+ ],
+ "managing_directors_evidence": "Inhaber: Felix Reiff",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung und Versand der Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin property manager (since 1949) handling rental management, operating-cost statements, accounting and technical administration for residential apartment buildings.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.reiff-hausverwaltung.de/",
+  "impressum": "https://reiff-hausverwaltung.de/impressum.html"
+ }
+}

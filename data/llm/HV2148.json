@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bitte wenden Sie sich mit allen Anliegen, die Ihr Mietverhältnis betreffen, ab dem 01.01.2026 an die neue Hausverwaltung: Metternich & Co. KG",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Matthias Holst"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Matthias Holst",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The website states that HCP Invest GmbH & Co. KG has ceased its property management activities as of 31.12.2025 and handed tenant matters to Metternich & Co. KG, so it is not a current prospect for property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.holst-city-projekte.de/",
+  "impressum": "http://www.holst-city-projekte.de/impressum/"
+ }
+}

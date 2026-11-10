@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Ob Sie nur die Betriebskostenabrechnung nicht mehr selbst anfertigen möchten",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen zu allen Bereichen der Hausverwaltung unsere Hilfe und Dienste an.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sebastian Stech"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Sebastian Stech",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "x",
+ "services": [
+  "Other",
+  "WEG-Verwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.stech-immobilienmanagement.de/",
+  "impressum": "https://www.stech-immobilienmanagement.de/about/"
+ }
+}

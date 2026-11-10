@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Verwaltung Bonner+Bonner besteht seit mehr als 25 Jahren. Wir betreiben die Eigenverwaltung von Mietwohnungen und Gewerbeflächen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ottmar Bonner"
+ ],
+ "managing_directors_evidence": "Inhaber: Ottmar Bonner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (GbR) running self-administration of rental apartments and commercial spaces for over 25 years, with a tenant service page and no portal mentioned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bonner-berlin.de/",
+  "services": "http://bonner-berlin.de/mieterservice/",
+  "impressum": "http://bonner-berlin.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-VERWALTUNG Ihre WEG in professionellen Händen",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 3000,
+ "units_evidence": "Rund 3.000 Einheiten in Berlin und Umland vertrauen auf unsere Verwaltung",
+ "buildings_managed": 100,
+ "buildings_evidence": "100+ Objekte",
+ "employees": 20,
+ "employees_evidence": "+20 feste Kolleg*innen",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Michelle Hochheiden-Welp",
+  "Victor Hochheiden"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Michelle Hochheiden-Welp Victor Hochheiden",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Eigentümerportal / Kundenportal (Service-Portal)",
+ "portal_evidence": "Digitale Aktenführung und Service-Portal: Beschlüsse, Abrechnungen und Vorgänge jederzeit einsehbar",
+ "segment_note": "Berlin-based owner-managed property manager (WEG and rental management, about 3,000 units, 100+ properties, 20+ staff) with a certified owner portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hochheiden-hausverwaltung.de/",
+  "services": "https://www.hochheiden-hausverwaltung.de/services?hsLang=de",
+  "portal": "https://www.hochheiden-hausverwaltung.de/kundenportal?hsLang=de",
+  "about": "https://www.hochheiden-hausverwaltung.de/ueber-uns?hsLang=de",
+  "jobs": "https://www.hochheiden-hausverwaltung.de/stellenanzeigen?hsLang=de",
+  "impressum": "https://hochheiden-hausverwaltung.de/impressum?hsLang=de"
+ }
+}

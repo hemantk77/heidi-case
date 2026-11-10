@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Allround-Dienstleister in Berlin und Umgebung",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Timo Schiller"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Timo Schiller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Staak Dienstleistungs GmbH is a Berlin-area facility service provider offering cleaning, garden care, winter service and repairs, with no property management offered on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.staak-berlin.de/",
+  "about": "https://staak-berlin.de/ueber-uns",
+  "services": "https://staak-berlin.de/leistungen",
+  "impressum": "https://staak-berlin.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen unsere Mieter und verwalten Häuser ... Als Hausverwaltung mit Sitz in Berlin betreuen wir derzeit ca. 305 Wohneinheiten in Berlin, Potsdam und Bad Saarow.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 305,
+ "units_evidence": "Als Hausverwaltung mit Sitz in Berlin betreuen wir derzeit ca. 305 Wohneinheiten in Berlin, Potsdam und Bad Saarow.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Unser bestens eingespieltes Team besteht aus vier engagierten Mitarbeitern.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Axel Mahlo"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Dipl.-Ing. Axel Mahlo",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mitarbeit an Betriebs- und Heizkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin residential property manager with about 305 units across Berlin, Potsdam and Bad Saarow, four staff, and no WEG or third-party management.",
+ "employees_rejected": 4,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mahlo-bau-verwaltungsgesellschaft.de/",
+  "services": "https://www.mahlo-bau-verwaltungsgesellschaft.de/stellenangebote",
+  "jobs": "https://www.mahlo-bau-verwaltungsgesellschaft.de/stellenangebote",
+  "impressum": "https://www.mahlo-bau-verwaltungsgesellschaft.de/impressum"
+ }
+}

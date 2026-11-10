@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "NEUBO bündelt alle Servicegewerke rund um die Immobilie unter einem Dach.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "managing_directors": [
+  "Rico Viehweg",
+  "André Ortmann"
+ ],
+ "managing_directors_evidence": "Rico Viehweg, André Ortmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "NEUBO is a facility management provider (cleaning, gardening, technical maintenance, winter service, clearance) with no property management offering shown on its website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.neubo.de/",
+  "services": "https://www.neubo.de/leistungen",
+  "jobs": "https://www.neubo.de/karriere",
+  "impressum": "https://www.neubo.de/impressum"
+ }
+}

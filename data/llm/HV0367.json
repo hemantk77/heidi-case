@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Immobilienverwaltung Kelm e.K. ist Ihr verlässlicher Ansprechpartner für die Verwaltung von Miethäusern und Wohnungseigentumsanlagen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 800,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": "Derzeit betreuen wir ca. 800 Wohneinheiten im Wohnungseigentums-, Miethaus- und Gewerbebereich im gesamten Berliner",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marco Kelm"
+ ],
+ "managing_directors_evidence": "Marco Kelm\nImmobilienverwaltung Kelm e. K.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Betriebs- und Heizkostenabrechnungen für den Mieter",
+ "portal_or_app": "Kundenbereich",
+ "portal_evidence": "Zum Kundenbereich",
+ "segment_note": "Berlin property manager (e.K.) handling rental houses and WEG properties, about 800 units, with an online Kundenbereich for clients.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.iv-kelm.de/",
+  "services": "https://iv-kelm.de/leistungen/",
+  "portal": "https://iv-kelm.de/kundenbereich/",
+  "impressum": "https://iv-kelm.de/impressum"
+ }
+}

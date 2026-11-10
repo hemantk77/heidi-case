@@ -1,0 +1,32 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "buildings_managed_placeholder": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Besondere Objekte EXKLUSIVE BÜROS DIREKT AM KURFÜRSTENDAMM Am Kurfürstendamm in einer der gefragtesten Lagen der Berliner City West, erwarten Sie moderne und repräsentative Büroflächen.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Tom Schütz"
+ ],
+ "managing_directors_evidence": "Ihr Tom Schütz CEO",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Basis AG is a Berlin real estate advisory firm focused on office letting, residential and investment, with no evidence of property management on the homepage.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.basis-ag.com/"
+ }
+}

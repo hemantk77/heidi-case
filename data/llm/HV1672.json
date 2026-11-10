@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Lohner & Götz verwaltet Wohn- und Gewerbeobjekte auf Basis langjähriger Branchenkenntnisse.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sebastian Lohner",
+  "Marie-Luise Götz"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Sebastian Lohner Marie-Luise Götz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin company that manages residential and commercial properties for owners and tenants, with a focus on individual client care.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lohner-goetz.de/",
+  "impressum": "https://www.lohner-goetz.de/impressum.html"
+ }
+}

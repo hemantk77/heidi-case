@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Dein Nr. 1 Ansprechpartner für Mission Estate Immobilien als Kapitalanlage",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Quang Tran Huy",
+  "Lee Tran"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nQuang Tran Huy\nLee Tran",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Mission Estates sells real estate as capital investments to private investors (over 500 clients in the DACH region) and does not show any property management services on the site.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mission-estates.com/",
+  "impressum": "https://mission-estates.com/privacy-policy/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir arbeiten eng mit einer Berliner Hausverwaltung unter gleicher Postanschrift zusammen, welche direkt vom Eigentümer bestellt ist.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 18,
+ "buildings_evidence": "Die Immobilien – aktuell sind es über 18 Mietwohnanlagen – liegen ausschließlich in Berlin.",
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Luangudom, Korapin"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Luangudom, Korapin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Apartberlin is a small Berlin service firm that brokers rental apartments and commercial units and handles building cleaning and technical services, while a separate Berlin Hausverwaltung manages the properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.apartberlin.de/",
+  "about": "https://apartberlin.de/ueber-uns/",
+  "services": "https://apartberlin.de/wohnungen/",
+  "impressum": "https://apartberlin.de/impressum/"
+ }
+}

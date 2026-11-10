@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Inhabergeführtes Immobilienmaklerunternehmen",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 50,
+ "employees_evidence": "Mehr als 18 regionale Büros vor Ort mit über 50 Kollegen in Deutschland",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ORANGE is an owner-operated real estate brokerage with 18+ offices across Germany, focused on selling and renting properties for owners rather than managing buildings.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://orange-immobilien.de/",
+  "services": "https://orange-immobilien.de/bautraegerservice",
+  "about": "https://orange-immobilien.de/ueber-uns",
+  "portal": "https://orange-immobilien.de/immobilienratgeber/immobilienportale-2026-richtig-nutzen-inseratsstrategie-datenqualitaet-und-ranking-faktoren-inklusive-praxistipps-fuer-immobilienscout24",
+  "impressum": "https://orange-immobilien.de/impressum"
+ }
+}

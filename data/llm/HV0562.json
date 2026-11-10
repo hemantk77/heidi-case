@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "ab 2004",
+ "founded_year": 2004,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung sowie die langfristige Planung von Instandhaltungsmaßnahmen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als zuverlässiger Partner für Wohnungseigentümergemeinschaften übernehmen wir die professionelle Verwaltung Ihrer Immobilie gemäß den Vorgaben des Wohnungseigentumsgesetzes (WEG).",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl.-Kffr. Ines Grobla"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigt Dipl.-Kffr. Ines Grobla",
+ "portal_evidence": "Eigentümerportal",
+ "portal_or_app": "Eigentümerportal",
+ "segment_note": "Single-owner property management firm (Hausverwaltung, Einzelunternehmen) in Berlin Steglitz-Zehlendorf offering WEG, Sondereigentum and rental management plus brokerage, with an owner portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-grobla.de/",
+  "services": "https://www.hv-grobla.de/verwaltung",
+  "about": "https://www.hv-grobla.de/about-9",
+  "impressum": "https://www.hv-grobla.de/impressum"
+ }
+}

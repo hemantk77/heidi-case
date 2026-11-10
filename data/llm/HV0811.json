@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG Verwaltung ﻿ Die Verwaltung von Wohnungseigentümergemeinschaften gehört zu unseren Kern-Kompetenzen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Steffen Böker"
+ ],
+ "managing_directors_evidence": "Verantwortliche Ansprechperson: Steffen Böker",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "natürlich auch die Betriebskostenabrechnungen gegenüber den Mietern.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property company offering WEG and rental property management (incl. operating cost statements) alongside brokerage, serving private owners and professional investors.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.aktivboden.de/",
+  "services": "https://aktivboden.com/leistungen",
+  "impressum": "https://aktivboden.com/impressum"
+ }
+}

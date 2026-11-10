@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Mit ihr bieten wir neben der Entwicklung, Planung und Konstruktion auch die Produktion, Montage und Wartung von Luft-, Wasser, Licht-, Klima- und Elektro-Anlagen an",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 500,
+ "employees_evidence": "Was damals mit 70 Mitarbeitern startete, ist heute eine Unternehmensgruppe mit über 500 Mitarbeitern",
+ "founded_year": 1990,
+ "founded_evidence": "1990 begann die mele®-Geschichte mit den Gründern Jörg Medenwald und Dietrich Lehmann.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "mele is a Torgelow-based technical building services and energy group (heating, plumbing, biogas, contracting), with no evidence of Berlin property management; the Berlin company name is not reflected on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mele.de/",
+  "about": "https://mele.de/unternehmensgruppe/",
+  "services": "https://mele.de/stellenangebote/servicetechniker-druckluft-m-w-d/",
+  "jobs": "https://mele.de/karriere",
+  "impressum": "https://mele.de/impressum/"
+ }
+}

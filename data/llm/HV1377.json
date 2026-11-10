@@ -1,0 +1,19 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The homepage only shows the title \"Progenea Berlin – Exklusive Immobilien\"; no business details are available to judge its services.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://progenea-berlin.de/"
+ }
+}

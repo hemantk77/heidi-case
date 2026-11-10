@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": "Es handelt sich hierbei überwiegend um herausragend restaurierte Jugendstil-Altbauten",
+ "buildings_managed": null,
+ "employees": 8,
+ "employees_evidence": "Mit einem Mitarbeiterstamm von zur Zeit 8 Angestellten verwaltet die STEGOS Immobilien GmbH einen Bestand von über 55 Objekten.",
+ "founded_evidence": "Die STEGOS Immobilien GmbH wurde 1996 gegründet.",
+ "founded_year": 1996,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Serviceleistungen Kompetenter Rundum Service. Die Objekte unserer Auftraggeber betreuen wir als zertifizierte WEG-Verwalter, aber auch im Rahmen der Haus- und Mietenverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Elisabeth Engel"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Elisabeth Engel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin property manager (founded 1996, 8 staff) running about 55 mainly Jugendstil properties for WEG, rental and fund management clients.",
+ "buildings_managed_rejected": 55,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.stegos.de/",
+  "about": "https://www.stegos.de/index.php?page=about",
+  "services": "https://www.stegos.de/index.php?page=service",
+  "impressum": "https://www.stegos.de/index.php?page=impressum"
+ }
+}

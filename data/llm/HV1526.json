@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Müller Baugesellschaft mbH steht für professionelle Bauausführung mit Erfahrung, Verlässlichkeit und einem hohen Qualitätsanspruch.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 30,
+ "employees_evidence": "Mit einem erfahrenen Team aus rund 30 Fachkräften realisieren wir Projekte",
+ "founded_year": 2019,
+ "founded_evidence": "Seit 2019 stehen wir für professionelle Bauausführung im Hochbau.",
+ "managing_directors": [
+  "B. Sc. Ali Bayram",
+  "Michael Schulz"
+ ],
+ "managing_directors_evidence": "Geschäfsführer: B. Sc. Ali Bayram",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based construction contractor (Hochbau, Rohbau, Innenausbau, Fassade, Sanierung) with about 30 staff; no property management offered.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mueller-baugesellschaft.de/",
+  "about": "https://www.mueller-baugesellschaft.de/ueber-uns",
+  "services": "https://www.mueller-baugesellschaft.de/leistungen",
+  "impressum": "https://www.mueller-baugesellschaft.de/impressum"
+ }
+}

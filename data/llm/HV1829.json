@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2017,
+ "founded_evidence": "creates valuable assets since 2017 in Berlin",
+ "managing_directors": [
+  "Ali Fuat ISIN",
+  "Mehmet Cem TUNCEL"
+ ],
+ "managing_directors_evidence": "Ali Fuat ISIN - Managing Partner ... Mehmet Cem TUNCEL - Managing Partner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Agora Bau is a Berlin project development holding company focused on residential properties, investing through subsidiaries; the website does not state it offers property management to third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://agora-bau.de/",
+  "services": "https://agora-bau.de/portfolio/",
+  "about": "https://agora-bau.de/team/"
+ }
+}

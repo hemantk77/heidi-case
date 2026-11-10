@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "RECO Immobilienbüro Petra Hubertus ist ein kleines und feines Maklerbüro. Wir sind seit 2000 in Berlin tätig.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "Wir sind seit 2000 in Berlin tätig.",
+ "managing_directors": [
+  "Petra Hubertus"
+ ],
+ "managing_directors_evidence": "Geschäftsinhaberin: Petra Hubertus",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin brokerage office (Maklerbüro) run by Petra Hubertus, active since 2000; no property management offered per the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.reco-berlin.net/",
+  "about": "https://reco-berlin.net/team/",
+  "services": "https://reco-berlin.net/leistungen/",
+  "impressum": "https://reco-berlin.net/impressum/"
+ }
+}

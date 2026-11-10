@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "Weit mehr als 100 Immobilienobjekte verschiedener Größen und Nutzungen bundesweit sind uns anvertraut.",
+ "buildings_managed": 100,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Wir haben einen „langen Atem“ – dafür steht unsere Unternehmenshistorie seit 1925.",
+ "founded_year": 1925,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten und entwickeln eigenen und fremden Immobilienbesitz mit dem Ziel, nachhaltige Werte zu schaffen und zu erhalten.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ingo Moll",
+  "Martin Böttcher"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ingo Moll und Martin Böttcher",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin-based real estate company (since 1925, SPD-owned) that advises, rents out and manages its own and third-party residential and office properties, with over 100 properties nationwide.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.konzentration.de/",
+  "about": "https://www.konzentration.de/unternehmen/index.html",
+  "services": "https://www.konzentration.de/dienstleistungen/index.html",
+  "impressum": "https://www.konzentration.de/impressum/index.html"
+ }
+}

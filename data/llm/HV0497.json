@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir übernehmen alle Aufgaben im Rahmen der Verwaltung von Miethäusern, Einfamilienhäusern und gemeinschaftlichem Wohneigentum nach dem Wohnungseigentumsgesetz (WEG)",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Mit derzeit fünf festen Mitarbeitern und durchschnittlich sechs fest angestellten Hausmeistern",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Lothar Will"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Lothar Will",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering WEG, rental and special-property administration plus caretaking, with five staff and about six janitors; no portal or heating billing mentioned.",
+ "employees_rejected": 5,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.l-will.de/kontakt.htm",
+  "services": "http://www.l-will.de/verwaltung.htm",
+  "about": "http://www.l-will.de/uns.htm",
+  "impressum": "http://www.l-will.de/impressum.htm"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die wvm Gruppe ist ein Projektentwickler: \"Ihr Projektentwickler für Köln und Berlin.\"",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Mitarbeiter (Köln: 88 und Berlin: 35)",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Wolfgang von Moers",
+  "Erika Werres"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Wolfgang von Moers und Erika Werres",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WvM is a project developer (new-build condos and redevelopment) in Berlin and Cologne, with no property management offering on the site.",
+ "is_property_manager_rejected": "no",
+ "employees_rejected": 121,
+ "_evidence_checked": 3,
+ "_evidence_failed": 2,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wvm.de/",
+  "about": "https://wvm.de/de/ueber-uns",
+  "jobs": "https://wvm.de/de/karriere",
+  "impressum": "https://wvm.de/de/impressum"
+ }
+}

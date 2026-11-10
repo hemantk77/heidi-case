@@ -1,0 +1,32 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Willkommen bei Ihrer Hausverwaltung für den Berliner Südwesten. Wir organisieren überwiegend eigene Objekte und ausgewählte Fremdobjekte.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Marcus Benser"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt nach §55 Abs. 2 RStV: Marcus Benser",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Berlin property manager (Hausverwaltung) for the southwest of Berlin, managing mostly its own properties plus selected third-party ones; no unit or building counts stated.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hvbenser.de/",
+  "impressum": "http://hvbenser.de/impressum.html"
+ }
+}

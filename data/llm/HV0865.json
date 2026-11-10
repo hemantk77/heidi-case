@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Mit weit über 1000 Wohneinheiten in Berlin Neukölln, Kreuzberg, Friedrichshain, Prenzlauer Berg, Wedding, Weissensee, Pankow, Alt-Treptow, Marienfelde, Johannisthal und Adlershof sind wir ein langfristig",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Ingrid Knörzer",
+  "Franz Knörzer"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Ingrid Knörzer, Franz Knörzer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Berlin-based housing company that manages only its own held properties (over 1,000 units), not third-party property management.",
+ "units_evidence": "Mit weit über 1000 Wohneinheiten in Berlin Neukölln, Kreuzberg, Friedrichshain, Prenzlauer Berg, Wedding, Weissensee, Pankow, Alt-Treptow, Marienfelde, Johannisthal und Adlershof",
+ "units_managed": 1000,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schneider-grundbesitz.de/",
+  "impressum": "https://www.schneider-grundbesitz.de/Impressum.html"
+ }
+}

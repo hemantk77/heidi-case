@@ -1,0 +1,32 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenbrechnung für die Mieter",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir übernehmen für Sie die Verwaltung von privaten Häusern und Wohnungen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Peter Wudtke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Kfm. Peter Wudtke",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin rental-house manager (Miethausverwaltung) for private houses and apartments, with 30+ years of experience, run by managing director Peter Wudtke.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.miethausverwaltung-wudtke.de/",
+  "impressum": "https://www.miethausverwaltung-wudtke.de/impressum.html"
+ }
+}

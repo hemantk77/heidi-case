@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnimmobilienverwaltung gem. §34 c Abs.1 Nr. 4 GewO.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Die Hausverwaltung B&G wurde im Jahr 1997 von Barbara Kuhl-Dunkel als Geschäftsführerin gegründet",
+ "managing_directors": [
+  "Barbara Kuhl-Dunkel",
+  "Kilian Dunkel",
+  "Luise Kern"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Barbara Kuhl-Dunkel Vertretungsberechtigte/r: Kilian Dunkel Luise Kern",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (founded 1997) handling residential and commercial rental buildings, mainly in Treptow-Köpenick, Steglitz-Zehlendorf and Charlottenburg-Wilmersdorf, also brokerage.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hv-bg.de/",
+  "about": "https://hv-bg.de/index.html",
+  "services": "https://hv-bg.de/leistungsspektrum.html",
+  "impressum": "https://hv-bg.de/impressum.html"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die RBB  Immobilienverwaltung - unsere Haus- und Objektverwaltung - bietet ein individuell zugeschnittenes Immobilien-Management je nach Immobilienart, Schwerpunkt und Zielsetzung.",
+ "main_business": "property_management",
+ "services": [
+  "Hausverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1978,
+ "founded_evidence": "Immobilien-Kompetenz seit 1978",
+ "managing_directors": [
+  "Jürgen Haschtmann",
+  "Benjamin Haschtmann",
+  "Hermann Rücker"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dipl.-Kfm. Jürgen Haschtmann Dipl.-Kfm. Benjamin Haschtmann Dipl.-Kfm. Hermann Rücker",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin developer and Bauträger (HASCHTMANN/H&R, founded 1978) that also offers property management through its RBB Immobilienverwaltung unit; no unit counts or portal stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.haschtmann.com/",
+  "about": "https://www.haschtmann.com/haschtmann-h-und-r-immobiliengruppe.html",
+  "services": "https://www.haschtmann.com/Leistungen.html",
+  "impressum": "https://www.haschtmann.com/Impressum.html"
+ }
+}

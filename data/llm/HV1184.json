@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die emwg eG wurde am 2. April 1976 gegründet",
+ "founded_year": 1976,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "verwalten 2.500 modernisierte und attraktiv sanierte Wohnungen",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Ines Spitzer",
+  "Paul Koltermann"
+ ],
+ "managing_directors_evidence": "Kaufmännischer Vorstand Ines Spitzer / Technischer Vorstand Paul Koltermann",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin housing cooperative (Genossenschaft) in Marzahn-Hellersdorf managing about 2,500 apartments for roughly 3,000 members; no portal or app mentioned.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": "verwalten 2.500 modernisierte und attraktiv sanierte Wohnungen",
+ "units_managed": 2500,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.emwg-eg.de/",
+  "about": "https://www.emwg-eg.de/ueber-uns/",
+  "services": "https://www.emwg-eg.de/wohnungsangebote/",
+  "impressum": "https://www.emwg-eg.de/impressum/"
+ }
+}

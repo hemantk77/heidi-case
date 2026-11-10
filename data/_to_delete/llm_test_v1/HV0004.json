@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit unserem kompetenten und hochprofessionellen Team der Tochtergesellschaft WOHN-UNION Immobilienmanagement GmbH verstehen wir uns jederzeit als partnerschaftlicher Ansprechpartner für alle Mietenden.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 11000,
+ "units_evidence": "Die WOHN-UNION ist Eigentümerin oder Mehrheitsgesellschafterin eines bundesweiten Immobilienportfolios von rund 11.000 Wohneinheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 180,
+ "employees_evidence": "unser 180-köpfiges Team der WOHN-UNION",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Eckehard Hofmeister",
+  "Thomas Lippert"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Eckehard Hofmeister, Thomas Lippert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WOHN-UNION is a Berlin housing company owning or majority-holding about 11,000 units, with its subsidiary WOHN-UNION Immobilienmanagement GmbH handling tenant management and building services.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wohn-union.de/",
+  "services": "https://www.wohn-union.de/mieterservice/",
+  "about": "https://www.wohn-union.de/ueber-uns/",
+  "jobs": "https://www.wohn-union.de/jobs/",
+  "impressum": "https://www.wohn-union.de/impressum/"
+ }
+}

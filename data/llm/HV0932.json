@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": "Unser sechsköpfiges Team betreut derzeitig einen Bestand von 50 Objekten mit rund 1.000 Wohn- und Gewerbeeinheiten",
+ "buildings_managed": 50,
+ "employees": null,
+ "employees_evidence": "Unser sechsköpfiges Team betreut derzeitig einen Bestand von 50 Objekten",
+ "founded_evidence": "wurde 1984 gegründet",
+ "founded_year": 1984,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenmanagement ... Abrechnungsservice",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die GCI-Grund-Consult Immobilien GmbH ist eine moderne Immobilien- und Hausverwaltung mit Sitz in Berlin-Charlottenburg",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Janet Grüneberg"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Janet Grüneberg",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "Berlin/Brandenburg property manager founded 1984, managing 50 properties with about 1,000 residential and commercial units for owner communities and private owners, also offers sales and letting.",
+ "units_evidence": "mit rund 1.000 Wohn- und Gewerbeeinheiten",
+ "units_managed": 1000,
+ "employees_rejected": 6,
+ "_evidence_checked": 7,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gci-gmbh.de/",
+  "services": "https://www.gci-gmbh.de/weg-verwaltung.html",
+  "about": "https://www.gci-gmbh.de/unternehmen.html",
+  "impressum": "https://www.gci-gmbh.de/615.html"
+ }
+}

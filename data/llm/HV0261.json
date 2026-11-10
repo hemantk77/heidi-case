@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr Wohnungsverwalter – SANA Verwaltungs GmbH & Co. KG",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Larissa Hami"
+ ],
+ "managing_directors_evidence": "Geschäfsführerin\nLarissa Hami",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Steglitz-Zehlendorf) offering rental and WEG administration for residential properties; no size figures or portal stated on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.sana-verwaltung.de/",
+  "services": "http://www.sana-verwaltung.de/mietverwaltung",
+  "impressum": "http://www.sana-verwaltung.de/impressum"
+ }
+}

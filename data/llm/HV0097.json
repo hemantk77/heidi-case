@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Es wurde 1998 in Berlin gegründet",
+ "founded_year": 1998,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die KKL Immobilienmanagement ist als Tochterunternehmen der KKL Consulting GmbH seit 1998 auf Asset- und Immobilienverwaltung spezialisiert.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Caroline Weber",
+  "Guido Wodetzki",
+  "Martin Lubinsky"
+ ],
+ "managing_directors_evidence": "KKL Immobilienmanagement GmbH Geschäftsführer*innen: Caroline Weber Guido Wodetzki Martin Lubinsky",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "KKL Immobilienmanagement GmbH, founded 1998 in Berlin, is a subsidiary of KKL Consulting focused on asset and property management for residential and commercial properties; no unit or building counts stated.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://kkl-immobilienmanagement.de/",
+  "about": "http://kkl-consulting.de/kkl-consulting_2021/unternehmen",
+  "services": "https://kkl-consulting.de/kkl-consulting_2021/kkl-leistungen/",
+  "jobs": "http://kkl-consulting.de/kkl-consulting_2021/unternehmen",
+  "impressum": "https://kkl-consulting.de/kkl-consulting_2021/impressum/"
+ }
+}

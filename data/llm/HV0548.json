@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der BVI e. V. ist der Verband für professionelle WEG- und Mietverwaltungen in Deutschland.",
+ "main_business": "other",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1983,
+ "founded_evidence": "seit seiner Gründung im Jahr 1983",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BVI is a trade association (Bundesfachverband) for professional property managers in Germany, with about 800 member companies, not a property manager itself.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bvi-verwalter.de/",
+  "portal": "https://bvi-verwalter.de/login/",
+  "about": "https://bvi-verwalter.de/der-bvi/ueber-uns/",
+  "services": "https://bvi-verwalter.de/aktuelles/bvi-stellenangebote/",
+  "jobs": "https://bvi-verwalter.de/aktuelles/bvi-stellenangebote/",
+  "impressum": "https://bvi-verwalter.de/impressum/"
+ }
+}

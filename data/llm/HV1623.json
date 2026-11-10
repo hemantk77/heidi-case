@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bei HGH Service & Abrechnungen GmbH stehen Sie als Kunde im Mittelpunkt.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Martin Heins"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Martin Heins",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mit über 20 Jahren Erfahrung im Messdienst sind wir führende Experten für professionelle Heizkostenabrechnungen.",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Mit unserem Nutzerportal können Mie",
+ "segment_note": "HGH is a Berlin-based metering service (Messdienst) offering heating and water cost billing, device management and a digital tenant/user portal, not property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hgh-berlin.de/",
+  "services": "https://www.hgh-berlin.de/dienstleistungen.html",
+  "portal": "https://www.hgh-berlin.de/dienstleistungen/nutzerportal.html",
+  "about": "https://www.hgh-berlin.de/ueber-uns.html",
+  "jobs": "https://www.hgh-berlin.de/karriere.html",
+  "impressum": "https://www.hgh-berlin.de/impressum.html"
+ }
+}

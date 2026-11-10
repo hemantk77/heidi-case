@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Haus- und Grundstücksverwaltung von Miet- und Eigentumswohnungen und Verkauf von Immobilien in Berlin und Umgebung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Barbara Meyer"
+ ],
+ "managing_directors_evidence": "Inhaberin: Barbara Meyer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Gern übernehmen wir auch Einzelaufgaben, wie z.B. die Erstellung von einzelnen Betriebskostenabrechnungen oder Mietenbuchhaltung inkl. Mahnwesen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Neukölln) for rental and condominium (WEG) properties, also offering brokerage and sales, with owner Barbara Meyer.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.plan-b-immo.de/",
+  "about": "http://www.plan-b-immo.de/unternehmen/",
+  "impressum": "http://www.plan-b-immo.de/impressum/"
+ }
+}

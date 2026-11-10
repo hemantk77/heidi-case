@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung für Miethäuser – WEG-Verwaltung – Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "Erfahrung seit 1996",
+ "managing_directors": [
+  "Oliver Kind"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Oliver Kind",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung for rental houses, WEG and Sondereigentum) founded 1996, also offers rental/letting services; no staff count or unit numbers stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ki-fa.de/",
+  "services": "https://ki-fa.de/ki-fa-immobilien-gmbh-verwaltung/",
+  "impressum": "https://ki-fa.de/impressum"
+ }
+}

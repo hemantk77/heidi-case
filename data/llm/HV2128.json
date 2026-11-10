@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Controlling - Hausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Nicole Lampert"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Frau Nicole Lampert",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin company (L+G Liegenschaften) offering object management, controlling incl. Hausverwaltung controlling, and Immobilienmanagement services such as Mieterbetreuung and Reporting; no unit or staff counts stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lg-liegenschaften.de/",
+  "services": "https://www.lg-liegenschaften.de/index.php?article_id=4&clang=1",
+  "impressum": "https://www.lg-liegenschaften.de/index.php?article_id=5&clang=1"
+ }
+}

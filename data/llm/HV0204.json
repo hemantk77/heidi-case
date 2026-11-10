@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Erlaubnis nach § 34c Abs. 1 GewO (Wohnimmobilienverwalter, Immobilienmakler)",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Britta Bettendorf"
+ ],
+ "managing_directors_evidence": "Inh. Britta Bettendorf",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager (licensed as residential property manager and broker, per the imprint) run by owner Britta Bettendorf; the site gives no unit or building counts.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bettendorf.works/",
+  "impressum": "https://www.bettendorf.works/impressum/"
+ }
+}

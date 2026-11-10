@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Über 15.000 Wohneinheiten in der laufenden Bestandsvermietung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": 15000,
+ "units_evidence": "Über 15.000 Wohneinheiten in der laufenden Bestandsvermietung",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "Unternehmensgründung in 2013",
+ "managing_directors": [
+  "David Merkle",
+  "Moritz Müller",
+  "Felix Henne"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: David Merkle, Moritz Müller und Felix Henne",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-linked new-build marketing and brokerage firm (HQ listed in Heidelberg in the Impressum) that also manages over 15,000 rental units in ongoing tenancy management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mueller-merkle.de/",
+  "jobs": "https://www.mueller-merkle.de/karriere/",
+  "services": "https://www.mueller-merkle.de/angebote/",
+  "about": "https://www.mueller-merkle.de/ueber-uns/",
+  "impressum": "https://www.mueller-merkle.de/impressum/"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Thilo Archut",
+  "Roland Wüst"
+ ],
+ "managing_directors_evidence": "Vorstand: Thilo Archut, Roland Wüst",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Mitgliederportal",
+ "portal_evidence": "Mitgliederportal",
+ "segment_note": "Berlin housing cooperative (Wohnungsgenossenschaft) in Johannisthal with a members' portal; the site does not describe any property management services for third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wgjo.de/",
+  "portal": "https://wgjo.de/mitgliederportal",
+  "impressum": "https://wgjo.de/impressum"
+ }
+}

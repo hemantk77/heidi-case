@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": "Inzwischen ist die Zahl der Angestellten auf f�nf gestiegen.",
+ "founded_evidence": "seit 1996 auf dem regionalen Immobilienmarkt t�tig",
+ "founded_year": 1996,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebs- und Heizkostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Spezialisiert sind wir auf die Verwaltung von Wohn- und Gesch�ftsh�usern und WEG-Verwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Angelika Wirtensohn"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Angelika Wirtensohn",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IDHV GmbH is a Berlin-Pankow property manager since 1996, handling residential and commercial rentals, WEG administration and brokerage, with five employees.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Wir haben uns auf die Verwaltung von kleinen bis mittleren Mietshäusern (bis ca. 50 Einheiten) spezialisiert.",
+ "units_managed": null,
+ "employees_rejected": 5,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.idhv-hausverwaltung.de/",
+  "services": "http://www.idhv-hausverwaltung.de/miet--und-eigentumsverwaltung.html",
+  "about": "http://www.idhv-hausverwaltung.de/ueber-uns.php",
+  "impressum": "http://www.idhv-hausverwaltung.de/impressum.html"
+ }
+}

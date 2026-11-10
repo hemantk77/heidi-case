@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Livos-Gruppe wurde 2005 gegründet und ist seitdem als Investor in der Immobilienwirtschaft aktiv.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Unser multidisziplinäres Team umfasst rund 100 erfahrene Fachleute",
+ "founded_year": 2005,
+ "founded_evidence": "Die Livos-Gruppe wurde 2005 gegründet",
+ "managing_directors": [
+  "Johann Kunz",
+  "Christian Weigel"
+ ],
+ "managing_directors_evidence": "Johann Kunz und Christian Weigel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Livos-Gruppe is a Berlin-based real estate investor and project developer (founded 2005, ~100 staff) that owns and manages its own portfolio; it does not offer third-party property management per the website.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.livos-gruppe.de/",
+  "about": "https://www.livos-gruppe.de/unternehmen/",
+  "jobs": "https://www.livos-gruppe.de/karriere/",
+  "impressum": "https://www.livos-gruppe.de/impressum/"
+ }
+}

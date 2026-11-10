@@ -1,0 +1,39 @@
+{
+ "buildings_managed": 123,
+ "buildings_evidence": "123 Objekte in der Hausverwaltung",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1913,
+ "founded_evidence": "Seit 1913 Erfahrung im Immobilienmarkt",
+ "managing_directors": [
+  "Katrin Höbold",
+  "Birgit Danschke"
+ ],
+ "managing_directors_evidence": "Vorstände: Katrin Höbold, Birgit Danschke",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung von Heiz- und Betriebskosten",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Hausverwaltung übernehmen wir alle regelmäßig anfallenden Arbeiten und unterstützen Sie bei Sanierungs- oder Modernisierungsvorhaben.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "WGBG is a Berlin housing cooperative (eG) offering property management for owners and members, with 123 managed properties and heating/operating cost billing as a service.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wgbg-hausverwaltung-berlin.de/",
+  "about": "https://www.wgbg-hausverwaltung-berlin.de/about/",
+  "services": "https://www.wgbg-hausverwaltung-berlin.de/hausverwaltung/",
+  "jobs": "https://www.wgbg-hausverwaltung-berlin.de/karriere-bei-der-wgbg/",
+  "impressum": "https://www.wgbg-hausverwaltung-berlin.de/impressum/"
+ }
+}

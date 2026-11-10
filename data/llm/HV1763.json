@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Imfassender Service mit den Schwerpunkten in der Verwaltung von Mietwohnanlagen, Wohnungseigentumsanlagen, Kapitalanlagen in Wohnungseigentumsanlagen sowie Vermietungen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tilo Schulz"
+ ],
+ "managing_directors_evidence": "Inhaber:             Tilo Schulz",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Heizkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (rentatect GmbH) handling rental, WEG, special-ownership and commercial property administration, including operating and heating cost billing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rentatect.de/",
+  "services": "http://www.rentatect.de/leistungen.html",
+  "impressum": "http://www.rentatect.de/impressum.html"
+ }
+}

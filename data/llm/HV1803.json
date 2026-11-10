@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Patrick Bahnemann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Patrick Bahnemann",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Villicus Grundeigentum GmbH is a Berlin company whose website only has a home page, contact and legal notice; it does not describe its business activities.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.villicus-grundeigentum.de/",
+  "impressum": "https://villicus-grundeigentum.de/impressum/"
+ }
+}

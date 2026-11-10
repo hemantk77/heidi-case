@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir bieten unseren Kunden mehr als ein etabliertes Facility Management Unternehmen",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Seit 15 Jahren stehen wir im Dienst Ihrer Immobilien!",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal",
+ "portal_evidence": "Mieterportal für Immobilienverwaltungen für 0€",
+ "segment_note": "Berlin facility service provider (winter service, cleaning, caretaking, craftsman services) offering a tenant portal to property managers; does not show property management itself.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.my-bbs.de/",
+  "services": "https://www.my-bbs.de/leistungen",
+  "about": "https://www.my-bbs.de/ueber-uns",
+  "portal": "https://www.my-bbs.de/leistungen/Mieterportal",
+  "jobs": "https://www.my-bbs.de/karriere",
+  "impressum": "https://www.my-bbs.de/impressum"
+ }
+}

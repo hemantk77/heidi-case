@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Unternehmen für den Gebäudeservice aus einer Hand",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gebäudereinigung",
+  "Garten- und Landschaftsbau",
+  "Kehrdienste",
+  "Winterdienste",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 900,
+ "employees_evidence": "Bei UNIVERSAL arbeiten übrigens über 900 Mitarbeiter, mit denen wir uns stetig weiterentwickeln.",
+ "founded_year": 1963,
+ "founded_evidence": "Anfänglich als typisches Dienstleistungs-Unternehmen für die Gebäudereinigung im Jahre 1963 in Stuttgart gegründet",
+ "managing_directors": [
+  "Kerstin Neugebauer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Kerstin Neugebauer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "UNIVERSAL is a Berlin-based facility service company (cleaning, gardening, sweeping, caretaking, building technology) with over 900 employees; the site shows no property management offering.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.universal-dienstleistungen.de/",
+  "about": "https://www.universal-dienstleistungen.de/home/ueber-uns/",
+  "services": "https://www.universal-dienstleistungen.de/home/leistungen/",
+  "jobs": "https://www.universal-dienstleistungen.de/home/karriere/",
+  "impressum": "https://www.universal-dienstleistungen.de/impressum/"
+ }
+}

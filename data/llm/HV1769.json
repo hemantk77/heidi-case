@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die PREIG AG entwickelt nachhaltige Wohnimmobilienprojekte in Berlin für den eigenen Bestand.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peyvand Jafari"
+ ],
+ "managing_directors_evidence": "Vorstandsvorsitzender: Peyvand Jafari",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PREIG AG is a Berlin project developer that buys old buildings to renovate and hold them for its own portfolio; it does not offer third-party property management per the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://preig.ag/",
+  "about": "https://preig.ag/unternehmen/",
+  "jobs": "https://preig.ag/jobs/",
+  "impressum": "https://preig.ag/impressum_de/"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung, Hausmeisterservice, Gebäudereinigung, Grünpflege sowie Immobilienverkauf und Vermietung aus einer Hand",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Florian Görner"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Person: Florian Görner",
+ "portal_evidence": "Mieterportal",
+ "portal_or_app": "Mieterportal",
+ "segment_note": "Berlin/Brandenburg service company offering property management (Verwaltung), Hausmeister, cleaning, grounds care and brokerage for residential and commercial properties, with a tenant portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gid.berlin/",
+  "services": "https://www.gid.berlin/Servicedienstleistungen",
+  "portal": "https://www.gid.berlin/Mieter-Portal",
+  "jobs": "https://www.gid.berlin/karriere",
+  "impressum": "https://www.gid.berlin/impressum"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The website is a generic WordPress template with placeholder text (Lorem ipsum) and describes web design and branding services, not property management; it gives no real information about Hausverwaltung Stutzmann's business.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltung-stutzmann.de/",
+  "services": "http://hausverwaltung-stutzmann.de/15c42-web-agency-gb-portfolio",
+  "about": "http://hausverwaltung-stutzmann.de/15c42-web-agency-gb-about-us"
+ }
+}

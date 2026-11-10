@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Camino - Dein Weg gGmbH ist eine gemeinnützige Gesellschaft die es sich zur Aufgabe gemacht hat Kinder auf dem Weg zu selbstbestimmten und gesundheitsbewussten Persönlichkeiten zu begleiten.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heike Vogt",
+  "Dr. Alexander Hübner"
+ ],
+ "managing_directors_evidence": "Geschäftsführung\nHeike Vogt\nDr. Alexander Hübner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Camino - Dein Weg gGmbH is a non-profit operator of daycare centres (Kitas) in Berlin, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.camino-berlin.de/",
+  "about": "https://www.camino-berlin.de/ueber-uns/",
+  "jobs": "https://www.camino-berlin.de/karriere/",
+  "services": "https://www.camino-berlin.de/karriere/stellenangebote/",
+  "impressum": "https://www.camino-berlin.de/impressum/"
+ }
+}

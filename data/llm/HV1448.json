@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die MSM Baumanagement ist seit 2005 erfolgreich für Sie da. Mit aktuell über 100 Mitarbeitern in Berlin und Umgebung, bringen wir die benötigte Kapazität mit um mehrere Projekte gleichzeitig und Termingerecht auszuführen.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Mit aktuell über 100 Mitarbeitern in Berlin und Umgebung",
+ "founded_year": 2005,
+ "founded_evidence": "seit 2005 erfolgreich für Sie da",
+ "managing_directors": [
+  "Suad Mustafi"
+ ],
+ "managing_directors_evidence": "den Geschäftsführer Suad Mustafi",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MSM Baumanagement is a Berlin construction and renovation contractor (founded 2005, over 100 staff) doing apartment renovations and building work, with no property management services.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.msm-baumanagement.de/",
+  "about": "https://www.msm-baumanagement.de/ueber-uns/",
+  "services": "https://www.msm-baumanagement.de/services/",
+  "impressum": "https://www.msm-baumanagement.de/impressum/"
+ }
+}

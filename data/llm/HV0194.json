@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die HERMES HAUSVERWALTUNG betreut als Verwalterin Wohnungseigentümergemeinschaften, Einzeleigentümer und Grundstücksgemeinschaften in Berlin und Brandenburg.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jochen Rühr",
+  "Alexander Lilov"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jochen Rühr\nProkurist: Alexander Lilov",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HERMES Hausverwaltung is a Berlin property manager serving condominium associations (WEG), individual owners and property communities in Berlin and Brandenburg.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hermes-berlin.de/",
+  "impressum": "https://www.hermes-berlin.de/impressum"
+ }
+}

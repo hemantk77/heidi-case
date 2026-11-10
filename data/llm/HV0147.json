@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Wir sind als Hausverwaltungsgesellschaft seit 1982 mit fachkundigen Mitarbeitern in Berlin, Potsdam und Umgebung tätig.",
+ "founded_year": 1982,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellen der Heiz- und Betriebskostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben der Verwaltung von Wohnungseigentumsanlagen ist die umfassende Betreuung von Miethäusern einer unserer Schwerpunkte.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl.-Ing. K. Zander"
+ ],
+ "managing_directors_evidence": "Gesetzlicher Vertreter Dipl.-Ing. K. Zander",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "HWS is a Berlin property management firm (since 1982) handling WEG and rental-house management, with about 1,500 units including about 500 WEG units.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "Im Verwaltungsbestand befinden sich z.Z rd. 1500 Verwaltungseinheiten (hiervon rd. 500 WEG-Einheiten).",
+ "units_managed": 1500,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hws-hausverwaltung.de/",
+  "services": "http://www.hws-hausverwaltung.de/miethausverwaltung.html",
+  "about": "http://www.hws-hausverwaltung.de/ueber_uns.html"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2020,
+ "founded_evidence": "Gegründet im Februar 2020",
+ "managing_directors": [
+  "Ilan Albeck",
+  "Tim Albeck",
+  "Dominic Schache"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Ilan Albeck Tim Albeck Dominic Schache",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Berlin Altbau developer and seller that buys, renovates and sells apartments, plus sales for third-party owners; no property management offered per the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.albeck-schache.de/",
+  "about": "https://www.albeck-schache.de/about",
+  "services": "https://www.albeck-schache.de/leistungen",
+  "impressum": "https://www.albeck-schache.de/impressum"
+ }
+}

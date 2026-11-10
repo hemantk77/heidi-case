@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Hervorgegangen aus der am 1. Juli 1979 gegründeten Kleistpark-Hausverwaltung",
+ "founded_year": 1979,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Heute verwaltet die UNIVERSA Mieteinheiten in vielen Bezirken Berlins.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jens Jähnig",
+  "Dirk Nickel"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Jens Jähnig, Dirk Nickel",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "Berlin property manager founded 1979 that manages rental units for mainly closed real estate funds, with partner firms for maintenance and facility management; no portal or app or employee count stated.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.universa-hv.de/",
+  "services": "https://www.universa-hv.de/mieterservice.html",
+  "about": "https://www.universa-hv.de/unterseite-1.html",
+  "jobs": "https://www.universa-hv.de/unterseite-3.html",
+  "impressum": "https://www.universa-hv.de/impressum.html"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Berliner MieterGemeinschaft e.V. (BMG) unterstützt das Volksbegehren gegen die Bewerbung Berlins für die Ausrichtung der Olympischen Spiele",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Andreas Hüttner"
+ ],
+ "managing_directors_evidence": "Inhaltlich verantwortlich und vertretungsberechtigt gem. § 5 TMG: Andreas Hüttner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berliner MieterGemeinschaft e.V. is a tenant advocacy association offering rent advice, legal support and campaigns, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bmgev.de/",
+  "jobs": "https://www.bmgev.de/aktuell/olympia-bewerbung-muss-gestoppt-werden",
+  "about": "https://www.bmgev.de/aktuell/landeseigene-wohnungsunternehmen-drehen-an-der-mietpreisschraube",
+  "impressum": "https://www.bmgev.de/impressum"
+ }
+}

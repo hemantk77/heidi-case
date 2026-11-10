@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind akademisch ausgebildete Immobilienspezialisten und beschäftigen uns ausschließlich mit der Verrentung von Immobilien in der Region Berlin-Brandenburg.",
+ "main_business": "other",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Hoffmann"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Andreas Hoffmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Brandenburg firm advising homeowners on property annuity models (Immobilienrente, Verkauf mit Wohnrecht), with no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hoffmann-hausrente.de/",
+  "about": "https://hoffmann-hausrente.de/ueber-uns/",
+  "impressum": "https://www.hoffmann-hausrente.de/impressum/"
+ }
+}

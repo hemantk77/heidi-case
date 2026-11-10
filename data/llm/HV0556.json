@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Marc Petersilge"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marc Petersilge",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "UrbanInvest is a young Berlin company pursuing a buy-and-hold investment strategy in north/east German property, with renovation and development; the site does not describe property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://urban-invest.de/",
+  "about": "http://urban-invest.de/company.html",
+  "services": "http://urban-invest.de/portfolio.html",
+  "impressum": "http://urban-invest.de/imprint.html"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Als Marktführer für landwirtschaftliche Wannenkipper in Deutschland bietet Krampe ein breites Produktportfolio für fast jeden Einsatzzweck.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 250,
+ "employees_evidence": "> 250 Mitarbeiter",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Robin Krampe"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Robin Krampe",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "myKrampe After-Sales Portal",
+ "portal_evidence": "Ihr zentraler Zugang für Service, Ersatzteile und technische Unterstützung.",
+ "segment_note": "The website belongs to Krampe Fahrzeugbau GmbH, a Coesfeld trailer manufacturer, not a Berlin property company; it has no property management offering.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.krampe.de/",
+  "services": "https://www.krampe.de/de/service",
+  "portal": "https://my.krampe.de",
+  "jobs": "https://karriere.krampe.de",
+  "about": "https://www.krampe.de/de/unternehmen",
+  "impressum": "https://www.krampe.de/de/impressum"
+ }
+}

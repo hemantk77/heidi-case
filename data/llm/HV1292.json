@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Maklerteam in Berlin; Immobilienverkauf in Berlin mit KOEPPL Immobilienlotse; Der Immobilienmakler für Wohnimmobilien in Berlin",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Klaus Koeppl"
+ ],
+ "managing_directors_evidence": "Klaus Koeppl\nGeschäftsführer, Dipl. Wirtschaftsingenieur",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "KOEPPL Immobilienlotse is a Berlin real-estate brokerage focused on selling residential properties, with no property management services mentioned on the website.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.koeppl-berlin.de/",
+  "about": "https://www.koeppl-berlin.de/team",
+  "services": "https://www.koeppl-berlin.de/immobilienangebote/",
+  "portal": "https://www.koeppl-berlin.de/unsere-strategie/",
+  "impressum": "https://www.koeppl-berlin.de/impressum/"
+ }
+}

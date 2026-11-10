@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir entwickeln Immobilien – im Bestand und Neubau",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "Seit 2011 entwickeln wir als inhabergeführte Unternehmensgruppe Immobilienprojekte in der Metropolregion Berlin.",
+ "managing_directors": [
+  "Julian Helm",
+  "Nedeljko Prodanovic"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Julian Helm, Nedeljko Prodanovic",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Stonehedge is an owner-operated Berlin group that develops, renovates and sells residential properties (Bestand and Neubau); the site does not mention property management services.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.stonehedge.de/",
+  "about": "https://www.stonehedge.de/unternehmen/",
+  "jobs": "https://www.stonehedge.de/karriere/",
+  "impressum": "https://www.stonehedge.de/impressum/"
+ }
+}

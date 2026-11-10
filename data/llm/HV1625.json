@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Natalia Müller"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Kauffrau Natalia Müller",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "NGB buys, develops and sells residential and commercial properties in Berlin and Brandenburg, brokers owner-occupier and investment apartments, and advises institutional investors on site selection; the website does not describe property management for third parties.",
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "managing_directors_evidence_full": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ngb-immobilien.de/",
+  "about": "http://ngb-immobilien.de/ueber-uns/",
+  "services": "http://ngb-immobilien.de/dienstleistungen/",
+  "impressum": "http://ngb-immobilien.de/impressum/"
+ }
+}

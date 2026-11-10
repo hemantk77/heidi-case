@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung in und um Berlin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "Seit 1998 betreuen wir Sie dabei.",
+ "managing_directors": [
+  "Frauke Weber"
+ ],
+ "managing_directors_evidence": "Frauke Weber Hausverwaltung & Immobilien",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1998) offering WEG, rental and technical/commercial administration plus brokerage, with no portal or unit counts stated.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hvweber.de/",
+  "services": "http://hvweber.de/leistungen-2/",
+  "about": "http://hvweber.de/ueber-uns-2/",
+  "impressum": "http://hvweber.de/impressum-2/"
+ }
+}

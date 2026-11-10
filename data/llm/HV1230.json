@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Kerstin Anders",
+  "Alexandra Stammer"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dr. Kerstin Anders Alexandra Stammer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlinovo is a municipally owned Berlin housing company whose website focuses on furnished apartments and rentals (Wohnen auf Zeit), with a service center and some property-administration offices (Verwaltung) listed.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berlinovo.de/",
+  "impressum": "http://www.berlinovo.de/de/impressum-0",
+  "services": "http://www.berlinovo.de/de/wohnungen/fairpoint-ihr-servicecenter",
+  "about": "http://www.berlinovo.de/de/apartments/team",
+  "jobs": "http://www.berlinovo.de/de/karriere-info"
+ }
+}

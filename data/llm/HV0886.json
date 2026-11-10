@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAMKON GmbH – das sind über 30 Jahre Expertise in der Wohneigentums- und Hausverwaltung mit zufriedenen Kunden im Süden Berlins.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 10,
+ "employees_evidence": "Mitarbeiterinnen und Mitarbeiter10",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stefan Ziesecke",
+  "Torsten Wendler"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Stefan Ziesecke Torsten Wendler",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskosten- und Hausgeldabrechnung",
+ "portal_or_app": "HOMECASE",
+ "portal_evidence": "HOMECASE ist im Browser und als App erreichbar: Eigentümer sehen tagesaktuelle Berichte und Abrechnungen, Mieter melden Schäden über ein kurzes Formular.",
+ "segment_note": "Berlin Köpenick property manager (WEG and rental, plus brokerage) with about 10 staff, offering owner/tenant portal HOMECASE.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hamkon.de/",
+  "about": "https://www.hamkon.de/ueber-uns",
+  "services": "https://www.hamkon.de/verwaltung",
+  "impressum": "https://www.hamkon.de/impressum"
+ }
+}

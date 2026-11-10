@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sie suchen eine neue Hausverwaltung für Ihre Objekte in Berlin oder im Berliner Umland? Wir verwalten für Sie:",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heike Neubert-Eisemann",
+  "Michael Zehden",
+  "Leon Zehden"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Heike Neubert-Eisemann, Michael Zehden, Leon Zehden",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "A-Z Service & Consulting GmbH is a Berlin property manager offering commercial and residential management (Mehrfamilienhäuser, Gewerbeobjekte, Eigentumswohnungen) with technical and commercial administration.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hcc-berlin.de/",
+  "impressum": "https://www.a-z-service.de/impressum.htm"
+ }
+}

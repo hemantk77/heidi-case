@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für Hausverwaltungen und Eigentümer bieten wir eine 24 Stunden Betreuung ihrer Immobilien.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "seit 1998 bestehender Handwerksmeisterbetrieb",
+ "managing_directors": [
+  "Torsten Lauschke"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Geschäftsführer Torsten Lauschke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg plumbing and heating craft business (SHK) that offers 24-hour service to property managers and owners, but no property management services as such.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://t-lauschke.de/",
+  "jobs": "https://t-lauschke.de/karriere",
+  "impressum": "https://t-lauschke.de/impressum"
+ }
+}

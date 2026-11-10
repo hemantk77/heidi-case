@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Ihr Immobilienmakler in Berlin. Ihr Immobilienmakler Berlin Keine Kosten, bis Ihr Kaufpreis da ist.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jebo Samuels",
+  "Stephan Brüning"
+ ],
+ "managing_directors_evidence": "Inhaber und vertretungsberechtigte Geschäftsführer: Jebo Samuels, Stephan Brüning",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "QUIN is a Berlin real estate brokerage focused on selling residential and commercial properties for owners, with no property management services shown on the website.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.quininvestment.com/",
+  "services": "https://quininvestment.com/leistungen",
+  "about": "https://quininvestment.com/ueber-uns/",
+  "impressum": "https://quininvestment.com/impressum"
+ }
+}

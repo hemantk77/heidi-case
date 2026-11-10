@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir, die Möller & Peper GmbH, verwalten seit mehr als zehn Jahren Wohnimmobilien in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Julius Gunnemann"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführung: Julius Gunnemann",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) for residential properties, offering WEG and Mieterverwaltung, also doing renovation and ownership.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://moeller-peper.de/",
+  "about": "https://www.moeller-peper.de/wer-wir-sind",
+  "services": "https://www.moeller-peper.de/angebot",
+  "impressum": "https://www.moeller-peper.de/impressum"
+ }
+}

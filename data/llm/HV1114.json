@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Marco Pipiale"
+ ],
+ "managing_directors_evidence": "Verantwortlich: WKM Wohnkonzept Management GmbH Marco Pipiale",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "WKM Wohnkonzept Management GmbH is a Berlin company whose homepage is under reconstruction and states no business services, so its property management activity cannot be confirmed from the text.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wkm.berlin/"
+ }
+}

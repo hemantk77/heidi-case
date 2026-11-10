@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Betreuung und Pflege von Grundstücken stellen unser Kerngeschäft dar.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Winkler"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer Herr Andreas Winkler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Hausservice Winkler GmbH is a building-services and caretaking firm (Objektbetreuung, cleaning, repairs, green-space care) serving housing companies and private clients in Berlin and Brandenburg; it does not state it offers property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausservice-winkler-gmbh.com/",
+  "services": "http://www.hausservice-winkler-gmbh.com/Unsere-Leistung",
+  "about": "http://www.hausservice-winkler-gmbh.com/Jobs-in-unserem-Team",
+  "jobs": "http://www.hausservice-winkler-gmbh.com/Jobs-in-unserem-Team",
+  "impressum": "http://www.hausservice-winkler-gmbh.com/Impressum"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Als neu gegründetes Unternehmen vereinen wir jahrelange Branchenerfahrung",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung: Vollständige Verwaltung Ihres Gebäudes — von der Organisation des Hausbetriebs bis zur Kommunikation mit Behörden und Dienstleistern.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Nicole Wilde",
+  "Petra Ciecholewski"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Nicole Wilde, Petra Ciecholewski",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Pelagos Immobilien GmbH is a newly founded Berlin property management firm offering Hausverwaltung and Mietverwaltung, run by two managing directors.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://pelagos-immobilien.de/",
+  "impressum": "https://pelagos-immobilien.de/impressum"
+ }
+}

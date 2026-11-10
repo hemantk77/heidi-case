@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Für die Bauwerkstrockenlegung bieten wir Ihnen eine gründliche Ursachenanalyse und die Behebung des Schadens mit dem passenden Verfahren an.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "K+K Ingenieurbau is a building-specialist firm offering damp-proofing, drying, and concrete/structural repair in Berlin, Potsdam and Birkenwerder; it does not offer property management.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kk-ingbau.de/",
+  "about": "https://www.kk-ingbau.de/ueber-uns/",
+  "jobs": "https://www.kk-ingbau.de/ueber-uns/karriere/",
+  "services": "https://www.kk-ingbau.de/kontakt/",
+  "impressum": "https://www.kk-ingbau.de/impressum/"
+ }
+}

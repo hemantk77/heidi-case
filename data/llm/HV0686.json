@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten die Immobilien unserer Kunden von A-Z",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 2,
+ "employees_evidence": "besteht derzeit aus 2 Mitarbeitern.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heike Froese"
+ ],
+ "managing_directors_evidence": "Heike Froese\nJ1 Immobilien Verwaltung",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Vorbereitung, Erstellung und Prüfung von Nebenkosten- und Wohngeldabrechnungen und Wirtschaftsplänen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (2 staff, owner-operated since 2024) offering WEG, rental and commercial management, including utility and service-charge statements.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.j1-immobilien.de/",
+  "about": "https://www.j1-immobilien.de/uber-uns/",
+  "services": "https://www.j1-immobilien.de/unsere-leistungen/",
+  "impressum": "https://www.j1-immobilien.de/impressum/"
+ }
+}

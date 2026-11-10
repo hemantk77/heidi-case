@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als zertifizierte Makler durch die Mitgliedschaft im Immobilienverband Deutschland (IVD) erfüllen wir hohe Qualitätsanforderungen",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2019,
+ "founded_evidence": "Gründung unseres Unternehmens im Jahr 2019",
+ "managing_directors": [
+  "Sonja Bream"
+ ],
+ "managing_directors_evidence": "Inhaberin: Sonja Bream",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "Berlin-West real estate brokerage (sales and purchase advisory, Gatow, Kladow, Staaken area) founded 2019; no property management offered on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://breamimmobilien.de/",
+  "services": "https://www.breamimmobilien.de/eigentuemer/leistungen-fuer-senioren/",
+  "about": "https://www.breamimmobilien.de/ueber-uns/",
+  "impressum": "https://www.breamimmobilien.de/impressum/"
+ }
+}

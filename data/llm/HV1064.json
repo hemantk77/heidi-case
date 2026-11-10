@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung ... WEG - Verwaltung / zertifiziert nach §26a WEG ... Miethausverwaltung ... Sondereigentumsverwaltung ... Gewerbeverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jeremy Zimmer"
+ ],
+ "managing_directors_evidence": "Jeremy Zimmer Immobilien Kreutzwaldstraße 10A 14089 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "casavi",
+ "portal_evidence": "Portalzugang",
+ "segment_note": "Berlin-based family-run firm offering WEG, rental, special-property and commercial property management plus brokerage, with a tenant/owner portal.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.jeremyzimmer-immobilien.de/",
+  "services": "https://www.jeremyzimmer-immobilien.de/leistungen",
+  "portal": "https://portal.jeremyzimmer-immobilien.de/app/login",
+  "impressum": "https://www.jeremyzimmer-immobilien.de/impressum"
+ }
+}

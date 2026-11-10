@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Miet- und Gewerbeobjekten sowie von Wohnungs- und Teileigentum.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "HOWE Immobilien wurde 1999 von Henry Neil Howe gegründet",
+ "managing_directors": [
+  "Henry Neil Howe"
+ ],
+ "managing_directors_evidence": "Inh. Henry Neil Howe",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Mitte real estate firm founded 1999 offering brokerage, valuation and property management (Miet-, Gewerbe- and Sondereigentumsverwaltung) for owners and landlords.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.howe-immo.de/",
+  "about": "https://howe-immo.de/ueber-uns",
+  "services": "https://howe-immo.de/leistungen",
+  "impressum": "https://howe-immo.de/impressum"
+ }
+}

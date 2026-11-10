@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Bayerische Hausbau Real Estate umfasst das professionelles Asset und Property Management für die eigenen Bestandsimmobilien in den Bereichen Wohnen, Büro,…",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gordon Gorski",
+  "Stefan Pelkofer"
+ ],
+ "managing_directors_evidence": "Persönlich haftender Gesellschafter der Bayerische Hausbau GmbH & Co. KG ist die Bayerische Hausbau Management GmbH, München (AG München HRB 148901), vertreten durch die Geschäftsführer Gordon Gorski und Stefan Pelkofer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Munich-based group (Bayerische Hausbau, Pullach) with a development arm and a Real Estate arm doing asset and property management for its own portfolio; no Berlin-specific business or unit counts found.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausbau.de/",
+  "impressum": "https://www.hausbau.de/impressum"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind Wünscheerfüller und Büroweltverbesserer mit exzellenten Services an Ihrer Seite",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 110,
+ "buildings_evidence": "derzeit etwa 110 betreuten Objekten an 10 Standorten",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "wir bieten seit 2009 deutschlandweit maßgeschneiderte Concierge Services und Empfangsdienste an",
+ "managing_directors": [
+  "Felix von Braun"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Felix von Braun",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "RAS Service App",
+ "portal_evidence": "RAS Service App - Ihr digitaler Concierge von RAS Services",
+ "segment_note": "RAS Services is a Berlin-based concierge, reception and facility service provider (Tochter der DPF Group) that offers no property management itself, with about 110 managed properties and a resident/tenant service app.",
+ "founded_year_rejected": 2009,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ras-services.de/",
+  "services": "https://ras-services.de/concierge-services/",
+  "about": "https://ras-services.de/unternehmen/",
+  "jobs": "https://ras-services.de/karriere/",
+  "portal": "https://ras-services.de/service-app/",
+  "impressum": "https://ras-services.de/impressum/"
+ }
+}

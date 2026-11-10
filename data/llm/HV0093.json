@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Das Kerngeschäft der Ambiente Immobilienverwaltungs GmbH liegt in der Verwaltung von Mehrfamilienhäusern sowie Wohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": 240,
+ "units_evidence": "Wir verwalten derzeit ca. 240 Wohneinheiten und ca. 4.000 m² Gewerbeflächen.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "wurde im Jahr 2006 gegründet",
+ "managing_directors": [
+  "Holger Burr"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Holger Burr",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (founded 2006) handling about 240 residential units and 4,000 m² commercial space for multi-family and mixed-use buildings, also offering brokerage and renovation.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ambiente-gmbh.eu/",
+  "services": "https://ambiente-gmbh.eu/unser-service/hausverwaltung/",
+  "about": "https://ambiente-gmbh.eu/ueber-uns/unternehmen/",
+  "jobs": "https://ambiente-gmbh.eu/ueber-uns/karriere/",
+  "impressum": "https://ambiente-gmbh.eu/impressum"
+ }
+}

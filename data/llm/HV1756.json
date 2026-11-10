@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Von der WEG-Verwaltung bis zur Sondereigentumsverwaltung: Wir bieten maßgeschneiderte Lösungen für eine professionelle und sorgenfreie Immobilienverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": 1500,
+ "units_evidence": "1.500 Einheiten in Berlin",
+ "buildings_managed": 30,
+ "buildings_evidence": "30 Wohnanlagen",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stefan Merten"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Stefan Merten",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "proplink is a Berlin company offering WEG, rental and commercial property management alongside asset management, transactions and a digital asset business; it manages about 1,500 units across 30 residential complexes.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.proplink.de/",
+  "services": "https://proplink.de/de/management",
+  "about": "https://proplink.de/de/about",
+  "impressum": "https://proplink.de/de/imprint"
+ }
+}

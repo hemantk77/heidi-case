@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung/ Bewirtschaftung (Propertymanagement)",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peter Losen"
+ ],
+ "managing_directors_evidence": "Vorsitzender des Vorstandes: Peter Losen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Berlin real-estate firm offering property management (Propertymanagement) alongside sales, project management and asset management, with a customer portal; no unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://wohnbar.ag/",
+  "services": "https://wohnbar.ag/wohnungsangebote/",
+  "about": "https://wohnbar.ag/ueber-uns/",
+  "impressum": "https://wohnbar.ag/impressum/"
+ }
+}

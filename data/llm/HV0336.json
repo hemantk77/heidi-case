@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jörg Jankowski"
+ ],
+ "managing_directors_evidence": "Herzlichst, Ihr Jörg Jankowski",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Jankowski Hausverwaltung is a property management firm that manages residential and commercial buildings, with fee based on rent payments received; the site gives no unit or building counts.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://jankowski-hausverwaltung.de/",
+  "services": "https://jankowski-hausverwaltung.de/?page_id=188"
+ }
+}

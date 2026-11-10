@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir Verkaufen und Vermieten Ihre Immobilien erfolgreich!",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1994,
+ "founded_evidence": "Am Berliner Immobilienmarkt sind wir seit 1994 tätig",
+ "managing_directors": [
+  "Alexandra Georg",
+  "Andreas Georg"
+ ],
+ "managing_directors_evidence": "Inhaber: Alexandra Georg und Andreas Georg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Georg Immobilien is a Berlin-Prenzlauer Berg brokerage focused on selling and renting properties, with no property management services listed on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.georgimmobilien.com/",
+  "about": "https://www.georgimmobilien.com/ihr-makler-berlin",
+  "services": "https://www.georgimmobilien.com/top-immobilienmakler-berlin",
+  "impressum": "https://www.georgimmobilien.com/impressum"
+ }
+}

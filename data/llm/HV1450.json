@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Langjährige Erfahrung in der Verwaltung von Immobilien, von großen Wohnanlagen bis hin zu kleinen WEGs",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "4 Stones GmbH is a Berlin company offering property management (WEG and residential) plus facility management and renovation, and says it manages properties for owners and Beiräte via an online cloud.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 1,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.4stones.gmbh/",
+  "about": "https://www.4-stones.de/ueber-uns",
+  "services": "https://www.4-stones.de/verwaltung",
+  "impressum": "https://www.4-stones.de/impressum"
+ }
+}

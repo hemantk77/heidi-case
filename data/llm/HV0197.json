@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten die Dienstleistungen Mietverwaltung, Gewerbeverwaltung, WEG-Verwaltung und Sonderverwaltung an.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "Die LIVVE Verwaltungs GmbH ist im Juli 2015 gegründet worden",
+ "managing_directors": [
+  "Carmen Engler",
+  "Eric Engler"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin   Carmen Engler\n Geschäftsführer   Eric Engler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Wir ermitteln Betriebskosten, rechnen transparent mit den Mietern und Jahresabschlüsse mit Eigentümern ab.",
+ "portal_or_app": "LiVVE APP",
+ "portal_evidence": "DIE LIVVE APP",
+ "segment_note": "Berlin and Frankfurt/Oder property manager offering rental, commercial, WEG and special-property management, founded 2015 and with its own LiVVE app.",
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://livve.eu/",
+  "about": "http://livve.eu/ueber-uns/",
+  "services": "http://livve.eu/service/",
+  "impressum": "http://livve.eu/impressum/"
+ }
+}

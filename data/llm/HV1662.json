@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellen der Betriebskosten- und Heizkostenabrechnung für die Mieter",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die WHV  Verwaltungs  &  Betreuungs  GmbH mit Sitz in Berlin und Halle ist ein  innovatives  Unternehmen mit dem Fokus auf die ganzheitliche Betrachtung der Immobilienverwaltung- und  betreuung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Rainer Uhde",
+  "Oliver Nee"
+ ],
+ "managing_directors_evidence": "Geschäftsführung:\nRainer Uhde\nOliver Nee",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin and Halle property manager (40 years experience, 12,000+ units) offering residential rental and WEG management with in-house heating and operating cost billing.",
+ "units_managed": 12000,
+ "units_evidence": "12.000+ verwaltete Einheiten",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://whv-verwaltung.de/",
+  "services": "https://whv-verwaltung.de/leistungen/",
+  "about": "https://whv-verwaltung.de/ueber-uns/",
+  "impressum": "https://whv-verwaltung.de/impressum/"
+ }
+}

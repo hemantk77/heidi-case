@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Seit unserer Gründung im Jahr 2009 zählt Trockland zu den führenden Unternehmen in der Immobilienentwicklung und -verwaltung.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit unserer Gründung im Jahr 2009 zählt Trockland zu den führenden Unternehmen in der Immobilienentwicklung und -verwaltung.",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Yeheskel Nathaniel",
+  "Neophytos Stylianou"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Yeheskel Nathaniel, Neophytos Stylianou",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Trockland Management GmbH is a real estate developer and manager founded in 2009, with commercial and residential spaces (e.g., Funkytown, Herzberg-Campus) mainly in Berlin; it also lists a Property Manager job.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.trockland.com/",
+  "about": "https://trockland.com/team/",
+  "jobs": "https://trockland.com/jobs/",
+  "impressum": "https://trockland.com/impressum/"
+ }
+}

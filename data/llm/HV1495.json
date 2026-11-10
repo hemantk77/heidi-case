@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Unternehmen ZABEL GROUP wird von Herrn Meiwes geführt und stellt sich den Herausforderungen des sich wandelnden Marktes, der ökonomischen Verantwortung und setzt sich hohe Ziele in Sachen Qualität und Einhaltung der Kundenzufriedenheit.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1988,
+ "founded_evidence": "Das Unternehmen wurde 1988 von Herrn Zabel in Magdeburg gegründet",
+ "managing_directors": [
+  "Peter Meiwes"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: Peter Meiwes",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Zabel Group (incl. ibr Gebäudemanagement Berlin branch) is a facility management provider offering infrastructural, handwerkliche, technische and logistische services, with no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ibr-gm.de/",
+  "about": "https://zabel-group.de/unternehmen/",
+  "jobs": "https://zabel-group.de/karriere/",
+  "impressum": "https://zabel-group.de/impressum/"
+ }
+}

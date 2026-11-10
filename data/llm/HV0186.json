@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Rings Immobilien- und Grundstücksverwaltung GmbH betreut Eigentümergemeinschaften, Mietobjekte sowie Wohn- und Gewerbeimmobilien in Berlin, Potsdam und dem Berliner Umland.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hatice Kirlangic"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Frau Hatice Kirlangic",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (WEG and rental management, plus commercial properties) based in Charlottenburg, with 25 years of team experience stated on the homepage; no unit counts or portal listed.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.rings-immobilien.de/",
+  "services": "https://www.rings-immobilien.de/weg-verwaltung.html",
+  "about": "https://www.rings-immobilien.de/ueber-uns.html",
+  "impressum": "https://www.rings-immobilien.de/impressum.html"
+ }
+}

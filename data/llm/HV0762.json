@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG- Verwaltung Mietverwaltung Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ralf Wahrenberg"
+ ],
+ "managing_directors_evidence": "Ralf Wahrenberg Immobilien- Management- Consultant (IHK)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenbereich",
+ "portal_evidence": "In unserem geschützten Online- Kundenbereich haben Sie jederzeit Zugang zu Informationen rund um Ihre Wohnanlage.",
+ "segment_note": "Small property manager based in Soltendieck (Lüneburg Heath), offering WEG, rental and special-property management with an online customer area.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-wahrenberg.de/",
+  "services": "https://www.hausverwaltung-wahrenberg.de/weg-verwaltung/",
+  "impressum": "https://www.hausverwaltung-wahrenberg.de/about/",
+  "about": "https://www.hausverwaltung-wahrenberg.de/about/"
+ }
+}

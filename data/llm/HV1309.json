@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immo360° - mehr als ein Makler",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Clemens Teske",
+  "Jens Kelpin"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Herr Clemens Teske Herr Jens Kelpin",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin/Brandenburg real estate brokerage (sale, purchase, valuation) with no property management offering on the site.",
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immo360grad.de/",
+  "about": "https://www.immo360grad.de/kontakt/",
+  "jobs": "https://www.immo360grad.de/jobs/",
+  "services": "https://www.immo360grad.de/immobilie-kaufen/",
+  "impressum": "https://www.immo360grad.de/impressum/"
+ }
+}

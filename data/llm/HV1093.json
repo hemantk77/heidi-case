@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Derk Wurster",
+  "Tibor Wurster"
+ ],
+ "managing_directors_evidence": "WohnKultur Immobilien – Derk u. Tibor Wurster GbR",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WohnKultur Immobilien is a Berlin rental and sales brokerage (residential and commercial units) run by the Wurster GbR; the site shows no property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wohnkultur-immobilien.de/",
+  "jobs": "https://www.wohnkultur-immobilien.de/jobscareers/",
+  "impressum": "https://www.wohnkultur-immobilien.de/impressum/"
+ }
+}

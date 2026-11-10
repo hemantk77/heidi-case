@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Hausmeisterservice, Gebäudereinigung, Gartenpflege, Abfallmanagement, Winterdienst",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Punt"
+ ],
+ "managing_directors_evidence": "Vertreten durch : Alexander Punt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin facility services company offering caretaking, cleaning, garden care, waste management and winter service; no property management offered per website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.quadrat-facility.com/",
+  "about": "https://www.quadrat-facility.com/ueber-uns/",
+  "services": "https://www.quadrat-facility.com/leistungen/",
+  "jobs": "https://www.quadrat-facility.com/ueber-uns/",
+  "impressum": "https://www.quadrat-facility.com/impressum/"
+ }
+}

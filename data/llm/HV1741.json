@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "CasaService bietet Ihnen professionelles Management von Wohn- und Geschäftshäusern in Berlin und Brandenburg.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Steffen Oberst"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Dipl.-Kfm. Steffen Oberst",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieter-Portal",
+ "portal_evidence": "In unserem Mieter-Portal finden Sie ausführliche Informationen zu allen gängigen Themen rund um Ihr Mietverhältnis.",
+ "segment_note": "CasaService Berlin GmbH is a Berlin property management company offering management of residential and commercial buildings in Berlin and Brandenburg, with a tenant portal.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://casaservice-berlin.de/",
+  "impressum": "https://casaservice-berlin.de/impressum.html"
+ }
+}

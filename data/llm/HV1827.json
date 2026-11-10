@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dirk Lönnecker",
+  "Thorsten Schmitt"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dirk Lönnecker, Thorsten Schmitt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin housing company (Wohnungsbaugesellschaft) whose website covers only data protection, PR and personnel; it says nothing about property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gilde-heimbau.de/",
+  "impressum": "https://gilde-heimbau.de/impressum-gilde-heimbau/"
+ }
+}

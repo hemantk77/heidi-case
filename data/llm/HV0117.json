@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": "Im Geschäftsbereich Hausverwaltung betreuen wir gegenwärtig rd. 1.730 Wohn- und Gewerbeeinheiten in rd. 100 Objekten.",
+ "buildings_managed": 100,
+ "employees": 20,
+ "employees_evidence": "Mit unseren 20 festangestellten und qualifizierten Mitarbeitern und Mitarbeiterinnen sind wir jederzeit in der Lage",
+ "founded_evidence": "Seit über 40 Jahren Ihr professioneller Immobilienverwalter in Berlin und Brandenburg",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 1998 konzentrieren wir uns auf die Hausverwaltung und die Verwaltung Geschlossener Immobilienfonds.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dirk Wernecke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Dipl.-Kfm (FH) Dirk Wernecke",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung and closed-fund management) with about 1,730 units in about 100 properties and 20 staff, active since 1998 (company says over 40 years in business).",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": "Im Geschäftsbereich Hausverwaltung betreuen wir gegenwärtig rd. 1.730 Wohn- und Gewerbeeinheiten in rd. 100 Objekten.",
+ "units_managed": 1730,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.upmeier-wohnungsbau.de/",
+  "about": "https://www.upmeier-wohnungsbau.de/ueber-uns",
+  "services": "https://www.upmeier-wohnungsbau.de/unsere-leistungen",
+  "impressum": "https://www.upmeier-wohnungsbau.de/impressum"
+ }
+}

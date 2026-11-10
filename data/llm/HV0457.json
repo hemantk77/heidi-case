@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein Familienbetrieb, welcher aus langjähriger Erfahrung sowie frischer und vielfältiger Kompetenz erwachsen ist.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1994,
+ "founded_evidence": "Seit 1994 Angestellter in der Hausverwaltung",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin property management firm (Hausverwaltung Zimmer) with no stated unit or building counts, no portal, and no heating-billing service mentioned on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-zimmer.de/",
+  "services": "https://www.hausverwaltung-zimmer.de/service.htm"
+ }
+}

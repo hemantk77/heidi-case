@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine mittelständische Hausverwaltung und im Verwaltungsbereich in Berlin und Dresden seit 1988 tätig.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": 2800,
+ "units_evidence": "verwalten ca. 2800 Wohneinheiten in Berlin und ca. 400 Wohneinheiten in Dresden.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 12,
+ "employees_evidence": "Wir beschäftigen 12 Mitarbeiter",
+ "founded_year": 1988,
+ "founded_evidence": "seit 1988 tätig",
+ "managing_directors": [],
+ "managing_directors_evidence": "Geschäftsführer Ulrich Panknin (Impressum); Geschäftsführer Wolfgang Klett (Kontakt page)",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Die Abrechnungen erfolgen computerunterstützt, es besteht eine eigene technische Abteilung für den Bereich Mängelbeseitigung.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Mid-sized Berlin and Dresden property manager (since 1988) with about 2,800 units in Berlin and 400 in Dresden, offering legal advice and in-house billing; no portal mentioned.",
+ "managing_directors_rejected": [
+  "Wolfgang Klett",
+  "Ulrich Panknin"
+ ],
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.quadrat-gmbh.de/",
+  "about": "http://www.quadrat-gmbh.de/unternehmen.htm",
+  "services": "http://www.quadrat-gmbh.de/kontakt.htm",
+  "impressum": "http://www.quadrat-gmbh.de/impressum.htm"
+ }
+}

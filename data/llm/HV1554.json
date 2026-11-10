@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Management: Vertragsmanagement · Forderungsmanagement · Projektmanagement · Objektbetreuung/Hausverwaltung · Fuhrparkservice",
+ "main_business": "other",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 20,
+ "employees_evidence": "Unser 20-köpfiges Team schafft Ordnung",
+ "founded_year": 2016,
+ "founded_evidence": "gegründet 2016",
+ "managing_directors": [
+  "Liane Samassa-Fandrich",
+  "Nicole Thurow"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Liane Samassa-Fandrich\nProkuristin: Nicole Thurow",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Abrechnung: Erstellen von Angeboten · Ausstellen von Lieferscheinen · Rechnungslegung · Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin back-office provider offering accounting, payroll, and office management, with a small Hausverwaltung/Objektbetreuung offering among its services.",
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.strukturschmiede.berlin/",
+  "about": "https://strukturschmiede.berlin/ueber-uns/",
+  "services": "https://strukturschmiede.berlin/leistungen/",
+  "jobs": "https://strukturschmiede.berlin/karriere/",
+  "impressum": "https://strukturschmiede.berlin/impressum/"
+ }
+}

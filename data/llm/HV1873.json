@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1992,
+ "founded_evidence": "seit 1992",
+ "managing_directors": [
+  "Diana Martin"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Diana Martin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin commercial real estate brokerage, business succession and asset management firm (since 1992), with a pawn lending business; no property management for third parties is described.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vubgmbh.de/",
+  "about": "https://vubgmbh.de/unternehmen/",
+  "services": "https://vubgmbh.de/vermoegensverwaltung/",
+  "impressum": "https://vubgmbh.de/impressum/"
+ }
+}

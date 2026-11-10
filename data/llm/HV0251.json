@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "atoz Property Management ist Ihr Partner für die Betreuung von Wohn- und Gewerbeimmobilien und -portfolios nach institutionellen Standards.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "1996 Gründung als ALBA Kreislaufwirtschaft – Entsorgungskonzepte und Dienstleistungen",
+ "managing_directors": [
+  "Mirko Förster",
+  "Florian Haase"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Mirko Förster, Florian Haase",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "atoz Property Management is a Berlin-based property manager serving institutional investors and private owners nationwide, offering commercial and technical property management plus accounting and reporting.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://atoz-pm.de/",
+  "services": "https://atoz-pm.de/service/",
+  "about": "https://atoz-pm.de/ueber-uns/",
+  "impressum": "https://atoz-pm.de/impressum/"
+ }
+}

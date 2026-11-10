@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Anfangs war unser Augenmerk hauptsächlich auf die Verkaufsfähigkeit unserer Liegenschaftsprojekte im Osten von Berlin gerichtet. ... Seit einigen Jahren sind nicht mehr nur vereinigungsbedingte Aufgaben zu erfüllen.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "seit 1991",
+ "managing_directors": [
+  "Ingolf Rosemann",
+  "Uwe Becker"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ingolf Rosemann, Uwe Becker",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BaBeg GmbH is a Berlin firm (since 1991) focused on heir research, asset recovery and project development, with no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.babeg.de/",
+  "about": "https://www.babeg.de/about",
+  "impressum": "https://www.babeg.de/impressum"
+ }
+}

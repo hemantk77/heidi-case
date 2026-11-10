@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ganzheitliche Verwaltung von Bürogebäuden",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Benjamin Gröger"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Benjamin Gröger",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Monatliche und jährliche Abrechnungen,",
+ "portal_or_app": null,
+ "segment_note": "German Prop Tech GmbH is a Berlin-based property manager focused on special-purpose and commercial properties, offering Hausverwaltung and Sondereigentumsverwaltung for owners and companies.",
+ "portal_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://germanproptech.com/",
+  "services": "http://germanproptech.com/hausverwaltung",
+  "about": "https://germanproptech.com/ueber-uns/",
+  "impressum": "https://germanproptech.com/datenschutz/"
+ }
+}

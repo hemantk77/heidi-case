@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 8027,
+ "units_evidence": "Anzahl der Wohnungen: 8.027",
+ "buildings_managed": 84,
+ "buildings_evidence": "Anzahl der Wohnanlagen: 84",
+ "employees": 75,
+ "employees_evidence": "Anzahl der Beschäftigten: 75",
+ "founded_year": 1900,
+ "founded_evidence": "Jahr der Gründung: 1900",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mitgliederportal",
+ "portal_evidence": "Mitgliederportal",
+ "segment_note": "Berlin housing cooperative (eG) with about 8,027 apartments in 84 housing estates, primarily managing its own portfolio for members.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bwv-berlin.de/",
+  "about": "https://www.bwv-berlin.de/unternehmensgrunds%C3%A4tze.html",
+  "impressum": "https://www.bwv-berlin.de/impressum-70.html",
+  "services": "https://www.bwv-berlin.de/stellenangebote.html",
+  "jobs": "https://www.bwv-berlin.de/stellenangebote.html"
+ }
+}

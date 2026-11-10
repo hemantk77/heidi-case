@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die STADT UND LAND Wohnbauten-Gesellschaft mbH bewirtschaftet rund 53.300 Wohnungen und über 900 Gewerbeobjekte im eigenen Bestand sowie mehr als 10.000 weitere Wohnungen und über 200 Gewerbeobjekte im Auftrag Dritter",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": 53300,
+ "units_evidence": "Die STADT UND LAND Wohnbauten-Gesellschaft mbH bewirtschaftet rund 53.300 Wohnungen und über 900 Gewerbeobjekte im eigenen Bestand",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1924,
+ "founded_evidence": "Seit 1924 steht die STADT UND LAND Wohnbauten-Gesellschaft mbH für Seriosität und Kompetenz auf dem Berliner Immobilienmarkt.",
+ "managing_directors": [
+  "Natascha Klimek",
+  "Ingo Malter"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Natascha Klimek, Ingo Malter",
+ "heating_billing": "mentions_external_provider",
+ "heating_billing_evidence": "FACILITY-Gesellschaft mbH ... Dienstleister für Hauswarttätigkeiten und Messdienste.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Large municipal housing company in Berlin (founded 1924) managing about 53,300 own apartments plus over 10,000 for third parties, with a subsidiary (WOBEGE) for property management and a facility subsidiary offering metering services.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.stadtundland.de/",
+  "services": "https://stadtundland.de/mieten/angebote-neubau",
+  "jobs": "https://stadtundland.de/karriere/unser-karriereangebot",
+  "about": "https://stadtundland.de/unternehmen/unternehmensportraet",
+  "portal": "https://stadtundland.de/wohnen/stadtundland-magazin/ausgabe-92-september-2027/wenn-nachbarschaft-leben-rettet-die-katretter-app-hilft-dabei",
+  "impressum": "https://stadtundland.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unsere Tätigkeitsschwerpunkte sind Beratung Vermietung Verkauf hochwertiger Wohn- und Gewerbeimmobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Johannes Wegner"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Johannes Wegner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage and consulting firm for rental and sales of high-quality residential and commercial properties; no property management offering stated on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wegner-immoconsult.de/",
+  "about": "https://www.wegner-immoconsult.de/ueberuns",
+  "services": "https://www.wegner-immoconsult.de/aktuelle-angebote",
+  "impressum": "https://www.wegner-immoconsult.de/impressum"
+ }
+}

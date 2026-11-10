@@ -1,0 +1,39 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Unser inhabergeführtes Unternehmen ist im Jahr 2009 gegründet worden.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine Berliner Hausverwaltung, die sich auf die kaufmännische und technische Verwaltung Ihrer Liegenschaft im Raum Berlin/Brandenburg spezialisiert hat.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jozo Ojvan"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jozo Ojvan",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin property manager (Nones GmbH, founded 2009) offering rental, WEG and special-property management plus brokerage and caretaking, with no stated unit count.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.nonesgmbh.com/",
+  "services": "https://nones-hausverwaltung.de/aktuelle-angebote/",
+  "about": "https://nones-hausverwaltung.de/das-unternehmen/",
+  "jobs": "https://nones-hausverwaltung.de/jobs/",
+  "impressum": "https://nones-hausverwaltung.de/impressum/"
+ }
+}

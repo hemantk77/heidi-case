@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Firma Schulz Immobilien ist Ihr starker Partner auf dem Berliner Immobilienmarkt. ... Unser Angebot reicht vom Verkauf von Eigentumswohnungen, Lofts, Dachgeschosswohnungen und Penthäusern, Einfamilienhäusern und Villen über Wohnungen als Kapitalanlage",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christian Schulz"
+ ],
+ "managing_directors_evidence": "Christian Schulz (Inhaber)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-run real estate brokerage focused on selling owner-occupied and investment properties, with no property management offering shown on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.schulz-immobilien.berlin/",
+  "services": "https://schulz-immobilien.berlin/angebote/",
+  "impressum": "https://schulz-immobilien.berlin/impressum/"
+ }
+}

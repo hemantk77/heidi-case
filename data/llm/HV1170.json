@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "CENTRO Immobilien GmbH ist ein Immobilienverwalter. Überwiegend verwalten wir Altbauten in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Volker Pascke"
+ ],
+ "managing_directors_evidence": "Vertreten durch Geschäftsführer: Volker Pascke",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin company that describes itself as a property manager focused on older buildings (Altbauten), and also says it is a landlord and project developer.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.centrogmbh.de/",
+  "impressum": "https://www.centrogmbh.de/impressum.html"
+ }
+}

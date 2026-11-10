@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": "950+\nProperties across Berlin",
+ "buildings_managed": 950,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "2017\nYear founded",
+ "founded_year": 2017,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "We have hundreds of apartments in Germany ( Berlin, Frankfurt am Main) that are managed and exclusively operated by Urban Ground GmbH.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Praneel Redlapalle"
+ ],
+ "managing_directors_evidence": "Legal representative : Praneel Redlapalle",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin-based company that manages and operates rental apartments for tenants and landlords, mainly furnished short/mid-term units for international tenants.",
+ "units_evidence": "We have hundreds of apartments in Germany ( Berlin, Frankfurt am Main) that are managed and exclusively operated by Urban Ground GmbH.",
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.urbanground.de/",
+  "about": "https://urbanground.de/about-us",
+  "impressum": "https://urbanground.de/imprint",
+  "portal": "https://urbanground.de/admin-app/login",
+  "jobs": "https://urbanground.de/careers"
+ }
+}

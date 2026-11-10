@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Makler nach § 34 C Gew. O.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Pavel Obrosov"
+ ],
+ "managing_directors_evidence": "Pavel Obrosov Makler nach § 34 C Gew. O.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": "↗ App",
+ "segment_note": "Everpeak Properties is a Berlin/Spain real-estate brokerage selling and renting residential and commercial properties, with no property management services stated on the website.",
+ "portal_or_app_rejected": "App",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://everpeak-properties.com/",
+  "portal": "https://app.everpeak-properties.com/tenant/search/list?ep_lang=de",
+  "about": "https://everpeak-properties.com/ueber-uns/",
+  "services": "https://everpeak-properties.com/immobilien/",
+  "impressum": "https://everpeak-properties.com/impressum/"
+ }
+}

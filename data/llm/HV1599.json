@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 37,
+ "buildings_evidence": "Aktuell umfasst unser Portfolio rund 37 Objekte mit über 35.000 m² vermietbarer Fläche.",
+ "employees": 10,
+ "employees_evidence": "10 Mitarbeiter",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Rouven Rosenbaum",
+  "Rafael Rosenbaum"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Rouven Rosenbaum und Rafael Rosenbaum (Geschäftsführer)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run real estate investor that acquires, renovates and manages residential properties mainly in Central Germany (Sachsen-Anhalt), with a Berlin office address; the site does not clearly describe third-party property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://rosenbaum-group.de/",
+  "about": "https://www.rosenbaum-group.de/unternehmen/",
+  "impressum": "https://www.rosenbaum-group.de/impressum/"
+ }
+}

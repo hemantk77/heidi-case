@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Immobilienteam hat sich auf die Vermittlung und den Verkauf von Wohnimmobilien spezialisiert",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1999,
+ "founded_evidence": "Familienunternehmen aus Berlin seit 1999",
+ "managing_directors": [
+  "Hartmut Zocholl",
+  "Thomas Zocholl"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Hartmut Zocholl (Geschäftsführer) und Thomas Zocholl (Geschäftsführer)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based certified real-estate brokerage (family business since 1999) focused on selling residential properties; no property management offered on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zocholl-immobilien.de/",
+  "services": "https://www.zocholl-immobilien.de/immobilienangebote",
+  "about": "https://www.zocholl-immobilien.de/ueber-uns",
+  "impressum": "https://www.zocholl-immobilien.de/impressum"
+ }
+}

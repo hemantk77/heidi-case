@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Leistungen umfassen z.B. in der klassischen Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Heiz- und Betriebskostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Henschel Rexmann Hausverwaltung GmbH) serving private owners, BGB partnerships and professional investors, combined with a law firm for tenancy advice; no unit counts stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.buero-rexmann.de/",
+  "services": "https://www.hrhv.de/leistungen/",
+  "about": "https://www.hrhv.de/ueber-uns/"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Engagierte und professionelle Hausverwaltung Immobilienverwaltung ist Vertrauenssache. ... Ob WEG- oder Mietverwaltung, ob Wohnung, Haus oder Gewerbefläche",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HMK is an owner-operated property management firm in Berlin handling WEG and rental management for residential and commercial properties, with a small team.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hmk.berlin/"
+ }
+}

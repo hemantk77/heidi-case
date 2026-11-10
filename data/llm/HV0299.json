@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Rainer Kahl",
+  "Peter Schröer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Rainer Kahl, Peter Schröer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based ImmVePro GmbH operates the UsedomFewos.de site, which brokers holiday apartments on Usedom on behalf of owners; the site does not describe long-term property management.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.usedomfewos.de/",
+  "impressum": "https://www.usedomfewos.de/Impressum.html"
+ }
+}

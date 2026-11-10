@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Capitura GmbH bietet seit 1995 professionelle Dienstleistungen in der Hausverwaltung und Immobilienvermittlung.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "Capitura GmbH bietet seit 1995 professionelle Dienstleistungen in der Hausverwaltung und Immobilienvermittlung.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Login zum Kundenportal der Hausverwaltung",
+ "segment_note": "Capitura GmbH is a Berlin property management and brokerage firm founded in 1995, with a client portal for property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.capitura.de/",
+  "about": "https://www.capitura.de/uber-uns/",
+  "services": "https://www.capitura.de/kundenbereich-verwaltung/",
+  "portal": "https://www.capitura.de/kundenbereich-verwaltung/",
+  "impressum": "https://www.capitura.de/impressum/"
+ }
+}

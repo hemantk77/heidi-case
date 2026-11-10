@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Havika Hausverwaltung - Mietverwaltung · Gewerbeverwaltung · WEG - Verwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": "Geschäftsführender Gesellschafter Björn F. Grieben ... Leitung Property Management Tina Grieben",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Nebenkostenabrechnungen",
+ "portal_or_app": "Kunden-App",
+ "portal_evidence": "Kunden-App - Havika Haus- und Grundbesitzverwaltung",
+ "segment_note": "Berlin property manager (Miet-, Gewerbe- and WEG-Verwaltung) family-run, with a Kunden-App and a Nebenkostenabrechnung service; no unit count stated.",
+ "managing_directors_rejected": [
+  "Björn F. Grieben",
+  "Tina Grieben"
+ ],
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.havika-hausverwaltung.de/",
+  "about": "https://havika-hausverwaltung.de/ueber-uns/",
+  "services": "https://havika-hausverwaltung.de/kaufmaennische-verwaltung/",
+  "portal": "https://havika-hausverwaltung.de/kundenapp/",
+  "jobs": "https://havika-hausverwaltung.de/jobs/",
+  "impressum": "http://www.havika-hausverwaltung.de/impressum/"
+ }
+}

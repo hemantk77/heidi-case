@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmaklertätigkeit - erlaubnispflichtige Tätigkeit nach § 34c Abs. 1 der Gewerbeordnung.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Gerald Beuker",
+  "Markus Gabriel",
+  "Niels Stolzenberg"
+ ],
+ "managing_directors_evidence": "Vorstand: Dipl.-Kfm. (FH) Gerald Beuker FRICS Markus Gabriel MRICS Dipl.-Kfm. Niels Stolzenberg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Angermann is a commercial real estate advisory firm focused on office, industrial/logistics and investment brokerage and leasing, with no property management services found on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.angermann-realestate.de/",
+  "about": "https://www.angermann-realestate.de/immobilienverkauf/team",
+  "jobs": "https://www.angermann-realestate.de/karriere",
+  "services": "https://www.angermann-realestate.de/karriere/stellenangebote",
+  "impressum": "https://www.angermann-realestate.de/impressum"
+ }
+}

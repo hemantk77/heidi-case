@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": "Mit unseren sechs gut ausgebildeten Mitarbeitern und einem umfangreichen Pool aus zuverlässigen Auftragnehmern",
+ "founded_evidence": "Die HKL Schönberg ist im Juli 2001 gegründet worden.",
+ "founded_year": 2001,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Betriebs- und Heizkostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten für unsere Auftraggeber mehr als 900 Wohnungen und Gewerbeeinheiten in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Hilmar Schönberg"
+ ],
+ "managing_directors_evidence": "Hilmar Schönberg HKL Schönberg e.K. Universitätsstraße 2 10117 Berlin",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HKL Schönberg is a Berlin property manager founded in 2001 that manages over 900 residential and commercial units, also offering tenancy brokerage.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Wir verwalten für unsere Auftraggeber mehr als 900 Wohnungen und Gewerbeeinheiten in Berlin.",
+ "units_managed": 900,
+ "employees_rejected": 6,
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hklschoenberg.de/",
+  "services": "http://www.hklschoenberg.de/leistungen.htm",
+  "impressum": "http://www.hklschoenberg.de/impressum.htm",
+  "portal": "http://www.hklschoenberg.de/login.htm"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere freundliche, kleine Hausverwaltung hat immer ein offenes Ohr für die Sorgen ihrer Mieter",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Anke Morgenroth",
+  "David Lapawczyk"
+ ],
+ "managing_directors_evidence": "Inhaber: Anke Morgenroth & David Lapawczyk",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (Lapawczyk & Morgenroth GbR) run by two owners, offering rental management for a handful of listed properties in Berlin.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvw-morgenroth.de/",
+  "impressum": "https://www.hvw-morgenroth.de/impressum"
+ }
+}

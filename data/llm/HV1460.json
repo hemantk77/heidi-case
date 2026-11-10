@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Lianeo ist eine übergreifende Plattform für Asset Management, Property Management, Facility Management und Leasing Management.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 38,
+ "buildings_evidence": "Als Immobilienmanager von verschiedenen Portfolien, u.a. dem deutschen, mit 2 Mrd. Euro bewertete, Portfolio von Vivion mit 38 Objekten in Deutschland",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sven Scharke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Herr Sven Scharke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Lianeo Real Estate is a Berlin commercial real estate firm offering integrated asset, property, facility and leasing management, mainly for office, commercial and retail properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lianeo.de/",
+  "about": "https://lianeo.de/unternehmen/",
+  "jobs": "https://lianeo.de/karriere/",
+  "impressum": "https://lianeo.de/impressum/"
+ }
+}

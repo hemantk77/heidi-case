@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die KONJO übernimmt Verwaltungsaufgaben in folgenden Bereichen: Leistungsbeschreibung für die Immobilienverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "Unsere Gesellschaft wurde 2002 gegründet.",
+ "managing_directors": [
+  "Ralf M. Jochimsen",
+  "Rolf Thinius"
+ ],
+ "managing_directors_evidence": "Vertreten durch Ralf M. Jochimsen Rolf Thinius",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Ermittlung der Heiz-, Warmwasser- und Betriebskosten und Abrechnung der Umlagen gegenbüber den Mietern",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager founded 2002 handling commercial properties, subsidized and private apartments in Berlin, plus care homes in other German states and fund management, including heating and utility billing for tenants.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.konjo.de/",
+  "services": "http://www.konjo.de/service.php",
+  "about": "http://www.konjo.de/ueberuns.php",
+  "impressum": "http://www.konjo.de/impressum.php"
+ }
+}

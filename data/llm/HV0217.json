@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Hausverwaltung - HELMUT GREUEL e. K.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Leif Erik Lorenzen"
+ ],
+ "managing_directors_evidence": "Inhaber: Leif Erik Lorenzen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property management firm (Hausverwaltung, e.K., owner Leif Erik Lorenzen) licensed as Wohnimmobilienverwalter; website is currently under construction with few details on portfolio size.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hv-greuel.de/",
+  "impressum": "https://www.hv-greuel.de/impressum/"
+ }
+}

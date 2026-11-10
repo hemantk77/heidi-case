@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir übernehmen die kaufmännische, technische und organisatorische Verwaltung von Wohn- und Geschäftshäusern, Wohnungseigentumsanlagen und einzelnen Eigentumswohnungen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "Hausverwaltung in Berlin seit 2015",
+ "managing_directors": [
+  "Kerstin Bahnsen"
+ ],
+ "managing_directors_evidence": "Persönlich haftende Gesellschafterin: Kerstin Bahnsen",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Digitale Buchhaltung, Betriebskosten- und Hausgeldabrechnung fristgerecht",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Persönlich, per Telefon, E-Mail und Kundenportal",
+ "segment_note": "Berlin property manager offering WEG, rental, special-property and commercial management, with a customer portal and in-house Betriebskosten billing.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bv-grundbesitz.de/",
+  "services": "https://bv-grundbesitz.de/leistungen/",
+  "jobs": "https://bv-grundbesitz.de/jobs/",
+  "portal": "https://login.bv-grundbesitz.de/",
+  "impressum": "https://bv-grundbesitz.de/impressum/"
+ }
+}

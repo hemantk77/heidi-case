@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "5. Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Bernard A. Ehlinger"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nBernard A. Ehlinger",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "ELISON Immobilien GmbH is a Berlin real estate firm doing brokerage, financing, construction supervision and property management (Hausverwaltung), with no unit counts stated.",
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.elison-immobilien.de/",
+  "about": "https://www.elison-immobilien.de/unternehmen.html",
+  "services": "https://www.elison-immobilien.de/angebote.html",
+  "jobs": "https://www.elison-immobilien.de/karriere.html",
+  "impressum": "https://www.elison-immobilien.de/impressum.html"
+ }
+}

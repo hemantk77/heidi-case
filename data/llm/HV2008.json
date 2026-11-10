@@ -1,0 +1,30 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "managing_directors": [
+  "Alexander Steinke"
+ ],
+ "managing_directors_evidence": "Inhaber: Alexander Steinke",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "STEINKE Immobilien is a small Berlin firm (owner Alexander Steinke) with a site offering pages for sellers and landlords; the website does not state whether it offers property management.",
+ "services": [],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://steinke-immo.de/",
+  "impressum": "http://steinke-immo.de/impressum.html"
+ }
+}

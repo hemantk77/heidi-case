@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 25,
+ "employees_evidence": "Mit 25+ Mitarbeitern, die sich täglich um mehr als 5000 Wohneinheiten kümmern bilden wir ein starkes Team!",
+ "founded_evidence": "ist ein seit 2011 langjährig erfahrene und qualifizierte Hausverwaltung",
+ "founded_year": 2011,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Hausverwaltung, Sondereigentums-Verwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Joachim Smarslik"
+ ],
+ "managing_directors_evidence": "Geschäftsführender Inhaber Joachim Smarslik",
+ "portal_or_app": "Eigene Kunden-App",
+ "portal_evidence": "Eigene Kunden-App",
+ "segment_note": "Berlin property manager (WEG and Sondereigentum) founded 2011 with 25+ staff and over 5,000 residential units, also brokering sales and financing; offers its own customer app.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Unser hochmotiviertes Team lenkt derzeit das Steuer für über 5000 Wohneinheiten in der Hauptstadt.",
+ "units_managed": 5000,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.dydo.de/",
+  "services": "https://www.dydo.de/hausverwaltung",
+  "about": "https://www.dydo.de/about-us",
+  "jobs": "https://www.dydo.de/karriere",
+  "impressum": "https://www.dydo.de/impressum"
+ }
+}

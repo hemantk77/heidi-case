@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Familienunternehmen am 20.10.1945 in Berlin gegründet ... Wir als Hausverwaltung übernehmen eine Vielzahl von Aufgaben im Auftrag von Eigentümern von Immobilien",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1945,
+ "founded_evidence": "Als Familienunternehmen am 20.10.1945 in Berlin gegründet",
+ "managing_directors": [
+  "Ulrich Thies"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ulrich Thies",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Thies-App",
+ "portal_evidence": "Zur Thies-App",
+ "segment_note": "Family-run Berlin property and building company founded 1945 offering WEG, rental and special-property management plus brokerage and facility services; has a Thies app and uses Facilioo for tenant contact.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.harald-thies.de/",
+  "about": "https://www.harald-thies.com/philosophie/",
+  "services": "https://www.harald-thies.com/digitale-fremdverwaltung/",
+  "impressum": "https://www.harald-thies.com/impressum/"
+ }
+}

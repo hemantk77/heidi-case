@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der Bestand umfasst rund 3.750 Wohnungen verteilt auf die Wohngebiete Tiroler Viertel, Niederschönhausen, um die Prenzlauer Promenade und Buch.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 3750,
+ "units_evidence": "Der Bestand umfasst rund 3.750 Wohnungen verteilt auf die Wohngebiete Tiroler Viertel, Niederschönhausen, um die Prenzlauer Promenade und Buch.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1955,
+ "founded_evidence": "Die Erste Wohnungsgenossenschaft Berlin-Pankow eG (EWG) wurde am 6. Oktober 1955 als Arbeiterwohnungsbaugenossenschaft (AWG) gegründet",
+ "managing_directors": [
+  "Kerstin Hewert",
+  "Chris Zell"
+ ],
+ "managing_directors_evidence": "Gesetzlich vertreten durch Vorstand: Kerstin Hewert, Chris Zell",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Meine EWG",
+ "portal_evidence": "Meine EWG Anmeldung Registrierung",
+ "segment_note": "A Berlin housing cooperative (eG) founded 1955 that manages about 3,750 apartments in Pankow districts, with a member portal called Meine EWG.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ewg-pankow.de/",
+  "services": "https://www.ewg-pankow.de/service/",
+  "about": "https://www.ewg-pankow.de/die-genossenschaft/",
+  "impressum": "https://www.ewg-pankow.de/impressum/"
+ }
+}

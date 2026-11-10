@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sonja Barnikow",
+  "Michael Schulz-Barnikow"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Sonja Barnikow ... Geschäftsführer: Michael Schulz-Barnikow",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) also doing sales and rentals, managing residential and commercial properties, with a tenant/owner login area on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.pluspunktimmobilien.de/",
+  "services": "https://www.pluspunktimmobilien.de/de/hausverwaltung",
+  "about": "https://www.pluspunktimmobilien.de/de/unser-team/team",
+  "jobs": "https://www.pluspunktimmobilien.de/de/stellenangebote/stellenangebote",
+  "impressum": "https://www.pluspunktimmobilien.de/de/impressum",
+  "portal": "https://www.pluspunktimmobilien.de/login.php"
+ }
+}

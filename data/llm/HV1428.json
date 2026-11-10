@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung vermieteter Wohnungen: Mietersuche und Bonitätsprüfung, Mietvertrag, Wohnungsübergabe, Mieteingang, Koordination der Instandhaltung und eine monatliche Übersicht über Einnahmen und offene Punkte.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": "Management Israel Zeevi Managing Director Rina Zeevi Managing Director",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate firm (Sweet Home) doing residential sales/brokerage, rental management for landlords, and financing referrals; no unit counts or portal for owners stated.",
+ "managing_directors_rejected": [
+  "Israel Zeevi",
+  "Rina Zeevi"
+ ],
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.sweet-home.co.il/",
+  "services": "https://sweethome-immobilien.de/services",
+  "about": "https://sweethome-immobilien.de/about",
+  "portal": "https://sweethome-immobilien.de/auth/login"
+ }
+}

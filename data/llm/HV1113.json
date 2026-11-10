@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Digitale Hausverwaltung für Berlin und Brandenburg",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ulrike Meister",
+  "Lisa Meister"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Ulrike Meister Lisa Meister",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Family-run property management firm in Berlin and Brandenburg that also handles rental and sales of properties, with a digital focus; no unit or building counts stated.",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.meister-grundbesitz.de/",
+  "impressum": "https://meister-grundbesitz.de/impressum"
+ }
+}

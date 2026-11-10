@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Bernd Marvan"
+ ],
+ "managing_directors_evidence": "Grundbesitz-Service Inh. Bernd Marvan",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (sales of owner-occupied and investment properties, purchase brokerage) run by owner Bernd Marvan; the site lists a \"Verwalten\" menu item but shows no management details.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.grundbesitz-service.de/",
+  "impressum": "https://www.grundbesitz-service.de/impressum.htm"
+ }
+}

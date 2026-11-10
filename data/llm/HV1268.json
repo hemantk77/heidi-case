@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Jeannine Gerlach"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Jeannine Gerlach",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin housing company with colorful buildings, renting apartments to tenants; the site shows landlord-style tenant services but does not explicitly describe property management for third parties.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit über 40 Jahren prägen die bunten Immobilien der Harry Gerlach Wohnungsunternehmen GmbH das Stadtbild von Berlin.",
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "is_property_manager_evidence": "Abrechnung, Kaution und Co.: Für alle Fragen rund um Ihre Mietsache finden Sie hier Antworten.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.harry-gerlach.de/",
+  "services": "https://www.harry-gerlach.de/service/",
+  "about": "https://www.harry-gerlach.de/unternehmen/",
+  "jobs": "https://www.harry-gerlach.de/unternehmen/karriere/",
+  "impressum": "https://www.harry-gerlach.de/impressum/"
+ }
+}

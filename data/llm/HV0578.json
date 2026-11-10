@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten die Mehrfamilienhäuser unserer Mandanten gewissenhaft und individuell.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Holger Thoms"
+ ],
+ "managing_directors_evidence": "Holger Thoms Hausverwaltung Dolziger Str. 9 10247 Berlin Friedrichshain",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Jährliche Heiz- und Betriebskostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Holger Thoms Hausverwaltung) offering rental and WEG management, including annual heating and operating cost statements, with no portal or unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-thoms.de/",
+  "services": "https://www.hausverwaltung-thoms.de/s1.html",
+  "impressum": "https://www.hausverwaltung-thoms.de/s3.html"
+ }
+}

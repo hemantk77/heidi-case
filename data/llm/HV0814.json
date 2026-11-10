@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Bei der Hausverwaltung Ihrer Immobilie durch die WOBEGE zählen",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Martin Waßmuth"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Martin Waßmuth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "WOBEGE is a Berlin property manager offering Hausverwaltung and WEG-Verwaltung for third parties, plus brokerage, with a customer portal; it is a subsidiary of STADT UND LAND.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wobege.de/",
+  "services": "https://wobege.de/verwaltung/hausverwaltung",
+  "portal": "https://wobege.de/service/kundenportal",
+  "jobs": "https://wobege.de/wobege/karriere",
+  "impressum": "https://wobege.de/impressum"
+ }
+}

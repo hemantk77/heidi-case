@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 2000 sind wir spezialisiert auf die Verwaltung und Betreuung von Wohnungseigentümergemeinschaften, Miethäusern (Wohn- und Gewerbeimmobilien) und Eigentumswohnungen in Berlin und Umgebung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "Seit 2000 sind wir spezialisiert auf die Verwaltung von Wohnungseigentümergemeinschaften, Miethäusern und Eigentumswohnungen in Berlin und Brandenburg.",
+ "managing_directors": [
+  "Angelika Kleickmann",
+  "Annina Kleickmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Angelika Kleickmann, Annina Kleickmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager since 2000 offering WEG, rental and special-ownership administration, plus commercial properties, with no stated unit counts.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.activa-grundstuecksverwaltung.de/",
+  "services": "https://www.activa-grundstuecksverwaltung.de/leistungen",
+  "impressum": "https://www.activa-grundstuecksverwaltung.de/impressum-agb"
+ }
+}

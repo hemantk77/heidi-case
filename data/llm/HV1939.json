@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "seit 4 Generationen der Familie Gruhn in Berlin",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Kerngeschäft 1. der professionelle Verkauf von Wohn- und Geschäftshäuser Wohnanlagen Gewerbeimmobilien ... 2. ein professionelles Investment-Consulting",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Markus Gruhn"
+ ],
+ "managing_directors_evidence": "Geschäftsinhaber: Markus Gruhn",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage (Makler) for private investors and family offices, focused on property sales and investment consulting; no property management offered on the site.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.markusgruhnimmobilien.de/",
+  "services": "https://www.markusgruhnimmobilien.de/leistungsspektrum",
+  "impressum": "https://www.markusgruhnimmobilien.de/impressum"
+ }
+}

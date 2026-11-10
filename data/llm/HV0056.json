@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohneigentums-(WEG) und Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Seit 1997 beschäftigen wir uns mit der Verwaltung von Mietshäusern und Wohneigentumsanlagen in Berlin und Potsdam.",
+ "managing_directors": [
+  "Andreas Kläffling"
+ ],
+ "managing_directors_evidence": "Andreas Kläffling",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 1997 handling residential rental buildings, WEG and Sondereigentum, plus nationwide commercial property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.klaeffling.de/",
+  "about": "https://www.klaeffling.de/Team.htm",
+  "services": "https://www.klaeffling.de/LeitungService.htm",
+  "jobs": "https://www.klaeffling.de/Karriere.htm",
+  "impressum": "https://www.klaeffling.de/Impressum.htm"
+ }
+}

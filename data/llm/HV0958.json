@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mieterkommunikation, Nebenkostenabrechnung, Instandhaltung – aus einer Hand geführt, mit dem Blick auf stabile Erträge und langfristigen Werterhalt.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Leistungsspektrum umfasst WEG-Verwaltung, Miethausverwaltung sowie Vermittlung und Verkauf",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Leif Löhde",
+  "Antonie Nissen"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Leif Löhde, Antonie Nissen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "J. Schröder & Co is a Berlin family-run property firm offering WEG and rental property management plus property sales and brokerage.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.jschroeder-immobilien.de/",
+  "about": "https://www.jschroeder-immobilien.de/ueber-uns",
+  "impressum": "https://www.jschroeder-immobilien.de/rechtliches"
+ }
+}

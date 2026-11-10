@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "U. Krause"
+ ],
+ "managing_directors_evidence": "Vertreten durch: U. Krause",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Amboss Immobilien und Hausverwaltungen GmbH is a Berlin company whose legal name mentions Hausverwaltung, but the website text provided does not describe its services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.amboss-immobilien.de/",
+  "impressum": "https://www.amboss-immobilien.de/about/",
+  "about": "https://www.amboss-immobilien.de/about/",
+  "services": "https://www.amboss-immobilien.de/j/legal-guarantee",
+  "portal": "https://www.amboss-immobilien.de/login"
+ }
+}

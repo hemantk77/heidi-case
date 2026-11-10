@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Eigentumswohnanlagen Mietobjekten Sondereigentum Gewerbeimmobilien",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1987,
+ "founded_evidence": "Seit 1987 gehört unsere Firma zu den ersten Adressen Berlins und Umgebung",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Tino Knobel Immobilien und Hausverwaltung) offering WEG, rental, special-property and commercial management plus brokerage, with no unit count stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://knobel-immobilien.de/",
+  "about": "https://knobel-immobilien.de/ueber-uns",
+  "services": "https://knobel-immobilien.de/service",
+  "impressum": "https://knobel-immobilien.de/impressum"
+ }
+}

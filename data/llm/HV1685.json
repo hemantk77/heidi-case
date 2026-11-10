@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Braucht man einen Makler? Das war die Frage, die wir uns im Jahre 2001 stellten. ... Es war an der Zeit die Domega Immobilien und Marketing GmbH zu gründen. Unsere Zielsetzung war klar: Bestmögliche Vermietungsergebnisse für unsere Kunden. Leerstandszeiten minimieren",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2001,
+ "founded_evidence": "Das war die Frage, die wir uns im Jahre 2001 stellten.",
+ "managing_directors": [
+  "Uwe Paschke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Uwe Paschke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage firm founded in 2001 that also handles rentals for clients, with a focus on sales and letting of properties; no portal or unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://domega-immobilien.de/",
+  "impressum": "https://www.domega-immobilien.de/impressum"
+ }
+}

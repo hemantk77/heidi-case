@@ -1,0 +1,29 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 15,
+ "employees_evidence": "arbeiten wir mit 15 gut ausgebildeten und motivierten Mitarbeitern",
+ "founded_year": 1976,
+ "founded_evidence": "Seit 1976 bieten wir unseren Kunden qualifizierte Dienstleistungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "GFG Hausverwaltungsgesellschaft mbH",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Owner-managed Berlin property management firm founded in 1976 with 15 employees, offering full-service Hausverwaltung for owners and tenants.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gfg-hausverwaltung.de/"
+ }
+}

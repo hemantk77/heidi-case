@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir vermieten und verwalten Wohnungen und Ladengeschäfte in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Mit über 60 Jahren Erfahrung können Sie uns vertrauen.",
+ "managing_directors": [
+  "Horst-S. Bauriedel"
+ ],
+ "managing_directors_evidence": "Geschäftsleitung: Horst-S. Bauriedel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin property manager renting and managing apartments and shops in Berlin, with over 60 years of experience, managing five listed houses.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltung-bauriedel.de/",
+  "services": "https://www.hausverwaltung-bauriedel.de/de/hausverwaltung-bauriedel.php",
+  "about": "https://www.hausverwaltung-bauriedel.de/de/hausverwaltung-bauriedel.php",
+  "impressum": "https://www.hausverwaltung-bauriedel.de/de/impressum.php"
+ }
+}

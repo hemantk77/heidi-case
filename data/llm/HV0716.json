@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Schmidt Hausverwaltungen GmbH wurde 1997 als Einzelunternehmen gegründet.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Die Schmidt Hausverwaltungen GmbH wurde 1997 als Einzelunternehmen gegründet.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen mit Übernahme der Heizkosten-, Warmwasser- und Kaltwasserabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Friedenau) handling WEG, rental and special-property administration, including heating and utility billing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schmidthvw.de/",
+  "services": "https://www.schmidthvw.de/miethausverwaltung/",
+  "impressum": "https://www.schmidthvw.de/impressum/"
+ }
+}

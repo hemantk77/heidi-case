@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung & Beratung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Donevan Gunia"
+ ],
+ "managing_directors_evidence": "Inhaber: Donevan Gunia (Einzelunternehmen)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Plattformzugang",
+ "portal_evidence": "durch einen eigenen Plattformzugang in Echtzeit von überall Zugriff auf die für sie freigegebenen Dokumente",
+ "segment_note": "Berlin-Spandau property manager offering rental and WEG-style management plus facility services, with a tenant/owner platform access.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gunia-management.com/",
+  "services": "https://www.gunia-management.com/immobilienservice",
+  "jobs": "https://www.gunia-management.com/karriere",
+  "impressum": "https://www.gunia-management.com/impressum"
+ }
+}

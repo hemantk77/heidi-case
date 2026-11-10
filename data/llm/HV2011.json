@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als zuverlässige Hausverwaltung können wir Ihre komplette Grundstücksverwaltung persönlich für Sie regeln.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Reinhold Kroll"
+ ],
+ "managing_directors_evidence": "GF Reinhold Kroll (Dipl. Betriebswirt)",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung (Betriebs- und Heizkosten)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate firm offering property management (Hausverwaltung) for residential and commercial units alongside brokerage and project development, with Heiz- and Betriebskostenabrechnung included.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kroll-immo.de/",
+  "services": "http://www.kroll-immo.de/verwaltung/",
+  "impressum": "http://www.kroll-immo.de/impressum/"
+ }
+}

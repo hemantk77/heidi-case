@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Über GT24 Real Estate ist ein renommierter Immobilienmakler Berlin, der seit über 15 Jahren Kunden bei Kauf, Verkauf und Vermietung von Immobilien in Deutschland und ganz Europa begleitet.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Vitaliy Gette"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer: Herr Vitaliy Gette",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GT24 Real Estate is a Berlin real estate brokerage (Immobilienmakler) helping clients buy, sell and rent properties; the site describes no property management services.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gt24realestate.de/",
+  "about": "https://gt24realestate.de/de/ueber-uns",
+  "services": "https://gt24realestate.de/de/catalog?hot=true",
+  "impressum": "https://gt24realestate.de/de/impressum"
+ }
+}

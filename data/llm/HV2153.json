@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir bieten maßgeschneiderte Konzepte für verschiedene Bedarfe. Von der ersten Idee bis zur schlüsselfertigen Übergabe im Bereich Neubau oder der Umnutzung / Sanierung von Bestandsbauten verfügen wir über entsprechende Kompetenzen",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Shaodong Fan"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Shaodong Fan",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "REVITAN is a Berlin-based project developer and builder of care and social properties (Pflege-/Sozialimmobilien) that offers no property management services on its website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.revitan.de/",
+  "services": "https://www.revitan.de/leistung/",
+  "impressum": "https://www.revitan.de/impressum/"
+ }
+}

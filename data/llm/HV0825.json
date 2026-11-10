@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung: Durch unsere langjährige Markterfahrung sind wir für Sie der geeignete Partner rund um die Verwaltung Ihrer Immobilie",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "WEG-Verwaltung",
+  "Makler",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sven Kurtzke"
+ ],
+ "managing_directors_evidence": "Angabe gemäß §5 DDG: Sven Kurtzke Immobilienfachwirt IHK",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based full-service real estate firm (owner-run by Sven Kurtzke) doing sales, rental, property management incl. WEG and Sondereigentum, and investment; small-scale portfolio focus.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kurtzke-immobilien.de/",
+  "services": "https://www.kurtzke-immobilien.de/immobilienverwaltung/",
+  "jobs": "https://www.kurtzke-immobilien.de/mieterbewerbung/",
+  "about": "https://www.kurtzke-immobilien.de/unternehmen/",
+  "impressum": "https://www.kurtzke-immobilien.de/impressum/"
+ }
+}

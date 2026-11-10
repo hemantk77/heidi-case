@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wir bieten nachhaltig optimiertes Property Management für Wohnimmobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": 8000,
+ "units_evidence": "8000 Wohnungen",
+ "buildings_managed": 43,
+ "buildings_evidence": "übernimmt die Verwaltung für 43 Wohn- und Geschäftsobjekte in Berlin",
+ "employees": 56,
+ "employees_evidence": "56 Mitarbeiter*innen",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Susanne Tattersall",
+  "Boris Drigalski"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Susanne Tattersall, Boris Drigalski",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "talyo. App",
+ "portal_evidence": "Vertragsunterlagen, wichtige Prozesse oder auch den Bearbeitungsstatus Ihrer Anliegen finden Sie auf einen Blick in der talyo. App.",
+ "segment_note": "Berlin-based property manager for residential and mixed-use properties (8,000 apartments, 43 objects for MB Advisors), offering a tenant app and full commercial/financial management services.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://talyo.de/",
+  "services": "https://talyo.de/business-services/",
+  "jobs": "https://talyo.de/karriere/",
+  "impressum": "https://talyo.de/impressum/"
+ }
+}

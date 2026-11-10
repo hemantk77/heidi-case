@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "BEHALA vermietet moderne Lagerhallen, Freiflächen und Büroräume an etablierte Unternehmen und Logistikpartner.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 130,
+ "employees_evidence": "Mit 130 Beschäftigten und einem Umschlag- und Transportvolumen von 4,5 Mio. Tonnen pro Jahr",
+ "founded_year": 1923,
+ "founded_evidence": "26.02.1923 Gründung der BEHALA als „Berliner Hafen- und Lagerhaus AG, Generaldirektion der Berliner Häfen“",
+ "managing_directors": [
+  "Petra Cardinal"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Petra Cardinal",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BEHALA is a state-owned port and logistics operator in Berlin that rents warehouses, yard areas and offices to businesses; it does not offer residential property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.behala.de/",
+  "about": "https://www.behala.de/unternehmen/",
+  "jobs": "https://www.behala.de/karriere/",
+  "services": "https://www.behala.de/logistik/",
+  "impressum": "https://www.behala.de/impressum/"
+ }
+}

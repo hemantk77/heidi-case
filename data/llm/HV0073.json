@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Hausverwaltung für Mehrfamilienhäuser ab 20 Einheiten, WEG-Verwaltung sowie Wohn- und Gewerbeportfolios in Berlin, Brandenburg und im gesamten Bundesgebiet.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "Über 2.000 verwaltete Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "Die Familie Hepaydinli ist seit 1995 am Berliner Immobilienmarkt tätig, die HEPA Immobilien GmbH besteht seit 2021.",
+ "managing_directors": [
+  "Erkin Hepaydinli",
+  "Yetkin Hepaydinli"
+ ],
+ "managing_directors_evidence": "Die Geschäftsführer Erkin Hepaydinli und Yetkin Hepaydinli, jeweils einzelvertretungsberechtigt.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnungen, fristgerecht und mit prüffähigen Belegen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Charlottenburg family-run property manager offering rental, WEG and commercial management for residential portfolios and commercial properties, with over 2,000 managed units.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hepa-hausverwaltung.de/",
+  "services": "https://www.hepa-hausverwaltung.de/leistungen",
+  "about": "https://www.hepa-hausverwaltung.de/ueber-uns",
+  "impressum": "https://www.hepa-hausverwaltung.de/impressum"
+ }
+}

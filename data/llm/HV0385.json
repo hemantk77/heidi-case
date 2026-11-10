@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Monika Kalsow Hausverwaltung & Immobilienmakler - Das Unternehmen; Bekannt als Miet- und Eigentumsverwalter im regionalen Raum rund um Berlin, verwaltet Monika Kalsow Hausverwaltung & Immobilien seit vielen Jahren Immobilien verschiedenster Art.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Monika Kalsow"
+ ],
+ "managing_directors_evidence": "Monika Kalsow Borkumer Str. 2 13581 Berlin Kontakt Telefon: +49 30 8257014",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Buchhaltungs- und Abrechnungsdienste",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Spandau property manager (Miet-, Eigentums- and Gewerbeverwaltung, also brokerage) with over 30 years of experience, offering accounting and billing services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kalsow.eu/",
+  "about": "https://www.kalsow.eu/das-unternehmen/",
+  "services": "https://www.kalsow.eu/leistungen/",
+  "impressum": "https://www.kalsow.eu/impressum/"
+ }
+}

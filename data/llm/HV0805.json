@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Leistungen für Hausverwaltungen ... Hausverwaltungen (Kleine und Große)",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Christian Wetzel"
+ ],
+ "managing_directors_evidence": "Homesk GmbH vertreten durch den Geschäftsführer Herr Christian Wetzel",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin real estate agency (Immobilienmakler) focused on sales and rental of apartments and houses, which also offers services for property management companies (Hausverwaltungen of all sizes).",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.homesk.de/",
+  "services": "https://www.homesk.de/Offer",
+  "about": "https://www.homesk.de/AboutUs",
+  "impressum": "https://www.homesk.de/LegalNotice"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Oliver Greß",
+  "Roman Ries"
+ ],
+ "managing_directors_evidence": "Vorstand\nOliver Greß\nRoman Ries",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin housing cooperative (Wohnungsbaugenossenschaft DPF eG) offering apartments to members and non-members; the website does not describe property management services.",
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit über 65 Jahren – für Sie da!",
+ "heating_billing_evidence": null,
+ "is_property_manager_evidence": "Die Nutzungsgebühren stehen in einem fairen Preis-/ Leistungsverhältnis.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.dpfonline.de/",
+  "about": "https://www.dpfonline.de/ueber-uns/bekanntmachungen/",
+  "services": "https://www.dpfonline.de/interessenten/angebote/",
+  "jobs": "https://www.dpfonline.de/ueber-uns/karriere/",
+  "impressum": "https://www.dpfonline.de/impressum/"
+ }
+}

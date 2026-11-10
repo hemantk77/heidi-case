@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "GIG Unternehmensgruppe is a facility management and engineering service provider (technical, industrial and infrastructural FM, energy services), with a residential (Wohnimmobilien) division; the website does not clearly state property management.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gig24.com/",
+  "about": "https://gig24.com/gig-unternehmensgruppe-teil-des-partnernetzwerkes-synnoscape/",
+  "services": "https://gig24.com/unternehmen/leistungsprofil/",
+  "jobs": "https://karriere.gig24.com/",
+  "impressum": "https://gig24.com/impressum/"
+ }
+}

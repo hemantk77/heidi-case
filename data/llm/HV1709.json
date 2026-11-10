@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Einen Schwerpunkt bildet der Verkauf von Miethäusern an Investoren sowie Eigentumswohnungen und Villen / Einfamilienhäuser. 1992 haben wir unsere Tätigkeit um die Vermietung von Wohn- / und Gewerbeflächen erweitert.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1983,
+ "founded_evidence": "Immobilienexperten seit 1983!",
+ "managing_directors": [
+  "Andreas Cramer",
+  "Ingrid Cramer"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte: Herr Andreas Cramer und Frau Ingrid Cramer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage firm (since 1983) focused on selling rental houses, condos and villas to investors, which also rents residential and commercial space in Berlin; no WEG management or portal mentioned.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.cramerimmobilien.de/",
+  "services": "https://cramerimmobilien.de/services/",
+  "about": "https://cramerimmobilien.de/ueber-uns/",
+  "impressum": "https://cramerimmobilien.de/impressum/"
+ }
+}

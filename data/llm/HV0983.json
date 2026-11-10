@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir holen aus Liegenschaften, Objekten und Einheiten alles heraus – mit höchstem persönlichen Interesse.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Markus Stein"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Markus Stein",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "segment_note": "SAC Service Asset Concept GmbH is a Berlin property manager offering WEG administration, handling owner meetings, accounting and payment flows for owners' communities, and Sondereigentum such as apartments and commercial units.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://sac-berlin.de/",
+  "impressum": "https://www.sac-berlin.de/impressum/"
+ }
+}

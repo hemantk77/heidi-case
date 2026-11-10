@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Deshalb arbeiten wir mit theo , einem erfahrenen Kooperationspartner für WEG-Verwaltung, Mietverwaltung und Gewerbeverwaltung in Berlin, zusammen.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sabrina Pretzel",
+  "Frank Schröter"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Sabrina Pretzel, Frank Schröter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BSK Immobilien is a Berlin real-estate brokerage (100% subsidiary of Berliner Sparkasse) that does not run property management itself; it refers owners to partner theo for WEG, rental and commercial management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bsk-immobilien.de/",
+  "services": "https://www.bsk-immobilien.de/leistungen/mehr-service-fuer-eigentuemer/",
+  "jobs": "https://www.bsk-immobilien.de/wir/karriere/",
+  "about": "https://www.bsk-immobilien.de/wir/unternehmen/",
+  "impressum": "https://www.bsk-immobilien.de/impressum/"
+ }
+}

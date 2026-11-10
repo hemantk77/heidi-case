@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Jochen Icken",
+  "Sebastian Zutz"
+ ],
+ "managing_directors_evidence": "Vorstand: Jochen Icken Sebastian Zutz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mein Scholle-Portal",
+ "portal_evidence": "Unsere Mitglieder-App Mein Scholle-Portal: neue Version verfügbar!",
+ "segment_note": "Berlin housing cooperative (Wohnungsunternehmen eG) with a member app; the site does not explicitly describe third-party property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.maerkische-scholle.de/",
+  "jobs": "https://www.maerkische-scholle.de/karriere.html",
+  "services": "https://www.maerkische-scholle.de/wohnungsangebote.html",
+  "impressum": "https://www.maerkische-scholle.de/impressum.html",
+  "portal": "https://www.maerkische-scholle.de/news-details/unser-mitgliederportal-meine-scholle-neue-app-version.html"
+ }
+}

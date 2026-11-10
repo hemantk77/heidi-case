@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "weitere persönliche Betreuung im Rahmen von Verwaltertätigkeiten für Gemeinschaftseigentum und Sondereigentum",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Michael Gerhard"
+ ],
+ "managing_directors_evidence": "Michael Gerhard Immobilien ",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "segment_note": "Berlin-based broker and investment advisor for property purchases, project development and new builds, which also offers Verwaltertätigkeiten for common and special property.",
+ "units_evidence": null,
+ "units_managed": null,
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://gerhard-immobilienservice.de/",
+  "impressum": "http://gerhard-immobilienservice.de/impressum.html"
+ }
+}

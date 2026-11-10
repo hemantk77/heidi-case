@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere jahrzehntelange Erfahrung im Sektor Immobilienwirtschaft hilft uns, eine Immobilie nicht nur zu verwalten, sondern nach Ihren Vorstellungen und Ideen weiter zu entwickeln.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sven Kubal",
+  "Claudia Kubal"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Sven Kubal, Claudia Kubal",
+ "portal_or_app": "Q.I.M. APP",
+ "portal_evidence": "Hier gibt es unsere Q.I.M. APP:",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Q.I.M. Quartier Immobilienmanagement GmbH is a Berlin property management firm (Werdauer Weg 35, 10829 Berlin) with a Q.I.M. app and a Kundenlogin, managed by Sven and Claudia Kubal; the site gives no unit or building counts.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.quartier-immo.de/",
+  "jobs": "https://www.quartier-immo.de/qarriere.php",
+  "impressum": "https://www.quartier-immo.de/impressum.php"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir entwickeln, verwalten und vermieten Immobilien aus einer Hand.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1988,
+ "founded_evidence": "1988 beschließt das Familienunternehmen seinen Hausbesitz in einer eigenen Gesellschaft zu organisieren und zu entwickeln.",
+ "managing_directors": [
+  "Andreas Bremke",
+  "Victor Schlenkhoff"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Andreas Bremke, Victor Schlenkhoff",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ANH Hausbesitz is a Family-owned real estate company from Arnsberg with a Berlin office that develops, manages and leases its own commercial and office properties, mainly for its own portfolio.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.anh-hausbesitz.de/",
+  "about": "https://www.anh-hausbesitz.de/unternehmen/",
+  "services": "https://www.anh-hausbesitz.de/immobilien/portfolio/",
+  "impressum": "https://www.anh-hausbesitz.de/impressum/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die SIC Properties GmbH entwickelt und vermietet Gewerbe- und Wohnimmobilien; Büro- und Apartmentvermietung. Kein Hinweis auf Hausverwaltung.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Benjamin Blackman"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Benjamin Blackman",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "segment_note": "SIC Properties develops and rents office, commercial and serviced apartment properties in Berlin, Gera, Frankfurt and Leipzig; no property management offering is stated.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.sicproperties.de/",
+  "services": "https://sic.berlin/offices/",
+  "impressum": "https://sic.berlin/impressum/"
+ }
+}

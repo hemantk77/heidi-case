@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Der Verein berät bei rechtlichen, steuerlichen und praktischen Fragen rund um Haus, Wohnung und Vermietung.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1887,
+ "founded_evidence": "Seit 1887 für Eigentümer da.",
+ "managing_directors": [
+  "Axel Paul",
+  "Hans-Joachim Beck"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Axel Paul, Vorstandsvorsitzender Hans-Joachim Beck, stellvertretender Vorstandsvorsitzender",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Auch Fragen zu Betriebs- und Nebenkostenabrechnungen können Sie mit uns besprechen.",
+ "portal_or_app": "Mitgliederbereich",
+ "portal_evidence": "Mitgliederbereich",
+ "segment_note": "A Berlin-Steglitz owners' association (Haus & Grund, founded 1887) offering member advice on law, tax and technical matters, not property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hgv-berlin-steglitz.de/",
+  "about": "https://hausundgrund-berlin-steglitz.de/ueber-uns/",
+  "services": "https://hausundgrund-berlin-steglitz.de/beratung/",
+  "impressum": "https://hausundgrund-berlin-steglitz.de/impressum/"
+ }
+}

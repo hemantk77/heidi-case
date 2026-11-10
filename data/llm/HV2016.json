@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung mit klarer Struktur. Für Eigentümer von Mehrfamilienhäusern und Wohnimmobilien in Berlin und Brandenburg übernehmen wir die laufende Verwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Fehmi Ucar"
+ ],
+ "managing_directors_evidence": "Inhaber: Fehmi Ucar",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mietverwaltung: Mietenbuchhaltung, Betriebskostenabrechnung und Mieterkommunikation, damit Ihre Vermietung geordnet läuft.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "FAVIS is an owner-operated Berlin property manager offering residential property management, WEG administration, rental management, facility management and caretaking across Berlin and Brandenburg.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.favis.de/",
+  "services": "https://www.favis.de/hausverwaltung/",
+  "about": "https://www.favis.de/ueber-uns/",
+  "impressum": "https://www.favis.de/impressum/"
+ }
+}

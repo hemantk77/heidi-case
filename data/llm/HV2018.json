@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Villa Ahlbeck befindet sich in einer ruhigen Seitenstraße der Promenade des Ostseebades und besteht aus einer historischen Villa und einem Neubau.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peter Staps"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Peter Staps Regattastr. 43 in 12527 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Company operates holiday apartments (Ferienwohnungen) in the Villa Ahlbeck on Usedom; the website shows no property management services for third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.villa-ahlbeck.info/",
+  "impressum": "https://villa-ahlbeck.info/impressum.html"
+ }
+}

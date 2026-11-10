@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 12,
+ "employees_evidence": "12 Teammitglieder",
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Ihre Immobilien wie strategische Portfolio-Bestandteile",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Timur Steinberg",
+  "Sebastian Pritykin"
+ ],
+ "managing_directors_evidence": "VERTRETEN DURCH: Timur Steinberg Sebastian Pritykin",
+ "portal_evidence": "dokumentieren alle Maßnahmen im zentralen Eigentümerportal",
+ "portal_or_app": "Eigentümerportal",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin-based Gaia Group offers property management (Mietverwaltung, WEG-Verwaltung, letting, construction supervision) for owners, family offices and investors, plus investment and portfolio services, with 12 team members and 973 managed units.",
+ "units_evidence": "973 Gemanagte Einheiten",
+ "units_managed": 973,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://verwaltung.gaiagroup.eu/",
+  "about": "https://verwaltung.gaiagroup.eu/unternehmen",
+  "services": "https://verwaltung.gaiagroup.eu/portfoliostrukturierung",
+  "impressum": "https://verwaltung.gaiagroup.eu/impressum"
+ }
+}

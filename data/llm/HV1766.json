@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihre Mitwohnzentrale für möbliertes Wohnen auf Zeit in Berlin",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gabriele Fuhrmann"
+ ],
+ "managing_directors_evidence": "Agentur Wohnwitz Gabriele Fuhrmann, Holsteinische Str. 55 (Wilmersdorf), 10717 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin furnished short-term rental agency (Mitwohnzentrale) that brokers furnished flats for temporary stays; it does not show any property management of landlords' portfolios.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wohnwitz.com/",
+  "services": "https://www.wohnwitz.com/de/static/vermieten",
+  "impressum": "https://www.wohnwitz.com/de/static/impressum"
+ }
+}

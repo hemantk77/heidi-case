@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Tätigkeiten: Baurecht Immobilienrecht Gesellschaftsrecht",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marita Fricke-Muschiol"
+ ],
+ "managing_directors_evidence": "Rechtsanwältin und Notarin (a.D.) Marita Fricke-Muschiol",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "The website belongs to a Berlin law firm (Rechtsanwältin Marita Fricke-Muschiol) focused on construction and real-estate law, not a property manager.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.fricke-muschiol.de/",
+  "services": "http://www.fricke-muschiol.de/bau-immobilienrecht-gesellschaftsrecht-erbrecht-eherecht-berlin-kudamm-kurfuerstendamm.html",
+  "impressum": "http://www.fricke-muschiol.de/impressum-rechtsanwaeltin-marita-fricke-muschiol.html"
+ }
+}

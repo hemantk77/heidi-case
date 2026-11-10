@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sie sind als Hausverwaltung auf der Suche nach einem zuverlässigen Reinigungsservice in Berlin? Dann sind Sie bei H&H Gebäudeservice genau richtig.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2010,
+ "founded_evidence": "H&H Gebäudeservice wurde im Jahr 2010 im Berliner Bezirk Treptow-Köpenick gegründet.",
+ "managing_directors": [
+  "Stefanie Horvarth"
+ ],
+ "managing_directors_evidence": "Inhaber/in Frau Stefanie Horvarth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "H&H Gebäudeservice is a small Berlin cleaning and caretaking firm (founded 2010, owner Stefanie Horvarth) that serves property managers with building cleaning, Hausmeister services and clearance work.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.h-h-dienstleistungen.de/",
+  "about": "https://www.h-h-dienstleistungen.de/ueber-uns",
+  "services": "https://www.h-h-dienstleistungen.de/service",
+  "impressum": "https://www.h-h-dienstleistungen.de/impressum"
+ }
+}

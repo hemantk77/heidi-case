@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als kompetenter Dienstleister für Hausverwaltungen, Industrie und Privatkunden, haben wir es uns zur Aufgabe gemacht, Ihnen bei dem Werterhalt Ihrer Immobilie behilflich zu sein.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Siegfried Borchardt"
+ ],
+ "managing_directors_evidence": "Inhaber : Siegfried Borchardt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin Charlottenburg caretaker and craft-services firm (Hausmeister, Bauservice, Reparaturservice) serving property managers, industry and private clients; does not claim property management itself.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.haus-service-borchardt.de/",
+  "about": "http://www.haus-service-borchardt.de/pages/unternehmen.php",
+  "services": "http://www.haus-service-borchardt.de/pages/dienstleistungen.php",
+  "impressum": "http://www.haus-service-borchardt.de/pages/impressum.php"
+ }
+}

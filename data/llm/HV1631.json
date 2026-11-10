@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Grundbesitz und Grundstückseigentum, Beteiligungen, Vermittlung von Versicherungen, in- und ausl. Investmentfonds.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Paul Müller"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Paul Müller",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin residential real-estate brokerage firm (Makler under §34c GewO) that also states it manages property (Grundbesitz) and holds a Verwaltung-related permit; no unit counts or portal stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.martin-immobilien-berlin.de/",
+  "services": "https://martin-immobilien-berlin.de/objekte-3",
+  "about": "https://martin-immobilien-berlin.de/ueber-uns",
+  "impressum": "https://martin-immobilien-berlin.de/impressum"
+ }
+}

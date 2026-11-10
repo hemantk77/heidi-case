@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "- Erstellen von Betriebskostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAUSVERWALTUNG Verwaltung, Vermietung, Verpachtung Wir führen für Sie im Auftrag aus: - Wohnungsabnahmen und Wohnungsübergaben - Erstellen von Betriebskostenabrechnungen",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "segment_note": "BDH Hausverwaltung & Service is a Berlin property manager (Verwaltung, Vermietung, Verpachtung) that also offers Hausmeister, cleaning, garden and winter services.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bdh-hausverwaltung.de/",
+  "services": "http://www.bdh-hausverwaltung.de/hausverwaltung.html",
+  "jobs": "http://www.bdh-hausverwaltung.de/jobs.html",
+  "impressum": "http://www.bdh-hausverwaltung.de/impressum.html"
+ }
+}

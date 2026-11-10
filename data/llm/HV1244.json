@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "TEAM HAUSVERWALTUNG. Isabell Caesar, B.A. Mieten- und WEG-Buchhalterin ... Björn Gonschior WEG-Verwalter, Immobilienkaufmann",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christian Werner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Christian Werner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MPW Immobilien is a Berlin brokerage (Makler) that also runs a small Hausverwaltung team handling rental and WEG accounting and WEG management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mpw-immobilien.de/",
+  "about": "https://mpw-immobilien.de/uber-uns/",
+  "services": "https://mpw-immobilien.de/provision/",
+  "impressum": "https://mpw-immobilien.de/impressum/"
+ }
+}

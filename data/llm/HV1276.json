@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihre Immobilienagentur in Prenzlauer Berg, Berlin",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Seit 2009 sitzen wir mit unserem Walk-In Büro in der Kollwitzstraße im Herzen von Prenzlauer Berg.",
+ "managing_directors": [
+  "William Telford Jr.",
+  "Marvin Osei-Tutu"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: William Telford Jr., Marvin Osei-Tutu",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Next Estate is a Berlin real estate agency (Makler) focused on selling apartments in Prenzlauer Berg and across Berlin, with no property management services mentioned on the website.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.next-estate.de/",
+  "about": "https://www.next-estate.de/de/uber-uns/",
+  "services": "https://www.next-estate.de/de/kaufen/",
+  "impressum": "https://www.next-estate.de/de/impressum/"
+ }
+}

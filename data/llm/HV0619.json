@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit über 15 Jahren Erfahrung in der Immobilienverwaltung bietet B&U Immobilienverwaltung maßgeschneiderte Lösungen für WEG‑, Miet‑ und Sondereigentumsverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tim Martin Herbst"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Tim Martin Herbst",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin and Brandenburg property manager offering WEG, rental, and special-ownership management plus sales, letting, and renovation consulting; owner-managed, over 15 years of experience.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bu-immobilienverwaltung.de/",
+  "services": "https://bu-immobilienverwaltung.de/leistungen",
+  "about": "https://bu-immobilienverwaltung.de/ueber-uns",
+  "impressum": "https://bu-immobilienverwaltung.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit unserer Gründung im Mai 2014 stehen wir für partnerschaftliche Verwaltung",
+ "founded_year": 2014,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG Verwaltung | Mietverwaltung | Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Heike Hentschel",
+  "Marita Mouritz"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Heike Hentschel\nGeschäftsführerin Marita Mouritz",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin-based property manager (WEG, rental and special-property management) founded in 2014, serving small and large condominium associations in Berlin and Brandenburg.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.tandem-hausverwaltung.de/",
+  "impressum": "https://www.tandem-hausverwaltung.de/impressum/"
+ }
+}

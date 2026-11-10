@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Leistungsspektrum der Rados & Söhne GmbH erstreckt sich über Abbrüche sämtlicher Art, d.h. von Einfamilienhäuser bis hin zu Industrie- und Gewerbeanlagen",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 35,
+ "employees_evidence": "Durch unseren stetig wachsenden Kundenstamm, konnte das Unternehmen in der Kürze einen Personalstamm von 35 Mitarbeitern aufbauen.",
+ "founded_year": 1992,
+ "founded_evidence": "Die Einzelunternehmung wurde vom heutigen Senior 1992 gegründet und bis zur Umfirmierung geführt.",
+ "managing_directors": [
+  "Bojan Radosavljevic"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Herrn Bojan Radosavljevic",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin construction and building-services firm (demolition, pollutant remediation, trades) with 35 staff; no property management offered per the website.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://rados-soehne.de/",
+  "impressum": "https://www.rados-soehne.de/impressum"
+ }
+}

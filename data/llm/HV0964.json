@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohnungseigentumsanlagen sowie von Mietwohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Kneifel"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Thomas Kneifel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal, Eigentümerportal",
+ "portal_evidence": "Zum Mieterportal",
+ "segment_note": "HVIM Grundstücksgesellschaft mbH is a Berlin property manager for condominium associations (WEG) and rental residential and commercial buildings, with tenant and owner portals, within the Kneifel & Partner group.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kneifel-partner.de/",
+  "portal": "https://kneifel-partner.de/Mieterportal",
+  "jobs": "https://kneifel-partner.de/karriere/",
+  "impressum": "https://kneifel-partner.de/impressum/"
+ }
+}

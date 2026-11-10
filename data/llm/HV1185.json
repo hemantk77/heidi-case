@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sie wohnen bei der FORTUNA zu Mieten und Betriebskosten, die deutlich unter dem Durchschnitt des Berliner Marktes liegen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Frank Miller",
+  "Hans-Jürgen Thiel"
+ ],
+ "managing_directors_evidence": "Vorstand: Dipl.-Kfm. Frank Miller Dipl.-Ing. (FH) Hans-Jürgen Thiel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "FORTUNA Wohnungsunternehmen eG is a Berlin housing cooperative that rents out its own residential quarters and runs a technical house service with Hauswarte; no unit count or portal is stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.fortuna-eg.de/",
+  "about": "https://www.fortuna-eg.de/home/ueber-uns/",
+  "services": "https://www.fortuna-eg.de/service/",
+  "impressum": "https://www.fortuna-eg.de/h/impressum/"
+ }
+}

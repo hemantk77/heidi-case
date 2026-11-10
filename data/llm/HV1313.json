@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Leistungsspektrum umfasst den Verkauf, Kauf, die Vermietung und Finanzierung von Eigentumswohnungen sowie Ein- und Mehrfamilienhäusern",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "2013 Gründung der Robert Guss Immobilien & Investments",
+ "managing_directors": [
+  "Robert Guß"
+ ],
+ "managing_directors_evidence": "Herr Robert Guß",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage specializing in premium owner-occupied and investment residential property sales, purchases, rentals and financing; no property management offered per the site text.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.robertguss.de/",
+  "services": "https://robertguss.de/immobilien",
+  "about": "https://robertguss.de/ueber-uns/",
+  "impressum": "https://robertguss.de/impressum"
+ }
+}

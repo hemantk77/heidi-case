@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Vor über 60 Jahren hat die Familie Schimpf das Unternehmen für ihre eigenen Immobilien gegründet.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Heute verwalten und vermarkten wir neben Häusern der Familie auch Objekte anderer Eigentümer.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "H. Schimpf"
+ ],
+ "managing_directors_evidence": "Seit 15 Jahren Geschäftsführer: H. Schimpf",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-owned real-estate firm (founded 1960) offering property management for third-party owners alongside brokerage and advisory; portfolio described as small and manageable, no unit count given.",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "founded_year_rejected": 1960,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schimpfgmbh.de/",
+  "about": "https://www.schimpfgmbh.de/ueber-uns/",
+  "services": "https://www.schimpfgmbh.de/verwaltung"
+ }
+}

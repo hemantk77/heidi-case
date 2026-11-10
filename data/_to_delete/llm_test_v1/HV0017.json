@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten derzeit ca. 200 Mietwohnhäuser und 50 Wohnungseigentümergemeinschaften",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 5000,
+ "units_evidence": "Wir verwalten derzeit ca. 200 Mietwohnhäuser und 50 Wohnungseigentümergemeinschaften (Selbstnutzer und vermietende Kapitalanleger) mit insgesamt ca. 5.000 Wohn- und",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 19,
+ "employees_evidence": "Unser Team besteht der Zeit aus 19 Mitarbeiterinnen/Mitarbeitern und 1 Auszubildenden",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gösta Goldstein"
+ ],
+ "managing_directors_evidence": "Geschäftsführender Gesellschafter: Gösta Goldstein",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "MeAB Messen und Abrechnen GmbH - Ihr Dienstleister für verbrauchsgerechte Erfassung und Abrechnung von Wärme, Wasser und Hausnebenkosten.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (Hausverwaltung) for about 200 rental buildings, 50 WEGs and roughly 5,000 units, with 19 staff; heating billing is handled via partner MeAB.",
+ "heating_billing_rejected": "mentions_external_provider",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wgw.de/",
+  "about": "https://www.wgw.de/unternehmen",
+  "services": "https://www.wgw.de/leistungen",
+  "jobs": "https://www.wgw.de/jobs",
+  "impressum": "https://www.wgw.de/impressum"
+ }
+}

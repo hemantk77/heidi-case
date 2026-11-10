@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Oliver Schlink",
+  "Sebastian Blecke"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Oliver Schlink und Sebastian Blecke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AQUA-Höfe is a commercial courtyard (Gewerbehof) in Berlin-Kreuzberg run by GSG Berlin GmbH; the site shows no property management services, only the location, history and tenant mix.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.aqua-hoefe.de/",
+  "impressum": "https://www.aqua-hoefe.de/impressum.html",
+  "about": "https://www.aqua-hoefe.de/index.html",
+  "services": "https://www.aqua-hoefe.de/index.html"
+ }
+}

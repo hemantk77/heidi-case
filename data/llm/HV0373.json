@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Hausverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Robert Müller"
+ ],
+ "managing_directors_evidence": "Robert Müller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Pankow real estate firm offering Hausverwaltung alongside brokerage (Makler), building services and construction support; small firm with no stated portfolio size.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.merkur-immobilienservice.de/",
+  "services": "http://www.merkur-immobilienservice.de/service.html",
+  "impressum": "http://www.merkur-immobilienservice.de/impressum.html"
+ }
+}

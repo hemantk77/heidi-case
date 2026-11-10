@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als führender Partner für globale Real Assets bieten wir Anlegern eine große Bandbreite attraktiver Investitionsmöglichkeiten.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1984,
+ "founded_evidence": "Seit 1984",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "myPATRIZIA Investorenportal",
+ "portal_evidence": "myPATRIZIA Investorenportal",
+ "segment_note": "PATRIZIA is a global real asset investment manager (~56 bn EUR AUM) serving institutional and private investors, not a property manager for tenants or owners.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.patrizia.ag/",
+  "portal": "https://my.patrizia.ag/patrizia/signin",
+  "about": "https://www.patrizia.ag/de/unser-unternehmen/",
+  "services": "https://www.patrizia.ag/de/news-detail/patrizia-staerkt-42-mrd-euro-plattform-fuer-lebensmitteleinzelhandel-mit-paneuropaeischem-lidl-portfolio/",
+  "jobs": "https://www.patrizia.ag/de/karriere/",
+  "impressum": "https://www.patrizia.ag/de/impressum/"
+ }
+}

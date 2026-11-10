@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1902,
+ "founded_evidence": "Gegründet im Jahr 1902 in Neukölln/Rixdorf",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bewirtschaften ca. 6.000 Wohnungen in verschiedenen Stadtteilen.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": "Mitgliederbereich",
+ "portal_evidence": "Mitgliederbereich der Genossenschaft. Für alle Mitglieder des Wohnungsbau-Verein Neukölln eG",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin housing cooperative founded 1902 managing about 6,000 apartments for its ~14,200 members; has a member login area.",
+ "units_managed": 6000,
+ "units_evidence": "Wir bewirtschaften ca. 6.000 Wohnungen in verschiedenen Stadtteilen.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wbv-neukoelln.de/",
+  "about": "https://www.wbv-neukoelln.de/mitgliedschaft.html",
+  "jobs": "https://www.wbv-neukoelln.de/unternehmen/jobs-karriere-95.html",
+  "services": "https://www.wbv-neukoelln.de/aktuelles/wohnungsangebote.html",
+  "impressum": "https://www.wbv-neukoelln.de/impressum.html",
+  "portal": "https://www.wbv-neukoelln.de/mitglieder-login.html"
+ }
+}

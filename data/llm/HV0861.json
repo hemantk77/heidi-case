@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die ecowo GmbH gehört zu den führenden Immobilienmanagern in Deutschland. Wir sind IHRE Experten für Wohnungseigentums- und Miethausverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Beutner",
+  "Arnd Fittkau",
+  "Philip Grosse"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Thomas Beutner, Arnd Fittkau, Philip Grosse",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Kostenoptimierte Finanzplanung und Hausgeldabrechnung",
+ "portal_or_app": "Eigentümer-Portal",
+ "portal_evidence": "Zum Eigentümer-Portal",
+ "segment_note": "ecowo GmbH is a property manager offering WEG and rental property management plus brokerage, with an owner portal and app, headquartered in Bochum with a Berlin contact address on the Google listing.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ecowo.de/",
+  "jobs": "https://www.ecowo.de/ueber-ecowo/karriere",
+  "services": "https://www.ecowo.de/ecowo-produkte/sie-suchen-eine-hausverwaltung",
+  "impressum": "https://www.ecowo.de/impressum"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietverwaltung, die Ihnen Arbeit abnimmt – pünktliche Mieten, fristgerechte Abrechnungen, keine Kosten ohne Ihre Freigabe.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marinus Jas"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Marinus Jas",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskosten- und Heizkostenabrechnung prüffähig und innerhalb der gesetzlichen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Zehlendorf brokerage that also offers rental property management (Mietverwaltung) for landlords from €35 net per flat per month, but not WEG management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://eigenheim-invest.de/",
+  "services": "https://eigenheim-invest.de/hausverwaltung-berlin/",
+  "jobs": "https://eigenheim-invest.de/karriere/",
+  "about": "https://eigenheim-invest.de/ueber-uns/",
+  "portal": "https://eigenheim-invest.de/admin/login/",
+  "impressum": "https://eigenheim-invest.de/impressum/"
+ }
+}

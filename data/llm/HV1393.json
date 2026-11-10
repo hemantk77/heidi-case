@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Ignacio Aldámiz-Echevarria del Palacio"
+ ],
+ "managing_directors_evidence": "Managing Director: Ignacio Aldámiz-Echevarria del Palacio",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Alepa Real Estate GmbH is an asset, transaction and investment management firm serving investors, funds and family offices; its site lists a \"Property Management\" page but describes mainly investment-side services.",
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://alepa.de/",
+  "about": "http://alepa.de/about-us",
+  "impressum": "http://alepa.de/imprint/",
+  "portal": "http://alepa.de/wp-login.php?action=lostpassword"
+ }
+}

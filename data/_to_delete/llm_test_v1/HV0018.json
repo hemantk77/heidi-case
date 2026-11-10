@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Immobilienverwaltung bundesweit; Wohnungseigentumsverwaltung; Mietverwaltung; Gewerbliche Immobilienverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 13000,
+ "units_evidence": "betreut derzeit von zwei überregional aufgestellten Büros, im Unternehmensverbund mit der Göttinger Hausverwaltung nahezu 13.000 Wohneinheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Daniela Rafie Elizei"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Daniela Rafie Elizei",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ProImmobilia is a nationwide property manager (WEG, rental, commercial, student housing) with nearly 13,000 units, headquartered in Göttingen with a Berlin office.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "about": "https://www.proim.de/unternehmen",
+  "jobs": "https://www.proim.de/unternehmen/karriere",
+  "services": "https://www.proim.de/verwaltung",
+  "impressum": "https://www.proim.de/impressum"
+ }
+}

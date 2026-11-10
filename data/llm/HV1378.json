@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Thermatik wurde 2015 gegründet, um Kunden einfache, effiziente und faire Lösungen zu bieten.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2015,
+ "founded_evidence": "seit 2015 an deiner Seite.",
+ "managing_directors": [
+  "Philipp Groszek"
+ ],
+ "managing_directors_evidence": "Philipp Groszek\nGeschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin heating and sanitary contractor (Heizung, Sanitär, Trocknung) founded 2015 that does not offer property management; its services are technical installation, maintenance and repair for commercial, industrial and private clients.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://thermatik.de/",
+  "about": "https://www.thermatik.de/uber-uns",
+  "services": "https://www.thermatik.de/service-ubersicht",
+  "jobs": "https://www.thermatik.de/kontakt",
+  "impressum": "https://www.thermatik.de/impressum"
+ }
+}

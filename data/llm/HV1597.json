@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Diese Seite wird von den Käufern des Marthashofs in Berlin betrieben.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dr. Peter Hanstein"
+ ],
+ "managing_directors_evidence": "Dr. Peter Hanstein · Marthashof 8 · 10435 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Marthashof is a historic Berlin building complex run as a website by its owners' association (Marthashof Anwohner), not a property management company; no managed-units data.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.marthashof.de/",
+  "portal": "https://www.marthashof.de/login/registrieren7.html",
+  "about": "https://www.marthashof.de/geschichte.html"
+ }
+}

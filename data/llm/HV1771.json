@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Gebäudeserviceunternehmen bieten wir unseren Kunden individuelle Lösungen und Leistungsinhalte rund um die Immobilie",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 20,
+ "employees_evidence": "Zurzeit beschäftigen wir rund 20 gut ausgebildete, zuverlässige Hauswarte, Reiniger und Gärtner",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Manuela Saalschmidt",
+  "Matthias Thiele"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer:\nManuela Saalschmidt \nMatthias Thiele",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Digitaler Gebäudemanager (App)",
+ "portal_evidence": "Über einen digitalen Gebäudemanager (App) behalten die zentralen Leitstellen in Berlin und Leipzig jederzeit die Kontrolle über den Stand der Arbeiten",
+ "segment_note": "Berlin facility services company (caretaking, cleaning, garden care, winter service) working for property managers and owners, with an app for work status; it does not offer property management itself.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.grundland.de/",
+  "about": "https://www.grundland.de/grundland-ueber-uns/",
+  "services": "https://www.grundland.de/grundland-leistungen/",
+  "impressum": "https://www.grundland.de/impressum"
+ }
+}

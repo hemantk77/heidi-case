@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "DIESE SEITE BIETEN WIR IN KÜRZE AN.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Franz J. Niggemann"
+ ],
+ "managing_directors_evidence": "Inhaber: Franz J. Niggemann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "CHECK IN Immobilien is a Berlin real-estate brokerage (sales and rentals) whose Hausverwaltung service page says the offering is coming soon, so it is not yet an active property manager.",
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.checkin-immobilien.de/",
+  "services": "https://www.checkin-immobilien.de/hausverwaltung-coming-soon",
+  "impressum": "https://www.checkin-immobilien.de/impressum"
+ }
+}

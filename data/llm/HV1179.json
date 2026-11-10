@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Jens Werdermann",
+  "Oliver Kamps"
+ ],
+ "managing_directors_evidence": "Herr Jens Werdermann | Vorstand Herr Oliver Kamps | Vorstand",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "FRIEDENSHORT eG is a Berlin housing cooperative (Wohnungsgenossenschaft) in Marzahn; the crawled pages do not state its managed unit count or whether it offers property management for third parties.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wg-friedenshort.de/",
+  "about": "https://www.wg-friedenshort.de/ueber-uns/aktuelles/",
+  "services": "https://www.wg-friedenshort.de/service/ratgeber/",
+  "impressum": "https://www.wg-friedenshort.de/impressum/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Hausmeister-Komplettservice für Wohnanlagen und Mietobjekte",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "wurde 1993 durch den Geschäftsinhaber Heiko Brewing gegründet",
+ "managing_directors": [
+  "Heiko Brewing"
+ ],
+ "managing_directors_evidence": "Heiko Brewing\nLindenstraße 33\n12589 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin caretaker and building-services firm (founded 1993) offering Hausmeister, cleaning, glass cleaning, gardening and winter service; it does not offer property management.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.pegasus-hgs.de/",
+  "services": "https://www.pegasus-hgs.de/leistungen.html",
+  "impressum": "https://www.pegasus-hgs.de/impressum.html"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Vermietung und Verwaltung der Immobilie",
+ "main_business": "brokerage",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Nick Reimann"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Nick Reimann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Brandenburg real estate brokerage firm for wealthy private clients that also offers rental and management services through partners, with no stated unit counts.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.nr-immobilien-invest.de/",
+  "services": "https://www.nr-immobilien-invest.de/immobilienkauf/dienstleistungsspektrum",
+  "about": "https://www.nr-immobilien-invest.de/ueber-uns",
+  "impressum": "https://www.nr-immobilien-invest.de/navigation-unten/impressum"
+ }
+}

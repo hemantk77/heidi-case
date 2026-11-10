@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Grundsolide Immobilien kauft, verkauft, projektiert und vermittelt Immobilien aller Art. Unser Augenmerk liegt dabei verstärkt auf den An- und Verkauf sowie der Projektentwicklung von Immobilien.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "2005 wurde Grundsolide Immobilien in Berlin-Lichterfelde gegründet.",
+ "managing_directors": [
+  "Marc-Vincent Weiland"
+ ],
+ "managing_directors_evidence": "Grundsolide Immobilien – Inhaber: Marc-Vincent Weiland",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "Berlin real-estate firm that buys, sells, develops and brokers properties; the website does not mention property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.grundsolide-immobilien.de/",
+  "about": "https://www.grundsolide-immobilien.de/about-us/",
+  "impressum": "https://www.grundsolide-immobilien.de/impressum/"
+ }
+}

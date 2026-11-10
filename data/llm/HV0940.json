@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung Ihrer Immobilie –  wir kümmern uns darum !",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "1995 Gründung als Ing.-Büro",
+ "managing_directors": [
+  "Heinz Jasken",
+  "Renate Röblitz"
+ ],
+ "managing_directors_evidence": "vertreten durch den Inhaber: Dipl. Ing. (FH) Heinz Jasken ... Stellvertreterin: Diplom-Juristin Renate Röblitz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based Ingenieurbüro (founded 1995) offering property valuation, sales brokerage and property management (\"Verwaltung\") for owners, with no unit or building counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://buero-jasken.de/",
+  "about": "https://buero-jasken.de/ueberuns/",
+  "impressum": "https://buero-jasken.de/kontakt/impressum/",
+  "services": "https://buero-jasken.de/aktuelle-angebote/",
+  "jobs": "https://buero-jasken.de/immobilien/wir-suchen-gebrauchte-photovoltaikanlagen/"
+ }
+}

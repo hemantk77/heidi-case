@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": "Mit unserem Team verwalten wir aktuell über 50 Objekte.",
+ "buildings_managed": 50,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die InnovateImmo Immobilienmanagement GmbH betreut Mietshäuser und Wohnungseigentümergemeinschaften in ganz Berlin und in Brandenburg.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Klaus-Helge Donath"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Klaus-Helge Donath",
+ "portal_or_app": "App/Portal (name not specified)",
+ "portal_evidence": "ob per App, Portal oder im persönlichen Gespräch.",
+ "segment_note": "Berlin and Brandenburg property manager for rental buildings and WEG communities, about 50 managed properties, family-run, with app/portal access for owners and tenants.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.innovateimmo.de/",
+  "services": "https://www.innovateimmo.de/weg-verwaltung",
+  "about": "https://www.innovateimmo.de/ueber-uns",
+  "jobs": "https://www.innovateimmo.de/karriere",
+  "impressum": "https://www.innovateimmo.de/impressum"
+ }
+}

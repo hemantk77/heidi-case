@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "LAGRANDE ist als Immobiliendienstleister auf den Ankauf, die Entwicklung, Erschließung und Bebauung von Gründstücken spezialisiert.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2006,
+ "founded_evidence": "LAGRANDE beschäftigt sich seit der Gründung 2006 erfolgreich mit dem Ankauf, der Entwicklung, Erschließung und Bebauung von Grundstücken.",
+ "managing_directors": [
+  "Sergey Gladkov"
+ ],
+ "managing_directors_evidence": "Geschäftsführender Gesellschafter: Sergey Gladkov",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Lagrande Group is a Berlin project developer focused on land acquisition and premium residential and commercial development, with no property management services mentioned.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.lagrande.de/",
+  "about": "https://www.lagrande.de/unternehmen/",
+  "services": "https://www.lagrande.de/immobilienangebote/",
+  "jobs": "https://www.lagrande.de/karriere/",
+  "impressum": "https://www.lagrande.de/impressum/"
+ }
+}

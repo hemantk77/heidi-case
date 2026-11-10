@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Durch eine professionelle Hausverwaltung und Gebäudebewirtschaftung erzielen wir eine bestmögliche Nutzungsflexibilität.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Gewerbe property management arm of ETTLIN (Ettlingen textile group) in Berlin-Marienfelde, offering commercial property management, facility services and caretaking for tenants.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gewerbepark-marienfelde.de/",
+  "about": "http://www.test.ettlin.de/unternehmen/",
+  "impressum": "http://www.test.ettlin.de/impressum/",
+  "jobs": "http://www.test.ettlin.de/karriere/",
+  "services": "http://www.test.ettlin.de/karriere/stellenangebote/"
+ }
+}

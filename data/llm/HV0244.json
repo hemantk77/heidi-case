@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung in Berlin Charlottenburg",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Joachim Gorr",
+  "Marianne Gorr-Surmann",
+  "Daniel Gorr"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Kfm. Joachim Gorr, Dr. Marianne Gorr-Surmann, Daniel Gorr",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) in Charlottenburg that also rents out and manages listed properties across several Berlin addresses and Dublin, with no unit count given.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.steinundhaus.de/",
+  "jobs": "https://www.steinundhaus.de/?page_id=9",
+  "impressum": "https://www.steinundhaus.de/?page_id=25"
+ }
+}

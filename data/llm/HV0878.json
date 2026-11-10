@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Berufsbezeichnung: Immobilienmakler gemäß §34c GewO",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2004,
+ "founded_evidence": "Wir, die IVBWEISS Immobilien, wurden im Jahre 2004 durch den Inhaber, Sascha A. Haensel, in Berlin gegründet.",
+ "managing_directors": [
+  "Sascha Andre Haensel"
+ ],
+ "managing_directors_evidence": "Sascha Andre Haensel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "IVBWEISS is a Berlin real estate brokerage founded in 2004 that sells and rents residential and commercial property; it does not show any property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ivbweiss.de/",
+  "services": "https://ivbweiss.de/unsere-leistungen.html",
+  "about": "https://ivbweiss.de/partnerunternehmen.html",
+  "impressum": "https://ivbweiss.de/impressum.html"
+ }
+}

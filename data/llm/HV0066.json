@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die GEVERKA ist Ihr universeller Ansprechpartner für alle Bereiche der Immobilienverwaltung in Berlin und Brandenburg.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Frank Henninger"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Frank Henninger",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GEVERKA is a Berlin full-service property manager (founded not stated, 55+ years in market) handling residential, mixed-use and commercial properties, including WEG administration.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://geverka.de/",
+  "services": "https://geverka.de/mietinteressenten/",
+  "about": "https://geverka.de/geverka/",
+  "jobs": "https://geverka.de/geverka/",
+  "impressum": "https://geverka.de/impressum/"
+ }
+}

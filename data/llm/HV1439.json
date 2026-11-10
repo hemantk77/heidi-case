@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bei pure Immobilien dürfen Sie sich auf ein breites Spektrum an Services freuen ... Für Eigentümer übernehmen wir unter anderem eine präzise Wertermittlung, die professionelle Erstellung von Exposés sowie die Vermarktung Ihrer Immobilie",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ingo Hobelsberger"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer Ingo Hobelsberger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "pure Immobilien is a Berlin/Potsdam real-estate brokerage (Makler) for sales and rentals to owners, buyers and investors; the site shows no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://pureproperties.de/",
+  "services": "https://pureproperties.de/service-fuer-mieter/",
+  "about": "https://pureproperties.de/team/",
+  "jobs": "https://pureproperties.de/karriere/",
+  "impressum": "https://pureproperties.de/impressum/"
+ }
+}

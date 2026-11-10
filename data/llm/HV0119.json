@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die PARAT Grundstücksverwaltung GmbH wurde 1996 gegründet und wird von den geschäftsführenden Gesellschaftern Ralf Michalak und Hans-Joachim Paschke geleitet.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": "Der Verwaltungsbestand besteht aus derzeit 61 Objekten in Berlin. ... Der Verwaltungsbestand besteht aus derzeit 26 Objekten in Berlin.",
+ "employees": null,
+ "employees_evidence": "Die PARAT Grundstücksverwaltung GmbH beschäftigt 10 Mitarbeiter. ... Die PARAT Liegenschaften GmbH beschäftigt 5 Mitarbeiter.",
+ "founded_year": 1996,
+ "founded_evidence": "Die PARAT Grundstücksverwaltung GmbH wurde 1996 gegründet",
+ "managing_directors": [
+  "Ralf Michalak",
+  "Hans-Joachim Paschke"
+ ],
+ "managing_directors_evidence": "Geschäftsführende Gesellschafter : Hans-Joachim Paschke Ralf Michalak",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Wohngeld- und Nebenkostenabrechnungen einschließlich der Heiz- und Warmwasserkosten unter Berücksichtigung der gesetzlichen Bestimmungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PARAT is a Berlin property manager (WEG and rental management) with 87 properties across two group companies, 15 staff, and in-house heating and service-charge billing.",
+ "buildings_managed_rejected": 87,
+ "employees_rejected": 15,
+ "_evidence_checked": 6,
+ "_evidence_failed": 2,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.parat-gmbh.de/",
+  "about": "https://www.parat-gmbh.de/unternehmen/",
+  "services": "https://www.parat-gmbh.de/leistungen/",
+  "impressum": "https://www.parat-gmbh.de/impressum/"
+ }
+}

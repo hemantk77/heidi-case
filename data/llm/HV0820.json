@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen alle Leistungen rund um die Immobilie an: Mietverwaltung, Gewerbemanagement, Finanzbuchhaltung, Vermietung, Baubetreuung und WEG-Verwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "Außerdem betreuen wir mit unserer Tochtergesellschaft, der Hachmann WEG-Verwaltung GmbH circa 70 Eigentümergemeinschaften mit insgesamt rund 2.000 Eigentumswohnungen.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 150,
+ "employees_evidence": "Wir beschäftigen rund 150 Mitarbeiter mit langjähriger Berufserfahrung",
+ "founded_year": 1919,
+ "founded_evidence": "Seit 1919 – Zuverlässig in Qualität und Leistung für Ihre Immobilien",
+ "managing_directors": [
+  "Birgit Steenholdt-Schütt",
+  "Manuela Thamm",
+  "Christian Krant"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: RAin Birgit Steenholdt-Schütt Manuela Thamm Christian Krant",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Im geschützten Kundenbereich unseres Onlineportals erhalten Sie Zugriff auf die für Sie maßgeschneiderten Berichte und Datenbestände.",
+ "segment_note": "Berlin and Hamburg property manager since 1919 offering rental, commercial and WEG administration, with about 150 staff and a customer portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hachmann-hausverwaltung.de/",
+  "about": "https://www.hachmann-hausverwaltung.de/unternehmen/",
+  "services": "https://www.hachmann-hausverwaltung.de/hausverwaltung/",
+  "portal": "https://www.hachmann-hausverwaltung.de/kundenportal/",
+  "impressum": "https://www.hachmann-hausverwaltung.de/impressum/",
+  "jobs": "https://www.hachmann-hausverwaltung.de/karriere/"
+ }
+}

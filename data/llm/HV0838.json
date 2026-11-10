@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen über 9.600 Wohn- und Gewerbeeinheiten in Berlin – mit umfassendem Know-how in Hausverwaltung, technischen Maßnahmen und Buchhaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 9600,
+ "units_evidence": "Wir betreuen über 9.600 Wohn- und Gewerbeeinheiten in Berlin",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Kai-Marten Maack"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dipl.-Kaufmann und Immobilienökonom Kai-Marten Maack",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Serviceportal",
+ "portal_evidence": "Nutzen Sie unser digitales Serviceportal  - bequem von zu Hause oder unterwegs.",
+ "segment_note": "Berlin property manager (WEG, rental and commercial units, 9,600+ units) with a digital service portal and app, subsidiary of degewo AG.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gewobe.de/",
+  "services": "https://www.gewobe.de/leistungen",
+  "about": "https://www.gewobe.de/unternehmen",
+  "jobs": "https://www.gewobe.de/unternehmen",
+  "portal": "https://www.gewobe.de/service/gewobe-serviceportal",
+  "impressum": "https://www.gewobe.de/impressum"
+ }
+}

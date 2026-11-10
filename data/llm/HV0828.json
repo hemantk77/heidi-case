@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Makler mit Leidenschaft für Immobilie",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2010,
+ "founded_evidence": "2010 wurde aus dem Grundstücksservice der Unternehmerfamilie Roth, die Immobilien- GmbH Roth gegründet",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg real-estate brokerage and property buyer (Ankauf) with no property management services visible on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.roth.immobilien/",
+  "services": "https://www.roth.immobilien/immobilienangebote",
+  "about": "https://www.roth.immobilien/unternehmen",
+  "jobs": "https://www.roth.immobilien/informationen-anfordern",
+  "impressum": "https://www.roth.immobilien/impressum"
+ }
+}

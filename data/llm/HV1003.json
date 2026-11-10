@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2010,
+ "founded_evidence": "Seit 2010 ist das Berliner Gemeinschaftsunternehmen zwischen der Südhausbau-Gruppe München und der ehemaligen Tadesse Immobilien GmbH in den Bereichen der Immobilienverwaltung und Hauswartung vor Ort tätig.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Erstellung von Hausabrechnungen » Nebenkostenabrechnung",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als klassischer Hausverwalter beinhaltet unser Service eine professionelle Dienstleistung mit übersichtlicher Rechnungslegung sowie die dazugehörige technische Betreuung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Hubertus Kobe"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Hubertus Kobe",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based classic property manager (Immobilienverwaltung and Hauswartung) founded as a joint venture in 2010, managing about 1,200 units.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "Derzeit werden durch die Südhausbau Berlin GmbH ca. 1.200 Einheiten überwiegend in Berlin, Potsdam und Umland",
+ "units_managed": 1200,
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.suedhausbau-berlin.de/",
+  "services": "https://www.suedhausbau-berlin.de/immobilienverwaltung",
+  "about": "https://www.suedhausbau-berlin.de/unternehmen",
+  "impressum": "https://www.suedhausbau-berlin.de/impressum"
+ }
+}

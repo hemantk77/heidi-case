@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung Immobilienvermarktung Axel Fiedler 13467 Berlin Reinickendorf Hermsdorf",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl.-Kfm. Axel Fiedler"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dipl.-Kfm. Axel Fiedler",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin-Hermsdorf property manager (sole proprietorship, Axel Fiedler) offering WEG, special-ownership, rental and commercial management plus property marketing for the Berlin North; no portfolio size stated.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-fiedler.de/",
+  "about": "https://hausverwaltung-fiedler.de/ueber-uns/",
+  "services": "https://hausverwaltung-fiedler.de/leistungen/",
+  "impressum": "https://hausverwaltung-fiedler.de/impressum/"
+ }
+}

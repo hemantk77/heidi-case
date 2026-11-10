@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Ralf Stähler",
+  "Gregor Karras",
+  "Albert-Reemt Schuster"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Ralf Stähler Gregor Karras Albert-Reemt Schuster",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin landlord renting barrier-free senior service apartments and care shared flats; property management is outsourced to Zenveo GmbH in Leipzig.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zusammen-zuhause.de/",
+  "impressum": "https://www.zusammen-zuhause.de/impressum"
+ }
+}

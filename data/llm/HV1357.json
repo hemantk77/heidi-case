@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmaklerin Berlin & Brandenburg | Kaßner Immobilien GmbH",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Anne Kaßner"
+ ],
+ "managing_directors_evidence": "Geschäftsführung\nAnne Kaßner",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Kaßner Immobilien is a Berlin and Brandenburg real-estate brokerage focused on selling properties, with valuation and sales services; no property management is mentioned.",
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kassner-immobilien.de/",
+  "services": "https://www.kassner-immobilien.de/immobilienangebote",
+  "impressum": "https://www.kassner-immobilien.de/legal/impressum"
+ }
+}

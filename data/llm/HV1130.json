@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die b² living steht für eine moderne und qualitätsorientierte Immobilienverwaltung. Zertifizierte Verwalter kümmern sich mit Verlässlichkeit und Transparenz um Wohnungseigentümergemeinschaften, Sondereigentum und Miethäuser.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jan-Philipp Barsties"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nJan-Philipp Barsties",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "b² living UG is a Berlin property manager offering WEG, rental house and special-property administration, focused on small condominium communities in Berlin and Brandenburg.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.b2living.de/",
+  "services": "https://www.b2living.de/kopie-von-miethausverwaltung",
+  "about": "https://www.b2living.de/about-3",
+  "impressum": "https://www.b2living.de/impressum"
+ }
+}

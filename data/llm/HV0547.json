@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Südstadtgalerie Saalfeld Verwaltungs GmbH mit Sitz am Kurfürstendamm 50 in Berlin ist spezialisiert auf die Bereiche Unternehmensführung und Verwaltung.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Seit 2005 unterstützen wir das Wachstum und den Betrieb der Südstadtgalerie Saalfeld GmbH & Co. KG",
+ "managing_directors": [
+  "Igor Lilic"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Igor Lilic",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin company providing corporate management and administrative services exclusively to its affiliate Südstadtgalerie Saalfeld GmbH & Co. KG, not a third-party property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://suedstadtgalerie.com/",
+  "impressum": "https://www.suedstadtgalerie.com/about-6"
+ }
+}

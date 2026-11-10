@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Tondo Immobilienmanagement bietet die kaufmännische und technische Verwaltung von Wohnungseigentümergemeinschaften, hier auch die Sondereigentumsverwaltung, und die Mietverwaltung von Liegenschaften in Berlin und Potsdam sowie im nahegelegenen Umland an.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": 1008,
+ "units_evidence": "1008 Verwaltete Wohnungen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 10,
+ "employees_evidence": "10 Mitarbeiter/innen",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Joachim Koch"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführung: Joachim Koch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering WEG, Sondereigentum and rental management (1,008 units, 36 WEGs, 12 rental portfolios, 10 staff), also brokerage and construction project management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://tondo-berlin.com/",
+  "services": "https://tondo-berlin.com/hausverwaltung-kontaktanfrage/",
+  "impressum": "https://tondo-berlin.com/impressum"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Kapitalanlage Neubau Moderne Neubauprojekte als attraktive Kapitalanlagen. ... Kapitalanlage Bestand Investieren Sie in Immobilien mit sofortigen Mieteinnahmen.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "BESTER Immobilienvertrieb sells investment properties (new builds, existing stock, listed buildings) to private investors; the site shows no property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bester-immobilienvertrieb.de/",
+  "about": "https://www.bester-immobilienvertrieb.de/about/",
+  "jobs": "https://www.bester-immobilienvertrieb.de/karriere/",
+  "impressum": "https://www.bester-immobilienvertrieb.de/impressum/"
+ }
+}

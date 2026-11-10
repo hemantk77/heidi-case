@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "investment_or_development",
+ "services": [
+  "Hausverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Ludwig Will"
+ ],
+ "managing_directors_evidence": "Dr. Ludwig Will",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin firm focused on building-investor representation, project management and portfolio management, listing Hausverwaltung among its services; very small team, no unit counts given.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.will-berlin.de/",
+  "services": "https://www.will-berlin.de/leistungsangebote-1984-bis-2017/",
+  "impressum": "https://www.will-berlin.de/impressum/"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "mehr als 20 Jahre Erfahrung in der Immobilienwirtschaft",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als eine der  digitalsten Hausverwaltungen Berlins, mit über 20 Jahren Erfahrung sorgen wir durch regelmäßige, gezielte Wartung für den Werterhalt Ihrer Immobilie.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Paul Friedrichs"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Paul Friedrichs",
+ "portal_evidence": "Login für Mieter",
+ "portal_or_app": "Login für Mieter",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager (Stadtcom Hausverwaltungs GmbH) positioning itself as highly digital, with a tenant login, 24/7 ticket system, and over 20 years of experience; no unit or building counts stated.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.stadtcom-hv.gmbh/",
+  "impressum": "https://stadtcom-hv.gmbh/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Makler mit Plan",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Andreas Kischkel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Kischkel",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Kischkel Immobilien is a real-estate brokerage focused on property sales (Immobilienverkauf) and valuation, with a Dinslaken/Niederrhein base; the site shows no property management offering.",
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kischkel-immobilien-berlin.de/",
+  "services": "https://www.kischkel-immobilien.de/leistungen/",
+  "about": "https://www.kischkel-immobilien.de/ueber-uns/",
+  "jobs": "https://www.kischkel-immobilien.de/leistungen/marktwert-und-wettbewerbsanalyse/",
+  "impressum": "https://www.kischkel-immobilien.de/impressum/"
+ }
+}

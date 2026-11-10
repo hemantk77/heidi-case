@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 23,
+ "employees_evidence": "Heute besteht das Büro Weißenborn mit Sitz in Berlin-Schöneberg aus einem eingespielten Team von 23 Mitarbeitenden, die über 2.600 Einheiten in Berlin und Umgebung betreuen.",
+ "founded_evidence": "Seit 2000 sind wir als eine erfahrene und zuverlässige Hausverwaltung in Berlin bekannt",
+ "founded_year": 2000,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Heute besteht das Büro Weißenborn mit Sitz in Berlin-Schöneberg aus einem eingespielten Team von 23 Mitarbeitenden, die über 2.600 Einheiten in Berlin und Umgebung betreuen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Martin Thurnbacher",
+  "Jörg Weißenborn"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer Martin Thurnbacher Dipl.-Ing. Jörg Weißenborn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kunden-Login",
+ "portal_evidence": "Kunden-Login",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "die über 2.600 Einheiten in Berlin und Umgebung betreuen",
+ "units_managed": 2600,
+ "segment_note": "Berlin-Schöneberg property manager since 2000 with 23 staff, managing over 2,600 units, specializing in large residential complexes and WEG administration, with a customer login portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bw-berlin.com/",
+  "services": "https://bw-berlin.com/unsere-leistungen",
+  "about": "https://bw-berlin.com/ueber-uns",
+  "jobs": "https://bw-berlin.com/karriere",
+  "impressum": "https://bw-berlin.com/impressum"
+ }
+}

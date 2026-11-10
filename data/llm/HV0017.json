@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten derzeit ca. 200 Mietwohnhäuser und 50 Wohnungseigentümergemeinschaften (Selbstnutzer und vermietende Kapitalanleger) mit insgesamt ca. 5.000 Wohn- und Gewerbeeinheiten in Berlin und Umgebung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 5000,
+ "units_evidence": "Wir verwalten derzeit ca. 200 Mietwohnhäuser und 50 Wohnungseigentümergemeinschaften (Selbstnutzer und vermietende Kapitalanleger) mit insgesamt ca. 5.000 Wohn- und Gewerbeeinheiten in Berlin und Umgebung.",
+ "buildings_managed": null,
+ "buildings_evidence": "Wir verwalten derzeit ca. 200 Mietwohnhäuser und 50 Wohnungseigentümergemeinschaften (Selbstnutzer und vermietende Kapitalanleger) mit insgesamt ca. 5.000 Wohn- und Gewerbeeinheiten in Berlin und Umgebung.",
+ "employees": 19,
+ "employees_evidence": "Unser Team besteht der Zeit aus 19 Mitarbeiterinnen/Mitarbeitern und 1 Auszubildenden",
+ "founded_year": 2009,
+ "founded_evidence": "bis diese im September 2009 als eigenständige Firma - als WGW Werz Goldstein & Werz Hausverwaltungsgesellschaft mbH - ausgegliedert wurde",
+ "managing_directors": [
+  "Gösta Goldstein"
+ ],
+ "managing_directors_evidence": "Geschäftsführender Gesellschafter: Gösta Goldstein",
+ "heating_billing": "mentions_external_provider",
+ "heating_billing_evidence": "MeAB Messen und Abrechnen GmbH ... Ihr Dienstleister für verbrauchsgerechte Erfassung und Abrechnung von Wärme, Wasser und Hausnebenkosten.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (WEG, rental and commercial units) with about 5,000 units and 19 staff, offering full A-to-Z management; heating billing is handled via partner MeAB.",
+ "buildings_managed_rejected": 250,
+ "_evidence_checked": 7,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wgw.de/",
+  "about": "https://www.wgw.de/unternehmen",
+  "services": "https://www.wgw.de/leistungen",
+  "jobs": "https://www.wgw.de/jobs",
+  "impressum": "https://www.wgw.de/impressum"
+ }
+}

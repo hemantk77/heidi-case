@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Vonovia ist Deutschlands führendes Immobilienunternehmen, das als erstes Wohnungsunternehmen Deutschlands in den DAX-30 Index aufgenommen wurde.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 355600,
+ "units_evidence": "mit unseren rund 355.600 Wohnungen in allen attraktiven Städten und Regionen in ganz Deutschland vertreten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mein Vonovia App",
+ "portal_evidence": "mit der „Mein Vonovia“ App organisieren Sie alles rund um Ihr Zuhause zentral und übersichtlich.",
+ "segment_note": "Vonovia is a large German residential landlord with about 355,600 apartments, offering tenants the \"Mein Vonovia\" app and a service area.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vonovia.de/",
+  "services": "https://www.vonovia.de/weitere-angebote",
+  "portal": "https://www.vonovia.de/mein-zuhause/mein-vonovia-app",
+  "jobs": "https://jobs.vonovia.de/Vonovia/"
+ }
+}

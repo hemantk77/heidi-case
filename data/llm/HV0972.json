@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 160,
+ "employees_evidence": "Insgesamt beschäftigen wir rund 160 Mitarbeiter*innen an den Standorten Köln, München, Berlin, Stuttgart, Grünwald, Monheim und Zossen.",
+ "founded_year": 2002,
+ "founded_evidence": "Das 2002 gegründete Unternehmen entwickelt Wohn- und Gewerbeimmobilien sowie Quartiere in Köln, Bonn, Düsseldorf, München, Berlin und Stuttgart.",
+ "managing_directors": [
+  "Reinhold Knodel"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Vorstand: Reinhold Knodel (CEO)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PANDION is a Cologne-based, owner-led developer of residential and commercial properties with a Berlin branch; the site describes development and sales, with no property management offering found.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.pandion.de/",
+  "about": "https://pandion.de/ag/unternehmen/ueber-uns/",
+  "services": "https://pandion.de/ag/portfolio/",
+  "jobs": "https://pandion.de/ag/karriere/arbeiten-bei-pandion/",
+  "impressum": "https://pandion.de/ag/impressum/"
+ }
+}

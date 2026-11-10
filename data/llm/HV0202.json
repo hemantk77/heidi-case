@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": "Unser dreizehnköpfiges Team betreut aktuell rund 1.000 Einheiten in Wohnungseigentümergemeinschaften, Mietobjekten, Privatstraßen sowie Gewerbeobjekten.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die KLOTZ Hausverwaltung GmbH ist seit über 20 Jahren kompetent und erfolgreich in Berlin, Brandenburg, Sachsen und Sachsen-Anhalt tätig. Unser dreizehnköpfiges Team betreut aktuell rund 1.000 Einheiten",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Kerstin Klotz",
+  "André Strehl"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Frau Kerstin Klotz und Herr André Strehl",
+ "portal_or_app": "Online-Portal",
+ "portal_evidence": "Unseren Eigentümern steht ein personalisiertes Online-Portal zur Verfügung.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "KLOTZ is a Berlin property manager (WEG, rental, special-property and commercial management, plus Hauswart services) with 13 staff managing about 1,000 units and an owner online portal.",
+ "units_evidence": "Unser dreizehnköpfiges Team betreut aktuell rund 1.000 Einheiten in Wohnungseigentümergemeinschaften, Mietobjekten, Privatstraßen sowie Gewerbeobjekten.",
+ "units_managed": 1000,
+ "employees_rejected": 13,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-klotz.de/",
+  "about": "https://hv-klotz.de/ueber-uns/",
+  "services": "https://hv-klotz.de/leistungen",
+  "impressum": "https://hv-klotz.de/impressum/"
+ }
+}

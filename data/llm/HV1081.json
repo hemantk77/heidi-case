@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Klassische Verwaltung unter serviceorientierten Gesichtspunkten sowie die Vermittlung und Bewertung von Immobilien, Mieten und Pachten sind unser Kerngeschäft.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Die rekla Dienstleitungsgesellschaft für das Grundstücks- und Wohnungswesen mbH wurde am 23.09.1997 gegründet",
+ "managing_directors": [
+  "Simone Ernemann",
+  "Dirk Ernemann"
+ ],
+ "managing_directors_evidence": "vertr. d.d. Geschäftsführer Simone Ernemann und Dirk Ernemann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1997) offering residential, commercial, WEG and SEV administration plus brokerage and valuation, with service-charge billing as an add-on.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rekla-berlin.de/",
+  "about": "https://rekla-berlin.de/ueber-uns/",
+  "services": "https://rekla-berlin.de/verwaltung/",
+  "impressum": "http://rekla-berlin.de/impressum/"
+ }
+}

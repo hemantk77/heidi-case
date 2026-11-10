@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Beim Verkauf, der Vermietung oder der Verwaltung Ihrer Immobilie spielen Vertrauen und Transparenz bei uns eine zentrale Rolle",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Katharina Engelmann",
+  "Alexander Engelmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\nKatharina Engelmann\nAlexander Engelmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-run real estate brokerage (sales, rental, and property management for owners) with a managed portfolio of residential and commercial buildings; no unit count stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.maisonberlin.de/",
+  "services": "https://www.maisonberlin.de/angebote/",
+  "about": "https://www.maisonberlin.de/ueber_uns/",
+  "jobs": "https://www.maisonberlin.de/karriere/",
+  "impressum": "http://maisonberlin.de/impressum/"
+ }
+}

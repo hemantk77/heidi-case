@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "1979 gegründet, sind wir seit 40 Jahren beratend tätig.",
+ "founded_year": 1979,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenoptimierung und Heizkostenabrechnung, speziell abgestellt auf Ihre Wohnanlage.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohneigentum und Miethäusern.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dietmar Neumann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Betriebsw. Dietmar Neumann",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property company founded 1979 offering property management for residential and commercial properties, plus brokerage, acquisition and fund management.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://data-domizil.de/",
+  "jobs": "https://data-domizil.de/karriere",
+  "impressum": "https://data-domizil.de/impressum/"
+ }
+}

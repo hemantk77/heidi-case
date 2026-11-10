@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Krause, Creutzburg & Partner Rechtsanwälte und Notare sind spezialisiert auf Immobilienrecht, Arbeitsrecht, Bankrecht, Familienrecht und  Erbrecht.",
+ "main_business": "other",
+ "managing_directors": [
+  "Tilo Krause",
+  "Daniel Creutzburg",
+  "Sebastian Weiß",
+  "Jan Hartmann",
+  "Claudia Tischner"
+ ],
+ "managing_directors_evidence": "Tilo Krause, Daniel Creutzburg, Sebastian Weiß, Jan Hartmann, Claudia Tischner",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "A Berlin law firm (lawyers and notaries) specializing in real estate, labor, banking, family and inheritance law, not a property manager.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.krause-creutzburg.de/",
+  "jobs": "https://www.krause-creutzburg.de/karriere/",
+  "impressum": "https://www.krause-creutzburg.de/impressum/"
+ }
+}

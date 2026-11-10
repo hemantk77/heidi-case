@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Alle Bauservice Leistungen aus einer Hand ... Komplettsanierung, Generalunternehmer, Tischler und Boden, Badsanierung, Heizung und Sanitär, Elektroinstallateur, Maler und Trockenbau, Dachdecker, Facility-Management",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Cihan Erdil"
+ ],
+ "managing_directors_evidence": "Inhaber: Cihan Erdil",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BMC Bauservice is a Berlin renovation and general contractor firm offering construction trades and facility services, with no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bmcbauservice.de/",
+  "services": "https://bmcbauservice.de/leistungen",
+  "impressum": "https://bmcbauservice.de/impressum/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die MH Hausverwaltung GmbH betreut Immobilien für externe Eigentümer und Gemeinschaften.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Karl Emil Larsson"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Karl Emil Larsson",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (WEG, Miet and Sondereigentum) for private owners, communities and property companies, with about 1,000 managed units.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": "rund 1.000 verwaltete Einheiten",
+ "units_managed": 1000,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hegewisch-hausverwaltung.de/",
+  "services": "https://hegewisch-hausverwaltung.de/leistungen-und-preise",
+  "about": "https://hegewisch-hausverwaltung.de/unternehmen",
+  "jobs": "https://hegewisch-hausverwaltung.de/jobs-stellenanzeigen",
+  "impressum": "https://hegewisch-hausverwaltung.de/impressum"
+ }
+}

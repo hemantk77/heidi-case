@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The provided text is from datenschutz.org, a data-protection advice portal, not from Hausverwaltung Kiene; no information about the property management company itself was found.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-kiene.de/",
+  "jobs": "https://www.datenschutz.org/passwort-erstellen/",
+  "about": "https://www.datenschutz.org/unternehmen/",
+  "impressum": "https://www.datenschutz.org/impressum-datenschutz/"
+ }
+}

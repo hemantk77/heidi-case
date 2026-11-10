@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als privater Full-Service Property Manager ist sie auf die Bewirtschaftung von Micro-Living Assets spezialisiert.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": 1900,
+ "units_evidence": "Mit den Cresco eigenen Marken Neon Wood und Tannhaus betreibt die Cresco Immobilien Verwaltungs GmbH derzeit ca. 1.900 Einheiten von Student Housing und Serviced Apartments",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2016,
+ "founded_evidence": "Die Cresco Immobilien Verwaltungs GmbH wurde 2016 als Teil der Cresco Real Estate Gruppe gegründet.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieter App",
+ "portal_evidence": "Mieter App",
+ "segment_note": "Berlin-based full-service property manager specialised in micro-living assets (student housing and serviced apartments) with about 1,900 units under its brands Neon Wood and Tannhaus.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.crescore-civ.de/",
+  "about": "https://www.civ-crescore.de/unternehmen",
+  "services": "https://www.civ-crescore.de/leistungen",
+  "portal": "https://www.civ-crescore.de/esg/mieter-app",
+  "jobs": "https://www.civ-crescore.de/karriere"
+ }
+}

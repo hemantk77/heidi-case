@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Horst Lehmann"
+ ],
+ "managing_directors_evidence": "Inhaber: Horst Lehmann",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The company rents out its own office and residential properties in Berlin/Brandenburg directly from the owner, with no brokerage commission, and does not describe offering property management for third parties.",
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": "Als Selbstverwaltung unseres eigenen Immobilienbestandes",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.horstlehmann.de/",
+  "impressum": "http://www.horstlehmann.de/immobilienverwaltung_imp.htm",
+  "services": "http://www.horstlehmann.de/immobilienverwaltung_imp.htm"
+ }
+}

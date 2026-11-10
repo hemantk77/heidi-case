@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Verwaltung gliedert sich in folgende Abteilungen",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 16,
+ "employees_evidence": "Unser Team setzt sich aus 16 Mitarbeitern zusammen",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Frank Foelske"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt dieser Website: Frank Foelske",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Auch Heizkostenabrechnungen, Betriebskostenabrechnungen und Mietzahlungen stehen hier an der Tagesordnung.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "F. Foelske is a family-run Berlin-Zehlendorf property management firm with 16 staff handling rentals, heating and service-cost billing, and on-site caretaking.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.foelske.de/",
+  "about": "https://www.foelske.de/hausverwaltung-berlin/ueber-uns.html",
+  "services": "https://www.foelske.de/hausverwaltung-berlin/angebote.html",
+  "impressum": "https://www.foelske.de/hausverwaltung-berlin/impressum.html"
+ }
+}

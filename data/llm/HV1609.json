@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Firma EXTRA-BAU GmbH führt komplexe schlüsselfertige Leistungen in der Sanierung von Alt- und Neubauten durch.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 50,
+ "employees_evidence": "beschäftigt seit dem  ca. 50 Mitarbeiter",
+ "founded_year": 1990,
+ "founded_evidence": "Das Unter - nehmen besteht seit 1990",
+ "managing_directors": [
+  "Hr. Schröder",
+  "Hr. Wagner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Hr. Schröder Hr. Wagner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Extra Bau GmbH is a Berlin construction contractor (renovation, concrete, screeds, drywall, painting, demolition), not a property manager, with about 50 employees.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.extra-bau-gmbh.de/",
+  "services": "https://www.extra-bau-gmbh.de/leistungen",
+  "jobs": "https://www.extra-bau-gmbh.de/stellenangebote",
+  "impressum": "https://www.extra-bau-gmbh.de/impressum"
+ }
+}

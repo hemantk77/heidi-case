@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Klaus Köhler & Sohn Verwaltungs GmbH bietet heute als inhabergeführtes Familienunternehmen Dienstleistungen für Wohnungseigentümergemeinschaften und Eigentümer von Wohn- und Gewerbeimmobilien an.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 7,
+ "employees_evidence": "Die Gesellschaft verfügt neben den Geschäftsführern zusätzlich über 7 feste Mitarbeiter, die sich um die Objekte der Gesellschaft kümmern",
+ "founded_year": null,
+ "founded_evidence": "Seit den 1920er Jahren wurden zunächst Immobilien und Objekte verwaltet, die sich im Eigenbesitz der Familie Köhler befanden.",
+ "managing_directors": [
+  "Klaus Köhler",
+  "Joachim Köhler"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Klaus Köhler, Joachim Köhler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) for WEGs and residential/commercial owners, family-run, with 7 permanent staff plus 3 at its subsidiary REC Hausverwaltung, which it acquired in 2019.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-koehler.de/",
+  "about": "http://www.hausverwaltung-koehler.de/Ueber-Uns.html",
+  "services": "http://www.hausverwaltung-koehler.de/Weg-Verwaltung.html",
+  "impressum": "http://www.hausverwaltung-koehler.de/Impressum.html"
+ }
+}

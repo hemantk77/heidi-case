@@ -1,0 +1,41 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnungseigentümer: Hohe Servicequalität und Geschwindigkeit durch persönliche Ansprechpartner ... Ob … geschlossene Immobilienfonds, Real-Estate-Management, Beteiligungsmanagement, Beratung und Sanierung, Property-Management oder Technical Solutions",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stefan Claus",
+  "Dino Kirchmeier",
+  "André Leiminger",
+  "Alexandra Stubbe"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Stefan Claus, Dino Kirchmeier, André Leiminger, Alexandra Stubbe",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kunden-App",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "segment_note": "BEB+ is a Berlin full-service real estate provider offering fund management, asset management and WEG management, with a customer app for property management clients.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bebplus.de/",
+  "portal": "https://serviceapp.bebplus.de/login",
+  "services": "https://bebplus.de/leistungen/",
+  "about": "https://bebplus.de/ueber-uns/",
+  "jobs": "https://bebplus.de/karriere/",
+  "impressum": "https://bebplus.de/impressum/"
+ }
+}

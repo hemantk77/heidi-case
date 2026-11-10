@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Haus- Objekt- und WEG-Verwaltung im Raum Berlin und Brandenburg",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 900,
+ "units_evidence": "Wir verwalten über 40 Objekte mit ca. 900 Einheiten im gesamten Berliner Stadtgebiet und im Land Brandenburg.",
+ "buildings_managed": 40,
+ "buildings_evidence": "Wir verwalten über 40 Objekte mit ca. 900 Einheiten im gesamten Berliner Stadtgebiet und im Land Brandenburg.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sylvia Neumann",
+  "Rudolf Neumann"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Sylvia Neumann und Rudolf Neumann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mietverwaltung – Technische Verwaltung, Betriebs- und Heizkostenabrechnungen, Mieterhöhungen, Modernisierung, Instandhaltung, Vermietung etc.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "J. Neumann Verwaltungsgesellschaft is a family-run Berlin/Brandenburg property manager offering rental, WEG and special-property management, with about 900 units across over 40 properties.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.jnv-gmbh.de/",
+  "about": "https://www.jnv-gmbh.de/ueber-uns/",
+  "impressum": "https://www.jnv-gmbh.de/ueber-uns/impressum/",
+  "services": "https://www.jnv-gmbh.de/leistungen/"
+ }
+}

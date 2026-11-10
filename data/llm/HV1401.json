@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Fokus liegt auf der Entwicklung und Verwaltung von Mehrfamilienhäusern.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Gründung der REMM Gruppe durch Hargen M- Bartels in Berlin mit klarer Vision für die Zukunft",
+ "managing_directors": [],
+ "managing_directors_evidence": "Geschäftsführer: Hargen M. Bartels, Helge M. Gernhardt, Inka J. Gernhardt",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen, Transparente und nachvollziehbare Abrechnung von Betriebs- und Nebenkosten für Mietparteien",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin residential landlord and property manager (Mehrfamilienhäuser) founded 1991, offering tenant rental management, maintenance, renovation, and utility-cost billing for its own and possibly third-party portfolio.",
+ "founded_year_rejected": 1991,
+ "managing_directors_rejected": [
+  "Hargen M. Bartels",
+  "Helge M. Gernhardt",
+  "Inka J. Gernhardt"
+ ],
+ "_evidence_checked": 4,
+ "_evidence_failed": 2,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://remm-wohnen.de/",
+  "about": "https://remm-wohnen.de/de/uber-uns",
+  "services": "https://remm-wohnen.de/de/faq",
+  "jobs": "https://remm-wohnen.de/de/karriere",
+  "impressum": "https://remm-wohnen.de/de/impressum"
+ }
+}

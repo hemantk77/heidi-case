@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für vermietete Wohnhäuser und für Wohnungseigentümergemeinschaften übernehmen wir sowohl die kaufmännische, als auch die technische Verwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Olivia Exner"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Olivia Exner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Online-Archiv",
+ "portal_evidence": "Mieter und Eigentümer können jederzeit auf unser  Online-Archiv zugreifen und ihre  Dokumente und Korrespondenzen aufrufen.",
+ "segment_note": "Berlin property manager for rental houses and WEG communities (Neukölln), offering commercial and technical management with an online document archive for owners and tenants.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mittenmang-hausverwaltung.de/",
+  "about": "https://mittenmang-hausverwaltung.de/die-philosophie-von-mittenmang/",
+  "services": "https://mittenmang-hausverwaltung.de/unsere-leistungsversprechen/",
+  "impressum": "https://mittenmang-hausverwaltung.de/impressum/",
+  "jobs": "https://mittenmang-hausverwaltung.de/weg-verwalter-in-gesucht/"
+ }
+}

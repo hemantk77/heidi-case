@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Infrastrukturdienstleister bieten wir Reinigungsleistungen, Hauswartservice und 24-Stunden-Notdienst, Garten- und Landschaftspflege sowie in Partnerschaft den Winterdienst.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gebäudereinigung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Zu uns gehören inzwischen über 100 Mitarbeiter.",
+ "founded_year": 1999,
+ "founded_evidence": "Aus dem 1999 gegründeten 5-Mann-Unternehmen „Birnbaum AG“",
+ "managing_directors": [
+  "Steffen Möller"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Steffen Möller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin facility service provider (cleaning, Hauswart, gardening, winter service, pest control) with over 100 staff; does not offer property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.birnbaum-gmbh.de/",
+  "about": "https://birnbaum-gmbh.de/unternehmen/",
+  "services": "https://birnbaum-gmbh.de/leistungen/",
+  "impressum": "https://birnbaum-gmbh.de/impressum/"
+ }
+}

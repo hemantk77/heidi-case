@@ -1,0 +1,19 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "property_management",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Pro Return Property Management GmbH is a Berlin and Leipzig firm whose homepage title names WEG and Mietverwaltung, though the page text itself gives no detail on services or size.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.pro-return.de/"
+ }
+}

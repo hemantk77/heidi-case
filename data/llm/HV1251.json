@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Servicespektrum für Eigentümer Verkauf Immobilienverkauf ... Vermietung Immobilienvermietung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Matthias Wedel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Matthias Wedel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Immobilienmakler) for sales and rental of properties, with no property management offering shown on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.agas-immobilien.de/",
+  "services": "https://www.agas-immobilien.de/service/",
+  "portal": "https://www.agas-immobilien.de/anzeigen-portale-berlin-brandenburg/",
+  "jobs": "https://www.agas-immobilien.de/stellenangebot-makler-berlin/",
+  "impressum": "https://www.agas-immobilien.de/about/"
+ }
+}

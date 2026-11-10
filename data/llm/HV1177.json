@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin housing cooperative (eG) whose website text provided shows only community activity listings (CHARLOTTE Treffs) and no information about its property management services.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://charlotte1907.de/",
+  "about": "https://charlotte1907.de/genossenschaft/wir-ueber-uns",
+  "services": "https://charlotte1907.de/wohnungsangebote/woechentliche-angebote",
+  "portal": "https://charlotte1907.de/service/portal",
+  "jobs": "https://charlotte1907.de/karriere/die-charlotte-als-arbeitgeber",
+  "impressum": "https://charlotte1907.de/impressum"
+ }
+}

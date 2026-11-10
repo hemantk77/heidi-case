@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2010,
+ "founded_evidence": "gegründet 2010",
+ "managing_directors": [
+  "Dr. Marc Schulten"
+ ],
+ "managing_directors_evidence": "Vorstand:\nDr. Marc Schulten",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate investor, project developer and asset holder (founded 2010) that manages its own properties through subsidiaries; no third-party property management offering is stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ffire.de/",
+  "about": "https://ffire.de/team",
+  "jobs": "https://ffire.de/jobs/",
+  "impressum": "https://ffire.de/impressum"
+ }
+}

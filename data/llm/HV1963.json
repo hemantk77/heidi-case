@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienmanagement Asset Management Center- und Property Management Vermietungsmanagement",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": 130,
+ "employees_evidence": "Mit insgesamt 130 Teammitgliedern sind wir stark für die aktuellen und zukünftigen Herausforderungen rund um Ihre Immobilie aufgestellt.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Erik Marienfeldt",
+  "Dr. Peter Rentrop-Schmid"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Erik Marienfeldt, Dr. Peter Rentrop-Schmid",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HIH Real Estate is an asset manager for institutional investors offering asset, letting, and center/property management, with about 130 staff; headquarters listed as Hamburg, not Berlin.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hih.de/",
+  "about": "https://hih.de/ueber-uns/",
+  "services": "https://hih.de/vermietungsangebote/",
+  "portal": "https://hih.de/hih-vermietet-knapp-3-200-quadratmeter-bueroflaeche-in-hannover/",
+  "impressum": "https://hih.de/impressum"
+ }
+}

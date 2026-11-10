@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine Hausverwaltung, die sich nach 23-jährigen Erfahrungen in der Miet- und WEG-Verwaltung sehr individuell auf die Wünsche und Vorstellungen der einzelnen Eigentümer und Mieter einstellt.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Aufgrund der Kundenzufriedenheit und Empfehlungen umfasst unser Verwaltungsbestand derzeit 55 Liegenschaften mit ca. 1000 Wohn-/Gewerbeeinheiten.",
+ "buildings_managed": 55,
+ "buildings_evidence": "Aufgrund der Kundenzufriedenheit und Empfehlungen umfasst unser Verwaltungsbestand derzeit 55 Liegenschaften mit ca. 1000 Wohn-/Gewerbeeinheiten.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "Im Gründungsjahr 2000 haben wir mit 30 Wohneinheiten begonnen.",
+ "managing_directors": [
+  "Angela Wolf"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Alenag folW",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellen der Betriebskostenabrechnungen",
+ "portal_or_app": "Facilioo",
+ "portal_evidence": "Der Einsatz unserer Kunden-App „Facilioo“ bietet unseren Eigentümern und Mietern bequem die Möglichkeit",
+ "segment_note": "Berlin property manager (Hausverwaltung for rental and WEG properties, founded 2000) with about 55 properties and roughly 1,000 units, also doing brokerage and sales, using the Facilioo app.",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.w-i-m-immobilien.de/",
+  "about": "https://www.w-i-m-immobilien.de/ueber-uns",
+  "services": "https://www.w-i-m-immobilien.de/verwaltung",
+  "jobs": "https://www.w-i-m-immobilien.de/karriere",
+  "portal": "https://portal.w-i-m-immobilien.de/",
+  "impressum": "https://www.w-i-m-immobilien.de/impressum"
+ }
+}

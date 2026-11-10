@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 1930 stehen wir für eine persönliche Betreuung",
+ "founded_year": 1930,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Charlottenburger Hausverwaltung Treuhand AG ist ein familiengeführtes Unternehmen mit Tradition",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl.-Ing. Helmut Weeke"
+ ],
+ "managing_directors_evidence": "Vorstand: Dipl.-Ing. Helmut Weeke",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "Charlottenburg property manager (family-run, since 1930) managing rental houses for residential and commercial use in Berlin and surroundings.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.treuhand-ag.net/",
+  "impressum": "https://www.treuhand-ag.net/terms-conditions"
+ }
+}

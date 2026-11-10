@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Berliner Arbeitsgemeinschaft der Mietrechtspraktiker (BAM) ist ein Zusammenschluss von Anwälten und Richtern, die schwerpunktmäßig mit Mietrecht befasst sind.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "Sie wurde 1998 gegründet und umfaßt derzeit über 140 Mitglieder.",
+ "managing_directors": [
+  "Dr. Thomas Hansen"
+ ],
+ "managing_directors_evidence": "vertreten durch Rechtsanwalt Dr. Thomas Hansen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mitglieder-Login",
+ "portal_evidence": "Bestehende Mitglieder können sich hier für den internen Zugang dieser Webseite registrieren.",
+ "segment_note": "MietR & WEG is a Berlin association of lawyers and judges specializing in tenancy and condominium law, not a property manager; it runs seminars and has a members-only login.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://mietr-und-weg.de/",
+  "impressum": "https://www.mietrechtspraktiker.de/impressu",
+  "portal": "https://www.mietrechtspraktiker.de/index.php/mitglieder-login"
+ }
+}

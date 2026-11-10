@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Die CENTIM ist ein aufstrebendes Immobilienunternehmen mit Sitz in Berlin. Ein wesentlicher Schwerpunkt der 2009 gegründeten Gesellschaft ist das Management von Handelsimmobilien.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Einer der zentralen Geschäftsbereiche unseres Portfolios stellt das kaufmännische und technische Property Management dar.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Mara Thinius",
+  "Ulrich Hammer",
+  "Ingo Rieck"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Mara Thinius, Ulrich Hammer, Ingo Rieck",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin-based commercial property manager specialising in retail centres, offering commercial and technical property management plus leasing.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.centim.de/",
+  "impressum": "https://www.centim.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Nebenkostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAUS- und IMMOBILIENVERWALTUNG Allston Lynd ist Ihr kompetent Partner rund um die Immobilienverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Marlon Ruiz"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Herr Marlon Ruiz",
+ "portal_evidence": "MIETERPORTAL",
+ "portal_or_app": "Mieterportal",
+ "segment_note": "Berlin-based property manager (Hausverwaltung) also doing apartment sales and rentals, with a tenant portal; no unit or building counts stated.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.allstonlynd.de/",
+  "services": "https://www.allstonlynd.de/hausverwaltung/",
+  "jobs": "https://www.allstonlynd.de/services/",
+  "impressum": "https://www.allstonlynd.de/impressum/"
+ }
+}

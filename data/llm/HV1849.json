@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2014,
+ "founded_evidence": "Mit der Gründung von Hildebrandt Immobilien e. K. im Jahr 2014 hat er die Maklertätigkeit in sein eigenes Unternehmensportfolio integriert",
+ "managing_directors": [
+  "Stefan Hildebrandt"
+ ],
+ "managing_directors_evidence": "Inh. Stefan Hildebrandt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Hildebrandt Immobilien is an owner-managed real-estate brokerage in Göttingen and Berlin that also runs developer/Bauträger projects; the site describes sales and rental brokerage but no property management of third-party or own portfolio.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hildebrandt-immo.de/",
+  "about": "https://www.hildebrandt-immo.de/ueber-uns/",
+  "services": "https://www.hildebrandt-immo.de/fuer-eigentuemer/",
+  "impressum": "https://www.hildebrandt-immo.de/impressum/"
+ }
+}

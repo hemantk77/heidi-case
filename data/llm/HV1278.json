@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": 3300,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": "über 3.300 Immobilien erfolgreich verkauft, vermietet und entwickelt",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christian Kurtz"
+ ],
+ "managing_directors_evidence": "Inhaber: Christian Kurtz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate firm (owner-managed, Berlin-Friedenau) offering sales, rentals, Hausverwaltung and consulting, with over 3,300 properties sold, rented or developed.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.habitare-immobilien.de/",
+  "about": "https://www.habitare-immobilien.de/unternehmen/philosophie",
+  "jobs": "https://www.habitare-immobilien.de/unternehmen/karriere",
+  "services": "https://www.habitare-immobilien.de/angebote",
+  "impressum": "https://www.habitare-immobilien.de/impressum"
+ }
+}

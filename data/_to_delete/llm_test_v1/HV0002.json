@@ -1,0 +1,41 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die ZBVV – Zentral Boden Vermietung und Verwaltung GmbH, Immobilieneigentümern ein breitgefächertes Serviceangebot rund um die Verwaltung ihrer Immobilien.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 38000,
+ "units_evidence": "Aktuell werden bundesweit rund 38.000 Wohn- und Gewerbeeinheiten von verschiedenen Fondsgesellschaften verwaltet.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 300,
+ "employees_evidence": "Mit deutschlandweit über 300 Mitarbeitende bietet die ZBVV",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gunnar Dallwitz",
+  "Franziska Magin-Kohl"
+ ],
+ "managing_directors_evidence": "Geschäftsführung\nGunnar Dallwitz\nFranziska Magin-Kohl",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "bis zur Betriebskostenabrechnung.",
+ "portal_or_app": "Mietanfrageportal",
+ "portal_evidence": "Jetzt registrieren in unserem Mietanfrageportal",
+ "segment_note": "ZBVV is a German property manager (Erlangen-registered, Berlin Kurfürstendamm address on Google) managing about 38,000 residential and commercial units for fund companies, with a rental inquiry portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zbvv.de/",
+  "about": "https://www.zbvv.de/unternehmen/",
+  "services": "https://www.zbvv.de/dienstleistungen/",
+  "jobs": "https://www.zbvv.de/karriere/",
+  "portal": "https://www.zbvv.de/mietanfrageportal/",
+  "impressum": "https://www.zbvv.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Möchten Sie Ihr Objekt vermieten, kümmern wir uns um die Hausverwaltung, die Verwaltung von Wohnungseigentum oder von Sondereigentum.",
+ "main_business": "brokerage",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 7,
+ "employees_evidence": "7 \nTop Experten\nstehen Ihnen mit ihrem Fachwissen und ihrer Expertise bei Ihren Immobilienanliegen zur Seite.",
+ "founded_year": 1994,
+ "founded_evidence": "Hinter HEIMSPIEL steht die Artesia Immobilien GmbH, die bereits seit 1994 besteht.",
+ "managing_directors": [
+  "Christian Schlag"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Christian Schlag",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate agency (brokerage HEIMSPIEL) founded 1994 in Zehlendorf that also offers property management for rentals, WEG and Sondereigentum.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://artesia-immobilien.de/",
+  "about": "https://artesia-immobilien.de/ueber-uns",
+  "services": "https://artesia-immobilien.de/leistungen",
+  "jobs": "https://artesia-immobilien.de/suchprofil",
+  "impressum": "https://artesia-immobilien.de/impressum"
+ }
+}

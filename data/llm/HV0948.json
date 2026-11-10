@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Firma Wenzel Immobilien GmbH wurde 1999 von Herrn Stefan Wenzel gegründet.",
+ "founded_year": 1999,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unternehmenszweck ist die Verwaltung von Wohn-, Gewerbeimmobilien und von Eigentumswohnanlagen sowie der Verkauf und die Vermietung von Immobilien",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Iris Wenzel",
+  "Stefan Wenzel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Iris Wenzel, Stefan Wenzel",
+ "portal_or_app": "Serviceportal",
+ "portal_evidence": "Den Eigentümern steht zusätzlich ein Serviceportal mit den wichtigsten Informationen und Dokumenten zu ihrem Objekt zur Verfügung.",
+ "segment_note": "Berlin-Pankow property manager (founded 1999) handling WEG and rental administration plus sales and letting, with about 600 managed units.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Heute werden ca. 600 Einheiten in Eigentumswohnanlagen und Mietshäusern in Berlin und dem angrenzenden Umland betreut.",
+ "units_managed": 600,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wenzel-immobilien-berlin.de/",
+  "services": "https://wenzel-immobilien-berlin.de/verwaltung/",
+  "about": "https://wenzel-immobilien-berlin.de/ueber-uns/",
+  "impressum": "https://wenzel-immobilien-berlin.de/impressum/"
+ }
+}

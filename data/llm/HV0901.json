@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung mit Persönlichkeit ... Unsere Expertise umfasst alle relevanten Aufgaben der Hausverwaltung, von der Mietverwaltung bis zur Instandhaltung und Modernisierung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": 4000,
+ "units_evidence": "Mit unserem erfahrenen und engagierten Team verwalten wir circa 4.000 Wohneinheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Unser Team besteht aus sieben Verwaltern und Auszubildenden, zwei Objektbuchhalterinnen und einer Finanzbuchhalterin",
+ "founded_year": 1995,
+ "founded_evidence": "Die wotum GmbH wurde 1995 von vier Berliner Wohnungsbaugenossenschaften gegründet",
+ "managing_directors": [
+  "Adrian Lade"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Adrian Lade",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wichtige Informationen wie Abrechnungen, Protokolle und Instandhaltungspläne sind zentral und aktuell abrufbar.",
+ "portal_or_app": null,
+ "portal_evidence": "Eigentümer und Mieter können Anliegen melden, den Status verfolgen und Kontakt aufnehmen.",
+ "segment_note": "Berlin property manager (founded 1995 by four housing cooperatives) focused on small and mid-sized WEG and rental portfolios, about 4,000 units in Berlin and Brandenburg.",
+ "employees_rejected": 7,
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wotum.de/",
+  "about": "https://wotum.de/aboutus.html",
+  "jobs": "https://wotum.de/bewerbung.html",
+  "services": "https://wotum.de/weg.html",
+  "impressum": "https://wotum.de/impressum.html"
+ }
+}

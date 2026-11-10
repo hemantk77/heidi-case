@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Unsere Unternehmensgeschichte beginnt 1959 mit der Gründung der späteren Ahlsen Heim- und Industriebau GmbH",
+ "founded_year": 1959,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die WEG-Verwaltung gehört zu unserem Tätigkeitsschwerpunkt. Wir verwalten bundesweit insbesondere auch kleine und mittlere Wohnungseigentumsgemeinschaften",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Torsten Gleißner",
+  "Kai Marcus Kempe"
+ ],
+ "managing_directors_evidence": "Vorstand: Torsten Gleißner | Dipl.-Kfm. Kai Marcus Kempe",
+ "portal_evidence": "Effizienter 24/7-Service über unser Online-Portal. Sie können alle wichtigen Daten und Verwaltungsunterlagen jederzeit digital abrufen",
+ "portal_or_app": "Onlineportal",
+ "segment_note": "Family-owned Berlin property manager (Ahlsen Immobilien AG) offering WEG, rental and investor property management with an online portal and ECM system.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ahlsen.de/",
+  "about": "https://ahlsen.de/ueber-uns/",
+  "services": "https://ahlsen.de/weg-verwaltung/",
+  "portal": "https://onlineportal.ahlsen.de",
+  "impressum": "https://ahlsen.de/impressum/"
+ }
+}

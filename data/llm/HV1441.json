@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Makler-Service: Immobilienbewertung, Kauf und Verkauf von Immobilien",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2018,
+ "founded_evidence": "2018 habe ich mit ZMP Immobilien mein eigenes Unternehmen gegründet",
+ "managing_directors": [
+  "Maximilian Zellmann"
+ ],
+ "managing_directors_evidence": "Inhaber: Maximilian Zellmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ZMP Immobilien is a Berlin/Brandenburg real-estate brokerage (sale of residential, commercial and investment properties) with no property management offering on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.zmp-immobilien.de/",
+  "services": "https://zmp-immobilien.de/leistungen",
+  "about": "https://zmp-immobilien.de/ueber-uns",
+  "impressum": "https://zmp-immobilien.de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Hausverwaltung Küntzel im Norden Berlins bietet nachhaltige Wertsicherung durch kompetente Immobilienverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1970,
+ "founded_evidence": "Seit 1970 in der Haus- und Grundstücksverwaltung in Berlin und seit 1999 in Brandenburg tätig",
+ "managing_directors": [
+  "Jennifer Jeckström"
+ ],
+ "managing_directors_evidence": "Inhaberin Jennifer Jeckström",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1970) offering full property management for landlords of rental houses, plus brokerage, with partial services for self-managing owners.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-kuentzel.de/",
+  "services": "https://www.hausverwaltung-kuentzel.de/persoenlicher-service/",
+  "about": "https://www.hausverwaltung-kuentzel.de/ueber-uns/",
+  "impressum": "https://www.hausverwaltung-kuentzel.de/impressum/"
+ }
+}

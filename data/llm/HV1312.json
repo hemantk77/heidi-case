@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "REALIUS kauft Wohnimmobilien ausschließlich für den eigenen Bestand.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2012,
+ "founded_evidence": "Seit der Gründung im Jahr 2012 erwerben wir Bestandsimmobilien für den eigenen Bestand",
+ "managing_directors": [
+  "Alexander Fuchs-Fleege"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Alexander Fuchs-Fleege",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "REALIUS is a Berlin single family office that buys and holds residential and mixed-use buildings for its own portfolio and does not offer property management for third parties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.realius.de/",
+  "about": "https://www.realius.de/ueber-realius/",
+  "impressum": "https://www.realius.de/impressum/"
+ }
+}

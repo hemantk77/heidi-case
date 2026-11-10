@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "POB ist seit mehreren Jahren als Immobilienverwalter tätig. Wir sind als Property Manager spezialisiert auf wohnwirtschaftliche Investitionen in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Janina Conitz"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Janina Conitz",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager offering rental and WEG administration for residential investments, with about 4,000 residential and commercial units.",
+ "units_evidence": "von hier aus betreuen unsere Mitarbeiter ca. 4.000 Wohn- und Gewerbeeinheiten",
+ "units_managed": 4000,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://pob-verwaltung.de/",
+  "about": "https://pob-verwaltung.de/uber-uns/",
+  "impressum": "https://pob-verwaltung.de/impressum",
+  "jobs": "https://pob-verwaltung.de/karrierechancen"
+ }
+}

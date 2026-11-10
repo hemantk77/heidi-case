@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Spezialisiert auf Mietobjekte, Eigentümergemeinschaften und Sondereigentum - dazu die Geschäftsbesorgung für Immobilienfonds in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "2.000 Verwaltete Einheiten Wohn- und Gewerbeeinheiten in Berlin",
+ "buildings_managed": 116,
+ "buildings_evidence": "116 Liegenschaften Von der Stadtvilla bis zum Mehrfamilienhaus",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "Die VILICUS Property Consulting GmbH wurde 2011 in Berlin gegründet",
+ "managing_directors": [
+  "Mandy Hentschel"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Mandy Hentschel, Geschäftsführerin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "casavi",
+ "portal_evidence": "- casavi",
+ "segment_note": "Berlin property manager (since 2011) handling rental, WEG and special-property administration plus fund business management, with about 2,000 units and 116 properties; uses casavi portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.vilicus-berlin.de/",
+  "services": "https://www.vilicus-berlin.de/leistungen",
+  "about": "https://www.vilicus-berlin.de/ueber-uns",
+  "jobs": "https://www.vilicus-berlin.de/karriere",
+  "portal": "https://portal.vilicus-berlin.de/app/login",
+  "impressum": "https://www.vilicus-berlin.de/impressum"
+ }
+}

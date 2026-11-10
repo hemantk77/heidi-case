@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietverwaltung WEG Remote WEG-Verwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 10000,
+ "units_evidence": "10.000+ Einheiten",
+ "buildings_managed": 500,
+ "buildings_evidence": "500+ Liegenschaften",
+ "employees": 75,
+ "employees_evidence": "75+ Mitarbeiter",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Julius Gunnemann",
+  "Ingo Schatz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Julius Gunnemann\nGeschäftsführer: Ingo Schatz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Ralph Portal (Eigentümer-Dashboard)",
+ "portal_evidence": "Unser Portal bietet Eigentümer: innen Zugriff zu allen wichtigen Unterlagen, eine Live-Übersicht der Themen in Ihrem Objekt",
+ "segment_note": "Berlin-based property manager (WEG and rental management) with a claimed 10,000+ units, 500+ properties, 75+ staff, an owner portal and in-house software.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ralph-hv.de/",
+  "portal": "https://app.ralph-hv.de/login",
+  "services": "https://www.ralph-hv.de/angebot",
+  "about": "https://www.ralph-hv.de/about-us",
+  "jobs": "https://www.ralph-hv.de/karriere",
+  "impressum": "https://www.ralph-hv.de/impressum"
+ }
+}

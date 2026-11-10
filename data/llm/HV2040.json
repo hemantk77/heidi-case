@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Partner wenn es um die Modernisierung geht…",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IGVG GmbH is a renovation and modernization contractor in Berlin-Reinickendorf (wall/facade renovation, extensions, staircase renovation), not a property manager.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.igvg.de/"
+ }
+}

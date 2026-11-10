@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kernarbeit liegt in der Miet- und WEG Verwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 700,
+ "units_evidence": "Im Augenblick verwalten und betreuen wir 700 Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Miriam Schwarz"
+ ],
+ "managing_directors_evidence": "Impressum: Portunes Immobilien e.K. Miriam Schwarz",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Eine Immobilie oder auch einzelne Wohneinheiten zu verwalten bedeutet weit mehr, als das Abrechnen der Heiz- und Betriebskosten und dafür stehen wir Ihnen persönlich zur Seite.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin and Brandenburg property manager focused on residential rental and WEG administration, managing about 700 units, with heating and operating cost billing included.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://portunes-immobilien.de/",
+  "about": "http://portunes-immobilien.de/Das-Unternehmen/",
+  "services": "http://portunes-immobilien.de/Leistungen/",
+  "impressum": "http://portunes-immobilien.de/Kontakt/Impressum/"
+ }
+}

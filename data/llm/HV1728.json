@@ -1,0 +1,37 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 30,
+ "employees_evidence": "Heute besteht das Sachverständigenbüro, mit Geschäftssitz in Berlin, aus 5 Partnern und rd. 30 Mitarbeitern.",
+ "founded_year": 1981,
+ "founded_evidence": "Über 40 Jahre Branchenerfahrung seit Gründung des Sachverständigenbüros im Jahre 1981",
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Keunecke, Stoehr & Partner ist eine Sachverständigengesellschaft mit Sitz in Berlin. Seit 40 Jahren stehen wir für wissenschaftlich / methodisch fundierte Immobilienbewertungen",
+ "main_business": "other",
+ "managing_directors": [
+  "Volker Grünes",
+  "Dorit Krauß",
+  "Kai Grebin",
+  "Bohdan Melnik"
+ ],
+ "managing_directors_evidence": "Keunecke, Stoehr & Partner: Volker Grünes Dorit Krauß Kai Grebin Bohdan Melnik",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin-based property valuation (Sachverständige) firm founded 1981 with about 30 staff; does valuations and market advisory, not property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ksp.berlin/",
+  "impressum": "https://www.ksp.berlin/impressum.html",
+  "services": "https://www.ksp.berlin/stellenangebot_immobiliengutachter_mwd.html",
+  "jobs": "https://www.ksp.berlin/stellenangebot_immobiliengutachter_mwd.html"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Manfred Gottschau"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Manfred Gottschau",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage (Makler) selling and renting properties for owners; the site mentions referring to Hausverwaltungen but no own property management services.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gottschau-immobilien.de/",
+  "services": "https://www.gottschau-immobilien.de/immobilienangebote/",
+  "portal": "https://www.gottschau-immobilien.de/fuer-eigentuemer/eigentuemer-login/",
+  "about": "https://www.gottschau-immobilien.de/ueber-uns/",
+  "impressum": "https://www.gottschau-immobilien.de/impressum/"
+ }
+}

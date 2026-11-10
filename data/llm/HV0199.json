@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sondereigentumsverwaltung und Services der Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Susanne Lorenz",
+  "Anita Schöne"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Susanne Lorenz und Anita Schöne",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Zu unserem Rundum Service bieten wir die Erstellung von Betriebskosten und Heizkostenabrechnungen an.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GECASA is a small Berlin-Neukölln property manager (GbR run by two owners) offering rental, WEG and special-ownership management, including heating and operating cost billing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gecasa-hausverwaltung.de/",
+  "services": "https://gecasa-hausverwaltung.de/leistung-betriebskostenabrechnung/",
+  "impressum": "https://gecasa-hausverwaltung.de/impressum/"
+ }
+}

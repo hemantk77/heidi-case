@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zachger Immobilien ist zudem die kompetente Hausverwaltung in Berlin, die Eigentümern wie auch Mietern einen umfassenden Service bietet.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1936,
+ "founded_evidence": "seit 1936",
+ "managing_directors": [
+  "Christian Schönke"
+ ],
+ "managing_directors_evidence": "Christian Schönke, Geschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate firm offering brokerage for sales plus property management (Hausverwaltung) for owners and tenants, family-run since 1936.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zachger-immobilien.berlin/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienentwicklung in und um Berlin",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christoph Höhne"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Christoph Höhne",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Argos Real Estate GmbH is a Berlin real-estate developer (Immobilienentwicklung) that also does brokerage; the site shows no property management offering.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.argos-immobilien.de/",
+  "impressum": "https://www.argos-immobilien.de/kontakt/impressum/",
+  "services": "https://www.argos-immobilien.de/j/legal-guarantee",
+  "portal": "https://www.argos-immobilien.de/login"
+ }
+}

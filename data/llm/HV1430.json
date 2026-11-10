@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Makler für Gewerbeimmobilien im Großraum Berlin",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1986,
+ "founded_evidence": "Gründungsjahr: 1986",
+ "managing_directors": [
+  "Werner Sauer"
+ ],
+ "managing_directors_evidence": "Persönlich haftender Gesellschafter Werner Sauer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin commercial real estate brokerage (Gewerbeimmobilien) founded 1986, with no property management offered on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.sauer-gewerbeimmobilien.de/",
+  "impressum": "https://sauer-gewerbeimmobilien.de/impressum/"
+ }
+}

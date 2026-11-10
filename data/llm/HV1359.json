@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir vermieten in zentralen und gesuchten Lagen Berlins und darüber hinaus.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Daniela Mäß"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Daniela Mäß",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage focused on selling condos and single-family homes, with some rental placement for private owners; no managed-unit portfolio stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://content-immobilien.de/",
+  "about": "https://content-immobilien.de/ueber-uns/",
+  "services": "https://content-immobilien.de/service/",
+  "impressum": "https://content-immobilien.de/impressum"
+ }
+}

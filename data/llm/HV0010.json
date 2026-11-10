@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Der Kopp ImmobilienService ... Seit 1993 unterstützen wir Eigentümer beim Verkauf Ihrer Immobilie.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1993,
+ "founded_evidence": "Familienunternehmen seit 1993",
+ "managing_directors": [
+  "Olaf Kopp"
+ ],
+ "managing_directors_evidence": "Olaf Kopp\nKopp ImmobilienService\nMarschnerstraße 27",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Immobilienmakler) run by Olaf Kopp, focused on selling and buying properties; no property management services mentioned.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.koppimmobilien.de/",
+  "about": "https://www.koppimmobilien.de/unternehmen/",
+  "services": "https://www.koppimmobilien.de/immobilienangebote/",
+  "impressum": "https://www.koppimmobilien.de/impressum/"
+ }
+}

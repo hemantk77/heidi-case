@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Tätigkeitbereiche erstrecken sich über die Verwaltung von Miethäusern, Eigentumswohnungen, Ferienhäusern, Gewerbeeinheiten sowie Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2008,
+ "founded_evidence": "Die SIV GmbH wurde Sommer 2008 von Herrn Dipl. Wohnungs- & Immobilienwirt Markus Schniederjann und Frau Doris Schniederjann gegründet.",
+ "managing_directors": [
+  "Markus Schniederjann"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dipl. Whgs.- & Immobilienwirt Markus Schniederjann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-branch property manager (HQ Paderborn, office in Magdeburg) handling WEG, rental and commercial management, founded 2008 with roots back to 1974.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://sivgmbh.de/",
+  "services": "https://sivgmbh.de/index.php/leistungen",
+  "about": "https://sivgmbh.de/index.php/unternehmensphilosophie",
+  "impressum": "https://sivgmbh.de/index.php/kontakt/impressum"
+ }
+}

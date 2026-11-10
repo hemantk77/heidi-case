@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Miethäuser, Gewerbeobjekte und Wohneigentümergemeinschaften (WEG)",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2004,
+ "founded_evidence": "Seit 2004 sind wir für Eigentümer von Immobilien in und um Berlin da.",
+ "managing_directors": [
+  "Corvin Tolle"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Corvin Tolle",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Buchhaltung, Betriebskostenabrechnungen, Steuerung von Dienstleistern, Entwicklung, Instandhaltung: Bei uns erhalten Sie alles aus einer Hand.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage and property manager (Tolle Hausverwaltung) offering WEG, rental and commercial management, with operating-cost billing included, founded 2004 and led by Corvin Tolle.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://tolle-immobilien.de/",
+  "services": "https://tolle-immobilien.de/hausverwaltung",
+  "about": "https://tolle-immobilien.de/ueber-uns",
+  "jobs": "https://tolle-immobilien.de/stellenangebote",
+  "impressum": "https://tolle-immobilien.de/impressum"
+ }
+}

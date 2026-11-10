@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Haus- und Grundstücksverwaltung von A bis Z",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1938,
+ "founded_evidence": "Seit der Gründung im Jahre 1938 ist die Heinz Ziggel KG ihrer Tradition",
+ "managing_directors": [
+  "Armin Wizemann"
+ ],
+ "managing_directors_evidence": "Diplom-Kaufmann Armin Wizemann, Komplementär der Heinz Ziggel KG",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Haus- und Grundstücksverwaltung, WEG-Verwaltung) founded 1938 that also sells properties; mainly residential buildings in and around Berlin.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ziggel-immobilien.de/",
+  "impressum": "https://www.ziggel-immobilien.de/impressum.html"
+ }
+}

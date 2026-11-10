@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Institutionelle Eigentümer in Berlin und Family Offices / Beratung und Verwaltung Ihres Portfolios",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 25,
+ "employees_evidence": "25 Experten – 6 Sprachen",
+ "founded_year": 2008,
+ "founded_evidence": "Seit 2008 in Berlin & Paris",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "ADEN is a Berlin and Paris real-estate brokerage (since 2008) that also offers portfolio administration for institutional owners and family offices.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://aden-immo.com/",
+  "services": "https://aden-immo.com/de/verkaufen/unser-service/",
+  "about": "https://aden-immo.com/team/",
+  "jobs": "https://aden-immo.com/unternehmen/karriere",
+  "impressum": "https://aden-immo.com/de/impressum/"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir lassen uns ausschliesslich vom Verkäufer bezahlen, so dass die Kaufnebenkosten für Kaufende sinken und es keinerlei Interessenskonflikte gibt.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dorothea Metasch"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Dorothea Metasch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "26 HOMES is a Berlin brokerage focused on selling condominiums and new-build projects, charging only the seller; it does not appear to offer property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.26homes.com/",
+  "about": "https://26homes.com/verkaufen/",
+  "impressum": "https://26homes.com/impressum/"
+ }
+}

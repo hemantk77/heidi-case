@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Der Ankauf und die Verwaltung des Grundstücks Am Grossen Wannsee 4.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Renato Maristany Klose"
+ ],
+ "managing_directors_evidence": "Herr Renato Maristany Klose",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "The company operates a yacht harbour with about 200 berths on Am Grossen Wannsee 4 in Berlin-Wannsee; it does not offer third-party property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.yachthafen-am-grossen-wannsee4.de/",
+  "impressum": "http://www.yachthafen-am-grossen-wannsee4.de/impressum.php",
+  "services": "http://www.yachthafen-am-grossen-wannsee4.de/service.html"
+ }
+}

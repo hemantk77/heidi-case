@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Strategische Beratung für Unternehmen im Umfeld der digitalen Verwaltung.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Roland Philippi",
+  "Dr.Jens Zimmermann",
+  "Matthias Zeller"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführung der Komplementär GmbH Conomus Management, eingetragen im Handelsregister des AG Berlin-Charlottenburg, Registernummer HRB 263692 B: Dr. Roland Philippi, Dr.Jens Zimmermann, Matthias Zeller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Christ & Company is a Berlin strategic consulting boutique at the interface of politics, business and communication, with no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.christundcompany.com/",
+  "about": "https://christ-company.com/ihr-team/",
+  "services": "https://christ-company.com/expertise-digitale-verwaltung/",
+  "jobs": "https://christ-company.com/karriere/",
+  "impressum": "https://christ-company.com/impressum/"
+ }
+}

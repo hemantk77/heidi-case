@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Für den Verkauf und die Bewertung Ihrer Immobilie in Berlin, Potsdam & im Berliner Umland",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Carsten D. Topel"
+ ],
+ "managing_directors_evidence": "Inhaber Carsten D. Topel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IMMOBERLIN is a Berlin real-estate brokerage focused on selling and valuing owner-occupied and investment properties, with no property management offering found on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immoberlin.de/",
+  "services": "https://www.immoberlin.de/immobilie-verkaufen-berlin/unsere-leistungen-immobilienverkauf-in-berlin-potsdam-brandenburg/",
+  "jobs": "https://www.immoberlin.de/energieausweis-online-erstellen/",
+  "impressum": "https://www.immoberlin.de/impressum/"
+ }
+}

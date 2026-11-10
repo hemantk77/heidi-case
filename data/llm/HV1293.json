@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Partner für Immobilien in Berlin und Brandenburg. Mit Vertrauen, Transparenz und maßgeschneiderten Lösungen begleiten wir Sie beim Kauf, Verkauf oder der Vermietung Ihrer Wunschimmobilie.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jan Hoang Pham"
+ ],
+ "managing_directors_evidence": "Inhaber: Jan Hoang Pham ",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "JP Homes is a Berlin/Brandenburg real-estate brokerage (Immobilienmakler) offering purchase, sale and rental mediation, with no property management services shown on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.jp-homes.de/",
+  "about": "https://jp-homes.de/ueber-uns/",
+  "impressum": "https://jp-homes.de/impressum/"
+ }
+}

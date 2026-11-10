@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dirk Möhrle"
+ ],
+ "managing_directors_evidence": "Gründer und Inhaber ist Dipl.-Kfm. Dirk Möhrle.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "The site is a corporate group page (Möhrle Group, Berlin) covering real estate, aviation, media and holdings; it names DCM Immobilien only as one division and gives no details on property management.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.moehrle-group.de/",
+  "impressum": "https://www.moehrle-group.de/impressum",
+  "services": "https://www.moehrle-group.de/vermoegensverwaltung-christian"
+ }
+}

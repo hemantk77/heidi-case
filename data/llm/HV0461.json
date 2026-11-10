@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Hübener Unternehmensgruppe ist ein zuverlässiger Immobiliendienstleister in Berlin mit dem Schwerpunkt „Wohnungseigentumsverwaltung “. Sie bietet professionelle Immobilien- und Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Hübener"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Alexander Hübener, Unternehmensform: Einzelunternehmen",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungsservice",
+ "portal_or_app": "Online Hausverwaltung",
+ "portal_evidence": "Online Hausverwaltung",
+ "segment_note": "Berlin property manager focused on WEG administration, also offering rental management, commercial management, brokerage and an online portal; no unit counts stated.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobiliengesellschaft-berlin.de/",
+  "services": "https://www.immobiliengesellschaft-berlin.de/hausverwaltung/",
+  "jobs": "https://www.immobiliengesellschaft-berlin.de/stellenangebote/",
+  "impressum": "https://www.immobiliengesellschaft-berlin.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "2015\nHausverwaltung\nDas Handelsgeschäft wird um Verwaltungs-Dienstleistungen erweitert, um auch nach dem Verkauf einen vollumfassenden Service gewährleisten zu können.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2010,
+ "founded_evidence": "2010\nFirmengründung",
+ "managing_directors": [
+  "Leonard H. Stein"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Leonard H. Stein",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IMMODO GmbH is a Berlin real-estate brokerage (Immobilienmakler) that also added property management (Hausverwaltung) services in 2015, founded 2010.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immodo-berlin.de/",
+  "services": "https://immodo-berlin.de/angebote/",
+  "about": "https://immodo-berlin.de/ueber-uns/",
+  "impressum": "https://immodo-berlin.de/impressum/"
+ }
+}

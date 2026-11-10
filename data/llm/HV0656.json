@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Für Wohnungsbaugesellschaften oder Privatpersonen bieten wir einen Rundumservice. Ihre Immoblilie ist bei uns in guten Händen.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dirk Schröder"
+ ],
+ "managing_directors_evidence": "Dirk Schröder\nWaldläufer Weg 22\n13469 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based craftsman and caretaking firm (cleaning, garden care, Hausmeister service, painting, flooring, drywall, mold removal, drying) with no property management offered per the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schroederimmobilienservice.de/",
+  "services": "https://schroederimmobilienservice.de/hausmeisterservice/",
+  "impressum": "https://schroederimmobilienservice.de/impressum"
+ }
+}

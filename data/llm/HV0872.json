@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind in den Bereichen WEG-Verwaltung, Verwaltung von Immobilien und Vermittlung / Vermarktung persönlich, zuverlässig und mit langjähriger Erfahrung in Berlin & Brandenburg tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Berlin & Brandenburg · seit 1997",
+ "managing_directors": [
+  "Katrin Trettin"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführerin Katrin Trettin.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Verwaltung vermieteter Bestandsobjekte mit Mietenbuchhaltung, Betriebskostenabrechnungen, Mahnwesen und Instandhaltungsmanagement.",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "Ergänzend setzen wir auf moderne Kommunikationswege, ein Eigentümerportal, digitalen Zugriff auf Unterlagen",
+ "segment_note": "Berlin and Brandenburg property manager since 1997 offering WEG administration, rental property management and brokerage, with an owner portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://ipa-immobilienpartner.de/",
+  "impressum": "https://www.kurfuerstendamm184.de/impressum/"
+ }
+}

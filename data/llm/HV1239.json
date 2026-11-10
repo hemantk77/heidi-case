@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die BUWOG steht seit 75 Jahren für die Entwicklung hochwertiger Wohnimmobilien in Deutschland. Als einer der größten privaten Wohnprojektentwickler trägt sie mit derzeit rund 57.000 Wohnungen in Planung und Bau wesentlich dazu bei",
+ "main_business": "investment_or_development",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Philip Grosse",
+  "Jens Günther",
+  "Katja Wünschel"
+ ],
+ "managing_directors_evidence": "Philip Grosse, Jens Günther, Katja Wünschel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BUWOG is a residential project developer (Bauträger) building the 52° Nord quarter in Berlin-Grünau; the site does not describe any property management services.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://52grad-nord.de/",
+  "impressum": "https://www.52grad-nord.de/impressum/"
+ }
+}

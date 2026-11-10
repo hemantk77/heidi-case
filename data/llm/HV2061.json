@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1992,
+ "founded_evidence": "Die Gesellschaft wurde1992 gegründet und hat ihren Sitz in Berlin.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Palladium Deutschland is a Berlin holding of residential property owning companies, focused on multi-family buildings and their development; the site does not clearly describe a property management offering.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://palladium-group.de/",
+  "about": "https://palladium-group.de/de/das-team/",
+  "services": "https://palladium-group.de/de/service/"
+ }
+}

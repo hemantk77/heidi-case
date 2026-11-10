@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Leistung Project Development Project Management Asset Management Property Management (Referenzprojekt Alte Post Neukölln; ebenso Sonnenallee 223 / 223a, Wendenstraße 408, Germaniastraße 14 - 17)",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jörg Möller"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jörg Möller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin project developer and asset manager (BARK GmbH) that lists Property Management among its services for several of its projects; no unit counts stated.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bark-development.de/",
+  "about": "https://www.bark-development.de/team/",
+  "impressum": "https://www.bark-development.de/impressum/",
+  "services": "https://www.bark-development.de/referenzprojekte/alte-post-neukoelln/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Willkommen bei Life at Homes Real Estate, Ihrem vielseitigen  Immobilienmakler in Berlin.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2019,
+ "founded_evidence": "Life at Homes Real Estate wurde von Gökan Ozan, einem erfahrenen Immobilienmakler, 2019 gegründet.",
+ "managing_directors": [
+  "Gökan Ozan",
+  "Enrico Wöhlert"
+ ],
+ "managing_directors_evidence": "Gökan Ozan (alleinvertretungsberechtigter Geschäftsführer) Enrico Wöhlert (alleinvertretungsberechtigter Geschäftsführer)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate brokerage (Immobilienmakler) founded 2019 that sells and rents properties; the site shows no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.lifeathomes.com/",
+  "portal": "https://www.lifeathomes.com/fuer-eigentuemer/eigentuemer-login/",
+  "about": "https://www.lifeathomes.com/ueber-uns/",
+  "jobs": "https://www.lifeathomes.com/ueber-uns/karriere/",
+  "impressum": "https://www.lifeathomes.com/impressum/"
+ }
+}

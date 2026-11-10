@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Kerngeschäft ist die kaufmännische und technische Miethaus-, WEG- und Sondereigentumsverwaltung sowie die Verwaltung von Gewerbeimmobilien.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Wilhelm von Rüden (Betriebswirt) hat die von Rüden Immobilien GmbH 2005 zusammen mit seiner Frau Ilka von Rüden",
+ "managing_directors": [
+  "Wilhelm von Rüden"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Wilhelm von Rüden",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Buchhaltung und Nebenkosten",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin and Oberhausen property manager offering residential (Miethaus), WEG, Sondereigentum and commercial property management, plus rental service and construction service.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vrueden-immobilien.de/",
+  "about": "https://www.vrueden-immobilien.de/ueber-uns/",
+  "services": "https://www.vrueden-immobilien.de/weg-verwaltung/",
+  "jobs": "https://www.vrueden-immobilien.de/karriere/",
+  "impressum": "https://www.vrueden-immobilien.de/impressum/"
+ }
+}

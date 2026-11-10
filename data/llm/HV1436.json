@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir bieten ein breites Spektrum an Facility-Management-Dienstleistungen, darunter: • Hausmeisterservice: Regelmäßige Wartung, Kleinreparaturen und Überwachung der Gebäudetechnik.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Lucas Beschorn",
+  "Patrick Röder",
+  "Christian Schneider"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Lucas Beschorn, Patrick Röder, Christian Schneider",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg facility service provider offering Hausmeisterservice, building cleaning, garden care, winter service and technical maintenance, but no property management is mentioned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.sfc-berlin-brandenburg.de/",
+  "about": "https://www.sfc-berlin-brandenburg.de/unternehmen",
+  "services": "https://www.sfc-berlin-brandenburg.de/leistungen",
+  "impressum": "https://www.sfc-berlin-brandenburg.de/impressum"
+ }
+}

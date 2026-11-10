@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die JP Hausverwaltung GmbH bietet zuverlässige und kompetente WEG-,  Objekt- und Sondereigentumsverwaltung sowie Verkauf und Vermietung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Seit mehr als 30 Jahren betreuen wir erfolgreich über 1000 Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "Hausverwaltung seit 1996",
+ "managing_directors": [
+  "Daniela Richter",
+  "Fatma Cinar"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Daniela Richter, Fatma Cinar",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkosten-und Jahresabschluss - wir sorgen für transparente und korrekte Zahlen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "JP Hausverwaltung is a Berlin property manager (since 1996) handling WEG, object and special-property management for condominium associations and owners, plus sales and rentals, with over 1,000 residential units.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.jphv.berlin/",
+  "services": "https://www.jphv.berlin/leistungen/",
+  "about": "https://www.jphv.berlin/ueber-uns/",
+  "impressum": "https://www.jphv.berlin/impressum/"
+ }
+}

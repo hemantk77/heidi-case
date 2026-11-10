@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kernkompetenz liegt in der Entwicklung und Vermarktung von eigenen und betreuten Wohnimmobilien mittlerer Größe.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Lena Roth"
+ ],
+ "managing_directors_evidence": "Lena Roth, Geschäftsführerin",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ASTEA Real Estate is a Berlin real-estate group focused on developing, marketing and managing medium-sized residential properties, including managed properties for third parties, with navigation items Verwalten, Entwickeln and Vermitteln.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "units_managed_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.astea.de/",
+  "about": "https://www.astea.de/unternehmen",
+  "impressum": "https://www.astea.de/impressum"
+ }
+}

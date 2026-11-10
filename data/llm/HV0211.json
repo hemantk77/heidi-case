@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als E1-Transaktionsmanager betreuen Sie Investoren, Eigentümer, Makler und Partner im E1-Netzwerk am Telefon",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2007,
+ "founded_evidence": "E1 International Investment Holding · Wiesbaden · seit 2007",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "E1 Plus",
+ "portal_evidence": "Kostenlos bei E1 Plus registrieren (oder anmelden).",
+ "segment_note": "E1 Holding is a Wiesbaden-based off-market real estate investment platform and network, with no evidence of property management for third parties; the website does not mention Heckmannufer or Berlin.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.e1-holding.com/",
+  "portal": "https://www.e1-holding.com/e1holding/login",
+  "services": "https://www.e1-holding.com/en/e1-plus-service-providers-get-clients-real-estate-investors",
+  "impressum": "https://www.e1-holding.com/multilingual/impressum-e1-international-7-sprachen",
+  "about": "https://www.e1-holding.com/e1holding/team/karriere",
+  "jobs": "https://www.e1-holding.com/e1holding/team/karriere"
+ }
+}

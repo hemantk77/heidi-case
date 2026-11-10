@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die VDLB Immobilien Verwaltungs GmbH betreut in Berlin und Potsdam Eigentumswohnanlagen (Gemeinschafts- und Sondereigentum), Mehrfamilienhäuser",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Katharina Garski"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin:  Katharina Garski",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Umlagenabrechnung (Betriebs- und Heizkostenabrechnung)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "VDLB is a Berlin and Potsdam property manager for WEG, rental and commercial buildings, also active as developer-side partner since 1990.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vdlb.com/",
+  "about": "http://www.vdlb.com/index.html",
+  "services": "http://www.vdlb.com/verwaltung.html",
+  "impressum": "http://www.vdlb.com/impressum.html"
+ }
+}

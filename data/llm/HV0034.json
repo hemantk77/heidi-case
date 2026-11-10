@@ -1,0 +1,39 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Kerngeschäft ist die Hausverwaltung und hier bringen wir unsere gesamte Kraft ein.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Andreas Becher",
+  "Björn Muschert"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Becher und Björn Muschert",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal und vollständig digitale Prozesse",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Bauland Hausverwaltung GmbH is a Berlin property manager offering WEG, rental/commercial and special-property management, with a customer portal and a facility service partner network.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bauland-gmbh.de/",
+  "jobs": "https://www.bauland-gmbh.de/jobs/",
+  "services": "https://www.bauland-gmbh.de/leistungen/",
+  "impressum": "https://www.bauland-gmbh.de/impressum/"
+ }
+}

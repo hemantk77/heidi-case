@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die POWERKOM GmbH hilft Ihnen, im Dickicht ständig wechselnder undurchsichtiger Preisstrukturen, verwirrender Rechtsprechung und rasanten technischen Neuerungen die Übersicht zu behalten.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": "Wir freuen uns über eine halbe Million Betreuter Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "Die POWERKOM GmbH wurde durch ihren geschäftsführenden Gesellschafter, Herrn Alexander von Stahl, im Jahr 2002 gegründet.",
+ "managing_directors": [
+  "Alexander von Stahl"
+ ],
+ "managing_directors_evidence": "Alleinvertretungsberechtigter Geschäftsführer: Herr Alexander von Stahl",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Diese Unterlagen werden von uns in die hauseigene Datenbank übertragen, in die der Kunde jederzeit über einen externen Zugang Einsicht hat.",
+ "segment_note": "Powerkom is a Berlin-based operating-cost optimization consultancy (Betriebskostenoptimierung) that reviews and renegotiates service contracts for property managers and owners, not a property manager itself.",
+ "units_managed_rejected": 500000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.powerkom.de/",
+  "about": "https://www.powerkom.de/unternehmen/",
+  "services": "https://www.powerkom.de/leistungen/",
+  "portal": "https://www.powerkom.de/kundenportal/",
+  "impressum": "https://www.powerkom.de/?p=35"
+ }
+}

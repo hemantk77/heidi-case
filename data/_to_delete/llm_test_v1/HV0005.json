@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Martin Schmidt"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nHerr Martin Schmidt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "IMMS is a Berlin real-estate brokerage (sales and rental mediation, commission-based) with no property management offering on the site.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "services": "https://imms-immobilien.de/fur-hausverwaltung-eigentumer/",
+  "jobs": "https://imms-immobilien.de/jobs-und-karriere/",
+  "impressum": "https://imms-immobilien.de/impressum/"
+ }
+}

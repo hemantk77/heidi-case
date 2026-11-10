@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Team Was 2008 als Startup im Prenzlauer Berg mit drei Partnern begann, hat sich über die Jahre kontinuierlich weiterentwickelt. Heute bringen wir mit einem starken Team Eigentümer und Investoren aus aller Welt zusammen.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2008,
+ "founded_evidence": "Was 2008 als Startup im Prenzlauer Berg mit drei Partnern begann",
+ "managing_directors": [
+  "Ernst – Matthias Ehrenkönig",
+  "Delano Kyles"
+ ],
+ "managing_directors_evidence": "Persönlich haftende Gesellschafter: Ernst – Matthias Ehrenkönig / Delano Kyles",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "RHE Grundbesitz KG is a Berlin investment and brokerage firm that connects owners and investors for property deals, with no property management services shown on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rhe-grundbesitz.com/",
+  "services": "https://www.rhe-grundbesitz.com/signature-portfolio",
+  "about": "https://www.rhe-grundbesitz.com/unternehmen/",
+  "impressum": "https://www.rhe-grundbesitz.com/impressum"
+ }
+}

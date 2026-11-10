@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Unternehmen: Seit dem Gründungsjahr 2014 hat sich die LeMERLE Gesellschaftsgründer GmbH fest in dem Bereich der Vorratsgesellschaften verankert.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2014,
+ "founded_evidence": "Seit dem Gründungsjahr 2014 hat sich die LeMERLE Gesellschaftsgründer GmbH fest in dem Bereich der Vorratsgesellschaften verankert.",
+ "managing_directors": [
+  "Martin Tronczik"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Martin Tronczik, Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "LeMERLE sells ready-made shelf companies (Vorratsgesellschaften GmbH/UG) to founders, lawyers and advisors; it does not offer property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lemerle.de/",
+  "about": "https://lemerle.de/unternehmen/",
+  "portal": "https://app.lemerle.de",
+  "impressum": "https://lemerle.de/impressum/"
+ }
+}

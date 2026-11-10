@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wir kümmern uns gerne um die Details, sei es die Betriebskostenabrechnung, Instandhaltungsmaßnahmen oder die Koordination von Dienstleistern",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Experten für kaufmännische und technische Verwaltung sowie WEG und Mietverwaltung wissen wir",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Paul Fresdorf"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Paul Fresdorf",
+ "portal_or_app": "App",
+ "portal_evidence": "Doch auch digitale Services wie unsere App können dabei helfen",
+ "segment_note": "Berlin property manager (Haus- und Grundbesitzverwaltung Fresdorf GmbH) offering WEG, Sondereigentums, and Mietverwaltung, focused on small and mid-sized WEGs, with its own app.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hgvf.de/",
+  "services": "https://www.hgvf.de/unser-angebot/",
+  "about": "https://www.hgvf.de/uber-uns/",
+  "impressum": "https://www.hgvf.de/impressum-und-datenschutz/"
+ }
+}

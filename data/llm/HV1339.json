@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAUSVERWALTUNG Verwalten von Mietobjekten.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1964,
+ "founded_evidence": "Die Horand Abel Haus- und Grundbesitz-Verwaltungen wurde im Jahre 1964 von Herrn Horand Abel gegründet",
+ "managing_directors": [
+  "Steffen Brandt"
+ ],
+ "managing_directors_evidence": "Inh. Steffen Brandt e.Kfm.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Zu den Aufgaben gehören die Vorbereitung und der Abschluss von Mietverträgen, die Erstellung monatlicher Hausabrechnungen und entsprechender Jahresabrechnungen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (founded 1964, taken over 2019 by Steffen Brandt) handling rental properties and general property administration, including monthly and annual house accounting.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.abel-hausverwaltung.de/",
+  "about": "https://abel-hausverwaltung.de/",
+  "services": "https://abel-hausverwaltung.de/",
+  "impressum": "https://abel-hausverwaltung.de/impressum"
+ }
+}

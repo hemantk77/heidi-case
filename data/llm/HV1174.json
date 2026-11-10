@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Am 4. Juni 2024 feierte unsere Genossenschaft ihren 70. Geburtstag.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnen, Nachbarschaft, Mitbestimmung, SEIT 70 JAHREN EINE TOLLE GEMEINSCHAFT.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Monika Thiele",
+  "Lukas W. Neumann",
+  "Anja Leck"
+ ],
+ "managing_directors_evidence": "Frau Monika Thiele (Vorstandsmitglied) Herr Lukas W. Neumann (Vorstandsmitglied) Frau Anja Leck (Vorstandsmitglied)",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "WGLi is a Berlin-Lichtenberg housing cooperative (eG) founded as a workers' housing association in 1954, offering member and tenant services; no portfolio size or portal stated.",
+ "services": [
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "founded_year_rejected": 1954,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wgli.de/",
+  "services": "https://www.wgli.de/wohndienstleistungen/",
+  "jobs": "https://www.wgli.de/karriere/",
+  "about": "https://www.wgli.de/die-geschichte-der-wgli/",
+  "impressum": "https://www.wgli.de/impressum/"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The fetched pages belong to 1A-Immobilienmarkt.de, a property listing portal operated by 1A Infosysteme GmbH in Hannover, not to WULIB-Hausverwaltung; no information about WULIB's own business was found.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wulib.de/",
+  "portal": "https://www.1a-immobilienmarkt.de/anmeldung/",
+  "impressum": "https://www.1a-immobilienmarkt.de/stammdaten/impressum/"
+ }
+}

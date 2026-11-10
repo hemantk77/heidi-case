@@ -1,0 +1,40 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": 566,
+ "units_evidence": "Die Bewohnergenossenschaft FriedrichsHeim eG verfügt über insgesamt 566 Wohnungen von 30 m² bis 190 m²",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "Gründung 1996 als eigentumsorientierte Bewohnergenossenschaft im Rahmen des Altschuldenhilfegesetzes.",
+ "managing_directors": [
+  "Markus Röhl",
+  "Reinhard Grützmacher"
+ ],
+ "managing_directors_evidence": "Vorstand: Markus Röhl, Vorstandsmitglied Reinhard Grützmacher, Vorstandsmitglied",
+ "heating_billing": "mentions_external_provider",
+ "heating_billing_evidence": "Bewohner*innen können fortlaufend ihren Energie- und Wasserbrauch überprüfen – über das Portal unseres Messdienstleitsers.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten 566 Wohnungen in Gründerzeithäusern, Bauten aus den 50er-Jahren und Plattenbauten, allesamt in Berlin-Friedrichshain.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "facility_note": null,
+ "segment_note": "A Berlin-Friedrichshain housing cooperative owning and managing 566 apartments, with about 800 members and a metering service provider for consumption data.",
+ "segment_note_placeholder": null,
+ "segment_note_unused": null,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.friedrichsheim-eg.de/",
+  "about": "https://www.friedrichsheim-eg.de/genossenschaft/",
+  "services": "https://www.friedrichsheim-eg.de/mitgliederservice/",
+  "jobs": "https://www.friedrichsheim-eg.de/aktuelles/bei-interesse-fuer-eine-wohnung/",
+  "impressum": "https://www.friedrichsheim-eg.de/impressum/"
+ }
+}

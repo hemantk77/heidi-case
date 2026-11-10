@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten und \"kümmern\" uns um Ihre Häuser, Wohnungen, Gewerbeflächen. Pflegen den Kontakt mit bestehenden Mietern und vertreten die Interessen der Eigentümer.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 40,
+ "employees_evidence": "Unser Team besteht aus rund 40 engagierten Mitarbeiter*innen",
+ "founded_year": 2008,
+ "founded_evidence": "Die C&L Facility Management GmbH wurde am 09. Juli 2008 gegründet",
+ "managing_directors": [
+  "Sven Ludwig",
+  "Robert Ludwig"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Sven Ludwig, Robert Ludwig",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based facility management firm (~40 staff, founded 2008) that manages houses, apartments and commercial space, including operating cost billing, and offers technical and infrastructure FM.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.cul-immo.de/",
+  "about": "https://www.cul-immo.de/pages/ueber-uns.php",
+  "services": "https://www.cul-immo.de/pages/leistungen.php",
+  "jobs": "https://www.cul-immo.de/pages/karriere.php",
+  "impressum": "https://www.cul-immo.de/pages/impressum.php"
+ }
+}

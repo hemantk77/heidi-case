@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein Wohnungsunternehmen in Berlin, welches sich seit mehr als 25 Jahren mit der Entwicklung und Verwaltung des eigenen Immobilienbestandes in Berlin beschäftigt.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Uwe Kürsten"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter/Geschäftsführer: Uwe Kürsten",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin housing company with over 25 years of developing and managing its own property portfolio, also running commercial properties and a hotel; no unit counts or portal stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tetris-immo.de/",
+  "impressum": "https://www.tetris-immo.de/impressum/"
+ }
+}

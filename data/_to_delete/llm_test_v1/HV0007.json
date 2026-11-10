@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Miethausverwaltung – zuverlässig, digital und persönlich",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Fred Beyer",
+  "Chris Hausner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Fred Beyer, Chris Hausner",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung Wir erstellen präzise und transparente Nebenkostenabrechnungen, die rechtlichen Anforderungen entsprechen und zur Zufriedenheit der Mieter beitragen.",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "Eigentümerportal",
+ "segment_note": "Berlin property manager offering residential rental, WEG and special-property management plus brokerage, with an owner portal; no unit count stated on the site.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "services": "https://berlin.optima-gmbh.de/leistungen-mhv/",
+  "portal": "https://eigentuemer.optima-gmbh.de",
+  "impressum": "https://optima-gmbh.de/impressum/"
+ }
+}

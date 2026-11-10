@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Berufsbezeichnung: Immobilienmakler nach § 34c Abs. 1 GewO",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Muhittin Özmen"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer Muhittin Özmen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin commercial and hospitality real-estate brokerage (sales, leasing, project development) with no property management offered; not a fit for management software.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.enson-immobilien.de/",
+  "about": "https://www.enson-immobilien.de/wir-ueber-uns",
+  "impressum": "https://www.enson-immobilien.de/impressum"
+ }
+}

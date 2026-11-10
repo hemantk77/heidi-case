@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stefan Schepers"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Herr Dipl.-Kfm.(FH) Stefan Schepers",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Berlin firm (CITY-CONCEPT) that rents out and sells apartments, with a landlord service offering tenant search and lease handover; no managed-unit count stated.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.city-concept.de/",
+  "services": "https://www.city-concept.de/service",
+  "jobs": "https://www.city-concept.de/infos/jobs",
+  "impressum": "https://www.city-concept.de/impressum"
+ }
+}

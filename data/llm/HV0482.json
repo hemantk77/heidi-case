@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wir wissen: Wir bieten derzeit Wohnungseigentümergemeinschaften (WEG) nur ab einer Größe von 500 Einheiten eine Verwaltung an.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Bernd von Manteuffel"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer Bernd von Manteuffel, Zürich",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (Hausverwaltung) also active across Germany, offering WEG management only for buildings of 500+ units, plus brokerage of commercial property.",
+ "services": [
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://jurag-hausverwaltung.de/",
+  "services": "https://www.jurag-hausverwaltung.de/hausverwaltung",
+  "about": "https://www.jurag-hausverwaltung.de/unser-team",
+  "jobs": "https://www.jurag-hausverwaltung.de/jobs",
+  "impressum": "https://www.jurag-hausverwaltung.de/impressum"
+ }
+}

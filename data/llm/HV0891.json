@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Gegründet im Jahr 2006, hat sich unser Unternehmen zu einem der führenden Anbieter im Bereich der Immobilienverwaltung in Deutschland entwickelt.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": 18000,
+ "units_evidence": "Bis 2018 verwalteten wir erfolgreich bis zu 18.000 Wohnungen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Gegründet im Jahr 2006",
+ "managing_directors": [
+  "Daren Elert",
+  "Gerrit Sperling"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Daren Elert (CEO), Gerrit Sperling (COO)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "in-west Partners GmbH, a Berlin company founded in 2006, describes itself as a property management provider in Germany that also offers asset management and a property purchase profile.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://inwest.de/",
+  "jobs": "https://inwest.de/karriere/",
+  "impressum": "https://inwest.de/impressum/"
+ }
+}

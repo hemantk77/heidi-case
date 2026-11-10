@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohneigentum, Mietwohnungen und Gewerbeeinheiten.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2000,
+ "founded_evidence": "Die GrundStock Immobilien Entwicklungs- und Verwertungsgesellschaft mbH wurde im Jahr 2000 von Dipl.-Kfm. Joachim F. Stock gegründet.",
+ "managing_directors": [
+  "Dipl.-Kfm. Joachim Stock"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Kfm. Joachim Stock",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GrundStock Immobilien GmbH, founded in 2000 in Berlin, manages residential condominiums, rental apartments and commercial units, including third-party properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://grundstock.de/",
+  "impressum": "https://www.grundstock.de/impressum/"
+ }
+}

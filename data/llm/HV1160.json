@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit vielen Jahren verwaltet HUS ImmobilienCenter in der Region um Berlin unterschiedliche Immobilienarten.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1986,
+ "founded_evidence": "Wir sind seit 1986 ein eigentümergeführtes Unternehmen",
+ "managing_directors": [
+  "Ursula Spitzner"
+ ],
+ "managing_directors_evidence": "Ursula Spitzner (CEO)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HUS ImmobilienCenter is a Berlin property manager founded in 1986 (WEG, rental, commercial and Zwangsverwaltung) that also offers brokerage and transaction management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hus-ic.com/",
+  "about": "https://www.hus-ic.com/das-unternehmen/",
+  "impressum": "https://www.hus-ic.com/impressum/"
+ }
+}

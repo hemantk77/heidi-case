@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit rund 4.500 Alt- und Neubauwohnungen verfügt die Baugenossenschaft IDEAL eG über ein breit gefächertes Angebot an Wohnungen",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 4500,
+ "units_evidence": "Mit rund 4.500 Alt- und Neubauwohnungen verfügt die Baugenossenschaft IDEAL eG über ein breit gefächertes Angebot an Wohnungen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1907,
+ "founded_evidence": "Unsere Genossenschaft wurde am 9. April 1907 von fast ausschließlich der Geschäftsleitung der AOK in Rixdorf gegründet.",
+ "managing_directors": [
+  "Kathleen Beständig",
+  "Thomas Andresen",
+  "Thomas Blesing"
+ ],
+ "managing_directors_evidence": "Vorstand: Kathleen Beständig, Thomas Andresen, Thomas Blesing",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (Baugenossenschaft) founded 1907 that manages about 4,500 of its own apartments in Neukölln and Tempelhof-Schöneberg; a landlord rather than a third-party manager.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bg-ideal.de/",
+  "services": "https://bg-ideal.de/bg-wohnen/mietangebote/",
+  "jobs": "https://bg-ideal.de/stellenangebote/",
+  "about": "https://bg-ideal.de/bg-ideal/geschichte/",
+  "portal": "https://bg-ideal.de/bg-service/buchungsportal/",
+  "impressum": "https://bg-ideal.de/impressum/"
+ }
+}

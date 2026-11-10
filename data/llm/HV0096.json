@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seidel Immobilien Hausverwaltung GmbH, Ihrer vertrauensvollen Hausverwaltung für Wohn- und Gewerbeimmobilien",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Debora Teßmer"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Debora Teßmer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering WEG, rental and special-property management plus rental and sales brokerage, with a stated 25-year history.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.seidel-immo.de/",
+  "about": "https://seidel-immo.de/ueber-uns/",
+  "services": "https://seidel-immo.de/leistungen/",
+  "jobs": "https://seidel-immo.de/jobs/",
+  "impressum": "https://seidel-immo.de/impressum/"
+ }
+}

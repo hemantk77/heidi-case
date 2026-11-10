@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Unsere Genossenschaft wurde im April 2001 gegründet",
+ "founded_year": 2001,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere 1.400 Wohnungen liegen in Marzahn-Hellersdorf an den Standorten Märkische Spitze, Am Bürgerpark und Am Anger.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Inga Herdrich",
+  "Elfi Wünsch",
+  "Jürgen Kroboth"
+ ],
+ "managing_directors_evidence": "Vorstand: Inga Herdrich, Elfi Wünsch, Jürgen Kroboth",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "horizont is a Berlin housing cooperative (founded 2001) owning and managing about 1,400 apartments in Marzahn-Hellersdorf, with a Hausmeister/Notdienst service for residents.",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "Unsere 1.400 Wohnungen liegen in Marzahn-Hellersdorf",
+ "units_managed": 1400,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.horizont-eg.de/",
+  "about": "https://www.horizont-eg.de/ueber-horizont/geschichte",
+  "services": "https://www.horizont-eg.de/service",
+  "jobs": "https://www.horizont-eg.de/karriere",
+  "impressum": "https://www.horizont-eg.de/impressum"
+ }
+}

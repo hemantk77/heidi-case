@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Hinter fine + mine steht Ronny Golle. Seit vielen Jahren beschäftigt er sich mit Immobilien aus unterschiedlichen Perspektiven – von Vermietung und Verwaltung bis zur Vermarktung und Bewertung.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Zuhause in Berlin seit 1997",
+ "managing_directors": [
+  "Ronny Golle"
+ ],
+ "managing_directors_evidence": "vertretungsberechtigter Geschäftsführer: Ronny Golle",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage focused on selling apartments, houses and investment properties, plus furnished temporary living; no property management offering found on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.fineandmine.de/",
+  "about": "https://fineandmine.de/ueber-uns/",
+  "impressum": "https://fineandmine.de/impressum/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 350,
+ "employees_evidence": "Mitarbeitende \n 350",
+ "founded_year": 2021,
+ "founded_evidence": "Die Eberhardt Service Group ist ein 2021 gegründeter, familiengeführter Facility-Management-Dienstleister mit Sitz in Berlin.",
+ "managing_directors": [
+  "Daniel Haacke",
+  "Elisabeth Maier"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Daniel Haacke, Elisabeth Maier ",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "segment_note": "Berlin-based family-owned facility management service provider (founded 2021, ~350 staff) that handles building operator responsibilities for commercial and residential properties; it lists a Property Management service but the site gives no portfolio or unit counts.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.eberhardt-service.de/",
+  "about": "https://www.eberhardt-service.de/ueber-uns/",
+  "jobs": "https://www.eberhardt-service.de/karriere/",
+  "impressum": "https://www.eberhardt-service.de/impressum/"
+ }
+}

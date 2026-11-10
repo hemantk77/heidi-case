@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Verwaltung unserer Flächen obliegt der Hausverwaltung Casadio in Kleinmachnow und weiteren.",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Yulia Romanowski"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Yulia Romanowski",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "portal_or_app_evidence": null,
+ "segment_note": "KUJ Property is a small family office that buys and holds residential and commercial properties mainly in Berlin and NRW; property management is outsourced to Hausverwaltung Casadio.",
+ "services": [
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kuj.de/",
+  "about": "https://www.kuj.de/ueber-uns/",
+  "impressum": "https://www.kuj.de/impressum/"
+ }
+}

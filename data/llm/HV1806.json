@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Objektverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1996,
+ "founded_evidence": "Die pro.fund GmbH ist seit 1996 im Bereich Immobilienwirtschaft tätig",
+ "managing_directors": [
+  "Babett Grimmer",
+  "René Thömke"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Babett Grimmer, René Thömke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "pro.fund GmbH is a Berlin real estate firm founded in 1996 focused on project management, project steering and property management (Objektverwaltung), with no unit counts published.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.profund-gmbh.de/",
+  "about": "https://www.profund-gmbh.de/ueber-uns",
+  "services": "https://www.profund-gmbh.de/leistungen",
+  "jobs": "https://www.profund-gmbh.de/ueber-uns/stellenangebote",
+  "impressum": "https://www.profund-gmbh.de/impressum"
+ }
+}

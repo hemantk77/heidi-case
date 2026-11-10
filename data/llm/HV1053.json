@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für diese Bereiche sucht die PHILOS Immobilienverwaltung kompetente und freundliche Kollegen",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Evelyn Schoepe"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Evelyn Schoepe",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "segment_note": "PHILOS Seniorenresidenzen GmbH runs senior residences in Berlin offering Servicewohnen, Betreutes Wohnen and shared-living (Wohngemeinschaft) for seniors, with an in-house Immobilienverwaltung.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.philos-seniorenresidenzen.com/",
+  "services": "https://www.philos-seniorenresidenzen.com/servicewohnen/",
+  "jobs": "https://www.philos-seniorenresidenzen.com/jobs/",
+  "impressum": "https://www.philos-seniorenresidenzen.com/impressum/"
+ }
+}

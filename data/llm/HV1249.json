@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir beraten und begleiten Eigentümer beim Verkauf sowie Käufer beim Ankauf von Bestands- und Neubauimmobilien",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2016,
+ "founded_evidence": "DK Real Estate wurde 2016 von Dennis Kowtzun gegründet",
+ "managing_directors": [
+  "Dennis Kowtzun"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dennis Kowtzun",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage (Immobilienmakler) focused on selling and buying properties; the site shows no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.dk360.de/",
+  "about": "https://dk360.de/ueber-uns/",
+  "services": "https://dk360.de/immobilien/",
+  "impressum": "https://dk360.de/impressum/"
+ }
+}

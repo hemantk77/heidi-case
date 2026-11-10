@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "LOGIN KUNDENPORTAL",
+ "segment_note": "Owner-operated real estate brokerage in Berlin and Potsdam focused on property sales, with a customer portal; no property management mentioned in the provided text.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://blacklabelimmobilien.de/",
+  "services": "https://blacklabelimmobilien.de/service/",
+  "jobs": "https://blacklabelimmobilien.de/immobilien/erstellen-sie-ihr-suchprofil/",
+  "about": "https://blacklabelimmobilien.de/ueber-uns/",
+  "impressum": "https://blacklabelimmobilien.de/impressum/"
+ }
+}

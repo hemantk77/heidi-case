@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben den typischen Tätigkeiten in einem Immobilienvermittlungsprozess, welche wir auch einzeln anbieten ... Wir bieten... ...Preisniveauermittlungen zu allen Immobilienarten ... Unser Bereich kaufmännischer Immobilienservice kurz „KIS“ steht darüber hinaus für sämtliche kaufmännischen Tätigkeiten der Objektbewirtschaftung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Gegründet durch den geschäftsführenden Alleininhaber, René Behrendt, am 23.09.2005 in Form eines Einzelunternehmens",
+ "managing_directors": [
+  "René Behrendt"
+ ],
+ "managing_directors_evidence": "Inhaber / Gesetzlicher Vertreter: René Behrendt",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "von der Betriebskostenabrechnung über Mieterhöhung bis zur Mietminderung und Wohnungsübergabe",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage firm (since 2005, Steglitz-Zehlendorf) that also offers commercial property management services including operating-cost billing (KIS) for managed properties.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rbimmobilien.com/",
+  "about": "https://www.rbimmobilien.com/index.php/unternehmen",
+  "services": "https://www.rbimmobilien.com/index.php/service",
+  "impressum": "https://www.rbimmobilien.com/kontakt-anfahrt/impressum"
+ }
+}

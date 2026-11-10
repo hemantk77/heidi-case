@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The website is a minimal stub: it names itself \"Brungs Hausverwaltung\" (property management) but lists no services, objects, or contact details beyond a \"Folgende Objekte sind im Angebot:\" heading with no content.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv.brungs-web.eu/",
+  "services": "http://www.hv.brungs-web.eu/html/angebote.html",
+  "impressum": "http://www.hv.brungs-web.eu/html/impressum.html"
+ }
+}

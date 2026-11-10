@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Firma verwaltet überwiegend im Raum Spandau, aber auch in Charlottenburg, Steglitz, Wilmersdorf, Tiergarten, Kreuzberg und Dahlem Miethäuser und Wohneigentumsanlagen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 2,
+ "employees_evidence": "Das Team besteht neben dem Inhaber, Herrn Henkel, aus 2 Mitarbeiterinnen",
+ "founded_year": 1948,
+ "founded_evidence": "Das Büro besteht an der Adresse bereits seit 1948",
+ "managing_directors": [
+  "Michael Henkel"
+ ],
+ "managing_directors_evidence": "Michael Henkel Einzelunternehmer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Für die Buchhaltung ist Frau Carola Henkel zuständig, die – ursprünglich aus dem technischen Bereich kommend – für Inkasso, Abrechnungen und Zahlungsverkehr verantwortlich zeichnet.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Spandau-based property manager (sole proprietor with 2 staff) handling rental houses and WEG properties mainly in Spandau and nearby Berlin districts, founded 1948.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltung-henkel.eu/",
+  "about": "https://hausverwaltung-henkel.eu/wer-steckt-dahinter/",
+  "impressum": "https://hausverwaltung-henkel.eu/impressum/",
+  "services": "https://hausverwaltung-henkel.eu/kontakt/"
+ }
+}

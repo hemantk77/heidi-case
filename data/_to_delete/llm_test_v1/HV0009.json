@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Stefanie Frensch",
+  "Marc Eschholz"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Stefanie Frensch Marc Eschholz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "B&K-App",
+ "portal_evidence": "Die Vorteile unserer kostenlosen B&K-App: schnelle Bearbeitung Ihrer Anliegen und Schadensmeldungen",
+ "segment_note": "Traditional Berlin real-estate group (founded ~80 years ago) with residential and commercial portfolio, rents out its own properties, offers a free B&K tenant app; no clear third-party management offering stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.beckerundkries.de/",
+  "about": "https://www.beckerundkries.de/unser-unternehmen/",
+  "jobs": "https://www.beckerundkries.de/unternehmen/karriere/",
+  "portal": "https://www.beckerundkries.de/mieter-app/",
+  "services": "https://www.beckerundkries.de/unsere-angebote/",
+  "impressum": "https://www.beckerundkries.de/impressum/"
+ }
+}

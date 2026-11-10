@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "CHECKMAG ist ein Gesundheitsmagazin für Männer, das Körper, Geist und Intimität neu denkt.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The website provided is for CHECKMAG, a men's health magazine, not a property manager; it shows no property management business, so it does not fit as a Berlin property management lead.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://pink-berlin-hv.de/",
+  "about": "https://checkmagazin.de/about-us/"
+ }
+}

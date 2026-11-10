@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 2022 ist er alleiniger Geschäftsführer der Hausverwaltung, welche sich täglich um rund 3.000 Wohneinheiten kümmert.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": 3000,
+ "units_evidence": "welche sich täglich um rund 3.000 Wohneinheiten kümmert",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "im Jahre 1996 bei der Übernahme der Sparte Hausverwaltung des Unternehmens Behrendt",
+ "managing_directors": [
+  "Marcus Bormann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marcus Bormann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Kostenabrechnungen (Betriebs- und Heizkosten, Kaution)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) for WEG and rental properties, around 3,000 residential units, also offering a related brokerage/sales arm via Bormann Immobilien GmbH.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://a-c-behrendt.de/",
+  "about": "https://a-c-behrendt.de/uber-uns/",
+  "services": "https://a-c-behrendt.de/dienstleistungen/",
+  "jobs": "http://a-c-behrendt.de/offene-stellen",
+  "impressum": "http://a-c-behrendt.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelles Asset Management bedeutet für uns mehr als Verwaltung: Wir optimieren Bestände, steuern Dienstleister und schaffen stabile Mietverhältnisse. ... MIB Immobilienverwaltung GmbH",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1994,
+ "founded_evidence": "Die MIB AG steht seit 1994 für Immobilienentwicklung mit Substanz.",
+ "managing_directors": [
+  "Gerrit Baumann",
+  "Maik Mehlhose",
+  "Andreas Rühle"
+ ],
+ "managing_directors_evidence": "Vorstand: Gerrit Baumann, Maik Mehlhose, Andreas Rühle",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MIB AG is a Berlin-based real estate group focused on project development, investment, and asset management, with a subsidiary (MIB Immobilienverwaltung GmbH) doing commercial property administration.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mib.de/",
+  "about": "https://mib.de/unternehmen/",
+  "impressum": "https://mib.de/impressum/"
+ }
+}

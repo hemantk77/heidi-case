@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre professionelle Hausverwaltung in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 1350,
+ "units_evidence": "1350+ Verwaltete Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Seit über 20 Jahren begleiten wir Investoren, Eigentümergemeinschaften und Bauherren in Immobilienvorhaben.",
+ "managing_directors": [
+  "Max Lutzmann"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Max Lutzmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Eigentümer- und Mieterportal",
+ "portal_evidence": "EIGENTÜMER- UND MIETERPORTAL",
+ "segment_note": "Berlin property manager offering WEG, rental and special-property management for investors, owner communities and developers, with about 1,350 managed units and an owner/tenant portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://lutzmann-hv.de/",
+  "about": "https://www.lutzmann-hv.de/uber-uns/",
+  "services": "https://www.lutzmann-hv.de/unsere-leistungen/",
+  "portal": "https://www.lutzmann-hv.de/portal/",
+  "jobs": "https://www.lutzmann-hv.de/jobs/",
+  "impressum": "https://www.lutzmann-hv.de/impressum/"
+ }
+}

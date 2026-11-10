@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Quadriga erbringt Handwerksleistungen im Bereich Wohnungsinstandsetzung und Ausbau von Gewerbe- und Büroeinheiten und koordiniert alle notwendigen Arbeiten.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 20,
+ "employees_evidence": "Die Firma beschäftigt derzeit mehr als 20 Handwerker und Bauleiter in Berlin und wächst stetig.",
+ "founded_year": 2014,
+ "founded_evidence": "Quadriga wurde 2014 von Henrik Moritz und Pascal Meunier gegründet.",
+ "managing_directors": [
+  "Henrik Moritz",
+  "Pascal Meunier"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Henrik Moritz, Pascal Meunier",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Quadriga Service GmbH is a Berlin craftsman and renovation contractor (founded 2014, 20+ tradespeople) doing apartment repairs and fit-outs for property owners and managers, not a property manager.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.quadriga-berlin.de/",
+  "services": "https://www.quadriga-berlin.de/leistungen",
+  "jobs": "https://www.quadriga-berlin.de/kontakt",
+  "impressum": "https://www.quadriga-berlin.de/impressum"
+ }
+}

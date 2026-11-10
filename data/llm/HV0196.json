@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "56 Objekte",
+ "buildings_managed": 56,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "seit mehr als 25 Jahren als inhabergeführtes Familienunternehmen",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "In der Hausverwaltung sind neben den Geschäftsführern",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dr. Detlef Reinhard",
+  "Robert Reinhard",
+  "Yvonne S. Rost"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dr. Detlef Reinhard, Robert Reinhard, Yvonne S. Rost",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based owner-managed property management firm (Hausverwaltung, mostly WEG communities) with 56 properties and 1,570 apartments, also offering building management and energy concepts.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "1.570 Wohnungen",
+ "units_managed": 1570,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ifm-gruppe.de/",
+  "about": "https://ifm278.wixsite.com/immofinanz-managemen/about-1",
+  "impressum": "https://ifm278.wixsite.com/immofinanz-managemen/contact-8-1"
+ }
+}

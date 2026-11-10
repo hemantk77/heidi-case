@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Spezialisiert haben wir uns auf WEG- und Mietsonderverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Horst Hüning"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Horst Hüning",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Beauftragung der Heizkostenabrechnung und Zusammenstellung der erforderlichen Unterlagen",
+ "portal_or_app": "H&S App",
+ "portal_evidence": "H&S App",
+ "segment_note": "Berlin property manager specialising in WEG and Mietsondervervaltung (condominium and rental management), also offering heating cost billing coordination and an H&S app.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gut-verwaltet.de/",
+  "services": "https://gut-verwaltet.de/de/service/",
+  "portal": "https://gut-verwaltet.de/de/hs-app-powered-by-idwell/",
+  "impressum": "https://gut-verwaltet.de/impressum/"
+ }
+}

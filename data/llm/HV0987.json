@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 10,
+ "employees_evidence": "Mit einem Team von über 10 Mitarbeitenden versorgen wir mehr als 165 Kunden und Kundinnen mit Wohnraum.",
+ "founded_year": 2014,
+ "founded_evidence": "Gelewo wurde 2014 in Berlin gegründet",
+ "managing_directors": [
+  "Luisa Isselhorst"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Luisa Isselhorst",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GELEWO GmbH, founded 2014 in Berlin, runs barrierefreie Pflege-WG and Seniorenwohnen properties in northern and eastern Germany and lists Property Management in its navigation.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://gelewo.de/",
+  "about": "https://www.gelewo.de/team",
+  "jobs": "https://www.gelewo.de/karriere",
+  "impressum": "https://www.gelewo.de/impressum"
+ }
+}

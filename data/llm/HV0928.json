@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Leistungen: Hausverwaltung, Mietverwaltung, WEG-Verwaltung (Leistungsübersicht page lists \"Mietverwaltung\" and \"WEG-Verwaltung\" as services)",
+ "main_business": "brokerage",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Laurids Friedrich-Sankt-Johannis",
+  "Fabian Blume"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Laurids Friedrich-Sankt-Johannis Fabian Blume",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "CitySense Immobilien is a Berlin brokerage focused on property sales that also lists Mietverwaltung and WEG-Verwaltung among its services, run by a two-founder GbR.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://citysense-immobilien.de/",
+  "services": "https://citysense-immobilien.de/leistungen",
+  "jobs": "https://citysense-immobilien.de/energieausweis-berlin/",
+  "about": "https://citysense-immobilien.de/ueber-uns/",
+  "impressum": "https://citysense-immobilien.de/impressum/"
+ }
+}

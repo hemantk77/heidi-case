@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "LA VIDA ist ein junges Unternehmen – aber nicht wirklich. Es entstand 2025 durch den Zusammenschluss von vier bereits eng vernetzten Trägern.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2025,
+ "founded_evidence": "Es entstand 2025 durch den Zusammenschluss von vier bereits eng vernetzten Trägern.",
+ "managing_directors": [
+  "Christian Thomes",
+  "Karin Waltz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer*innen: Christian Thomes, Karin Waltz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "LA VIDA gGmbH is a Berlin non-profit social care provider (Eingliederungshilfe, Wohnungslosenhilfe, youth welfare) at 30 sites, with no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://lavida-berlin.de/",
+  "services": "https://lavida-berlin.de/leistungen/",
+  "jobs": "https://lavida-berlin.de/karriere/",
+  "about": "https://lavida-berlin.de/ueber-la-vida/wer-wir-sind/",
+  "impressum": "https://lavida-berlin.de/impressum/"
+ }
+}

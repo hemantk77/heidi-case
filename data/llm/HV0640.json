@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 2006 verwalten wir Mehrfamilienhäuser im Osten Berlins",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Seit 2006 verwalten wir Mehrfamilienhäuser im Osten Berlins",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 2006) for apartment buildings, commercial properties and shared flats in East Berlin, offering rent management, cost control and repairs.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://elite-hausverwaltung.de/",
+  "about": "https://evo1618.com/de/about-us",
+  "services": "https://evo1618.com/de/services",
+  "impressum": "https://evo1618.com/de/impressum",
+  "jobs": "https://evo1618.com/de/career"
+ }
+}

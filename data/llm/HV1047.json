@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die von uns entwickelten Wohn-, Büro- und Gewerbeobjekte betreuen und verwalten wir selbst. ... So gewährleisten wir eine kaufmännische und technische Hausverwaltung auf hohem Niveau",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Karsten Baurschmidt",
+  "Marc Julius Kimmich",
+  "Marc Ramhofer"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Vorstand: Karsten Baurschmidt ... Geschäftsführer Marc Julius Kimmich, Marc Ramhofer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "COPRO is a Berlin and Stuttgart developer that also manages its own residential, office and commercial properties in-house and offers management packages to third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://copro-gruppe.de/",
+  "services": "https://www.copro-gruppe.de/mieter-service",
+  "about": "https://www.copro-gruppe.de/ueber-uns/unser-unternehmen",
+  "jobs": "https://www.copro-gruppe.de/ueber-uns/karriere",
+  "impressum": "https://www.copro-gruppe.de/impressum-und-haftungshinweis"
+ }
+}

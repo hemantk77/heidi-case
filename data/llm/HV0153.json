@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten als 1A Hausverwaltung seit 2010 Wohn und Geschäftshäuser überwiegend in Berlin und Brandenburg.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2010,
+ "founded_evidence": "Wir verwalten als 1A Hausverwaltung seit 2010 Wohn und Geschäftshäuser überwiegend in Berlin und Brandenburg.",
+ "managing_directors": [
+  "Alexander Ferneiß"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Alexander Ferneiß Diplom-Jurist",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenlogin",
+ "portal_evidence": "Über das Kundenlogin auf unserer Homepage haben unsere Kunden ständig direkten Zugang zu allen objektspezifischen Immobiliendaten und Auswertungen.",
+ "segment_note": "Berlin/Brandenburg property manager since 2010 covering residential and commercial buildings and WEGs, with a customer login portal and brokerage services.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.1ahausverwaltung.de/",
+  "about": "https://1ahausverwaltung.de/unternehmen/",
+  "services": "https://1ahausverwaltung.de/leistungen/mietshausverwaltung/",
+  "portal": "https://app.1ahausverwaltung.de",
+  "impressum": "https://1ahausverwaltung.de/impressum/"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Thomas Fleck",
+  "Stefan Krause"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Mitglieder des Vorstandes Thomas Fleck, Stefan Krause",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (Wohnungsbaugenossenschaft) with apartment estates in Alt-Hohenschönhausen, offering member services; no explicit property management offering for third parties stated on the pages reviewed.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.neues-berlin.de/",
+  "services": "https://www.neues-berlin.de/service",
+  "portal": "https://www.neues-berlin.de/service/login",
+  "about": "https://www.neues-berlin.de/wir-ueber-uns",
+  "jobs": "https://www.neues-berlin.de/jobs",
+  "impressum": "https://www.neues-berlin.de/impressum"
+ }
+}

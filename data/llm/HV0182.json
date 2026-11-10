@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die HV Liane Pracht beschäftigt sich seit mehr als 10 Jahren mit der Verwaltung von Wohn- und Gewerbeimmobilien.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Liane Pracht"
+ ],
+ "managing_directors_evidence": "Inhaberin Liane Pracht",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property management firm (Hausverwaltung Liane Pracht) handling residential and commercial properties, including WEG and rental buildings, for over 10 years.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hv-lianepracht.de/",
+  "services": "http://hv-lianepracht.de/?id=25",
+  "about": "http://hv-lianepracht.de/?id=3",
+  "impressum": "http://hv-lianepracht.de/?id=7"
+ }
+}

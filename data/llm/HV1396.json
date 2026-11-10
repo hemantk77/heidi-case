@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit 1992 ist Herr Reinhard Furgber als Immobilienmakler tätig und gründete im Jahre 2000 die Furgber Immobilien GmbH in Berlin-Westend.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "gründete im Jahre 2000 die Furgber Immobilien GmbH in Berlin-Westend",
+ "managing_directors": [
+  "Reinhard Furgber"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Reinhard Furgber",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Furgber Immobilien is a Berlin brokerage (Makler) focused on selling residential property in Westend/Charlottenburg, with no property management offering shown on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.furgber-immobilien.de/",
+  "services": "https://www.furgber-immobilien.de/immobilienangebote.html",
+  "about": "https://www.furgber-immobilien.de/wir-ueber-uns.html",
+  "impressum": "https://www.furgber-immobilien.de/impressum.html"
+ }
+}

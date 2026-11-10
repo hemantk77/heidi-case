@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietsonderverwaltung zu einem Preis von 20 € zzgl. MwSt. je Objekt",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Seit 2005 verkaufen, vermieten und verwalten wir in Berlin und Umgebung",
+ "managing_directors": [
+  "Thomas Speck"
+ ],
+ "managing_directors_evidence": "© Agentur Plus | Inh. Thomas Speck | Bänschstr. 48, 10247 Berlin",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "erstellen die jährliche Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate broker since 2005 that also offers rental administration (Mietsonderverwaltung) for landlords at 20 € per property, including annual utility billing.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://agenturplus.com/",
+  "about": "https://www.agenturplus.com/team",
+  "services": "https://www.agenturplus.com/mietsonderverwaltung",
+  "impressum": "https://www.agenturplus.com/impressum"
+ }
+}

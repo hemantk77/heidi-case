@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Über uns – Ihre Hausverwaltung in Berlin | ESTAVIO",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 4000,
+ "units_evidence": "+ 4000\nEinheiten in Berlin und Umgebung",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "segment_note": "Berlin property manager offering WEG and rental management, claiming over 4,000 units, with a digital owner/tenant portal.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://estavio.de/",
+  "services": "https://www.estavio.de/weg-verwaltung",
+  "about": "https://www.estavio.de/ueber-uns",
+  "portal": "https://login.estavio.de/login",
+  "impressum": "https://www.estavio.de/impressum"
+ }
+}

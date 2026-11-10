@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir unterstützen Hausverwaltungen, Eigentümer und Privatkunden bei Renovierungsarbeiten, Wohnungsauflösungen, Sperrmüllabholung und allgemeinen Handwerksleistungen – zuverlässig, sauber und termintreu.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Fadel Mehdi"
+ ],
+ "managing_directors_evidence": "MehdiCo, Inhaber Fadel Mehdi, (nachfolgend „wir“ oder „uns“) gegenüber unseren Kunden erbringt.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MehdiCo is a Berlin handyman and service provider (kitchen assembly, sanitary, painting, moving, apartment clearance) that also serves property managers, but does not offer property management itself.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mehdi-co.com/",
+  "services": "https://mehdi-co.com/service/sanitaerdienste",
+  "about": "https://mehdi-co.com/service/kuechenmontage",
+  "impressum": "https://mehdi-co.com/agb-und-impressum"
+ }
+}

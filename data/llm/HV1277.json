@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Renten Service - Rentenzahlung zuverlässig und pünktlich",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Deutsche Post's pension payment service (Renten Service), a postal/pension payout business unit with no property management offering on the site.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.rentenservice.de/",
+  "services": "https://www.deutschepost.de/de/r/rentenservice.html",
+  "jobs": "https://shop.deutschepost.de/briefversand/briefmarken?tid=DP_1010022340",
+  "portal": "https://www.deutschepost.de/de/m/mobile-services.html",
+  "impressum": "https://www.deutschepost.de/de/toolbar/footer/left/impressum.html"
+ }
+}

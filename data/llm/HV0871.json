@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für Ihre Immobilie sind wir als Hausverwaltung Ihr Ansprechpartner von A bis Z.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Selina Paatzsch"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Selina Paatzsch, Diplom-Betriebswirtin (BA)",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "jährliche Betriebskostenabrechnung für den Mieter (Abrechnung aller umlagefähigen Kosten)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (rental, WEG, special property and facility services) with branches in Berlin, Gera and Leipzig, offering annual operating-cost statements to tenants.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rustlerimmo.de/",
+  "services": "https://rustlerimmo.de/mietverwaltung/",
+  "about": "https://rustlerimmo.de/team/",
+  "impressum": "https://rustlerimmo.de/impressum/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die „Plettner & Brecht Immobilien GmbH“ ist in zwei Geschäftsfeldern tätig - im Maklerbereich und als Auktionshaus.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hagen Wehrmeister"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Hagen Wehrmeister",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage and property auction house (wholly owned subsidiary of Deutsche Grundstücksauktionen AG) with no property management services mentioned on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.plettner-brecht.de/",
+  "services": "https://www.plettner-brecht.de/immobilienauktionen/fuer-kaeufer/unsere-dienstleistungen.html",
+  "about": "https://www.plettner-brecht.de/ueber-uns.html",
+  "portal": "https://www.plettner-brecht.de/login.html",
+  "jobs": "https://www.plettner-brecht.de/katalogbezug.html",
+  "impressum": "https://www.plettner-brecht.de/impressum.html"
+ }
+}

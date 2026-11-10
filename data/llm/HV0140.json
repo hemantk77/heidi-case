@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Tectareal ist einer der führenden Property Management Anbieter. Wir sind eine Full Service-Immobilien-Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2014,
+ "founded_evidence": "Tectareal wurde 2014 aus dem HOCHTIEF-Konzern herausgelöst",
+ "managing_directors": [
+  "Gertrud Wesemeyer",
+  "Roland Lass"
+ ],
+ "managing_directors_evidence": "Gertrud Wesemeyer und Roland Lass",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Egal, ob Sie nur die Objektbuchhaltung und Nebenkostenabrechnung möchten oder ein standardisiertes Reporting",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-listed full-service property manager (Hausverwaltung) for hotel, residential, office, commercial and logistics assets, with 9 locations and over 10 million m² managed across Germany.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tectareal.de/",
+  "about": "https://www.tectareal.de/unternehmen",
+  "services": "https://www.tectareal.de/leistungen/",
+  "jobs": "https://www.tectareal.de/karriere",
+  "impressum": "https://www.tectareal.de/impressum/"
+ }
+}

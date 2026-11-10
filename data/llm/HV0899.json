@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Tätigkeit in der Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Derzeit verwalten wir mit 11 Mitarbeiterinnen und Mitarbeitern über 1000 Wohneinheiten in Berlin und Umgebung.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 11,
+ "employees_evidence": "Derzeit verwalten wir mit 11 Mitarbeiterinnen und Mitarbeitern über 1000 Wohneinheiten in Berlin und Umgebung.",
+ "founded_year": 2016,
+ "founded_evidence": "Wir sind seit 2016 als GmbH tätig",
+ "managing_directors": [
+  "Jana Harke",
+  "Silke von Bismarck"
+ ],
+ "managing_directors_evidence": "Frau Jana Harke und Frau Silke von Bismarck",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Brandenburg property manager and broker (GmbH since 2016, 11 staff) managing over 1,000 residential units, with rental and WEG management.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://harke-vonbismarck.de/",
+  "services": "https://www.harke-vonbismarck.de/hausverwaltung",
+  "jobs": "https://www.harke-vonbismarck.de/karriere",
+  "impressum": "https://www.harke-vonbismarck.de/impressum"
+ }
+}

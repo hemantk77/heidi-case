@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "William Guttmann",
+  "Torsten Lehmberg"
+ ],
+ "managing_directors_evidence": "GF: William Guttmann, Torsten Lehmberg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin property management firm (Hausverwaltung) with owner and tenant areas, also publishing commission-free rental listings, with offices in Berlin and Sollenau.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wiener-hv.de/",
+  "services": "https://wiener-hv.com/wohnungsangebote",
+  "impressum": "https://wiener-hv.com/impressum"
+ }
+}

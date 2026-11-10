@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "E-Mail:  hausverwaltung@wvg-info.de",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Klaus Strohbücker"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Klaus Strohbücker Gerichtsstand: Berlin – Charlottenburg HRB 69224",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WVG is a Berlin company whose Impressum lists a Hausverwaltung email address, indicating property management, though the site gives no details on its portfolio or services.",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wvg-info.de/",
+  "jobs": "https://www.wvg-info.de/karriere/",
+  "impressum": "https://www.wvg-info.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ferner unterstützen wir Sie durch Kooperationen mit kompetenten und erfahrenen Verwaltern und Immobilienfinanzierern auch bei der WEG- und Mietverwaltung oder der Finanzierung Ihrer Wunschimmobilie.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stephan Ritt",
+  "Stephan Müller"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Stephan Ritt und Stephan Müller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage (Makler) with offices in Berlin, Hamburg and Frankfurt that refers WEG and rental management to cooperation partners.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ritt-mueller.de/",
+  "impressum": "https://ritt-mueller.de/impressum/",
+  "services": "https://ritt-mueller.de/leistungen/",
+  "about": "https://ritt-mueller.de/ueber-uns/",
+  "jobs": "https://ritt-mueller.de/ueber-uns/wir-stellen-uns-vor/"
+ }
+}

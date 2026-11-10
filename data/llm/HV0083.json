@@ -1,0 +1,38 @@
+{
+ "buildings_managed": 46,
+ "buildings_evidence": "Professionelle Verwaltung von 46 Häusern in 14 Ortsteilen in Berlin und Umland - persönlich, transparent und zuverlässig.",
+ "units_managed": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jan Eichmann",
+  "Orla Maj Eichmann"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Jan Eichmann, Orla Maj Eichmann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Kaufmännische Verwaltung (Mietzahlungen, Buchhaltung, Nebenkostenabrechnungen)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die kaufmännische und technische Verwaltung Ihrer Immobilie ist unsere Kernkompetenz. Wir betreuen 46 Wohn- und Gewerbeobjekte in Berlin und Umland",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager for 46 residential and commercial buildings across 14 districts, offering commercial and technical administration plus construction project management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.eichmann.org/",
+  "services": "https://eichmann.org/leistungen",
+  "impressum": "https://eichmann.org/impressum"
+ }
+}

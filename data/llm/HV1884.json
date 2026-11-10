@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit mehr als 25 Jahren steht die Goldmann Group für die  erfolgreiche Entwicklung hochwertiger Immobilien. Unser Schwerpunkt liegt auf der Sanierung von Gründerzeithäusern und Industriedenkmälern.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Steffen Goldmann",
+  "Manuela Kollmann",
+  "Andy Volke"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Steffen Goldmann, Manuela Kollmann, Andy Volke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based renovation and development firm focused on restoring Gründerzeit houses and industrial monuments; the site describes no property management services.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.goldmann-group.de/",
+  "impressum": "https://goldmann-group.de/impressum"
+ }
+}

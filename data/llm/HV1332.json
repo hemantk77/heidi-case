@@ -1,0 +1,40 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 40,
+ "employees_evidence": "Unser schlagkräftiges Team von etwa 40 Mitarbeiterinnen und Mitarbeitern ergreift mutig Chancen",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die CESA Hausverwaltung betreut vornehmlich die Immobilien der CESA GROUP. Als besondere Leistung bieten wir den Erwerberinnen und Erwerbern der CESA die Verwaltung ihrer Eigentumswohnungen an.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Achaz v. Oertzen",
+  "Zeynep Banghard"
+ ],
+ "managing_directors_evidence": "Achaz v. Oertzen Zeynep Banghard",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "CESA GROUP is a Berlin project developer and builder that also runs a property management arm (Hausverwaltung) mainly for its own portfolio, with ~40 staff.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://cesagroup.berlin/",
+  "services": "https://cesagroup.berlin/hausverwaltung/",
+  "about": "https://cesagroup.berlin/unternehmen/",
+  "jobs": "https://cesagroup.berlin/karriere/",
+  "impressum": "https://cesagroup.berlin/impressum/"
+ }
+}

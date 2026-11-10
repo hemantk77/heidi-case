@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von WEG – Anlagen, Wohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": "Derzeit betreuen wir 7 Wohn- Geschäftshäuser mit insgesamt 128 Einheiten und 11 Wohneigentumsanlagen mit insgesamt 303 Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": "Derzeit betreuen wir 7 Wohn- Geschäftshäuser mit insgesamt 128 Einheiten und 11 Wohneigentumsanlagen mit insgesamt 303 Einheiten",
+ "employees": null,
+ "employees_evidence": "Ihnen stehen Frau Lemke und Herr Schick als zwei kompetente und erfahrene Mitarbeiter zur Verfügung.",
+ "founded_year": 1993,
+ "founded_evidence": "Unsere Firma Lemke & Schick GbR besteht seit 1993",
+ "managing_directors": [
+  "Matthias Schick"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt gemäß § 10 Abs. 3 MDStV Matthias Schick",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "klare und nachvollziehbare Abrechnungen mit einer professionellen Verwaltungssoftware (Haussoft) der Berliner Softwarefirma GFAD",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1993) handling WEG and rental management for about 431 units across 18 buildings/properties, plus brokerage, run by two partners.",
+ "units_managed_rejected": 431,
+ "buildings_managed_rejected": 18,
+ "employees_rejected": 2,
+ "_evidence_checked": 7,
+ "_evidence_failed": 3,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lemke-schick.de/",
+  "services": "https://www.immobilien-lemke-schick.de/leistungen",
+  "impressum": "https://www.immobilien-lemke-schick.de/impressum"
+ }
+}

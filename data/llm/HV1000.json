@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind Ihr Dienstleistungspartner in der WEG-Verwaltung, Mietverwaltung und im An- und Verkauf sowie im Assetmanagement.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peter Losen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Peter Losen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Berlin property manager offering WEG, Sondereigentums and Mietverwaltung plus asset management and sales, with a Kundenportal for clients.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.faveo-gmbh.de/",
+  "services": "https://faveo-gmbh.de/angebote/",
+  "about": "https://faveo-gmbh.de/ueber-uns/",
+  "impressum": "https://faveo-gmbh.de/impressum/"
+ }
+}

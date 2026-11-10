@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "mich 1995 mit meinem eigenen Unternehmen selbstständig gemacht",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung mit den Mietern ... Erstellung von Nebenkostenabrechnungen für Eigentümer",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Verwaltung weist derzeit einen Bestand von ca. 900 Wohneinheiten auf. Die Verwaltung beinhaltet die Wohnungseigentumsverwaltung verbunden mit der Mietsonderverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jeanette Grau"
+ ],
+ "managing_directors_evidence": "Jeanette Grau\nHausverwaltung\nHindenburgdamm 8",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager (Steglitz) founded 1995 offering WEG, rental and commercial management for about 900 units, including utility billing for owners and tenants.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": "Unsere Verwaltung weist derzeit einen Bestand von ca. 900 Wohneinheiten auf.",
+ "units_managed": 900,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-jeanette-grau.de/",
+  "about": "http://www.hausverwaltung-jeanette-grau.de/index.php/team",
+  "services": "http://www.hausverwaltung-jeanette-grau.de/index.php/leistungen/eigentuemer",
+  "impressum": "http://www.hausverwaltung-jeanette-grau.de/index.php/impressum"
+ }
+}

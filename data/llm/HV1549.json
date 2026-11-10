@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ten Brinke ist der entwickelnde Bauende und der bauende Entwickler.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1902,
+ "founded_evidence": "1902 gründet Theodorus ten Brinke die Firma kleines ausführendes Bauunternehmen im niederländischen Varsseveld",
+ "managing_directors": [
+  "Albert ten Brinke"
+ ],
+ "managing_directors_evidence": "Directeur: Albert ten Brinke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Ten Brinke is a construction, project development and investment group (headquartered in the Netherlands) that builds and develops; the site shows no property management for third parties or its own portfolio.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tenbrinke.com/",
+  "about": "https://www.tenbrinke.com/de/ueber-uns.html",
+  "jobs": "https://www.tenbrinke.com/de/karriere.html",
+  "impressum": "https://www.tenbrinke.com/de/2433.html"
+ }
+}

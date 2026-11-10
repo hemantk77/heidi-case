@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Gegründet wurde SCHOLZ Immobilien im Jahr 2002 von Herrn Dipl.-Kfm. Thomas Scholz. ... Über 20 Jahre Erfahrung in der Immobilienvermittlung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "Gegründet wurde SCHOLZ Immobilien im Jahr 2002 von Herrn Dipl.-Kfm. Thomas Scholz.",
+ "managing_directors": [
+  "Thomas Scholz"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Dipl.-Kfm. Thomas Scholz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SCHOLZ Immobilien is a Berlin residential real-estate brokerage focused on buying and selling homes and condos, founded in 2002, with no property management services mentioned.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.scholz-immobilien.de/",
+  "services": "https://www.scholz-immobilien.de/Angebote.htm",
+  "about": "https://www.scholz-immobilien.de/Ueber-uns.htm",
+  "impressum": "https://www.scholz-immobilien.de/Impressum.htm"
+ }
+}

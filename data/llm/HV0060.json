@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Von der Mietverwaltung für einzelne Wohnungen und ganze Gebäude bis hin zur Verwaltung von Wohnungseigentümergemeinschaften: Wir bewirtschaften Ihre Immobilie zuverlässig",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 8000,
+ "units_evidence": "Gemeinsam mit unseren Tochterunternehmen WOHNFORM (gegr. 1990) und BEROLINA Immobilienservice (gegr. 2010) betreuen wir aktuell mehr als 210 Wohn- und Gewerbeobjekte mit über 8.000 Einheiten",
+ "buildings_managed": 210,
+ "buildings_evidence": "betreuen wir aktuell mehr als 210 Wohn- und Gewerbeobjekte mit über 8.000 Einheiten",
+ "employees": 35,
+ "employees_evidence": "Wir beschäftigen heute 35 qualifizierte und berufserfahrene Mitarbeiter",
+ "founded_year": 2015,
+ "founded_evidence": "Wir sind seit Januar 2015 im Bereich Verwaltung, Vermietung und Entwicklung von Immobilien tätig.",
+ "managing_directors": [
+  "Markus Motter"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dipl.-Kfm. (FH) Markus Motter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Berlin-based property manager (Hausverwaltung) for rental, WEG and special-property management, with about 8,000 units and 35 staff, plus facility services via subsidiaries.",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://solano-immobilien.de/",
+  "services": "https://solano-immobilien.de/leistungen/weg-und-sondereigentumsverwaltung",
+  "about": "https://solano-immobilien.de/unternehmensgruppe/profil",
+  "jobs": "https://solano-immobilien.de/karriere/solano-als-arbeitgeber",
+  "impressum": "https://solano-immobilien.de/impressum"
+ }
+}

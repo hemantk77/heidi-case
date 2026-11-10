@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unsere besondere Stärke ist die Präsenz in der Region. ... Als unabhängige Immobilienmakler, die weder einem Finanzinstitut noch einem Franchiseunternehmen angehören",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 185,
+ "buildings_evidence": "Objekte: 185",
+ "employees": 5,
+ "employees_evidence": "Unser 5-köpfiges Team deckt das gesamte Spektrum der Immobilienvermittlung ab.",
+ "founded_year": 1994,
+ "founded_evidence": "Das Unternehmen wurde im Jahr 1994 gegründet",
+ "managing_directors": [
+  "Denise Baumert",
+  "Dave Baumert GbR"
+ ],
+ "managing_directors_evidence": "Denise Baumert, Dave Baumert GbR",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Baumert Immobilien is a Berlin brokerage (Makler) focused on selling and renting houses and apartments in the Mahlsdorf-Biesdorf-Kaulsdorf area, with no property management offering found on the site.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.baumert-immobilien.de/",
+  "services": "https://www.baumert-immobilien.de/Angebote.htm",
+  "about": "https://www.baumert-immobilien.de/Ueber-uns.htm",
+  "jobs": "https://www.baumert-immobilien.de/Stellenangebote.htm",
+  "impressum": "https://www.baumert-immobilien.de/Impressum.htm"
+ }
+}

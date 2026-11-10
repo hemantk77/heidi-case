@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Leistungsspektrum umfasst die Mietverwaltung, die WEG-Verwaltung und die Sondereigentumsverwaltung sowie die digitale Organisation aller relevanten Unterlagen und Abläufe.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Carolyn Gorr"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Carolyn Gorr",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Digitales Kundenportal für Dokumente und Informationen",
+ "segment_note": "Berlin-Kreuzberg property manager offering rental, WEG and special-ownership management with a digital customer portal; no unit or building counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kreuzberg-hausverwaltung.de/",
+  "about": "https://kreuzberg-hausverwaltung.de/ueber-uns",
+  "services": "https://kreuzberg-hausverwaltung.de/leistungen",
+  "jobs": "https://kreuzberg-hausverwaltung.de/kontakt",
+  "impressum": "https://kreuzberg-hausverwaltung.de/impressum"
+ }
+}

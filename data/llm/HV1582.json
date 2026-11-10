@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten gerne Ihre Immobilie im Sondereigentum, wenn es sich um eine",
+ "main_business": "property_management",
+ "services": [
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dan Zahareanu"
+ ],
+ "managing_directors_evidence": "Geschäftsinhaber: Dan Zahareanu",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin full-service agency for property buyers offering brokerage, renovation, letting and management of Sondereigentum for clients who buy in Berlin from abroad.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.danzaberlin-realestate.com/",
+  "services": "https://www.danzaberlin-realestate.com/leistungen",
+  "about": "https://www.danzaberlin-realestate.com/ueberuns",
+  "impressum": "https://www.danzaberlin-realestate.com/impressum"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Mit Investition, Entwicklung und Betrieb bieten wir dabei an jedem Standort nachhaltiges Immobilienmanagement",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": 6800,
+ "units_evidence": "6.800 \n Apartments in Betrieb",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 170,
+ "employees_evidence": "170 \n Mitarbeitende",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Patrick Hanisch",
+  "Gawain S.E. Smart",
+  "Ufuk Kaynar"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nPatrick Hanisch\nGawain S.E. Smart\nUfuk Kaynar",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "International Campus GmbH is a student housing and furnished-living investor, developer and operator with 6,800 apartments in operation across Europe, but the site does not describe third-party property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ic-campus.com/",
+  "about": "https://ic-campus.com/team/",
+  "services": "https://ic-campus.com/portfolio/",
+  "impressum": "https://ic-campus.com/impressum/",
+  "jobs": "https://jobs.ic-campus.com/de"
+ }
+}

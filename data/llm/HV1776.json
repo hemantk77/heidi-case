@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Lease & Property Management",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Martin Boelter",
+  "Sorina A. Knabe"
+ ],
+ "managing_directors_evidence": "Management: Dipl. Ing. Martin Boelter Managing Partner Sorina A. Knabe Managing Partner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GATE Berlin is a Berlin buyer's-broker and property advisory firm that also offers lease and property management as a secondary service for its clients.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gateberlin.com/",
+  "services": "https://www.gateberlin.com/gate-berlin-services",
+  "about": "https://www.gateberlin.com/about-us",
+  "impressum": "https://www.gateberlin.com/legal-notice"
+ }
+}

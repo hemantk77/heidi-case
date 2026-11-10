@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 1998 im Prenzlauer Berg",
+ "founded_year": 1998,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Als Besonderheit bieten wir die Erstellung von Heizkostenabrechnungen und die Installation der notwendigen Messgeräte aus einer Hand an.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung Wesemeyer GmbH ... Verwaltung von Eigentumsanlagen ... Verwaltung des Sondereigentums ... Mieterverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Olaf Wesemeyer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Olaf Wesemeyer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Prenzlauer Berg, since 1998) offering WEG, Sondereigentum, rental management, caretaking and in-house heating cost billing.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwalter-berlin.de/",
+  "services": "https://www.hausverwalter-berlin.de/leistungen-hausverwaltung",
+  "impressum": "https://www.hausverwalter-berlin.de/impressum"
+ }
+}

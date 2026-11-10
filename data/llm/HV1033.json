@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung Miethausverwaltung Immobilienverkauf",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Gegründet wurde AMEXIS Immobilien im Jahr 2009 von Andreas Preuß.",
+ "managing_directors": [
+  "Andreas Preuß"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Andreas Preuß",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AMEXIS Immobilien is a Berlin brokerage that also offers WEG and rental property management, founded 2009, focused on the Berlin north.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.amexis.de/",
+  "services": "https://www.amexis.de/Leistungen.htm",
+  "about": "https://www.amexis.de/Ueber-uns.htm",
+  "jobs": "https://www.amexis.de/Stellenangebote.htm",
+  "portal": "https://www.amexis.de/LOGIN.htm",
+  "impressum": "https://www.amexis.de/Impressum.htm"
+ }
+}

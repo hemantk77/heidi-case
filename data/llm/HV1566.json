@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "DIE AMO GRUNDSTÜCKSGESELLSCHAFT MBH VERWALTET SEIT MEHR ALS 20 JAHREN ERFOLGREICH IMMOBILIEN IN BERLIN UND BRANDENBURG.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Frank Tichter",
+  "Linus Tichter"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Herr Frank Tichter, Linus Tichter",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Mietenneuberechnungen, Betriebs-/Heizkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AMO is a Berlin property manager (rental, WEG and commercial management) that also offers brokerage, project management and heating/operating cost billing; no portal or unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.amogrund.de/",
+  "services": "https://www.amogrund.de/amo-grundstuecksgesellschaft-mbh.html",
+  "impressum": "https://www.amogrund.de/amo-impressum.html",
+  "about": "https://www.amogrund.de/amo-unternehmensgruppe-en.html"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "buildings_evidence": "2200+\n Verwaltete Immobilien",
+ "buildings_managed": 2200,
+ "employees": 20,
+ "employees_evidence": "20+\n Erfahrene Mitarbeiter",
+ "founded_evidence": "Die Ilex Hausverwaltung wurde im Jahr 1999 von R. Scholz & M.Deters gegründet.",
+ "founded_year": 1999,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltungsdienste umfassen die kaufmännische und technische Verwaltung von Gewerbe-, Wohn- und Sonderimmobilien.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Rainer Scholz",
+  "Michael Deters"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Rainer Scholz\nGeschäftsleitung: Michael Deters, Prokurist",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "segment_note": "Berlin property manager (founded 1999) offering WEG, rental and commercial management plus facility management, with about 2,200 managed properties and 20+ staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-berlin.com/",
+  "services": "https://www.hausverwaltung-berlin.com/dienstleistungen",
+  "about": "https://www.hausverwaltung-berlin.com/about-6",
+  "jobs": "https://www.hausverwaltung-berlin.com/karriere",
+  "impressum": "https://www.hausverwaltung-berlin.com/impressum"
+ }
+}

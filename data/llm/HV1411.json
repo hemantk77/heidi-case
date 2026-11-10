@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ob zum Verkauf, zur Renovierung, Finanzierung, Möblierung, Vermietung oder Verwaltung – wir stehen Ihnen zu allen Fragen rund um das Thema Immo",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Cederic Zehden"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Cederic Zehden",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "UNIQUE is a Berlin property brokerage focused on selling and financing, with no managed portfolio shown; it mentions \"Vermietung oder Verwaltung\" only as a referral topic.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.unique-immobilien.com/",
+  "about": "https://www.unique-immobilien.com/about/",
+  "services": "https://www.unique-immobilien.com/kaeufer/",
+  "impressum": "https://www.unique-immobilien.com/impressum/"
+ }
+}

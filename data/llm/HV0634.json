@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten mehrere Objekte in Berlin: Bürohäuser in bester Lage in Charlottenburg und in Wilmersdorf, sowie ein Mietshaus in Schmargendorf und eine Wohnanlage in Lichterfelde.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Horst Schaller",
+  "Christoph Müller"
+ ],
+ "managing_directors_evidence": "Die Verwaltung und Entwicklung der seinerzeit erworbenen Immobilien in den Händen und der Verantwortung von Horst Schaller und seinem Schwager Christoph Müller.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small family-run Berlin property manager with a few commercial office buildings, one rental house and one residential complex, run by Horst Schaller and Christoph Müller.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schaller-hausverwaltung.de/",
+  "about": "https://www.schaller-hausverwaltung.de/geschichte/"
+ }
+}

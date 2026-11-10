@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bei 51 Estate helfen wir Ihnen, die perfekte Wohnung oder Gewerbefläche in Berlin zu finden. ... Wir vermieten Apartments auf Berliner Art—klar, fair und stressfrei.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Manan Sanghvi"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Mannan Sanghvi",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "51 Estate is a small Berlin brokerage helping clients find rental apartments and commercial space, with no property management services described on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://51estate.immo/",
+  "about": "https://www.51estate.immo/de/about",
+  "impressum": "https://www.51estate.immo/de/imprint"
+ }
+}

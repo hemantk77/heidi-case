@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung & WEG-Verwaltung in Berlin und Potsdam – digital, transparent, immer persönlich",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "Im Jahr 2013 wurde das Unternehmen von der Inhaberin, Elena Siebert, gegründet",
+ "managing_directors": [
+  "Elena Siebert"
+ ],
+ "managing_directors_evidence": "Inhaber & Herausgeber ELSI Immobilien e.K. Elena Siebert Mommsenstraße 58, 10629 Berlin",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen",
+ "portal_or_app": "Kundenbereich",
+ "portal_evidence": "Bleiben Sie als unser Kunde mit Ihrem persönlichen online Datenzugriff im",
+ "segment_note": "ELSI Immobilien is a Berlin property manager (founded 2013, Charlottenburg office) offering rental and WEG administration, plus brokerage and consulting, with a client data portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://elsi-immobilien.de/",
+  "about": "https://elsi-immobilien.de/uber-uns/",
+  "services": "https://elsi-immobilien.de/portfolio/",
+  "portal": "https://elsi-immobilien.de/kundenbereich/",
+  "impressum": "https://elsi-immobilien.de/imprint/"
+ }
+}

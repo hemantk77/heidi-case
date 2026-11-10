@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmakler Berlin: BBI am Kurfürstendamm seit 1995",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1995,
+ "founded_evidence": "seit 1995",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Berlin real-estate brokerage focused on selling and buying properties, with a cooperation offer for property managers (Hausverwaltungen) for sales and letting; no property management services of its own are described.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bbi-immobilien.de/",
+  "services": "https://www.bbi-immobilien.de/verkaufen/hausverwaltungen/",
+  "jobs": "https://www.bbi-immobilien.de/jobs/",
+  "about": "https://www.bbi-immobilien.de/unternehmen/",
+  "impressum": "https://www.bbi-immobilien.de/impressum/"
+ }
+}

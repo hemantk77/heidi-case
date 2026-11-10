@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 40,
+ "employees_evidence": "ca. 40 Mitarbeitern und ca. 10.000 Verwaltungseinheiten",
+ "founded_evidence": "seit 1995",
+ "founded_year": 1995,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen seit 1995 Immobilienfonds, Miethäuser und gewerbliche Objekte und spezialisierten uns frühzeitig auf die Wohnungseigentumsverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Uwe Paschke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Uwe Paschke",
+ "portal_or_app": "Homecase",
+ "portal_evidence": "Mit unserem Online-Zugang \"Homecase\" sind Sie immer und überall up to date.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager founded 1995 (owner-managed, ~40 staff) specializing in WEG administration, with the Homecase online portal for owners.",
+ "units_evidence": "ca. 10.000 Verwaltungseinheiten",
+ "units_managed": 10000,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.proline.de/",
+  "jobs": "https://www.proline.de/de/karriere",
+  "impressum": "https://www.proline.de/impressum"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Miethausverwaltung ... WEG-Verwaltung ... SEV-Verwaltung ... Gewerbeverwaltung (Leistungen navigation); Unsere Miethausverwaltung: Effizient, digital, zuverlässig: Unsere Fremdverwaltung bietet umfassende Betreuung Ihrer Mieter",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": 20000,
+ "units_evidence": "Wer über 20.000 Wohneinheiten verwaltet, weiß, worauf es ankommt",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Mehr als 100 Mitarbeiter an den Standorten Berlin und Köln",
+ "founded_year": 1982,
+ "founded_evidence": "Seit 1982 erfolgreich am Markt",
+ "managing_directors": [
+  "Frank Kirchhoff",
+  "Dominik Groth"
+ ],
+ "managing_directors_evidence": "Frank Kirchhoff & Dominik Groth Geschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Eigentümerportal, Mieterportal",
+ "portal_evidence": "Eigentümerportal Mieterportal",
+ "segment_note": "Berlin-based property manager (residential WEG, rental and commercial management) with about 20,000 units, 100+ staff, and owner and tenant portals.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.allod.de/",
+  "portal": "https://www.allod.de/eigentuemerportal",
+  "about": "https://www.allod.de/unternehmen",
+  "services": "https://www.allod.de/leistungen",
+  "jobs": "https://www.allod.de/karriere",
+  "impressum": "https://www.allod.de/impressum"
+ }
+}

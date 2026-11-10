@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die MWW GmbH ist auf das Management von Wohn- und Gewerbeimmobilien spezialisiert und überregional tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 7000,
+ "units_evidence": "Im Verwaltungsportfolio befinden sich derzeit etwa 7.000 Einheiten in den Assetklassen Wohnen und Gewerbe.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 35,
+ "employees_evidence": "Unser Team aus etwa 35 Kolleginnen und Kollegen ist stets auf der Suche nach Verstärkung.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Michaela Tettenborn"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Michaela Tettenborn",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Heute sind wir ein spezialisiertes Team aus Objektmanagern, Technikern, Betriebskostenabrechnern und Buchhaltern",
+ "portal_or_app": "MWW App",
+ "portal_evidence": "Für Sie als Mieter sind wir jederzeit erreichbar - per App, per Telefon oder per E-Mail.",
+ "segment_note": "MWW GmbH is a Leipzig-headquartered property manager (Berlin branch at Genthiner Str. 40) managing about 7,000 residential and commercial units, with in-house utility billing and a MWW app for tenants.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mww-ag.de/",
+  "about": "https://mww.de/unternehmen/",
+  "jobs": "https://mww.de/unternehmen/karriere-2/",
+  "services": "https://mww.de/angebot-anfragen/",
+  "portal": "https://mww.de/mww-app/",
+  "impressum": "https://mww.de/impressum/"
+ }
+}

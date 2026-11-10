@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Certified real-estate brokerage in and around Berlin for renting and selling properties; the site also lists a \"Verwaltung\" menu item and a \"Suchen Sie eine Immobilienverwaltung?\" prompt, but no management details are given.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.livinginberlin.de/",
+  "about": "https://www.livinginberlin.de/unternehmen",
+  "jobs": "https://www.livinginberlin.de/unternehmen/karriere",
+  "services": "https://www.livinginberlin.de/angebote",
+  "impressum": "https://www.livinginberlin.de/impressum"
+ }
+}

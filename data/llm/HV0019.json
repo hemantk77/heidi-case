@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "INHOUSE hat die ideale Größe für eine Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": 4500,
+ "units_evidence": "Betreute Einheiten: 4.500",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 23,
+ "employees_evidence": "Mitarbeiter: 23",
+ "founded_year": 2000,
+ "founded_evidence": "Gründung: 2000",
+ "managing_directors": [
+  "Sascha Klein"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dipl.-Kfm. (FH) Sascha Klein",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) founded 2000 with 23 staff, managing 4,500 units incl. asset, commercial and technical management for residential properties.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.inhouse-verwaltung.de/",
+  "impressum": "https://www.inhouse-verwaltung.de/impressum.html"
+ }
+}

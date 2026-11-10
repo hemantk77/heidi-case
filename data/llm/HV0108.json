@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1820,
+ "founded_evidence": "Wentzel Dr. – seit 1820",
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Wentzel Dr. Serviceportal",
+ "portal_evidence": "Wentzel Dr. Serviceportal",
+ "segment_note": "The fetched pages belong to Wentzel Dr., a Hamburg brokerage and property administration firm, not to COTRAC Liegenschaften & Hausverwaltungen GmbH in Berlin; the site does not confirm the Berlin company's business.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://cotrac.de/",
+  "services": "https://wentzel-dr.de/wohn-wechsel-service/",
+  "about": "https://wentzel-dr.de/ueber-uns/",
+  "jobs": "https://wentzel-dr.de/karriere/",
+  "portal": "https://serviceportal.wentzel-dr.de/app/login",
+  "impressum": "https://wentzel-dr.de/impressum/"
+ }
+}

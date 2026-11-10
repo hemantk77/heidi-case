@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung    Verkauf    Vermietung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Maximilian Schiele"
+ ],
+ "managing_directors_evidence": "Inh.: Maximilian Schiele",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Beauftragung der Heizkostenabrechnungen ... Erstellung der Betriebs- und Heizkostenabrechnungen gegenüber den Mietern",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property firm offering tenancy management, operating-cost and heating-cost billing, sales and rentals, run by owner Maximilian Schiele.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://liegenschaften-schiele.de/",
+  "services": "https://www.liegenschaften-schiele.de/leistungen/",
+  "portal": "https://www.liegenschaften-schiele.de/login",
+  "impressum": "https://www.liegenschaften-schiele.de/about/"
+ }
+}

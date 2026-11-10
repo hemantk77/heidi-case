@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ich bin spezialisiert auf den Verkauf von privaten Wohnimmobilien, vom Mikroappartement über die Studentenbude, das klassische Einfamilienhaus, die Eigentumswohnung bis zur Luxusvilla und Ferienimmobilie.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Eveline Ziebertz"
+ ],
+ "managing_directors_evidence": "Eveline Ziebertz Immobilien",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based independent real estate broker (Immobilienmaklerin) specialized in selling private residential property; the site shows no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ziebertz-immobilien.de/",
+  "impressum": "https://ziebertz-immobilien.de/impressum/"
+ }
+}

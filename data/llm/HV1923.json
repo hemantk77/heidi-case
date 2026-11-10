@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind Ihr kompetenter Partner für Hauswartung und Technischen Gebäudeservice in Berlin und Umgebung.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Seit 1997 arbeitet das Familienunternehmen nach höchsten professionellen Standards",
+ "managing_directors": [
+  "Rene Eggert"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Rene Eggert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin facility service company (Hauswartung, cleaning, garden care, transport, drone service) serving property managers and owners; does not offer property management itself.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausservice-eggert.de/",
+  "services": "https://hausservice-eggert.de/hauswartung-technischer-gebaeudeservice-berlin-brandenburg/",
+  "jobs": "https://hausservice-eggert.de/jobs/",
+  "impressum": "https://hausservice-eggert.de/impressum/"
+ }
+}

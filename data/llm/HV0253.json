@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 5,
+ "employees_evidence": "Insgesamt 5 Mitarbeiter stellen die professionelle und individuell den Wünschen der Eigentümer angepasste Betreuung der Häuser sicher.",
+ "founded_evidence": "seit 1994",
+ "founded_year": 1994,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "verwaltet Mietshäuser und Wohnungseigentumsanlagen schwerpunktmässig in Berlin-Pankow und den benachbarten Bezirken",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michael Winks"
+ ],
+ "managing_directors_evidence": "Michael Winks\nHausverwaltung und Immobilien",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "segment_note": "Owner-operated Berlin-Pankow property manager (since 1994, 5 staff) handling rental houses and WEG properties with no stated unit count or portal.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltungwinks.de/",
+  "impressum": "http://hausverwaltungwinks.de/impressum.html"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung & WEG-Verwaltung in Berlin — von Investoren für Investoren.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Investorenberatung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Goldau"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Goldau",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering WEG and rental management plus investor advisory for owners, with 24h response promise; no unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.spreelion.de/",
+  "services": "https://spreelion.de/weg-verwaltung",
+  "about": "https://spreelion.de/home",
+  "impressum": "https://spreelion.de/impressum"
+ }
+}

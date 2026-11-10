@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Spezialisten für eine ganzheitliche Entsorgungsleistung ... Entsorgungskonzepte für Gewerbe- und Privatkunden",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Kundenportal ALBAclick",
+ "portal_evidence": "Kundenportal ALBAclick",
+ "segment_note": "ALBA Berlin is a waste disposal company serving commercial, private and housing-industry customers with containers and waste management, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://berlin.alba.info/",
+  "about": "https://berlin.alba.info/unternehmen/",
+  "jobs": "https://berlin.alba.info/unternehmen/karriere/",
+  "portal": "https://www.alba.info/unternehmen/verantwortung-engagement/hinweisgeber-portal/",
+  "services": "https://berlin.alba.info/service/",
+  "impressum": "https://www.alba.info/rechtliches/impressum/"
+ }
+}

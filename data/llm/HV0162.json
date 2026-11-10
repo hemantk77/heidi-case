@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "verwalten wir seit 1990 Immobilien in Berlin, Potsdam und Werder an der Havel",
+ "managing_directors": [
+  "Björn Sakschewski"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Björn Sakschewski",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Immobilienservice und Hausverwaltung bietet Ihnen eine umfassende und professionelle Betreuung Ihrer Immobilie.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin-based Hausverwaltung (since 1990) offering rental management, maintenance and renovation coordination for properties in Berlin, Potsdam and Werder an der Havel; no unit or building counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-wilhelm-gmbh.de/",
+  "about": "https://hv-wilhelm-gmbh.de/unternehmen/",
+  "impressum": "https://hv-wilhelm-gmbh.de/impressum/"
+ }
+}

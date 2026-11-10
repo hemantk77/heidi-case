@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kernkompetenzen sind die Mietverwaltung und die Verwaltung nach dem WEG.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 3500,
+ "units_evidence": "Gegenwärtig kümmern wir uns als Team um rund 100 Objekte mit etwa 3.500 Einheiten in Berlin.",
+ "buildings_managed": 100,
+ "buildings_evidence": "Gegenwärtig kümmern wir uns als Team um rund 100 Objekte mit etwa 3.500 Einheiten in Berlin.",
+ "employees": 20,
+ "employees_evidence": "Die Fiechtner & Schauerte Immobilienverwaltung GmbH ist eine dynamische Hausverwaltung mit einem engagierten Team von 20 Mitarbeitern",
+ "founded_year": 2000,
+ "founded_evidence": "Seit 2000 Ansprechpartner und Dienstleister",
+ "managing_directors": [
+  "Dr. Lars Fiechtner",
+  "Petra Schauerte",
+  "Christoph Kues"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dr. Lars Fiechtner Petra Schauerte Christoph Kues",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Berlin property manager (Fiechtner & Schauerte) handling rental and WEG administration for about 100 properties and 3,500 units, using HausSoft, with a customer portal.",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bebra-immobilien.de/",
+  "about": "https://immobilienverwaltung.berlin/ueber-uns/",
+  "jobs": "https://immobilienverwaltung.berlin/karriere/",
+  "services": "https://immobilienverwaltung.berlin/karriere/weg-verwaltung/",
+  "portal": "https://immobilienverwaltung.berlin/mieterbereich/",
+  "impressum": "https://immobilienverwaltung.berlin/impressum"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "analysieren und optimieren Ihre Betriebskosten",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen die komplette Haus- und Mietverwaltung für Ihre Immobilie in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Lars Koitz"
+ ],
+ "managing_directors_evidence": "Angaben gemäß § 5 TMG Lars Koitz Hirschpfad 26 12623 Berlin",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "PAH Hausverwaltung is a Berlin property manager offering full house and rental management plus WEG administration, and analyses operating costs.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://pleasure-at-home.de/",
+  "impressum": "https://pleasure-at-home.de/impressum/"
+ }
+}

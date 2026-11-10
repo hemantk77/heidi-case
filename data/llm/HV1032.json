@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die WISTA.Service GmbH bietet auf dem Gelände des Hochtechnologiestandorts Berlin Adlershof kaufmännisches und technisches Management zur Bewirtschaftung von Gebäuden und Grundstücken.",
+ "main_business": "property_management",
+ "services": [
+  "Facility/Hausmeister",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 100,
+ "buildings_evidence": "Mit seinen etwa 120 Mitarbeitern und Auszubildenden betreut das Unternehmen derzeit rund 100 Gebäude und mehr als 350.000 m² Grundfläche.",
+ "employees": 120,
+ "employees_evidence": "Mit seinen etwa 120 Mitarbeitern und Auszubildenden betreut das Unternehmen derzeit rund 100 Gebäude und mehr als 350.000 m² Grundfläche.",
+ "founded_year": 2001,
+ "founded_evidence": "Seit 2001 betreuen wir am Hochtechnologiestandort Berlin Adlershof Unternehmen und Forschungseinrichtungen.",
+ "managing_directors": [
+  "Martin Scheld"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtiger Geschäftsführer: Martin Scheld",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WISTA.Service GmbH is a Berlin Adlershof facility and commercial management provider for about 100 buildings, founded 2001, with roughly 120 staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wista-service.de/",
+  "services": "https://www.wista-service.de/leistungen/technische-leistungen",
+  "jobs": "https://www.wista-service.de/karriere/ausbildung",
+  "impressum": "https://www.wista-service.de/impressum"
+ }
+}

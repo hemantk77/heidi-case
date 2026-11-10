@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Makler für Berlin & nördliches Umland",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Die Hentschel Immobilien & Invest GmbH wurde im April 2009 als hsmanagement GmbH gegründet.",
+ "managing_directors": [
+  "Dennis Hentschel"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dennis Hentschel (Geschäftsführer & Immobilienmakler)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin and northern Brandenburg real estate brokerage (sales, rental brokerage, valuations) founded 2009; the site describes no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hentschel-immobilien.de/",
+  "services": "https://hentschel-immobilien.de/leistungen",
+  "about": "https://hentschel-immobilien.de/ueber-uns",
+  "impressum": "https://hentschel-immobilien.de/impressum"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "IBS Gesellschaft für Immobilienwirtschaftliche Beratung & Service mbH ist Ihr kompetenter Partner für WEG Verwaltung. Wir bieten umfassende Dienstleistungen für WEG, SEV und Mietverwaltung an.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jaqueline Hartmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jaqueline Hartmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IBS is a Berlin property manager offering WEG, SEV and rental management, with a network of construction, architecture and insurance partners.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ibs-hv.de/",
+  "impressum": "https://www.ibs-hv.de/impressum"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Miethausverwaltung ... WEG-Verwaltung (Leistungen navigation); \"Wir bei ALMA Real Estate Management GmbH, einer Boutique-Hausverwaltung, sind Ihnen gerne dabei behilflich\"",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1985,
+ "founded_evidence": "Ihr Immobilienpartner seit 1985 in dritter Generation",
+ "managing_directors": [
+  "Konstanze Arnst"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Frau Konstanze Arnst",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ALMA is a family-owned Berlin boutique property manager (since 1985) offering rental-house and WEG management, with Teilverwaltung also listed.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.alma.berlin/",
+  "services": "https://www.alma.berlin/miethausverwaltung",
+  "about": "https://www.alma.berlin/philosophie",
+  "impressum": "https://www.alma.berlin/impressum"
+ }
+}

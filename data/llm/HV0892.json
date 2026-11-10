@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die Feike GmbH bietet Ihnen professionelle Hausverwaltungsdienstleistungen in Berlin und Umgebung. Wir sind Ihr erfahrener Partner für die Verwaltung von Miet- und Eigentumsobjekte",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Leo Feike"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Leo Feike",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Feike GmbH is a Berlin property company offering property management for rental and owner-occupied properties, plus caretaking, renovation and cleaning services.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://feike.gmbh/",
+  "about": "https://www.feike-gmbh.de/ueberuns/",
+  "services": "https://www.feike-gmbh.de/immobilienverwaltung/",
+  "jobs": "https://www.feike-gmbh.de/stellenausschreibung/",
+  "impressum": "https://www.feike-gmbh.de/impressum/"
+ }
+}

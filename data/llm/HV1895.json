@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Service rund um Ihre Immobile Sie haben ein Objekt und suchen Unterstützung bei Vermietung und Verwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "H. Filiz"
+ ],
+ "managing_directors_evidence": "© D-Immo 24 - H. Filiz | Design: ccare.de",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "D-Immo 24 is a Berlin firm focused on commercial property, mainly renting warehouse and hall space directly from the owner, and it also offers Verwaltung (management) services for third-party properties.",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://d-immo24.de/",
+  "services": "https://d-immo24.de/immobilienverwaltung.html"
+ }
+}

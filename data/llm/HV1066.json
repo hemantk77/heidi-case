@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre fachkompetente Hausverwaltung in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Zur Zeit betreuen wir mehr als 1.000 Wohneinheiten, welche sich in Alt- und Neubauten, aber auch in Wohnungseigentümergemeinschaften befinden.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "Die HCS Facility + Projektmanagement GmbH wurde Anfang des Jahres 2002 gegründet.",
+ "managing_directors": [
+  "Carsten Hensel",
+  "Holger Andritter-Witt"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nCarsten Hensel und Holger Andritter-Witt",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkosten- / Jahresabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (Hausverwaltung) founded 2002, managing over 1,000 residential units including WEGs, with in-house caretaking and renovation services.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hcsberlin.de/",
+  "about": "https://www.hcsberlin.de/das-unternehmen-firmengeschichte",
+  "services": "https://www.hcsberlin.de/services-leistungen",
+  "impressum": "https://www.hcsberlin.de/anfahrt-kontakt/impressum"
+ }
+}

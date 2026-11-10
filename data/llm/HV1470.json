@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmakler in Berlin - Verkauf von Häusern, Villen, Grundstücken und Wohnungen",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "AR Immobilien is a Berlin real-estate brokerage focused on selling houses, villas, plots and apartments, with no property management offering found on the site.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ar-immobilien.de/",
+  "services": "https://ar-immobilien.de/immobilienangebote.html",
+  "impressum": "https://ar-immobilien.de/impressum.html"
+ }
+}

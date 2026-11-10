@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Я, Ирина Савченко, риэлтор в Берлине. Помогаю клиентам безопасно купить или продать квартиру, дом или коммерческую недвижимость в Германии.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Russian-speaking real estate agent Irina Savchenko in Berlin focused on buying and selling properties, not property management; no managed-unit numbers given.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://irinasavchenko.com/",
+  "about": "https://irinasavchenko.com/about/"
+ }
+}

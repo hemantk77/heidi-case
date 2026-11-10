@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Vor über 25 Jahren hat Christoph Gröner als Einzelunternehmer den Grundstein für die CG Gruppe AG gelegt. Bis zur Niederlegung des Vorstandsvorsitzes, im März 2020, baute er das Unternehmen zu einem der führenden deutschen Projektentwickler",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "Seit der Gründung 1995 in Leipzig firmieren die Bauunternehmen, Bauträger- und Projektentwicklungsgesellschaften Christoph Gröners unter dem Label „CG“.",
+ "managing_directors": [
+  "Christoph Gröner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\nChristoph Gröner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "The site is the historical website of CG Gruppe, a former project developer whose brand and domain are held by its founder; it describes development activity, not property management, and does not show Consus Bauprojekte GmbH.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.cg-gruppe.de/",
+  "impressum": "https://cg-gruppe.de/impressum/"
+ }
+}

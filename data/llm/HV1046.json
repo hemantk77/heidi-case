@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zusätzlich übernehmen wir die professionelle Verwaltung von Mietobjekten und Eigentumsanlagen",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "Walter Bosch Immobilien wurde 1991 in Berlin-Pankow von Walter Bosch gegründet",
+ "managing_directors": [
+  "Sabine Bosch"
+ ],
+ "managing_directors_evidence": "Inhaber/in Frau Sabine Bosch",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Von der Vermietung über die Nebenkostenabrechnung bis hin zu Instandsetzungen, Modernisierungen und Sanierungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Pankow brokerage and property manager (rental and condominium administration) founded 1991, offering Nebenkostenabrechnung as part of its services, with no portal or app mentioned.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immo-walter-bosch.de/",
+  "about": "https://www.immo-walter-bosch.de/ueber-uns",
+  "services": "https://www.immo-walter-bosch.de/immobilienverwaltung/",
+  "impressum": "https://www.immo-walter-bosch.de/impressum"
+ }
+}

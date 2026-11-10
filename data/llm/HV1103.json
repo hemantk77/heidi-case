@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management | Mietvertragsmanagement | Mieterbetreuung | WEG / Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jens Ruck"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Jens Ruck",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ACS Facility GmbH is a Berlin-Pankow company offering property management (rental, WEG and special-property administration) plus technical facility management and cleaning services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.acs-facility.de/",
+  "services": "https://www.acs-facility.de/leistungen.html",
+  "impressum": "https://www.acs-facility.de/impressum.html"
+ }
+}

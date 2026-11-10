@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Vulter Immobilien is a Berlin and Hannover real-estate broker (Immobilienmakler) offering buyer and seller services and rental services; no property management offering is described on the pages reviewed.",
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.vulter-immobilien.de/",
+  "services": "https://www.vulter-immobilien.de/Service/"
+ }
+}

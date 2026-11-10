@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Premium Bauunternehmen in Berlin und Brandenburg für professionelle Sanierungen, Sanitär- und Heizungsinstallationen sowie Wasserschadensanierung.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Baris Imren"
+ ],
+ "managing_directors_evidence": "Vertreten durch\nBaris Imren",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Prime Bauservice PBS GmbH is a Berlin construction and renovation contractor (Bauunternehmen) offering renovations, plumbing/heating, water damage repair and caretaking services; it does not offer property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://prime-bauservice.de/",
+  "about": "https://prime-bauservice.de/ueber-uns/",
+  "services": "https://prime-bauservice.de/bauservice-in-berlin/",
+  "impressum": "https://prime-bauservice.de/impressum/"
+ }
+}

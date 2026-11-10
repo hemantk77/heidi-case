@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Von hier aus verwalten wir WEG-, Miet-, SEV- und Gewerbeobjekte in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Niclas Mahlig"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Niclas Mahlig",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "segment_note": "Young Berlin-Mitte property management firm offering WEG, rental, SEV and commercial management, emphasizing digital processes and a fixed contact person.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gronaue.com/",
+  "services": "https://gronaue.com/angebot",
+  "about": "https://gronaue.com/ueber-uns",
+  "jobs": "https://gronaue.com/karriere",
+  "impressum": "https://gronaue.com/impressum"
+ }
+}

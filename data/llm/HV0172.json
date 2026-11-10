@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Leistungsangebot im Bereich der Miethaus-, Wohneigentums- und Sondereigentumsverwaltung können wir nach Ihren Wünschen individuell auf Sie anpassen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 1400,
+ "units_evidence": "betreuen für zufriedene Eigentümer gut 1.400 Einheiten persönlich, kaufmännisch und technisch",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2007,
+ "founded_evidence": "im Jahre 2007 die Selbständigkeit und die Eintragung der Firma unter dem Namen Robert Werner Hausverwaltungen e. K. im Handelsregister",
+ "managing_directors": [
+  "Robert Werner"
+ ],
+ "managing_directors_evidence": "Angaben gemäß § 5 TMG Robert Werner Robert Werner Hausverwaltungen GmbH",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "die Erstellung der jährlichen Betriebs- und Heizkostenabrechnung durchgeführt",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Unsere neue App",
+ "segment_note": "Berlin property manager for rental houses, WEG and SEV, about 1,400 units, with a new tenant/owner app and in-house heating and operating cost billing.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://rwhv-berlin.de/",
+  "services": "https://rwhv-berlin.de/leistungsangebot/",
+  "portal": "https://rwhv-berlin.de/kundenportal/",
+  "impressum": "https://rwhv-berlin.de/impressum/"
+ }
+}

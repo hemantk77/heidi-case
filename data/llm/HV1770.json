@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Integriertes Facility Management; Energieeffizientes Facility Management; Technisches Facility Management; Infrastrukturelles Facility Management; Kaufmännisches Facility Management",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 8000,
+ "employees_evidence": "Die mehr als 8.000 Menschen im Team Sasse überzeugen 24/7 mit ihrer Leistung",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Sasse App",
+ "portal_evidence": "Sasse App für digitales FM",
+ "segment_note": "Dr. Sasse is a family-run integrated facility management services provider with over 8,000 staff, offering technical, infrastructure and commercial FM plus a digital FM app; it does not show property management for third parties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.sasse.de/",
+  "services": "https://www.sasse.de/dienstleistungen/",
+  "portal": "https://www.sasse.de/sasse-app-fuer-digitales-fm/",
+  "jobs": "https://www.sasse.de/karriere/karriereperspektiven/",
+  "about": "https://www.sasse.de/ueber-uns-dr-sasse-gruppe/",
+  "impressum": "https://www.sasse.de/impressum/"
+ }
+}

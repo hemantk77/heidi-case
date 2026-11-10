@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Wolfgang Eisen",
+  "Alexander Eisen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Wolfgang Eisen / Alexander Eisen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "The homepage shows only contact details and imprint data for WSG 1924 mbH, a Berlin housing and settlement company; its business activities are not described on this page.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://wsg1924.de/"
+ }
+}

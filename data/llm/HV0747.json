@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Hausverwaltung Ata betreut Wohnungseigentümergemeinschaften, Mietobjekte und Sondereigentum in ganz Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hasan-Kaan Ata"
+ ],
+ "managing_directors_evidence": "Hasan-Kaan Ata",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Verwaltungsportal",
+ "portal_evidence": "Verwaltungsportal",
+ "segment_note": "Owner-operated Berlin property manager offering WEG, rental and special-property management, using Immoware24 software and a Verwaltungsportal.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-ata.de/",
+  "services": "https://www.hausverwaltung-ata.de/unsere-leistungen/",
+  "about": "https://www.hausverwaltung-ata.de/uber-uns/",
+  "impressum": "https://www.hausverwaltung-ata.de/impressum/"
+ }
+}

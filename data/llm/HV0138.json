@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Ihre Mietverwaltung sorgen wir dafür, dass Ihre Immobilie weiterhin gedeiht",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ronny Golle"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Ronny Golle",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wir erstellen Ihre Betriebskosten- und Jahresabrechnungen.",
+ "portal_or_app": "Kundenlogin",
+ "portal_evidence": "Kundenlogin",
+ "segment_note": "AXIUM is a Berlin property management firm offering rental management and WEG/special-property management, plus a construction and maintenance arm.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.axium.de/",
+  "services": "https://www.axium.de/mietverwaltung/",
+  "impressum": "https://www.axium.de/impressum/"
+ }
+}

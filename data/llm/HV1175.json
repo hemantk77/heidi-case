@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Wohnungsgenossenschaft lebt vom Miteinander: Alle Mitglieder sind wichtig.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (Wohnungsgenossenschaft eG) in Marzahn-Hellersdorf that rents out its own apartments to members; the site lists Mieten, Service and Hausmeister offerings but no unit counts.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.marzahner-tor.de/"
+ }
+}

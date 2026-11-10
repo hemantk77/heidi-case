@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1992,
+ "managing_directors": [
+  "Thomas du Chesne"
+ ],
+ "managing_directors_evidence": "Thomas du Chesne Geschäftsführer Kontakt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin/Brandenburg real-estate firm founded 1992 focused on selling, renting and developing properties; no property management service is described on the website.",
+ "founded_evidence": "Seit der Gründung 1992 durch Thomas Du Chesne bietet die Du Chesne Immobilien GmbH",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence_note": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://duchesne-immobilien.de/",
+  "about": "https://duchesne-immobilien.de/ueber-uns/",
+  "impressum": "http://www.duchesne-immobilien.de/impressum"
+ }
+}

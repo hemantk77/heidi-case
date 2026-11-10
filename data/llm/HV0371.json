@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "erstellen Wirtschaftspläne, Betriebs- und Heizkostenabrechnungen,",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit über 20 Jahren vermieten, verwalten und betreuen wir Miethäuser, Wohnungen und Mietobjekte im Raum Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Wolf-Dieter Schellig"
+ ],
+ "managing_directors_evidence": "Inhaber: Wolf-Dieter Schellig",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (owner Wolf-Dieter Schellig) handling rental houses, WEG-type owner communities and Hausmeister service, including heating cost billing.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-schellig.de/",
+  "services": "http://www.hv-schellig.de/ueber-unsere-verwaltung/",
+  "about": "http://www.hv-schellig.de/ueber-unsere-verwaltung/",
+  "impressum": "http://www.hv-schellig.de/ihr-kontakt-zu-uns/"
+ }
+}

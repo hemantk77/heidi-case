@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Auf Basis einer kundenorientierten Immobilienverwaltung betreuen wir Sie kompetent bei der kaufmännischen und technischen Betreuung Ihrer Immobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Seit 2005 unterstützt die DGIM institutionelle Anleger",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskosten- und Erwerberabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DGIM is a nationwide property manager (headquartered in Heidelberg, with a Berlin branch) serving institutional investors, funds and private owners for commercial, residential and care/hotel properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.dgim.net/",
+  "about": "https://www.dgim.net/unternehmensprofil/",
+  "services": "https://www.dgim.net/de/stammdatenverwaltung/",
+  "jobs": "https://www.dgim.net/karriere/",
+  "impressum": "https://www.dgim.net/impressum/"
+ }
+}

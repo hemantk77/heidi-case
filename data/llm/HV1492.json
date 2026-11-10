@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit über 25 Jahren im Berliner Immobilienmarkt tätig.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir begleiten Eigentümer in Zehlendorf, Steglitz, Lankwitz , Lichterfelde und weiteren ausgewählten Wohnlagen von Berlin beim Verkauf ihrer Immobilie",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Frederik Sallinger",
+  "Alexander Milke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Frederik Sallinger und Alexander Milke",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin southwest residential real-estate brokerage (sale-focused) for owners in Zehlendorf, Steglitz, Lankwitz and Lichterfelde; no property management offered per the site.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.impetus-grundbesitz.com/",
+  "impressum": "https://www.impetus-grundbesitz.com/impressum",
+  "jobs": "https://www.impetus-grundbesitz.com/makler-werden"
+ }
+}

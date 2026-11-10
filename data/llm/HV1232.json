@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für über 150.000 Menschen in mehr als 83.000 Wohnungen schaffen wir ein Zuhause",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 83000,
+ "units_evidence": "Für über 150.000 Menschen in mehr als 83.000 Wohnungen schaffen wir ein Zuhause",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Serviceportal „Meine degewo“",
+ "portal_evidence": "Serviceportal „Meine degewo“",
+ "segment_note": "Municipal housing company (kommunales Wohnungsunternehmen) in Berlin with over 83,000 apartments, offering a \"Meine degewo\" service portal for tenants.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.degewo.de/",
+  "jobs": "https://www.degewo.de/wir-sind-degewo/karriere",
+  "portal": "https://www.degewo.de/mieterservice/kontakt/serviceportal",
+  "services": "https://www.degewo.de/mieterservice",
+  "about": "https://www.degewo.de/wir-sind-degewo/unternehmen",
+  "impressum": "https://www.degewo.de/impressum"
+ }
+}

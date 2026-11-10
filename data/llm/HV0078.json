@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": "Unser fünfköpfiges Team besteht ausschließlich aus ausgebildeten Kaufleuten der Immobilienwirtschaft.",
+ "founded_evidence": "Die Hancock AG ist aus dem Immobilienboom der 90er-Jahre entstanden und betreut seit seiner Gründung vor über 20 Jahren",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben der klassischen Verwaltung von Wohnungseigentümergemeinschaften und Mehrfamilienhäusern, betreuen wir auch Liegenschaften",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Hannjo Schmidt"
+ ],
+ "managing_directors_evidence": "Vorstand: Hannjo Schmidt",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hancock Grundbesitz & Verwaltung AG) with a five-person team, managing WEGs, apartment buildings and other properties, plus sales and project development services.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "employees_rejected": 5,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hancock-ag.de/",
+  "services": "https://www.hancock-ag.de/verwaltung",
+  "about": "https://www.hancock-ag.de/about",
+  "impressum": "https://www.hancock-ag.de/impressum"
+ }
+}

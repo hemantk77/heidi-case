@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Das Unternehmen wurde 1994 von Andreas Schlesinger gegründet",
+ "founded_year": 1994,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten unseren Auftraggebern eine professionelle und serviceorientierte Immobilienverwaltung für Wohn- und Geschäftshäuser",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Andreas Schlesinger"
+ ],
+ "managing_directors_evidence": "Vertreten durch Geschäftsführer Andreas Schlesinger",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "format Hausverwaltungen GmbH is a Berlin property manager founded in 1994, offering commercial and residential property management for Wohn- und Geschäftshäuser.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.format-hv.de/",
+  "services": "https://www.format-hv.de/de/leistungen.html",
+  "impressum": "https://www.format-hv.de/de/imprint.html",
+  "about": "https://www.format-hv.de/de/about.html"
+ }
+}

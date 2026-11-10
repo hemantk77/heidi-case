@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "APEX steht für Schädlingsbekämpfung seit über 85 Jahren. Als QMS zertifizierter Fachbetrieb nach DIN ISO 9001 bekämpfen wir bundesweit Ungeziefer und Schädlinge jeder Art.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1936,
+ "founded_evidence": "1936 gegründet entwickelte sich der Betrieb mit seinen innovativen Leistungen bis heute zu einer der bundesweit größten Schädlingsbekämpfungsfirmen.",
+ "managing_directors": [
+  "Robert Herrig",
+  "Frank Böttner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer (verantwortlich nach § 5 TMG): Robert Herrig und Frank Böttner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "APEX is a nationwide pest control company (founded 1936, Cologne impressum) serving private, commercial and municipal clients; it does not offer property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://apex-schaedlingsbekaempfung.de/",
+  "about": "https://apex-schaedlingsbekaempfung.de/unternehmen",
+  "jobs": "https://apex-schaedlingsbekaempfung.de/unternehmen/karriere",
+  "services": "https://apex-schaedlingsbekaempfung.de/dienstleistungen",
+  "impressum": "https://apex-schaedlingsbekaempfung.de/impressum"
+ }
+}

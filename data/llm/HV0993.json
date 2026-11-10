@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen in Berlin Wohnungs-Eigentümergemeinschaften.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Julius Gunnemann"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Julius Gunnemann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebskostenabrechnungen / Heizkostenabrechnungen",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Willkommen bei Aspekt",
+ "segment_note": "Berlin property manager for WEG, rental and commercial properties, also offering heating/operating cost billing and a client login portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://aspekt-immobilien.de/",
+  "services": "https://www.aspekt-immobilien.de/leistungsuebersicht",
+  "portal": "https://app.aspekt-immobilien.de/login",
+  "impressum": "https://www.aspekt-immobilien.de/impressum"
+ }
+}

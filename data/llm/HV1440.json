@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Büro kuratiert und verwaltet seit über 15 Jahren hochwertige und exklusive Immobilien im Herzen Berlins.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Claudia A. Walther"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführerin Claudia A. Walther",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin real-estate firm (Charlottenburg-Wilmersdorf) that curates and manages exclusive properties for tenants, landlords and owners, and also buys properties.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.walther-re.de/",
+  "impressum": "https://walther-re.de/impressum"
+ }
+}

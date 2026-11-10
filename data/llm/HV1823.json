@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Leistungsspektrum umfasst die Hausverwaltung, Immobilienvermittlung und die gesamte Betreuung im Bereich des Asset Managements.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Seit unserer Gründung im Jahr 2009 haben wir uns als ein zuverlässiger Partner in der Immobilienbranche etabliert.",
+ "managing_directors": [
+  "Mark Dimant"
+ ],
+ "managing_directors_evidence": "Mark Dimant Inhaber",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "M&M Real Estate, founded 2009 in Berlin, offers Hausverwaltung, brokerage and asset management, focusing on off-market deals for residential and commercial properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mmrealestate.de/",
+  "impressum": "https://www.mmrealestate.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die von Kathen Hausverwaltung + Immobilien GmbH verwaltet Ihr Mehrfamilienhaus, Ihr Gewerbeobjekt, Ihre Wohnungseigentumsanlage, Ihre Eigentumswohnung oder Ihr sonstiges Immobilieneigentum.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Robin von Kathen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Robin von Kathen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Portal",
+ "portal_evidence": "Transparenz für Vermieter und Mieter in unserem Portal",
+ "segment_note": "Berlin and Potsdam property manager (WEG, rental, special-ownership and commercial), also brokers, with a tenant/landlord portal and no stated unit count.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vonkathen-hausverwaltung.de/",
+  "jobs": "https://www.vonkathen-hausverwaltung.de/karriere/",
+  "services": "https://www.vonkathen-hausverwaltung.de/hausverwaltung/",
+  "impressum": "https://www.vonkathen-hausverwaltung.de/about/"
+ }
+}

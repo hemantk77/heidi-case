@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAUSVERWALTUNG Dank unserer Qualifikationen ist es uns möglich, die kaufmännische als auch die technische Verwaltung Ihrer Immobilie zu übernehmen",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "ELLISA Immobilienmanagement GmbH, welche 1997 gegründet wurde, ist ein inhabergeführtes Unternehmen.",
+ "managing_directors": [
+  "Linda Caesar"
+ ],
+ "managing_directors_evidence": "Vertreten durch / Geschäftsführerin: Linda Caesar",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ELLISA is an owner-managed Berlin firm (founded 1997) offering commercial and technical property management plus facility, caretaking, and sales/rental services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ellisa-im.de/",
+  "services": "https://www.ellisa-im.de/LEISTUNGEN/",
+  "about": "https://www.ellisa-im.de/ueber-uns/",
+  "impressum": "https://www.ellisa-im.de/impressum/"
+ }
+}

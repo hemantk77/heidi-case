@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das Sachverständigenbüro H&Z Immobilien ist ein inhabergeführtes Immobilienunternehmen aus Berlin Köpenick, das sich insbesondere auf die Bewertung von bebauten und unbebauten Grundstücken und Wohnungen spezialisiert hat.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "Das Sachverständigenbüro existiert seit 2015.",
+ "managing_directors": [
+  "Benjamin Zühlke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer und Inhaber: Benjamin Zühlke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "H&Z Immobilien is an owner-managed Berlin expert appraisal office (Sachverständigenbüro) for property valuations and advisory, not a property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.h-z-immobilien.de/",
+  "impressum": "https://www.h-z-immobilien.de/impressum/",
+  "services": "https://www.h-z-immobilien.de/j/legal-guarantee"
+ }
+}

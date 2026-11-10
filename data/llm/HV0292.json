@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "Die sich seit 1991 ausschließlich mit der Verwaltung von Immobilien-Eigentümergesellschaften, Vermietungsgesellschaften und der Hausverwaltung (Fremdverwaltung) beschäftigt.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der Schwerpunkt unserer Tätigkeit liegt in der Betreuung von Mietwohnungs- und Eigentumswohnungsverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Andreas Wegner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nAndreas Wegner",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "portal_or_app": "Kundenportal",
+ "segment_note": "Berlin property manager since 1991 handling rental and condominium (WEG) administration for third-party owners, with a customer portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": "Wir verwalten einen Immobilienbestand von reinen Wohnhäusern, Wohn- und Geschäftshäusern mit Gewerbeverkaufsläden, reine Gewerbeobjekte (Bürohäuser) sowie Eigentumswohnanlagen mit insgesamt ca. 1.800 Einheiten",
+ "units_managed": 1800,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hammermeister-partner.de/",
+  "portal": "https://kundenlogin.hammermeister-partner.de/login",
+  "impressum": "https://www.hammermeister-partner.de/impressum"
+ }
+}

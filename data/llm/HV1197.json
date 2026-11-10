@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Carla Kaiser",
+  "Carola Trommsdorff",
+  "Frank Schrecker"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Carla Kaiser | Vorstandsmitglied Carola Trommsdorff | Vorstandsmitglied Frank Schrecker | Vorstandsvorsitzender",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mein Zuhause digital",
+ "portal_evidence": "Mein Zuhause digital Störmeldungen, Ansprechpartner, Anträge, Formulare usw.",
+ "segment_note": "Berlin housing cooperative (Wohnungsbaugenossenschaft) with a member portal; the site does not state it offers property management for third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berolina.info/",
+  "services": "https://berolina.info/stellenausschreibungen/",
+  "jobs": "https://berolina.info/stellenausschreibungen/",
+  "impressum": "https://berolina.info/impressum/"
+ }
+}

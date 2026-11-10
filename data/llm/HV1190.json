@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Berlin Brandenburgische Wohnungsbaugenossenschaft eG ... Unsere Genossenschaft gründete sich 1982. Sie besitzt heute 3.435 Wohnungen und 18 Gewerbeeinheiten im Stadtbezirk Berlin Marzahn – Hellerdorf.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 3435,
+ "units_evidence": "Sie besitzt heute 3.435 Wohnungen und 18 Gewerbeeinheiten im Stadtbezirk Berlin Marzahn – Hellerdorf.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1982,
+ "founded_evidence": "Unsere Genossenschaft gründete sich 1982.",
+ "managing_directors": [
+  "Jörg-Peter Schulz",
+  "Jeannette Schröder"
+ ],
+ "managing_directors_evidence": "Herr Jörg-Peter Schulz – Vorstand ... Frau Jeannette Schröder  – Vorstand",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (eG) owning about 3,435 apartments in Marzahn-Hellersdorf and Oranienburg, managing them in-house with its own Hauswartservice.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bbwbg.de/",
+  "about": "https://www.bbwbg.de/wir-ueber-uns/",
+  "services": "https://www.bbwbg.de/stellenangebote/",
+  "jobs": "https://www.bbwbg.de/stellenangebote/",
+  "impressum": "https://www.bbwbg.de/impressum"
+ }
+}

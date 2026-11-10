@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sollten Sie ein Angebot für die Verwaltung Ihrer Immobilie haben wollen, schreiben Sie mir bitte eine E-Mail. Ich mache keine Verwaltung für WEG`s.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Die Hausverwaltung ist 1993 von mir gegründet worden.",
+ "managing_directors": [
+  "Harald Kopp"
+ ],
+ "managing_directors_evidence": "Dien Hausverwaltung Harald Kopp ist alleiniger Inhaber der auf dieser Webseite erhobenen Informationen.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin-Neukölln landlord-side property manager founded 1993, rental management only, explicitly does not manage WEGs; owner Harald Kopp runs it personally.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-kopp.de/",
+  "impressum": "http://www.hv-kopp.de/impressum.html"
+ }
+}

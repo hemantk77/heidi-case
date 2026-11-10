@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wohnungseigentumsverwaltung\nFachkundige Betreuung ihrer Eigentümergemeinschaft durch einen persönlichen Ansprechpartner.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heike Lemiss"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Heike Lemiss",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Online Kundenportal\nRund um die Uhr mit uns in Kontakt: schnell, unkompliziert, ohne Wartezeit, ohne Anruf, Mail oder Brief – auch als App.",
+ "segment_note": "Berlin property manager offering WEG, rental and commercial management, with an online customer portal that also works as an app.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://koenigstadt.de/",
+  "services": "http://koenigstadt.de/",
+  "impressum": "https://koenigstadt.de/impressum/"
+ }
+}

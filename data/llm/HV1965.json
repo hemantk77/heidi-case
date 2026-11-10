@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir verfügen über eine Erlaubnis als Versicherungsmakler nach § 34d Abs. 1 GewO, als Immobiliardarlehensvermittler nach § 34i Abs. 1 Satz 1 GewO und als Darlehensvermittler nach § 34c Abs. 1 Satz 1 Nr. 2 GewO.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1998,
+ "founded_evidence": "Gründer und Finanzierungsexperten seit 1998.",
+ "managing_directors": [
+  "Sabine Gabriela Schulz",
+  "Thomas Schulz"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: Sabine Gabriela Schulz, Thomas Schulz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Endlich zu Hause is a financing and insurance brokerage (mortgage and insurance intermediary) in Hamburg/Reinbek with no property management services shown on the site.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.endlichzuhause.com/",
+  "about": "https://endlichzuhause.com/team/",
+  "jobs": "https://endlichzuhause.com/karriere/",
+  "impressum": "https://endlichzuhause.com/impressum/"
+ }
+}

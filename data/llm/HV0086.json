@@ -1,0 +1,39 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Heute betreuen sechs Mitarbeiter*innen 1.900 Einheiten vor allem in Berlin und Umgebung.",
+ "founded_year": 2014,
+ "founded_evidence": "Er gründete das inhabergeführte mittelständige Unternehmen 2014.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausgut ist eine Berliner Haus- und Immobilienverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Andreas Karger"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Karger",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager (Haus- und Immobilienverwaltung) with about 1,900 units, six staff, offering service-charge billing and property management services for residential and commercial properties.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": 1900,
+ "units_evidence": "Heute betreuen sechs Mitarbeiter*innen 1.900 Einheiten vor allem in Berlin und Umgebung.",
+ "employees_rejected": 6,
+ "_evidence_checked": 6,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausgut-vg.de/",
+  "about": "https://www.hausgut-vg.de/ueber-uns/",
+  "services": "https://www.hausgut-vg.de/leistungen/",
+  "jobs": "https://www.hausgut-vg.de/karriere/",
+  "impressum": "https://www.hausgut-vg.de/impressum/"
+ }
+}

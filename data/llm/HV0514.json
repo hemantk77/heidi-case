@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen den kompletten Service einer Mietverwaltung an. Dies umfasst beispielsweise die Vermietung, Erhaltung und Entwicklung Ihrer Immobilie. Auf Anfrage bieten wir auch die Leistung für WEG-Verwaltung an.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Henrik Waber"
+ ],
+ "managing_directors_evidence": "Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Henrik Waber [E-Mail hwaber@hiob-gmbh.de]",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "H.I.O.B. GmbH is a Berlin property manager offering rental management and, on request, WEG management, with brokerage planned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hiob-gmbh.de/",
+  "services": "http://www.hiob-gmbh.de/leistungen.html",
+  "impressum": "http://www.hiob-gmbh.de/impressum.html"
+ }
+}

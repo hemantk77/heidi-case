@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Heinz Müller"
+ ],
+ "managing_directors_evidence": "Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Vorstand Heinz Müller",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Mieterportal",
+ "portal_evidence": "Das Mieterportal der QVI Immobilien AG Berlin mit Notfallnummer",
+ "segment_note": "Berlin-based Quo Vadis Immobilien AG with a tenant portal and an interested-party portal; the crawled text does not describe its business activities.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://qvi.de/",
+  "portal": "https://www.qvi.de/mieterportal/",
+  "impressum": "https://qvi.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von über 3000 Mietern an über 60 Standorten in ganz Deutschland",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 3000,
+ "buildings_evidence": "Track-Record: über 3.000 Immobilien in Verwaltung mit einem Gesamtwert von über 200 Millionen Euro.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "seit 1996",
+ "managing_directors": [
+  "Marco Knoblauch"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marco Knoblauch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "InvestiX is a Berlin-based real estate investment firm for private investors that manages over 3,000 properties in Germany and also handles acquisition, financing and asset management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.investix.de/",
+  "about": "https://investix.de/ueber-uns/",
+  "services": "https://investix.de/services",
+  "impressum": "https://investix.de/impressum"
+ }
+}

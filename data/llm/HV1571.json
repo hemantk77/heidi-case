@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Mirko Kjulbassanoff"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dr. Mirko Kjulbassanoff",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin advisory firm (Wobis) focused on financing, project execution and construction support for private builders and investors, with a real-estate broker on the team; no property management offering found.",
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wobis.de/",
+  "about": "https://www.wobis.de/team.php",
+  "services": "https://www.wobis.de/immobilien-grundstueckservice.php",
+  "portal": "https://www.wobis.de/kunden/index.php",
+  "impressum": "https://www.wobis.de/impressum.php"
+ }
+}

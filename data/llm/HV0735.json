@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als zertifizierter Verwalter gemäß § 26a Abs. 1 S. 1 WEG bieten wir Ihnen rechtssichere Expertise in der WEG-, Miet- und Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Zeliha Güven"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführerin: Zeliha Güven",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen: Erstellung transparenter und prüffähiger Heiz- und Betriebskostenabrechnungen für Mieter.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-managed Berlin-Charlottenburg property manager (WEG, rental and special-property management) offering heating/operating cost billing and technical property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hausverwaltung-gueven.de/",
+  "services": "https://hausverwaltung-gueven.de/services/",
+  "impressum": "http://hausverwaltung-gueven.de/impressum/"
+ }
+}

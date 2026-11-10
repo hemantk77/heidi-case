@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Gewerbe - Berlin Vision Properties begleitet Unternehmen bei der gezielten Suche und Nutzung von Gewerbeimmobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2014,
+ "founded_evidence": "Seit 2014 prägt er den Immobiliensektor mit seiner umfassenden Erfahrung und Expertise.",
+ "managing_directors": [
+  "Mario Makowski"
+ ],
+ "managing_directors_evidence": "Mario Makowski Berlin Vision Properties Kaiserdamm 85 14057 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin Vision Properties is a commercial real estate firm focused on finding tenant space for businesses, marketing and sales of properties for owners, with no evidence of property management for third parties.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://berlin-vision-properties.de/",
+  "services": "https://berlin-vision-properties.de/gewerbe",
+  "impressum": "https://berlin-vision-properties.de/impressum/"
+ }
+}

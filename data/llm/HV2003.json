@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Betreuung der Immobilien erfolgt durch unsere Hausverwaltung.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2016,
+ "founded_evidence": "Am 4. Januar 2016 wurde die Firma Volut Real Estate GmbH & Co. KG von den Gesellschaftern Volkmar und Ute Zwingenberger gegründet.",
+ "managing_directors": [
+  "Volkmar Zwingenberger"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Ing. (FH) Volkmar Zwingenberger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin developer and landlord building residential properties for the housing sector, with in-house property management of its own portfolio; no unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://volutrealestate.de/",
+  "impressum": "https://volutrealestate.de/impressum/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir bieten Wartung, Modernisierung und Reparaturen für alle Aufzugsanlagen und Schwerlast-Neuanlagen im XXXL-Format.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 300,
+ "employees_evidence": ">300 Mitarbeitende",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sabrina Wepner",
+  "Marcin Filzek"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Sabrina Wepner, Marcin Filzek",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DAT is an elevator maintenance, repair, modernization and new-installation company with 15 locations, not a property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.deutsche-aufzugstechnik.de/",
+  "about": "https://www.deutsche-aufzugstechnik.de/ueber-uns/",
+  "services": "https://www.deutsche-aufzugstechnik.de/produkte-leistungen/",
+  "jobs": "https://www.deutsche-aufzugstechnik.de/karriere/",
+  "impressum": "https://www.deutsche-aufzugstechnik.de/impressum-datenschutz/"
+ }
+}

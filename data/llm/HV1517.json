@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Für dieses Immobilienangebot haben wir die beratende Tätigkeit übernommen, durch neuartige Werbemethoden unter technischer Hilfe geeignete Interessenten zu finden.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1994,
+ "founded_evidence": "Immobilienberater Boris Wienke – Immobilienfachwirt seit 1994",
+ "managing_directors": [
+  "Boris Wienke"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Boris Wienke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Chemnitz-based real-estate adviser focused on property sales and marketing strategies; the site describes no property management for third parties, and the company's Berlin address is not on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.so-geht-immobilien-heute.de/",
+  "services": "https://so-geht-immobilien-heute.de/immobilienangebote/",
+  "impressum": "https://so-geht-immobilien-heute.de/impressum/"
+ }
+}

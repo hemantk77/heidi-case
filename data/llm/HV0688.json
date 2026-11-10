@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die IMMIWO Hausverwaltung betreut Wohnungseigentümergemeinschaften, Mehrfamilienhäuser, Sondereigentum und Gewerbeeinheiten jeder Größe in Berlin und Umland.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Mark-Michael Milan Kenzler"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Mark-Michael Milan Kenzler",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "Über digitale Prozesse und ein Eigentümerportal sollen wichtige Informationen dort verfügbar sein",
+ "segment_note": "Berlin property manager (IMMIWO Hausverwaltung UG) offering WEG, Miet, and Sondereigentum management with an owner portal; no unit or building counts stated.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immiwo-hausverwaltung.de/",
+  "services": "https://www.immiwo-hausverwaltung.de/weg-verwaltung",
+  "about": "https://www.immiwo-hausverwaltung.de/ueber-uns",
+  "impressum": "https://www.immiwo-hausverwaltung.de/impressum"
+ }
+}

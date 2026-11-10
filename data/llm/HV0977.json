@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "hausify ermöglicht kleinen und mittleren Hausverwaltungen kostengünstiger zu arbeiten",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Martin Schmal"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: Martin Schmal",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Das einfachste Kundenportal der Immobilienwelt.",
+ "segment_note": "hausify GmbH is a Berlin PropTech company selling a ticketing system and tenant/owner customer portal (SaaS) to small and mid-sized property management firms, not itself a managing agent by its own description.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausify.de/",
+  "services": "https://www.hausify.de/fuer-hausverwaltung",
+  "portal": "https://www.hausify.de/mieterportal-personalisieren",
+  "about": "https://www.hausify.de/hausverwaltung-software-ueber-uns",
+  "impressum": "https://www.hausify.de/impressum",
+  "jobs": "https://www.hausify.de/karriere"
+ }
+}

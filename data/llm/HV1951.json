@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Nachhaltige sowie ganzheitliche Verwaltung von Immobilien sowie deren Eigentümergemeinschaften.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Wojciech Zmuda"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Herr  Wojciech Zmuda",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "segment_note": "Owner-operated Berlin firm offering property management for properties and owner communities alongside sales brokerage and project development.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.amf22projekt.de/",
+  "impressum": "https://www.amf22projekt.de/impressum"
+ }
+}

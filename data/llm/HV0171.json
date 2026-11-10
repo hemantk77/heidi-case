@@ -1,0 +1,40 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": "Unser Team besteht neben der Geschäftsführerin Frau Bettina Matthei aus sieben weiteren Mitarbeitenden.",
+ "founded_year": 1993,
+ "founded_evidence": "Ihr zuverlässiger und kompetenter Partner für die Verwaltung von Immobilien in Berlin und Brandenburg – seit 1993.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere umfassenden Leistungen decken alle Aspekte der Hausverwaltung Berlin ab – von der Mietverwaltung über die WEG-Verwaltung bis hin zur technischen Betreuung Ihrer Objekte.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "managing_directors": [
+  "Bettina Matthei"
+ ],
+ "managing_directors_evidence": "Vertreten durch:  Bettina Matthei",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DELO Hausverwaltung is a Berlin property manager (WEG, rental and special-property management, also brokerage) with about 8 staff, operating since 1993 and serving Berlin, Bernau and Potsdam.",
+ "employees_rejected": 8,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.delo-berlin.de/",
+  "about": "https://www.delo-berlin.de/home/weg-verwaltung/",
+  "services": "https://www.delo-berlin.de/veraenderungen-der-mitarbeiter-der-delo-hausverwaltung-gmbh/",
+  "jobs": "https://www.delo-berlin.de/home/weg-verwaltung/",
+  "impressum": "https://www.delo-berlin.de/impressum"
+ }
+}

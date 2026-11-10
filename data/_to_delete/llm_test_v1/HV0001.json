@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Firma Heide Haus- und Grundbesitzverwaltung befasst sich mit der Vermittlung von Immobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sawaeng Heide"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Sawaeng Heide",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Makler) focused on selling and buying properties for private clients up to about 2 million euros, with no property management services shown on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "about": "https://heide-grundbesitz.de/ueber-uns/",
+  "services": "https://heide-grundbesitz.de/leistungsspektrum/",
+  "impressum": "https://heide-grundbesitz.de/impressum/"
+ }
+}

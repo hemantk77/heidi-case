@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als ImmobilienmaklerIn in Berlin-Köpenick unterstützen ich und mein Team Sie gerne beim Verkauf Ihrer Häuser, Grundstücke und Wohnungen ebenso bei der Vermietung Ihrer Immobilien",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Anke Heidt"
+ ],
+ "managing_directors_evidence": "Inhaberin Anke Heidt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Köpenick real estate broker (Immobilienmakler, §34c licensed) selling and renting houses, plots and apartments; no property management offered on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.lebenswert-heidt.immobilien/",
+  "about": "https://www.lebenswert-heidt.immobilien/team",
+  "services": "https://www.lebenswert-heidt.immobilien/service",
+  "impressum": "https://www.lebenswert-heidt.immobilien/impressum"
+ }
+}

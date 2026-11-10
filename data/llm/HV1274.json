@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Trad Immobilien GmbH ist ein Immobilienunternehmen, spezialisiert auf die Vermittlung von Miet- und Kaufobjekten in Berlin.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2017,
+ "founded_evidence": "Gründung von TRAD Immobilien im Jahr 2017.",
+ "managing_directors": [
+  "Jamel Trad"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Jamel Trad",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Immobilienmakler) for rental and sale properties, owner-side and buyer-side; no property management offered per the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.trad-immobilien.de/",
+  "about": "https://www.trad-immobilien.de/uber-uns/",
+  "impressum": "https://www.trad-immobilien.de/impressum/"
+ }
+}

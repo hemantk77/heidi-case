@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1985,
+ "founded_evidence": "Seit 1985 wird Erfahrung mit umfassendem Know-how kombiniert",
+ "managing_directors": [
+  "Lilia Rotarciuc",
+  "Marisa Haller-Olbrich"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Lilia Rotarciuc und Marisa Haller-Olbrich",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate group (Immohold/Berimo) that develops, sells, rents and offers Hausverwaltung and facility management for its own and possibly third-party properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immohold-ag.de/",
+  "about": "https://immohold-ag.de/unternehmen/",
+  "services": "https://immohold-ag.de/services/",
+  "impressum": "https://immohold-ag.de/impressum/"
+ }
+}

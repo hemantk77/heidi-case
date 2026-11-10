@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Michael Chibac"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Herr Michael Chibac",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Milia Immobilien is a Berlin real-estate company offering residential and commercial properties for rent and sale, plus furnished living; the site does not describe any property management service.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.milia-berlin.de/",
+  "impressum": "https://www.milia-berlin.de/about/",
+  "about": "https://www.milia-berlin.de/about/",
+  "services": "https://www.milia-berlin.de/j/legal-guarantee",
+  "portal": "https://www.milia-berlin.de/login"
+ }
+}

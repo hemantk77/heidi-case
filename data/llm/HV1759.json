@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Hinweis: Diese Seite ist rein privat, nicht kommerziell und wird eigenverantwortlich von Eigentümern der Wohnanlage betrieben. Wir handeln weder im Auftrag von, noch in Abstimmung mit PROJECT Immobilien.",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hans Christian Siller"
+ ],
+ "managing_directors_evidence": "Betreiber lt. §5 TMG Hans Christian Siller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "This is a private, non-commercial owners' neighbourhood site for the Herz Berlin condo community, run by an owner; it is not a property manager and offers no services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.herz-berlin-nachbarn.de/",
+  "portal": "https://www.herz-berlin-nachbarn.de/wp-login.php",
+  "impressum": "https://www.herz-berlin-nachbarn.de/impressum-datenschutz/"
+ }
+}

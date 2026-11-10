@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HAUSVERWALTUNG zur RENTA Hausverwaltung Ihr kompetenter Partner für das Facility Management von Wohneigentum",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dipl.-Ing. Holger Presser",
+  "Dipl.-Ing. Gerald Stechbarth"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Dipl.-Ing. Holger Presser, Dipl.-Ing. Gerald Stechbarth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "RENTA is a Bad Freienwalde-based group offering property development, Hausverwaltung for residential property (WEG/Facility), and RENTAmed healthcare property services; the Berlin address from Google is not on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://renta.de/",
+  "impressum": "https://renta.de/cms-2017/impressum/"
+ }
+}

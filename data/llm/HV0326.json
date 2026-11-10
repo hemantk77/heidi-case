@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Eigentümergemeinschaften und Mietobjekte in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Luca Richter"
+ ],
+ "managing_directors_evidence": "Inhaber: Luca Richter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (owner-led, IHK-certified) handling WEG, rental and special-property management, with no stated unit count or portal.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://luvaris-hausverwaltung.de/",
+  "services": "https://luvaris-hausverwaltung.de/leistungen/",
+  "about": "https://luvaris-hausverwaltung.de/uber-uns/",
+  "impressum": "https://luvaris-hausverwaltung.de/impressum/"
+ }
+}

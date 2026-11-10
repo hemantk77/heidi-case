@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen ein umfangreiches Dienstleistungsangebot für WEG- sowie Mietverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "im Jahr 2015 in Berlin gegründet",
+ "managing_directors": [
+  "Hasan Kurt"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Hasan Kurt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based owner-led real estate firm (founded 2015) offering sales, rental and WEG/rental property management, with no stated portfolio size.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://zer-immobilien.com/",
+  "about": "https://zer-immobilien.com/about-us-2/",
+  "services": "https://zer-immobilien.com/our-services/",
+  "impressum": "https://zer-immobilien.com/impressum/"
+ }
+}

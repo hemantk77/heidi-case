@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Prinz 17 ist auf Dauer angelegt. Wir betreuen das Haus selbst; unsere Mieter haben einen festen Ansprechpartner, vom Ausbau bis zum laufenden Betrieb.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1965,
+ "founded_evidence": "Wir sind ein Berliner Familienunternehmen, seit 1965 an diesem Ort.",
+ "managing_directors": [
+  "Andreas Gillwald"
+ ],
+ "managing_directors_evidence": "Diese vertreten durch: Andreas Gillwald",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family company that owns and self-manages the Prinz 17 commercial building at Moritzplatz, leasing whole floors to individual businesses; it does not offer third-party property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.prinz17.com/",
+  "about": "https://www.prinz17.com/ueber-uns.html",
+  "impressum": "https://www.prinz17.com/impressum.html"
+ }
+}

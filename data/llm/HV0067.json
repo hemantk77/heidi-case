@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ganz gleich, ob Miethaus, Gewerbe, WEG oder SE- Verwaltung, unser Zuhause ist der Berliner Immobilienmarkt. Neben der Immobilienverwaltung gehören auch die Prüfung beim An- und Verkauf einer Immobilie als auch das Projektmanagement zu unserem Service.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Davina Plönzke"
+ ],
+ "managing_directors_evidence": "Davina Plönzke\nGeschäftsführung",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "dp Hausverwaltungs GmbH is a Berlin property manager offering WEG, rental, commercial and special-property management, plus project management for purchases and sales; service also available in English.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://dp-hausverwaltung.de/",
+  "about": "https://dp-hausverwaltung.de/ueber-uns/",
+  "services": "https://dp-hausverwaltung.de/leistungen/",
+  "impressum": "https://dp-hausverwaltung.de/impressum/"
+ }
+}

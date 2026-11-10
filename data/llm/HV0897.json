@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit über 15 Jahren bietet Dominart Real Estate GmbH Immobilienmanagement und Vermietungsdienstleistungen in Deutschland an.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 500,
+ "buildings_evidence": "500+ Objekte in Verwaltung",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Gründungsdatum 2009",
+ "managing_directors": [
+  "Sergey Vakhnenko"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Sergey Vakhnenko",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate firm offering brokerage plus property management (rental, commercial, residential) for investors, managing over 500 properties.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://dominartinvest.com/",
+  "about": "https://dominartinvest.com/de/page/about-us",
+  "services": "https://dominartinvest.com/page/Immobilienverwaltung",
+  "impressum": "https://dominartinvest.com/de/page/Impressum"
+ }
+}

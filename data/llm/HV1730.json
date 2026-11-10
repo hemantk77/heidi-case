@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "wurde durch den Dipl.-Psychologen Thomas Dannenberg im Jahr 2006 gegründet",
+ "founded_year": 2006,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die 100%ige Zufriedenheit unser Mieter*innen liegt uns am Herzen. Sie können uns als Eigentümerfamilie jederzeit erreichen, falls Ihre Anliegen mit der Hausverwaltung nicht kurzfristig geklärt werden können.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Philipp Dannenberg"
+ ],
+ "managing_directors_evidence": "Philipp Dannenberg (Geschäftsführender Gesellschafter)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-owned GbR that owns and rents out about 90 exclusive residential units across five German states, with in-house property management for its tenants.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": "knapp 90 exklusive Wohneinheiten in fünf Bundesländern Deutschlands aufbauen",
+ "units_managed": 90,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.dannenberg-soehne.de/",
+  "services": "https://www.dannenberg-soehne.de/wir-bauen-unser-portfolio-in-flensburg-muerwik-weiter-aus/",
+  "impressum": "https://www.dannenberg-soehne.de/impressum/"
+ }
+}

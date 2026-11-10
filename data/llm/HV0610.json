@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als erfahrene Hausverwaltung sind wir seit 1971 in Berlin tätig.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": 1500,
+ "units_evidence": "1.500+ verwaltete Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1971,
+ "founded_evidence": "seit 1971 in Berlin tätig",
+ "managing_directors": [
+  "Harald Schuch"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Harald Schuch",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Von Mieterkommunikation bis Betriebskostenabrechnung – wir übernehmen alle Aufgaben rund um Ihre Mietobjekte.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 1971 offering rental and WEG administration for about 1,500 units, with a small team of Sachbearbeiter.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wvg-berlin.de/",
+  "about": "https://www.wvg-berlin.de/ueber-uns",
+  "services": "https://www.wvg-berlin.de/verwaltungsobjekte",
+  "impressum": "https://www.wvg-berlin.de/template-info/impressum"
+ }
+}

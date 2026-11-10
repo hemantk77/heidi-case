@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kernkompetenzen liegen in den Bereichen der WEG- und Mietverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "seit 1999 in Berlin ansässig",
+ "managing_directors": [
+  "Anchello Salmayer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Anchello Salmayer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Durchführung von Jahres- und Betriebskostenabrechnungen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 1999 focused on WEG and rental management, offering Betriebskostenabrechnung, with no tenant portal mentioned.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.salmayer-hv.de/",
+  "about": "https://salmayer-hv.de/ueber-uns.html",
+  "services": "https://salmayer-hv.de/leistungen.html",
+  "impressum": "https://salmayer-hv.de/impressum.html"
+ }
+}

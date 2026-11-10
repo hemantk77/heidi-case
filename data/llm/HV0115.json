@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben dem klassischen Property Management, also der laufenden Bewirtschaftung und Betreuung der Immobilien sind wir auch auf dem Gebiet der Zwangsverwaltung tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 94,
+ "buildings_evidence": "Mit unserem Team von insgesamt 14 MitarbeiterInnen betreuen wir aktuell 94 Objekte, die sich in allen Bezirken Berlins befinden.",
+ "employees": 14,
+ "employees_evidence": "Mit unserem Team von insgesamt 14 MitarbeiterInnen betreuen wir aktuell 94 Objekte, die sich in allen Bezirken Berlins befinden.",
+ "founded_year": 1999,
+ "founded_evidence": "Die Dörte Augsten Haus- und Grundstücksverwaltung GmbH wurde 1999 gegründet.",
+ "managing_directors": [
+  "Julia Kerner",
+  "Max Kerner"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Julia Kerner, Max Kerner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager founded 1999 offering WEG, Sondereigentum, rental and commercial management plus Zwangsverwaltung, managing 94 properties with 14 staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.augsten-hv.de/",
+  "about": "https://augsten-hv.de/unternehmen/",
+  "services": "https://augsten-hv.de/leistungen/",
+  "impressum": "https://augsten-hv.de/impressum/"
+ }
+}

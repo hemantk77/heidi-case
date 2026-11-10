@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Vermietung von Bau- und Bautrocknungsgeräten: Ob Wasserschaden oder geplantes Bauvorhaben – bei uns erhalten Sie modernste Geräte zur Bautrocknung und Sanierung, flexibel und kurzfristig verfügbar.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Sondereigentumsverwaltung",
+  "Other",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "Seit 2013 steht MANIA EXPRESS für Zuverlässigkeit, Flexibilität und professionelle Dienstleistungen",
+ "managing_directors": [
+  "Sebastian Kleinicke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: S.Kleinicke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin contractor for construction drying, water-damage remediation, equipment rental, transport and storage, plus a facility/Hausmeister service; it is not a property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://berlin-bau-trocknung.de/",
+  "about": "https://berlin-bau-trocknung.de/ueber-uns/",
+  "impressum": "https://berlin-bau-trocknung.de/impressum/"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir vermieten möblierte Wohnungen in Berlin MItte für befristete Aufenthalte.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2007,
+ "founded_evidence": "Berlin Habitat wurde 2007 von Stefan Hiller mit anfänglich nur einer Wohnung gegründet.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin Habitat is a small Berlin landlord renting furnished serviced apartments for short and medium stays, founded 2007, with no property management for third parties stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://berlinhabitat.com/",
+  "about": "https://berlinhabitat.com/new-page09b1e3bb"
+ }
+}

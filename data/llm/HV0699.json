@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WKZ-Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ronny Stenschke"
+ ],
+ "managing_directors_evidence": "Ronny Stenschke\nBentschener Weg 17\n12683 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WKZ-Hausverwaltung is a Berlin (Marzahn-Hellersdorf) property management firm, also listing project development and financing on its homepage; managing director Ronny Stenschke.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hv-wkz.de/",
+  "services": "https://hv-wkz.de/wohnungsangebote/",
+  "portal": "https://www.hv-wkz.de/nextcloud/index.php/login",
+  "impressum": "https://hv-wkz.de/impressum-datenschutz-widerrufserklaerung/"
+ }
+}

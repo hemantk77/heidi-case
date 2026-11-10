@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir bieten Ihnen Ein Angebot aus individuellen Räumen, Büros, Lagerflächen, Kleinlager, Praxisflächen und Hallen, abgestimmt auf die Bedürfnisse, die Sie und Ihr Unternehmen haben.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "Der MEON-Gewerbepark in Marzahn-Hellersdorf wurde im Jahre 1990 auf dem Gelände der „Wirtschaftsbetriebe des Ministerrates“ der ehemaligen DDR gegründet.",
+ "managing_directors": [
+  "Christoph Wild",
+  "Maximilian Wild"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte: Christoph & Maximilian Wild",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Operates the MEON-Gewerbepark in Berlin-Biesdorf, a commercial park renting offices, storage, workshops and halls to about 200 companies, with in-house craftsmen for tenants; no residential property management shown.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.meon-gewerbepark.de/",
+  "services": "https://2021.meon-gewerbepark.de/",
+  "impressum": "https://meon-gewerbepark.de/impressum"
+ }
+}

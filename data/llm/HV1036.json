@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der komplette Service rund um die Vermietung erfordert Spezialistenwissen auf ganz unterschiedlichen Gebieten. Gleich, ob es um die Vermietung von Wohnanlagen, Läden oder von Gewerbeflächen oder Ihrer Eigentumswohnung geht.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christian Ansorge",
+  "Roger Ansorge",
+  "Alexander Ansorge",
+  "Mark Ansorge"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Christian Ansorge, Roger Ansorge, Alexander Ansorge, Mark Ansorge",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage-led real estate firm (over 50 years, RDM co-founder) that also offers rental management for residential and commercial properties; no unit counts stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilien-ansorge.de/",
+  "services": "http://www.immo-ansorge.de/index.php/aktuelle-angebote/",
+  "impressum": "http://www.immo-ansorge.de/index.php/impressum/"
+ }
+}

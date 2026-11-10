@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Seit 1993 begleiten wir von Burchardt Immobilien private Eigentümer und Investoren rund um den Immobilienkauf und -verkauf.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Makler stehen wir immer an der Seite unserer Klienten!",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Regina Burchardt",
+  "Daniela Ristock"
+ ],
+ "managing_directors_evidence": "Regina Burchardt  Geschäftsführung  Daniela Ristock  Stellv. Geschäftsführung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin/Brandenburg real estate brokerage (Makler) with construction, renovation and expert-report services; no property management offered per the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hauptstadtprofi.de/",
+  "services": "https://hauptstadtprofi.de/immobiliendienstleistungen/",
+  "about": "https://hauptstadtprofi.de/ueber-uns/",
+  "impressum": "https://hauptstadtprofi.de/impressum/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Luisenstadt Grundstückverwaltungsgenossenschaft eG",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Ragnar Bergt",
+  "Stephan Göbel",
+  "Roland Stübler"
+ ],
+ "managing_directors_evidence": "Vorstand\nRagnar Bergt\nStephan Göbel\nRoland Stübler",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin housing cooperative (eG) in Friedrichshain-Kreuzberg that owns and manages its own residential houses; no external property management offering or portal found.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://luisenstadteg.de/",
+  "about": "https://luisenstadteg.de/geschichte/",
+  "jobs": "https://luisenstadteg.de/jobs",
+  "impressum": "https://luisenstadteg.de/impressum/"
+ }
+}

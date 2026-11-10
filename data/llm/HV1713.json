@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Pinter Immobilien GmbH besteht seit 1998.",
+ "founded_year": 1998,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Schwerpunkt ist die Verwaltung von Eigentumswohnungsanlagen, an deren Komplettsanierung wir maßgeblich mitgewirkt haben.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Csaba Pinter"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Csaba Pinter",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1998) focused on WEG residential buildings, with rental pool management, Sondereigentumsverwaltung, and brokerage services.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immoconcept-pinter.de/",
+  "services": "https://www.immoconcept-pinter.de/leistungen/",
+  "impressum": "https://www.immoconcept-pinter.de/impressum/"
+ }
+}

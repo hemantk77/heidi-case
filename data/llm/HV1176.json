@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Gegründet 1997 ist die Green Center Bauprojektmanagement GmbH eine hundertprozentige Tochter",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": null,
+ "segment_note": "Berlin housing cooperative (Hellersdorf) whose subsidiary GCB handles facility services (grounds care, stairwell cleaning, winter service) for the cooperative; the cooperative's own property management is not clearly described in the text provided.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wohnungsgenossenschaft.de/",
+  "about": "https://www.wohnungsgenossenschaft.de/ueber-uns/tochterunternehmen-gcb/",
+  "portal": "https://www.wohnungsgenossenschaft.de/infocenter/",
+  "services": "https://www.wohnungsgenossenschaft.de/category/stellenangebote/",
+  "impressum": "https://www.wohnungsgenossenschaft.de/impressum",
+  "jobs": "https://www.wohnungsgenossenschaft.de/category/stellenangebote/"
+ }
+}

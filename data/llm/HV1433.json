@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The provided pages are ImmoScout24's own corporate, navigation and login pages, not the website of Jörg Töpper Immobilien, so nothing about this company's business could be verified.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.toepper.berlin/",
+  "portal": "https://www.immobilienscout24.de/baufimanager/app/baufimanager/",
+  "jobs": "https://www.immobilienscout24.de/unternehmen/karriere",
+  "services": "https://www.immobilienscout24.de/baufinanzierung/finanzierungsangebote/",
+  "about": "https://www.immobilienscout24.de/unternehmen/",
+  "impressum": "https://www.immobilienscout24.de/impressum.html"
+ }
+}

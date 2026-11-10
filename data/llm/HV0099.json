@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2004,
+ "founded_evidence": "Seit 2004 begleiten wir Immobilien und ihre Eigentümer in und um Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnimmobilienverwalter - erlaubnispflichtige Tätigkeit nach § 34c Abs. 1 der Gewerbeordnung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Diana Krupp",
+  "Corvin Tolle"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Diana Krupp  Geschäftsführender Gesellschafter: Corvin Tolle",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "segment_note": "Berlin property manager founded in 2004 offering residential rental, WEG and commercial property management, with a registered §34c Wohnimmobilienverwalter license.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://tolle-hausverwaltung.de/",
+  "services": "https://tolle-hausverwaltung.de/hausverwaltung",
+  "about": "https://tolle-hausverwaltung.de/team",
+  "jobs": "https://tolle-hausverwaltung.de/stellenangebote",
+  "impressum": "https://tolle-hausverwaltung.de/impressum"
+ }
+}

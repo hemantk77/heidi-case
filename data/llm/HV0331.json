@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "Momentan werden über 200 Objekte mit ca. 5.500 Verwaltungseinheiten durch unsere Firma betreut.",
+ "buildings_managed": 200,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "gegründet 1996 als Pruß Hausverwaltung e.K.",
+ "founded_year": 1996,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung und -vermittlung aus Tradition",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sylvia Pruß"
+ ],
+ "managing_directors_evidence": "Geschäftsleitung Sylvia Pruß Inhaberin",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-owned property manager (Strausberg HQ, Berlin office) managing about 200 properties with roughly 5,500 units, including over 60 WEGs, plus brokerage.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "Momentan werden über 200 Objekte mit ca. 5.500 Verwaltungseinheiten durch unsere Firma betreut.",
+ "units_managed": 5500,
+ "buildings_managed_placeholder": null,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.pruss-immo.de/",
+  "services": "https://www.pruss-immo.de/leistungen/",
+  "about": "https://www.pruss-immo.de/team/",
+  "jobs": "https://www.pruss-immo.de/jobs-und-stellenangebote/"
+ }
+}

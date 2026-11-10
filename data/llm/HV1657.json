@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Das inhabergeführte Unternehmen wurde 1998 als Einzelunternehmen gegründet und 2018 in die jetzige Rechtsform überführt.",
+ "founded_year": 1998,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "termingerechte Erstellung der Heiz- und Betriebskostenabrechnungen gegenüber dem Mieter sowie regelmäßige Prüfung von Mieterhöhungsmöglichkeiten",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung: Vertretung der Eigentümergemeinschaft im Außenverhältnis ... Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Reinhard Scharfenberg",
+  "Kevin Schneider"
+ ],
+ "managing_directors_evidence": "Geschäftsleitung: Reinhard Scharfenberg, Kevin Schneider",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister",
+  "Makler"
+ ],
+ "segment_note": "Berlin-based owner-operated property manager (founded 1998) offering WEG and Sondereigentum administration, technical project management, and letting/sales.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://siundp.de/",
+  "about": "http://siundp.de/",
+  "services": "http://siundp.de/",
+  "impressum": "https://siundp.de/impressum/"
+ }
+}

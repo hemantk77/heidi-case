@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Hier sind Sie richtig, wenn Sie einen kompetenten Immobilienmakler mit optimaler Marktkenntnis suchen.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Iris Fritze"
+ ],
+ "managing_directors_evidence": "Fritze Iris\nIMS Immobilien Management Service",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "IMS is a Berlin real-estate brokerage (Makler) run by Iris Fritze, focused on buying and selling properties and advising investors; no property management offering is stated on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://ims-immobilien-berlin.de/",
+  "services": "https://www.ims-immobilien-berlin.de/leistungen-2/",
+  "impressum": "https://www.ims-immobilien-berlin.de/impressum/"
+ }
+}

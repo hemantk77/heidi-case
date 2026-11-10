@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein engagiertes Unternehmen mit langjähriger Erfahrung in den Bereichen Hausverwaltung, Immobilienvertrieb und Immobilienberatung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dipl.-Ing. Thomas Heidrich"
+ ],
+ "managing_directors_evidence": "Inhaber: Dipl.-Ing. Thomas Heidrich",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Hermsdorf firm offering Hausverwaltung alongside property sales and rental brokerage, led by owner Dipl.-Ing. Thomas Heidrich.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.heidrich-immobilien.com/",
+  "impressum": "https://www.heidrich-immobilien.com/impressum"
+ }
+}

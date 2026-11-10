@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Alles aus einer Hand! Entdecken Sie unsere Expertise als Generalplaner mit fast 40 Jahren Marktkenntnis in Berlin & Köln.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 80,
+ "employees_evidence": "Mit einem Team aus 80 Mitarbeitern realisieren wir Sanierungsprojekte",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Markus Görlach",
+  "Ilka Pöschl",
+  "Karol Seeger"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Markus Görlach, Ilka Pöschl, Karol Seeger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "RTW is a general planner (architecture and engineering, HOAI phases 1-9) for renovation and new builds in Berlin and Cologne, not a property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rtw-generalplanung.de/",
+  "jobs": "https://www.rtw-generalplanung.de/karriere",
+  "impressum": "https://www.rtw-generalplanung.de/impressum"
+ }
+}

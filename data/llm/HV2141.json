@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christina Ebeling"
+ ],
+ "managing_directors_evidence": "Inhaber: Christina Ebeling",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Makler) in Lichtenrade and surrounding southern districts; the site describes sales and rental listings, no property management offering is mentioned.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ebeling-immobilien.de/",
+  "services": "http://www.ebeling-immobilien.de/angebote.php",
+  "impressum": "http://www.ebeling-immobilien.de/artikel.php?rub=kontakt&id=35"
+ }
+}

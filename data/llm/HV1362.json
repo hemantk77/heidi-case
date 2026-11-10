@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmakler Berlin | Buy Berlin Investments",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Darrell Smith"
+ ],
+ "managing_directors_evidence": "Darrell Smith \nGeschäftsführer",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Buy Berlin Investments is a Berlin real-estate brokerage (Immobilienmakler) with investment and sales services; the site shows no property management offering.",
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence_note": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.buyberlin.berlin/"
+ }
+}

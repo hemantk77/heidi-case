@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilien vermitteln - Wir suchen für Ihre Immobile einen perfekten Käufer oder Mieter",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Monika Scherbel"
+ ],
+ "managing_directors_evidence": "Monika Scherbel – Geschäftsführerin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "TELA Immobilienservice GmbH is a Berlin real-estate broker (Makler) offering rentals, purchases and commercial properties, with no property management services mentioned on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tela-immobilien.de/",
+  "services": "https://www.tela-immobilien.de/angebote",
+  "impressum": "https://www.tela-immobilien.de/impressum"
+ }
+}

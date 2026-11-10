@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Über uns: CONNY – Mietpreisbremse seit 2016 in Berlin",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2016,
+ "founded_evidence": "Über uns: CONNY – Mietpreisbremse seit 2016 in Berlin",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Conny is a legal-tech service helping tenants check and reduce rent under the Mietpreisbremse; it does not offer property management for third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://conny.de/",
+  "impressum": "https://conny.de/impressum",
+  "about": "https://conny.de/ueber-uns",
+  "jobs": "https://conny.de/careers"
+ }
+}

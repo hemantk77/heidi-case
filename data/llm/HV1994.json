@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die RP Immobilienbewertung sowie die Mitarbeiter und Kooperationspartner sind bereits langjährig auf dem Gebiet der Immobilienbewertung im gesamten Bundesgebiet tätig",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "seit 2005",
+ "managing_directors": [
+  "Ralf Brüning"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ralf Brüning",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "RP Immobilienbewertung GmbH is a Berlin-based real estate valuation firm (Gutachten, HypZert-certified appraisers) with no property management services on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.rp-immobilienbewertung.de/",
+  "about": "https://rp-immobilienbewertung.de/ueber-uns/",
+  "services": "https://rp-immobilienbewertung.de/leistungen/",
+  "jobs": "https://rp-immobilienbewertung.de/karriere/",
+  "impressum": "https://rp-immobilienbewertung.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Im Rahmen unserer Verwaltertätigkeit decken wir das gesamte Leistungsspektrum einer Immobilienverwaltung ab.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "Seit 1996 werden alle Immobilienbereiche von der Bewertung, der Vermietung, dem An- und Verkauf bis hin zur Verwaltung abgedeckt.",
+ "managing_directors": [
+  "Thomas Ritsche"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: PBV GmbH, Berlin, AG Charlottenburg HRB 197540B, Herr Thomas Ritsche",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal, Eigentümerportal",
+ "portal_evidence": "Mieterportal",
+ "segment_note": "Owner-led Berlin firm since 1996 offering rental, WEG and special-property management plus brokerage, with tenant and owner portals.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berliner-immobilienring.com/",
+  "about": "https://www.berliner-immobilienring.com/unternehmen",
+  "services": "https://www.berliner-immobilienring.com/leistungen",
+  "portal": "https://www.berliner-immobilienring.com/mieterportal",
+  "impressum": "https://www.berliner-immobilienring.com/impressum"
+ }
+}

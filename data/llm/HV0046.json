@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung: Fair und persönlich.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenbereich Kundenportal",
+ "segment_note": "MJ Immobilienmanagement is a Berlin property manager (WEG, rental and special-property management) serving Berlin, Potsdam and Brandenburg, with a customer portal.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mj-immobilien.de/",
+  "impressum": "https://www.mj-immobilien.de/impressum-datenschutz.html",
+  "about": "https://www.mj-immobilien.de/immobilienmanagement.html",
+  "services": "https://www.mj-immobilien.de/hausverwaltung.html",
+  "jobs": "https://www.mj-immobilien.de/karriere.html",
+  "portal": "https://www.mj-immobilien.de/kundenportal.html"
+ }
+}

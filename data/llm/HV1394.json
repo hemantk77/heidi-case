@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Comer Group is a real-estate company active in residential apartments, office developments and hospitality in Ireland, UK and Germany; the site does not describe property management services.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.comerhomes.de/",
+  "jobs": "https://comerhomes.de/index.php/karriere/"
+ }
+}

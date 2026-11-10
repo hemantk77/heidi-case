@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Spezialist für die Vermittlung gewerblicher Immobilienfinanzierungen",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1985,
+ "founded_evidence": "Gründungsjahr: 1985",
+ "managing_directors": [
+  "Karsten Kluge"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Karsten Kluge",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "DIMA is a Berlin financing broker for commercial real estate loans (founded 1985), with no property management offering shown on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.dima-finanzierung.de/",
+  "services": "https://www.dima-finanzierung.de/leistungen/",
+  "about": "https://www.dima-finanzierung.de/ueber-uns/",
+  "jobs": "https://www.dima-finanzierung.de/karriere/",
+  "impressum": "https://www.dima-finanzierung.de/impressum/"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 1991 verbinden wir Mieter und Eigentümer mit Herz und modernster Technik.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "Seit 1991 verbinden wir Mieter und Eigentümer mit Herz und modernster Technik.",
+ "managing_directors": [
+  "Oliver Borchert"
+ ],
+ "managing_directors_evidence": "Oliver Borchert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "KundenPortal",
+ "portal_evidence": "Nutzen Sie schon unser KundenPortal ?",
+ "segment_note": "Berlin property manager since 1991 offering tenant and owner management with a KundenPortal and in-house service team, with a Handwerkerpool for repairs.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://borcherthv.de/",
+  "about": "https://www.borcherthv.de/uber-uns",
+  "services": "https://www.borcherthv.de/service",
+  "portal": "https://portal.borcherthv.de/user/auth/login",
+  "impressum": "https://www.borcherthv.de/impressum"
+ }
+}

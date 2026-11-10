@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir verbinden Gebäudeservice, klare Abläufe und persönliche Betreuung",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2024,
+ "founded_evidence": "Gegründet 2024",
+ "managing_directors": [
+  "Jan Eckebrecht"
+ ],
+ "managing_directors_evidence": "Jan Eckebrecht",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "EckRa Service is a 2024-founded facility management firm in Berlin and Brandenburg offering caretaking, cleaning, grounds and winter services for property managers, WEGs and landlords, but not property management itself.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.eckra-service.de/",
+  "services": "https://eckra-service.de/leistungen/",
+  "portal": "https://eckra-service.de/kundenportal/",
+  "about": "https://eckra-service.de/ueber-eckra-service/",
+  "jobs": "https://eckra-service.de/karriere/",
+  "impressum": "https://eckra-service.de/impressum/"
+ }
+}

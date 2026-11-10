@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind ein moderner Dienstleister für infrastrukturelle Dienstleistungen, der ausschließlich für den Konzern STADT UND LAND tätig ist.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tobias Mette"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Tobias Mette",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Messdienst ... Musterabrechnung ... Rechtsprechung Wir sorgen für Ihr gutes Recht An dieser Stelle finden Sie alle relevanten Gesetze und Verordnungen rund um Ihre Heizkosten- und Wasserabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "STADT UND LAND's in-house facility subsidiary offering caretaking (Hauswartservice), building care, cleaning and a metering service (Messdienst) exclusively for its parent group; not a third-party property manager.",
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.facility-gmbh.de/",
+  "services": "https://facility-gmbh.de/service",
+  "jobs": "https://facility-gmbh.de/karriere",
+  "impressum": "https://facility-gmbh.de/impressum"
+ }
+}

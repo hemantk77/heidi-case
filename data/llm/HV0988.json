@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Sebastian Piechowski selbst befasst sich seit 1993 mit der Verwaltung von Mietzinshäusern und Wohnungseigentümergemeinschaften",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Für die Sebastian Piechowski Immobilienverwaltung und - vermittlung ist höchstes Ziel",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sebastian Piechowski"
+ ],
+ "managing_directors_evidence": "Inh.: Sebastian Piechowski",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based sole proprietor offering property management (Mietshaus and WEG administration, Sondereigentum) plus brokerage, active in Berlin and the western surrounding area.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-piechowski-berlin.de/",
+  "services": "http://www.hausverwaltung-piechowski-berlin.de/hausverwaltung,,,hausverwaltung.html",
+  "impressum": "http://www.hausverwaltung-piechowski-berlin.de/hausverwaltung,,,impressum.html"
+ }
+}

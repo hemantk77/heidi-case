@@ -1,0 +1,20 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The website belongs to \"best ground Immobilien\", which does not match the Google listing \"Meteor Hausverwaltung\"; the pages give no description of property management services, so the company's business cannot be confirmed from this site.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bestground.de/",
+  "about": "https://bestground.de/?page_id=20"
+ }
+}

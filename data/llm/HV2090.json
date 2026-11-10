@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Sustainable Real Estate Development for Family & Friends",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Robert-Christian Gierth"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Robert-Christian Gierth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "assiduus³ Development GmbH is a Berlin real estate developer (\"Sustainable Real Estate Development\"); the site shows no property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.assiduus3.de/",
+  "impressum": "https://assiduus3.de/de/impressum/"
+ }
+}

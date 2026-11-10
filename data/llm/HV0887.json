@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Roland Günther"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:   Roland Günther",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung der Betriebs- und Heizkosten gegenüber den Mietern",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based Hausverwaltung firm offering WEG and rental management, including heating and operating cost billing to tenants; also does property sales and project development.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilienroland.de/",
+  "about": "http://www.immobilienroland.de/hausverwaltung.htm",
+  "services": "http://www.immobilienroland.de/hausverwaltung.htm",
+  "impressum": "http://www.immobilienroland.de/kontakt.htm"
+ }
+}

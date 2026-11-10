@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "CWB Liegenschaften's website only shows navigation menu labels (Immobilien, Leistungen Admin, Verwaltervertrag, Verwaltung) with no descriptive service text, so its business activities cannot be confirmed.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://cwb-liegenschaften.de/",
+  "about": "https://cwb-liegenschaften.de/About",
+  "jobs": "https://cwb-liegenschaften.de/Bewerbungsportal",
+  "portal": "https://cwb-liegenschaften.de/Bewerbungsportal",
+  "services": "https://cwb-liegenschaften.de/LeistungenAdmin"
+ }
+}

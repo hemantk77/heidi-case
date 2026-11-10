@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Jeannette Bottlang"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Jeannette Bottlang",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "segment_note": "Owner-operated Berlin real-estate brokerage (sales and rentals) with ongoing asset management for property owners; no property management (Hausverwaltung) explicitly offered on the pages reviewed.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://jbp-immobilien.com/",
+  "services": "https://jbp-immobilien.com/immobilien",
+  "impressum": "https://jbp-immobilien.com/impressum"
+ }
+}

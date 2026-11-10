@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Gastem UG ist Ihr kompetenter Ansprechpartner, wenn es um die Verwaltung von Gebäuden und Gewerbegrundstücken mit Schwerpunkt in Berlin und Brandenburg geht.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Gastem UG is a Berlin-Pankow company offering building and commercial property management (Hausverwaltung, Gebäudemanagement, facility services) alongside room and storage rentals.",
+ "services": [
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gastem.de/",
+  "jobs": "https://gastem.de/informationen/jobs.html",
+  "impressum": "https://gastem.de/impressum.html"
+ }
+}

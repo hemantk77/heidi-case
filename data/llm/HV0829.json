@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Berufsbezeichnung: Wohnimmobilienverwalter nach § 34c Abs. 1 GewO, Bundesrepublik Deutschland",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Lena Karohs"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Lena Karohs",
+ "portal_or_app": "HWS Berlin App",
+ "portal_evidence": "Sie erreichen uns über die HWS Berlin App",
+ "segment_note": "Berlin evangelical housing company that rents out apartments and houses, is a registered Wohnimmobilienverwalter, and offers a tenant app; no unit or building counts are stated.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hws-berlin.de/",
+  "portal": "https://hws-berlin.de/hws-mieter-app/",
+  "jobs": "https://hws-berlin.de/hws/HWS-Karriere/",
+  "impressum": "https://hws-berlin.de/impressum/"
+ }
+}

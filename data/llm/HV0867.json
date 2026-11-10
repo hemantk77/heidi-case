@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ich verkaufe Eigentumswohnungen, Häuser und Grundstücke in Berlin-Wedding,  Gesundbrunnen, Moabit, Reinickendorf, Mitte und Pankow.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "seit 2011 Inhaber von WEDDING IMMOBILIEN",
+ "managing_directors": [
+  "Michael Rost"
+ ],
+ "managing_directors_evidence": "Inhaber: Michael Rost",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin sole-proprietor real estate broker (Immobilienmakler IHK) selling condos, houses and plots in Wedding and nearby districts; no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wedding-immobilien.de/",
+  "services": "https://www.wedding-immobilien.de/service.php",
+  "impressum": "https://www.wedding-immobilien.de/impressum.php"
+ }
+}

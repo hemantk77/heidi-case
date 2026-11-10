@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir schaffen den Raum, in dem Stadt passiert. Aroundtown ist eines der größten Immobilienunternehmen Europas . Unsere Experten betreuen ein vielfältiges Portfolio aus Gewerbeflächen ... Jede Fläche, die wir ve rmieten, schafft einen Mehrwert",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Moshe Maimon Cohen"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer: Moshe Maimon Cohen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Aroundtown leases commercial space (office, retail, logistics, hotel) across Europe; the site does not describe residential or WEG property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://aroundtown-service.de/",
+  "impressum": "https://aroundtown-service.de/impressum"
+ }
+}

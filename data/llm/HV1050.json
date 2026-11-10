@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zu unseren Standardleistungen gehört die klassische Miethausverwaltung ebenso wie WEG- Verwaltung, die Sondereigentumsbetreuung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 6,
+ "employees_evidence": "Das Team ... um Herrn Rostig besteht aus 6 motivierten und qualifizierten Mitarbeitern",
+ "founded_year": 2001,
+ "founded_evidence": "Im Jahre 2001 gründete er das Unternehmen \"Hausverwaltung Henry R. Rostig\".",
+ "managing_directors": [
+  "Henry R. Rostig",
+  "Marion Preuß"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl. Kfm. (FH) Henry R. Rostig ... Prokuristin: Marion Preuß",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Pankow property manager since 2001 (GmbH since 2023) handling rental, WEG, special-property and commercial management plus brokerage, with 6 staff.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ihre-hausverwaltung-berlin.de/",
+  "impressum": "https://ihre-hausverwaltung-berlin.de/impressum.html",
+  "about": "https://ihre-hausverwaltung-berlin.de/ueber-uns.html",
+  "services": "https://ihre-hausverwaltung-berlin.de/unsere-leistungen.html"
+ }
+}

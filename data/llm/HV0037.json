@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "TREUREAL Property Management GmbH",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 30000,
+ "units_evidence": "Für unsere Auftraggeber bewirtschaften wir in Deutschland rund 30.000 Wohnungen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 140,
+ "employees_evidence": "Mit rund 140 qualifizierten Mitarbeitern betreuen wir deutschlandweit anspruchsvolle Immobilien und Portfolios",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Speth"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Thomas Speth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Eigentümerportal App",
+ "portal_evidence": "Eigentümerportal App",
+ "segment_note": "Berlin-registered... Germany-wide property manager (WEG, rental and commercial) with about 140 staff, running an owner portal app; HQ address is Berlin but impressum lists Mannheim.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.treureal.de/",
+  "services": "https://www.treureal.de/leistungen/wohnungseigentumsverwaltung",
+  "about": "https://www.treureal.de/ueber-uns/stark-im-verbund",
+  "portal": "https://onlineservice.treureal.de",
+  "jobs": "https://www.treureal.de/karriere",
+  "impressum": "https://www.treureal.de/impressum"
+ }
+}

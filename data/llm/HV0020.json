@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Hausverwaltung Akbar, die ausschließlich Immobilien der Unterhemensgruppe verwaltet",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1984,
+ "founded_evidence": "Die familiengeführte Unternehmensgruppe Akbar ist bereits seit 1984 und in der zweiten Generation in der Immobilienbranche tätig.",
+ "managing_directors": [
+  "Mohammad Qasim Akbar",
+  "Mohamad Youssef Akbar",
+  "Nadim-Mohamad Ali Akbar",
+  "Nabil Akbar",
+  "Bareq Akbar"
+ ],
+ "managing_directors_evidence": "Mohammad Qasim Akbar, Mohamad Youssef Akbar, Nadim-Mohamad Ali Akbar, Nabil Akbar, Bareq Akbar, (als Bruchteilsgemeinschaft)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager that exclusively manages properties of its own family-owned group (founded 1984), plus facility management and renovation, not open to third-party clients.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-akbar.de/",
+  "impressum": "https://hv-akbar.de/impressum/"
+ }
+}

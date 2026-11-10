@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Thomas Hinzpeter Hausverwaltung verwaltet seit über 30 Jahren Wohn-und Geschäftshäuser, sowie Wohnungseigentumsanlagen im Großraum Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Hinzpeter"
+ ],
+ "managing_directors_evidence": "Thomas Hinzpeter Hausverwaltung Helmholtzstraße 2-9 10587 Berlin",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Betriebs- und Heizkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (WEG, rental and commercial buildings) with over 30 years in business, offering operating and heating cost billing as a service.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-hinzpeter.de/",
+  "services": "https://www.hausverwaltung-hinzpeter.de/leistungsumfang/",
+  "impressum": "https://www.hausverwaltung-hinzpeter.de/impressum/",
+  "about": "https://www.hausverwaltung-hinzpeter.de/about/",
+  "portal": "https://www.hausverwaltung-hinzpeter.de/login"
+ }
+}

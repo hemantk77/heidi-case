@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben dem Immobilienverkauf und der Immobilienvermietung gehört ebenfalls die Verwaltung von privaten und gewerblichen Objekten zu unseren Haupttätigkeitsfeldern.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 300,
+ "employees_evidence": "europaweit fast 300 Mitarbeiter an knapp 100 Standorten",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "FALC Immobilien Verwaltungs GmbH"
+ ],
+ "managing_directors_evidence": "Die FALC Immobilien GmbH & Co. KG wird vertreten durch die FALC Immobilien Verwaltungs GmbH",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "FALC Immobilien is a nationwide brokerage franchise that also manages private and commercial properties; the site gives no Berlin-specific unit or building counts.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.falcimmo.de/",
+  "services": "https://www.falcimmo.de/service-vermarktung.html",
+  "about": "https://www.falcimmo.de/unternehmen.html",
+  "jobs": "https://www.falcimmo.de/karriere.html",
+  "impressum": "https://www.falcimmo.de/impressum.html"
+ }
+}

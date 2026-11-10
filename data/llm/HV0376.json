@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Klaus Martens"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\n Klaus Martens",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "adima Immobilien Verwaltungsgesellschaft mbH is a Berlin company whose website shows only contact details and a placeholder page (\"Hier entsteht eine Internetpräsenz!\"), with no description of its services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.adima-immobilien.de/"
+ }
+}

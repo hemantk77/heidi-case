@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 100,
+ "employees_evidence": "Unser inhabergeführtes Unternehmen wurde im Jahr 2007 gegründet und beschäftigt derzeitig rund 100 Mitarbeitenden.",
+ "founded_year": 2007,
+ "founded_evidence": "Unser inhabergeführtes Unternehmen wurde im Jahr 2007 gegründet",
+ "managing_directors": [
+  "Harald G. Huth"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nHarald G. Huth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HGHI Holding is a Berlin real-estate project developer, investor and builder (about 100 staff, founded 2007) focused on commercial and retail properties; the site does not clearly describe property management services.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hghi.de/",
+  "about": "https://www.hghi.de/ueber-uns",
+  "jobs": "https://www.hghi.de/karriere",
+  "portal": "https://www.hghi.de/news/news/dsb-deutsche-sanierungsberatung-gmbh-mietet-knapp-2000-m2-bueroflaechen-im-schultheiss-quartier",
+  "impressum": "https://www.hghi.de/impressum"
+ }
+}

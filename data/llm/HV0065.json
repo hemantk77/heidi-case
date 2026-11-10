@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": "Zurzeit wird ein Verwaltungsbestand von 65 Mehrfamilienhäusern und Wohnanlagen mit insgesamt 1.043 Wohn-/Gewerbeeinheiten betreut.",
+ "buildings_managed": 65,
+ "employees": 9,
+ "employees_evidence": "Mitarbeiter: 9",
+ "founded_evidence": "Wir verwalten seit 1921 Mehrfamilienhäuser in Berlin",
+ "founded_year": 1921,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Klare Abrechnungen sorgen dafür, dass Sie monatlich den finanziellen Überblick über Ihr Eigentum erhalten und Ihre Mieter nachvollziehbare Betriebskostenabrechnungen erhalten.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten seit 1921 Mehrfamilienhäuser in Berlin und seit 25 Jahren auch Wohnungseigentum.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Uwe Heiland"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Uwe Heiland",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-owned property manager since 1921 managing 65 apartment buildings (1,043 units) with 9 staff, offering rental and WEG administration.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Zurzeit wird ein Verwaltungsbestand von 65 Mehrfamilienhäusern und Wohnanlagen mit insgesamt 1.043 Wohn-/Gewerbeeinheiten betreut.",
+ "units_managed": 1043,
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gawehn.de/",
+  "services": "https://gawehn.de/unsere-leistungen",
+  "about": "https://gawehn.de/ueber-uns",
+  "impressum": "https://gawehn.de/impressum"
+ }
+}

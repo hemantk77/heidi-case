@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein junges, dynamisches und aufstrebendes Dienstleistungsunternehmen in der Miet-, WEG- und Gewerbeverwaltung für nationale und internationale Investoren.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Oliver Ackermann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Oliver Ackermann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering rental, WEG, commercial and special-property management for national and international investors, with multilingual service.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.condohausverwaltung.com/",
+  "about": "https://www.condohausverwaltung.com/de/ueber-uns",
+  "services": "https://www.condohausverwaltung.com/de/leistungen-2",
+  "impressum": "https://www.condohausverwaltung.com/de/impressum"
+ }
+}

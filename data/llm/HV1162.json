@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Bauer Real Estate in Berlin-Wilmersdorf ist Ihr Experte für die Verwaltung von privaten und gewerblichen Mietobjekten.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stephanie Bauer"
+ ],
+ "managing_directors_evidence": "Bauer Real Estate UG Stephanie Bauer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "erstellen transparente und nachvollziehbare Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) for residential and commercial rentals, also offering letting, sales and marketing, with a Berlin-Wilmersdorf office address listed for enquiries.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bauerrealestate.de/",
+  "about": "https://www.bauerrealestate.de/ueber-uns",
+  "services": "https://www.bauerrealestate.de/leistungen",
+  "impressum": "https://www.bauerrealestate.de/impressum"
+ }
+}

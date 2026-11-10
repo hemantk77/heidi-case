@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Immobilienverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": "1.8k Verwaltete Objekte",
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hussein Kafrawi"
+ ],
+ "managing_directors_evidence": "Inhaber Hussein Kafrawi",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager and broker (Kafrawi Immobilien) offering property management and brokerage; site claims 1.8k managed properties.",
+ "buildings_managed_rejected": 1800,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kafrawi-immobilien.de/",
+  "about": "https://kafrawi-immobilien.de/uber-uns",
+  "impressum": "https://kafrawi-immobilien.de/impressum",
+  "services": "https://kafrawi-immobilien.de/angebote"
+ }
+}

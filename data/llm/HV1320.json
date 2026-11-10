@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Kaufmännischer Objektbetreuer für WEG´s, Sondereigentumsverwaltung von Wohnungen und Miethäusern",
+ "main_business": "brokerage",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dominic Sydow"
+ ],
+ "managing_directors_evidence": "Inhaber: Dominic Sydow",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SevenTree Immobilien is a small Berlin-Kladow sole proprietorship (e. K.) led by owner Dominic Sydow, mainly brokering property sales but also offering WEG and rental/special-property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.seventree-immobilien.de/",
+  "services": "https://seventree-immobilien.de/properties/",
+  "about": "https://seventree-immobilien.de/ueber-den-inhaber/",
+  "impressum": "https://seventree-immobilien.de/impressum/"
+ }
+}

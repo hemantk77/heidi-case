@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit dem 01. April 1998 sind wir auf dem Markt der Miet- und Wohnungseigentumsverwaltung in Berlin und Umgebung tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 700,
+ "units_evidence": "Zur Zeit verwalten wir ca. 700 Einheiten in Berlin und Umland.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 5,
+ "employees_evidence": "Unser Team besteht aus 5 Mitarbeitern,",
+ "founded_year": 1998,
+ "founded_evidence": "Seit dem 01. April 1998 sind wir auf dem Markt der Miet- und Wohnungseigentumsverwaltung in Berlin und Umgebung tätig.",
+ "managing_directors": [
+  "Frank Emuth"
+ ],
+ "managing_directors_evidence": "Inhaber | Frank Emuth",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Mieterhöhungen, Betriebskostenabrechnungen und Wirtschaftsplänen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 1998 handling about 700 residential and commercial units for rental and WEG clients, with a 5-person team.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.emuth-hvw.de/",
+  "impressum": "https://emuth-hvw.de/impressum",
+  "services": "https://emuth-hvw.de/leistungen/",
+  "about": "https://emuth-hvw.de/ueber-uns/"
+ }
+}

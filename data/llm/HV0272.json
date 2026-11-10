@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Jan Sonnenberg"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jan Sonnenberg",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin-Mitte company named Bonitas Hausverwaltungs und Immobilien GmbH (managing director Jan Sonnenberg); the site text does not describe its services, so its business focus is unclear.",
+ "heating_billing_evidence": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bonitas-service.de/",
+  "impressum": "http://www.bonitas-service.de/impressum.htm"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung in Berlin – Qplus Immobilien | Verlässliche Betreuung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marcus Fritzsch"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Marcus Fritzsch",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebskostenabrechnungen und vieles mehr.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property company offering property management (Immobilienverwaltung) alongside rental placement and sales brokerage; no unit count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://qplus.immo/",
+  "services": "https://qplus.immo/verwaltung/",
+  "impressum": "https://qplus.immo/impressum/"
+ }
+}

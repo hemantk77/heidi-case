@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Prodomus Immobilien Berlin ist eine Hausverwaltung, die nicht nur fachlich rund um die Themen WEG-Verwaltung, Mieterverwaltung und Sondereigentumsverwaltung hervorragend aufgestellt ist.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christin Ruf"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Christin Ruf",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung",
+ "portal_or_app": "Eigentümer- und Mieterportal",
+ "portal_evidence": "Zum Eigentümer- und Mieterportal",
+ "segment_note": "Berlin property manager offering WEG, rental and special-property management plus billing and sales/letting, with an owner and tenant portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.prodomus-berlin.de/",
+  "services": "https://prodomus-berlin.de/leistungen-2/",
+  "about": "https://prodomus-berlin.de/ueber_uns/",
+  "portal": "https://prodomus-berlin.de/online-services-2/",
+  "impressum": "https://www.prodomus-berlin.de/impressum"
+ }
+}

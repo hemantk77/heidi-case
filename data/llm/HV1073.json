@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "seit 2011 Geschäftsführerin eines Immobilienverwaltungsunternehmen (Schwerpunkt Gewerbe)",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Dr. Vivien Richter"
+ ],
+ "managing_directors_evidence": "Vertreten durch:  Dr. Vivien Richter",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MBV Immobilien GmbH is a Berlin real-estate firm doing brokerage (sales and rentals) and certified property valuations; the site mentions a property management company led by its managing director but does not describe its own management services in detail.",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mbv-immobilien.de/",
+  "impressum": "https://www.mbv-immobilien.de/Impressum/"
+ }
+}

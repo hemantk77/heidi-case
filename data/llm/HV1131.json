@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Immobilienverwaltung Berlin & Potsdam im digitalen Zeitalter",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hendryk Lietzmann",
+  "Jan Hoinkis"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Hendryk Lietzmann Dipl. Ing. (FH) Jan Hoinkis",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Portal24",
+ "portal_evidence": "Zum Mieter- und Eigentümerportal",
+ "segment_note": "VERINOVA GmbH is a Berlin property manager offering WEG and rental management in Berlin and Potsdam, plus asset management, fire safety, due diligence and consulting, with a tenant/owner portal.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.verinova.de/",
+  "about": "https://verinova.de/ihre-immobilien-experten/",
+  "services": "https://verinova.de/immobilienverwaltung/",
+  "portal": "https://portal.verinova.de/",
+  "impressum": "https://verinova.de/privacy-policy/"
+ }
+}

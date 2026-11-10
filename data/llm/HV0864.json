@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung. In guten Händen. In allen Details. ... Ob Projektmanagement, Immobilienverwaltung oder Asset Management, wir freuen uns immer über neue Herausforderungen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Birgit Krohn",
+  "Jochen Beutgen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jochen Beutgen, Birgit Krohn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate group focused on commercial properties, offering property management (Immobilienverwaltung), project management and asset management, with sites in Düsseldorf and Essen.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berliner-haeuser.de/",
+  "services": "https://berliner-haeuser.de/leistungen",
+  "about": "https://berliner-haeuser.de/about/",
+  "jobs": "https://berliner-haeuser.de/karriere/",
+  "impressum": "https://berliner-haeuser.de/impressum/"
+ }
+}

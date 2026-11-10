@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Thelen Gruppe mit Sitz in Essen ist ein Familienunternehmen mit den Schwerpunkten Erschließung, Realisierung, Vermarktung und Verwaltung und Bewirtschaftung von Immobilien.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1988,
+ "founded_evidence": "Die Geschichte der Thelen Gruppe beginnt 1988 mit dem  Bau eines Warenumschlagzentrums für QUELLE in der Nähe von Bamberg.",
+ "managing_directors": [
+  "Wolfgang Thelen",
+  "Christoph Thelen"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Wolfgang Thelen, Christoph Thelen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Thelen Gruppe is a Essen-based family project developer and portfolio owner (logistics, commercial, office, residential, urban quarters) that also states it manages properties, with a Berlin address on the Google listing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.thelen-gruppe.com/",
+  "services": "https://www.thelen-gruppe.com/leistungen/",
+  "about": "https://www.thelen-gruppe.com/unternehmen/",
+  "jobs": "https://www.thelen-gruppe.com/unternehmen/karriere/",
+  "impressum": "https://www.thelen-gruppe.com/impressum/"
+ }
+}

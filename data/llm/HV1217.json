@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": 248,
+ "units_evidence": "Die Wohnhäuser der Mollstraße 5 bis 18 entstehen in den Jahren 1960 bis 1964. Im Frühsommer 1995 kündigt der damalige Eigentümer – die Wohnungsbaugesellschaft Mitte – an, die 248 Wohnungen verkaufen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1996,
+ "founded_evidence": "Mit der Gründungsversammlung am 19. Juni 1996 wird es schnell ernst: Insgesamt 61 Mitglieder gründen gemeinsam die Wohnungsgenossenschaft Mollstraße e.G.",
+ "managing_directors": [
+  "Dr. Karin Denisow",
+  "Kathrin Gerlof",
+  "Katrin Lompscher",
+  "Halina Wawzyniak"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Dr. Karin Denisow | Vorstand Kathrin Gerlof | Vorstand Katrin Lompscher | Vorstand Halina Wawzyniak | Vorstand",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "A Berlin housing cooperative (founded 1996) that owns and manages its own 248 apartments at Mollstraße 5–18; administration is handled by the affiliated Wohnwerkstatt GmbH.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mollgenossenschaft.de/",
+  "about": "https://www.mollgenossenschaft.de/genossenschaftsleben/geschichte-der-wohnungsgenossenschaft-mollstrasse-eg/",
+  "impressum": "http://www.mollgenossenschaft.de/impressum/"
+ }
+}

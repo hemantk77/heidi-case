@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Treuhänderische Immobilienverwaltung: Wir bieten Dienstleistungen zur Verwaltung Ihrer Immobilie, um maximale Rentabilität und Sicherheit zu gewährleisten.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-focused real estate firm (sites under propertysale-berlin.com) offering brokerage, trusteeship property management for owners, and investment partnerships; no unit or building counts stated.",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://propertysale-berlin.com/",
+  "about": "http://propertysale-berlin.com/page/weltklasse-team-longevity-wellness-hospitality-thailand",
+  "services": "http://propertysale-berlin.com/page/Immobilienverwaltung-in-Deutschland"
+ }
+}

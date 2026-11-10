@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "Folgerichtig befinden sich die anfänglich übernommenen fünf Häuser noch immer im Bestand.",
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der Schwerpunkt liegt auf der Verwaltung und Betreuung von Wohneigentümergemeinschaften mit Standort in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Elke Beerhalter",
+  "Gerhard Beerhalter"
+ ],
+ "managing_directors_evidence": "Gesch�ftsf�hrer: Elke Beerhalter und Gerhard Beerhalter",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "segment_note": "Berlin property manager focused on WEG administration, also managing rental houses and brokering residential property; small firm with five buildings in its portfolio per the site.",
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed_rejected": 5,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.friedrich-beerhalter.de/",
+  "about": "http://www.friedrich-beerhalter.de/unternehmen/philosophie.html",
+  "services": "http://www.friedrich-beerhalter.de/angebot/weg-verwaltung.html",
+  "impressum": "http://www.friedrich-beerhalter.de/impressum.html"
+ }
+}

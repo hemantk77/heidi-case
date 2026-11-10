@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen 350 Mieteinheiten in Berlin und am Bodensee.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michael Bernhard Schulz",
+  "Sebastian Schulz"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigt: Michael Bernhard Schulz Sebastian Schulz",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin and Lake Constance property manager (family business, third generation) managing 350 rental units for owners and tenants, with residential, commercial units, garages and parking spaces.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": "Wir betreuen 350 Mieteinheiten in Berlin und am Bodensee.",
+ "units_managed": 350,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bersulin.de/",
+  "about": "https://bersulin.de/ueber-uns",
+  "impressum": "https://bersulin.de/impressum"
+ }
+}

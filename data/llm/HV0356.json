@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung \n Verwaltung & Betrieb aller gemeinschaftlichen Einrichtungen und Anlagen innerhalb der Wohnanlage.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "David Fichtner"
+ ],
+ "managing_directors_evidence": "David Fichtner - Geschäftsinhaber",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mein Portal",
+ "portal_evidence": "Mein Portal",
+ "segment_note": "Berlin property manager offering WEG, rental (SEV) and finance administration plus facility management, with a \"Mein Portal\" owner login at app.hf-hf.de; no unit or building counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hf-hf.de/",
+  "services": "https://www.hf-hf.de/hausverwaltung-dienstleistungen",
+  "portal": "https://app.hf-hf.de/",
+  "impressum": "https://www.hf-hf.de/hausverwaltung-impressum"
+ }
+}

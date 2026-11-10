@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Sascha Klein"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dipl.-Kfm. (FH) Sascha Klein",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "INHOUSE Immobilienverwaltungs und -beratungs GmbH is a Berlin company whose name suggests property management, but the only page provided is the Impressum, so its services could not be confirmed.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "impressum": "https://www.inhouse-verwaltung.de/impressum.html"
+ }
+}

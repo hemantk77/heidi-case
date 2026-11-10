@@ -1,0 +1,43 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Immobilien- und Facility Manager mit hoher technischer Expertise begleiten wir Ihre Portfoliostrategie",
+ "main_business": "property_management",
+ "services": [
+  "Facility/Hausmeister",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 40000,
+ "employees_evidence": "Über 40.000 Kolleginnen und Kollegen sind für Sie da.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dr. Jochen Keysberg",
+  "Dr. Georg J. Fronja",
+  "Michael Engel",
+  "Dr. Pascal Engel",
+  "Christian Kloevekorn",
+  "Dr. Gert W. Riegel"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Dr. Jochen Keysberg, Vorsitzender Dr. Georg J. Fronja Michael Engel Dr. Pascal Engel Christian Kloevekorn Dr. Gert W. Riegel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Large international facility and real estate manager (40,000+ staff, 30+ EMEA countries) offering integrated FM, technical FM and real estate management, mostly for corporate and institutional portfolios.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.apleona.com/",
+  "services": "https://apleona.com/services/services-im-ueberblick/",
+  "about": "https://apleona.com/ueber-apleona/unternehmen/",
+  "jobs": "https://apleona.com/careers/ihr-karrierepotential/",
+  "portal": "https://jobs.apleona.com/",
+  "impressum": "https://apleona.com/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Maaß Hausverwaltung  GmbH ist seit vielen Jahren am Berliner Markt vertreten. ... WEG-Verwaltung ... Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Kittel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Alexander Kittel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) in Pankow offering WEG and rental management, serving Berlin, Weißensee, Prenzlauer Berg and Pankow.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.maass-hausverwaltung.de/",
+  "jobs": "https://www.maass-hausverwaltung.de/bewerbung/",
+  "impressum": "https://www.maass-hausverwaltung.de/about/",
+  "services": "https://www.maass-hausverwaltung.de/j/legal-guarantee"
+ }
+}

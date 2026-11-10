@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Kfm. Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1987,
+ "founded_evidence": "Seit 1987 unterstützen wir erfolgreich",
+ "managing_directors": [
+  "Andreas Binder"
+ ],
+ "managing_directors_evidence": "Ihr Ansprechpartner: Andreas Binder Diplom-Kaufmann",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wir erstellen die komplette Abrechnung Ihrer Immobilie und Wohnungseigentumsanlage: Betriebskostenabrechnung Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BINDER is a Berlin business-services firm (since 1987) offering bookkeeping and, as a commercial alternative to property management, WEG and property billing for owners and WEGs.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://binderonline.net/",
+  "about": "https://binderonline.net/binder-wirtschaftsdienstleister-berlin/unternehmen.htm",
+  "services": "https://binderonline.net/buchhaltung-berlin/buchhaltung-leistungen.htm",
+  "portal": "https://binderonline.net/wissen/kostenloser-online-service.htm"
+ }
+}

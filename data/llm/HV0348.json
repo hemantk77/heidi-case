@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Firma Herbert Hamel Grundstücksverwaltungen-Immobilien GmbH wurde 1932 von Herrn Herbert Hamel in Berlin gegründet",
+ "founded_year": 1932,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir haben unseren Schwerpunkt in der Verwaltung, Vermietung, Instandhaltung, Modernisierung von Immobilien sowie Eigentumsverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Tanja Juhnke geb. Hamel"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Tanja Juhnke geb. Hamel",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "segment_note": "Berlin property manager founded 1932 offering commercial and residential rental management, technical administration, bookkeeping and WEG services for its portfolio.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.herbert-hamel.de/",
+  "services": "https://www.herbert-hamel.de/kaufmaennische-verwaltung/index.html",
+  "impressum": "https://www.herbert-hamel.de/impressum/index.html"
+ }
+}

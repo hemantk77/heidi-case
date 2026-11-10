@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die SL Grundbesitz- und Verwaltungsgesellschaft mbH ist auf die Verwaltung hochwertiger Wohn- und Geschäftshäuser, Wohnungseigentumsanlagen sowie Einzelhandelimmobilien spezialisiert.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dr. Rainer Kupfer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dr. Rainer Kupfer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "SL Grundbesitz is a Berlin property manager specializing in residential and commercial buildings, condominium associations and retail properties, with an in-house caretaker service.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://sl-grundbesitz.de/",
+  "impressum": "http://sl-grundbesitz.de/html/impress.html"
+ }
+}

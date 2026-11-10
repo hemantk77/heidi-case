@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 26,
+ "employees_evidence": "Wir sind 26 Mitarbeiter: Zwei Mitarbeiterinnen, die Sie am Empfang begrüßen, drei Handwerker, die für Sie in unseren Beständen unterwegs sind",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wohnungsbaugenossenschaft »Köpenick Nord« eG ... Betriebskosten, Mietenbuchhaltung und Wohnungsvorabnahmen (alle Wohngebiete) are listed as departments; Mitgliederbuchhaltung/Mietenbuchhaltung",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [],
+ "managing_directors_evidence": "Ina Kopplin (Vorstandsmitglied) \\nRobert Große (Vorstandsmitglied)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "A Berlin housing cooperative (Wohnungsbaugenossenschaft) with 26 staff that manages its own housing estates in Köpenick, Grünau and Köllnische Vorstadt; no portal or metering provider named.",
+ "units_managed": null,
+ "units_evidence": null,
+ "is_property_manager_rejected": "yes",
+ "managing_directors_rejected": [
+  "Ina Kopplin",
+  "Robert Große"
+ ],
+ "_evidence_checked": 3,
+ "_evidence_failed": 2,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.koepenick-nord.de/",
+  "about": "https://www.koepenick-nord.de/wbg-koepenick-team.html",
+  "services": "https://www.koepenick-nord.de/wohnungsangebote.html",
+  "impressum": "https://www.koepenick-nord.de/impressum.html",
+  "portal": "https://www.koepenick-nord.de/login.html"
+ }
+}

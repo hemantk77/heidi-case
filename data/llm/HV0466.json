@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von  Wohnimmobilien, Gewerbeimmobilien  und Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Bettina Liebel"
+ ],
+ "managing_directors_evidence": "Inhaberin: Bettina Liebel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "weitere Service: Kautionsverwaltung, Wohnungsübergaben, Betriebskostenabrechnungen, Buchhaltung, weiteren Service bei Bedarf.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg property manager (owner-operated, §34c licensed) offering residential, commercial and special-property management plus Betriebskostenabrechnungen; no portal or unit counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-liebel.de/",
+  "services": "https://www.hv-liebel.de/leistungen/",
+  "impressum": "https://www.hv-liebel.de/about/",
+  "portal": "https://www.hv-liebel.de/login"
+ }
+}

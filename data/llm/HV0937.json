@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Willkommen bei Ihrer persönlichen WEG-Verwaltung für Berlin & Brandenburg",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Robert Szymandera"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Robert Szymandera",
+ "portal_or_app": "Casavi",
+ "portal_evidence": "Mit unserem digitalen Kundenportal Casavi haben Sie jederzeit Zugriff auf alle wichtigen Unterlagen",
+ "services": [
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin/Brandenburg WEG property manager (certified under § 26a WEG) offering a Casavi-based owner portal and app.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.biber-immo.de/",
+  "impressum": "https://www.biber-immo.de/impressum",
+  "jobs": "https://www.biber-immo.de/karriere"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_managed": 45000,
+ "units_evidence": "Heute werden mehr als 45.000 Wohn- und Gewerbeeinheiten im Wert von rund 5,5 Milliarden Euro von ca. 130 Mitarbeitern",
+ "employees": 130,
+ "employees_evidence": "von ca. 130 Mitarbeitern im technischen, kaufmännischen und infrastrukturellen Gebäudemanagement betreut",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marco Schöner",
+  "Thomas Speth"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marco Schöner, Thomas Speth",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung Mietverwaltung Immobilienvermittlung Abrechnungsservice",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungsservice",
+ "portal_or_app": "Treubau App / Eigentümerportal",
+ "portal_evidence": "Treubau App: Ihr Eigentümerportal auf dem Handy Sie können jetzt alle Dokumente bequem auf dem Handy oder Tablet einsehen.",
+ "segment_note": "Treubau is a property manager (WEG and rental management, plus brokerage and billing service) with about 45,000 units and 130 staff, headquartered in Mannheim with Berlin branch.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.treubau.de/",
+  "services": "https://www.treubau.de/leistungen",
+  "about": "https://www.treubau.de/ueber-uns/die-treubau-immobilienverwaltung",
+  "jobs": "https://www.treubau.de/karriere",
+  "portal": "https://portal.treubau.de",
+  "impressum": "https://www.treubau.de/impressum"
+ }
+}

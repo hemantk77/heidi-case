@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management, Hausverwaltung Klassische Mietverwaltung Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Mario Bohlen",
+  "Kerstin Döring"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Mario Bohlen und Kerstin Döring",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "living:up is a Berlin-listed residential investment, asset management and consulting firm that also offers classic rental and special-property (Sondereigentum) management.",
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.living-up.com/",
+  "about": "https://www.living-up.com/unternehmen.html",
+  "services": "https://www.living-up.com/service.html",
+  "jobs": "https://www.living-up.com/karriere.html",
+  "impressum": "https://www.living-up.com/impressum.html"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "TRIGON Immobilien Holding GmbH ist der ausgewiesene und anspruchsvolle Projektentwickler für Immobiliengroßprojekte und Asset Management.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "TRIGON Immobilien Holding is a project developer for large real-estate projects (shopping centers, hotels, office, residential) with asset management, and the site shows no property management offering.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tih.berlin/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr freundlicher Immobilienmakler in Berlin und Brandenburg",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Fabian Zippel"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt der Seiten: Zippel Immobilien Fabian Zippel Beilsteiner Straße 99a 12681 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg real estate brokerage (Immobilienmakler) focused on selling properties, with no property management offering found on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immozippel.de/",
+  "services": "https://www.immozippel.de/immobilie-kaufen-berlin-biesdorf-kaulsdorf-mahlsdorf-koepenick/",
+  "about": "https://www.immozippel.de/ueber-uns/",
+  "jobs": "https://www.immozippel.de/energieausweis/",
+  "impressum": "https://www.immozippel.de/impressum/"
+ }
+}

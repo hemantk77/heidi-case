@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Jeserich Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1924,
+ "founded_evidence": "Seit 1924",
+ "managing_directors": [
+  "Matthias Jeserich"
+ ],
+ "managing_directors_evidence": "Herr Matthias Jeserich",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin property management firm founded 1924 that also lists its own old-building apartments for rent in Prenzlauer Berg, Friedrichshain, Lichtenberg and Treptow.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.jeserich.de/",
+  "impressum": "https://www.jeserich.de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnen \n Unsere Siedlungen\n Gästewohnungen\n Vermietungsangebote",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1892,
+ "founded_evidence": "Die Berliner Bau- und Wohnungsgenossenschaft von 1892 eG wurde am 9. März 1892 als Berliner Spar- und Bauverein gegründet.",
+ "managing_directors": [
+  "Dirk Lönnecker",
+  "Thorsten Schmitt",
+  "Alexander Stöckl"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Vorstand\n Herr Dirk Lönnecker, Herr Thorsten Schmitt, Herr Alexander Stöckl",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "1892messenger",
+ "portal_evidence": "1892messenger",
+ "segment_note": "Berlin housing cooperative founded 1892 with over 19,000 members, renting its own estates; no property management for third parties is described.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://1892.de/",
+  "about": "https://1892.de/wer-wir-sind/",
+  "jobs": "https://1892.de/wer-wir-sind/karriere/",
+  "impressum": "https://1892.de/impressum/"
+ }
+}

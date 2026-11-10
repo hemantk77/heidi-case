@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir haben uns auf den Besitz und die Verwaltung von Wohnimmobilien mit hoher Nachfrage spezialisiert.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 1800,
+ "employees_evidence": "Mitarbeiter 1.800",
+ "founded_year": 1998,
+ "founded_evidence": "Gegründet 1998, haben wir, Heimstaden, uns als skandinavisches Immobilienunternehmen",
+ "managing_directors": [
+  "Jordan Jan Milewicz",
+  "Jakub Pawel Mika"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jordan Jan Milewicz, Jakub Pawel Mika",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "MyHome",
+ "portal_evidence": "Mieterportal MyHome",
+ "segment_note": "Heimstaden Germany is a Berlin-based residential landlord and manager of its own rental housing portfolio, with a tenant portal called MyHome and about 1,800 employees.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://heimstaden.com/",
+  "about": "https://heimstaden.com/de/uber-uns/",
+  "services": "https://heimstaden.com/de/kundenservice/",
+  "jobs": "https://heimstaden.com/de/arbeiten-bei-heimstaden/",
+  "impressum": "https://heimstaden.com/de/impressum/"
+ }
+}

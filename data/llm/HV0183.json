@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Folgende Leistungen können Sie von uns erwarten: Miethausverwaltung WEG-Verwaltung Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Maurice-Maximilian Schlumm"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Maurice-Maximilian Schlumm",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Unternehmensapp",
+ "portal_evidence": "Zusätzlich erfahren Sie eine professionelle Digitalisierung und Vernetzung aller Beteiligten rund um die Immobilie in Form einer zentralen Plattform bzw. der eigenen Unternehmensapp.",
+ "segment_note": "MMS Hausverwaltung GmbH is a Berlin property manager offering rental, WEG and special-ownership administration, plus a central platform or company app.",
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mms-hv.de/",
+  "services": "https://mms-hv.de/was-wir-machen/",
+  "impressum": "https://mms-hv.de/impressum"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere  Hausverwaltung zeichnet sich durch jahrelange Erfahrung und  Fachkompetenz aus. Wir kümmern uns mit Sorgfalt und Engagement um die Verwaltung von derzeit insgesamt  2.500 Wohneinheiten.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": 2500,
+ "units_evidence": "Wir kümmern uns mit Sorgfalt und Engagement um die Verwaltung von derzeit insgesamt  2.500 Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "Unser Unternehmen wurde im Jahr 2005 gegründet und ist inhabergeführt.",
+ "managing_directors": [
+  "Christian Nieprasch",
+  "Christiane Rehberg"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte: Christian Nieprasch, Christiane Rehberg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal, WEG Eigentümerportal",
+ "portal_evidence": "Mieterportal ... WEG Eigentümerportal",
+ "segment_note": "Berlin real-estate brokerage with an in-house property management arm managing about 2,500 residential units, offering tenant and WEG owner portals.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.daily-immo.de/",
+  "services": "https://www.daily-immo.de/immobilienangebot/",
+  "portal": "https://www.daily-immo.de/fuer-eigentuemer/eigentuemer-login/",
+  "about": "https://www.daily-immo.de/ueber-uns/",
+  "jobs": "https://www.daily-immo.de/job/",
+  "impressum": "https://www.daily-immo.de/impressum/"
+ }
+}

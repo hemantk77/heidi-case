@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Berlinmaegleren steht für einen professionellen Immobilienverkauf und verbindet langjährige Erfahrung mit lokaler Marktkenntnis. Wir kennen den Berliner Markt genau und vermitteln Wohnimmobilien zu attraktiven Preisen an nationale und internationale Kunden.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Bereits seit 2006 bringt Berlinmaegleren in der Hauptstadt Immobilienverkäufer und Käufer erfolgreich zusammen.",
+ "managing_directors": [
+  "Trine Borre",
+  "Fabian A. Sautter"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Trine Borre ... Geschäftsführer: Fabian A. Sautter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin residential brokerage firm (founded 2006) focused on selling and buying apartments; the site describes no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.berlinmaegleren.de/",
+  "about": "https://www.berlinmaegleren.de/ueber-uns/",
+  "services": "https://www.berlinmaegleren.de/service/leistungen/",
+  "impressum": "https://www.berlinmaegleren.de/service/impressum/"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "managing_directors_evidence": "Geschäftsführung: Janine Kühling, Beatrix Szabó",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "HRS Hausservice GmbH is headquartered in Leipzig with a Berlin office; the homepage text does not describe its services.",
+ "managing_directors_rejected": [
+  "Janine Kühling",
+  "Beatrix Szabó"
+ ],
+ "_evidence_checked": 1,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hrshausservice.de/"
+ }
+}

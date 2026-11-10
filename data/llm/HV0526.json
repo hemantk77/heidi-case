@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Geschäftsinhaber, Herr Dirk Remsperger, befasst sich seit über 25 Jahren mit der Verwaltung von Wohn- und Geschäftshäusern sowie Eigentümergemeinschaften.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohneigentum: Wir kümmern uns im Rahmen unserer Wohnungseigentumsverwaltung um alle Belange, die dem Erhalt und der Wertsteigerung Ihrer Immobilie dienen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dirk Remsperger"
+ ],
+ "managing_directors_evidence": "Anbieter im Sinne des Telemediengesetzes (TMG): Dirk Remsperger",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager (Remsperger Hausverwaltungen) handling condominium (WEG) and rental/commercial units, with over 1,200 units mainly in Berlin and Potsdam.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": "Die Remsperger Hausverwaltungen verwaltet derzeit einen Immobilienbestand von über 1.200 Wohn- und Gewerbeeinheiten, überwiegend in Berlin und Potsdam.",
+ "units_managed": 1200,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.remsperger-hv.de/",
+  "impressum": "https://www.remsperger-hv.de/impressum/"
+ }
+}

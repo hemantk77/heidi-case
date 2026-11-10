@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 40,
+ "employees_evidence": "RESIDEA betreut und verwaltet mit zur Zeit 40 Mitarbeitern ein Portfolio von rund 3.500 Wohn- und Gewerbeeinheiten in Berlin und München.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zu unseren Kernkompetenzen zählen neben dem Immobilienmanagement auch die WEG-Verwaltung und Sondereigentums-Verwaltung (Mietsonderverwaltung).",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "RESIDEA is a Berlin and Munich property manager with about 40 staff, managing roughly 3,500 residential and commercial units, including WEG and Sondereigentum administration.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 3500,
+ "units_evidence": "RESIDEA betreut und verwaltet mit zur Zeit 40 Mitarbeitern ein Portfolio von rund 3.500 Wohn- und Gewerbeeinheiten in Berlin und München.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://residea.de/"
+ }
+}

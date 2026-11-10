@@ -1,0 +1,40 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Geschichte unseres Unternehmens begann 1992  mit einem Maklerbüro in Crimmitschau.",
+ "founded_year": 1992,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Verrechnung der Heiz- und Warmwasserkosten",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die PORZIG Management GmbH ist dank ihrer Erfahrung auf dem Immobilienmarkt und ihrer Vernetzung der beste Partner für Miet-, Gewerbe- und Wohneigentumsverwaltungen (WEG-Verwaltung)",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dirk Porzig"
+ ],
+ "managing_directors_evidence": "GF Dirk Porzig",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PORZIG is a Saxony/Thuringia-focused real-estate group (brokerage, management, technical service) with a management arm covering WEG, rental and commercial units, including Berlin.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "Unser Team betreut ein Portfolio von mehr als 5000 WEG-, Miet- und Gewerbeeinheiten in Berlin und Sachsen.",
+ "units_managed": 5000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.porzig.info/",
+  "services": "https://www.porzig.info/verwaltung/",
+  "about": "https://www.porzig.info/unternehmen/",
+  "jobs": "https://www.porzig.info/unternehmen/karriere/",
+  "impressum": "https://www.porzig.info/impressum/"
+ }
+}

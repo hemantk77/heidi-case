@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Zur VOLKSWOHL BUND-Gruppe gehören die VOLKSWOHL BUND Lebensversicherung a.G., die VOLKSWOHL BUND Sachversicherung AG, die Dortmunder Lebensversicherung AG und die prokundo GmbH. Unsere Hauptverwaltung befindet sich in Dortmund.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "VOLKSWOHL BUND is an insurance group headquartered in Dortmund, not a property manager; the Google listing's Berlin property-management label does not match its website.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.volkswohl-bund.de/",
+  "about": "https://www.volkswohl-bund.de/unternehmen/",
+  "jobs": "https://www.volkswohl-bund.de/karriere/",
+  "portal": "https://www.volkswohl-bund.de/partner-portal/",
+  "impressum": "https://www.volkswohl-bund.de/impressum/"
+ }
+}

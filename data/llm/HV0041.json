@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung Die Wohnverwaltung umfasst sowohl die kaufmännische als auch die technische Verwaltung von Mietobjekten.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Kenan Sahin"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Kenan Sahin",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "professionalisierte Erfassung und Abrechung der Betriebskosten",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin firm (Neukölln) offering rental property management for residential and commercial units, plus sales and brokerage, with operating-cost billing as a service.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://immobiliensahin.de/",
+  "services": "http://www.immobiliensahin.de/service/",
+  "impressum": "http://www.immobiliensahin.de/impressum/"
+ }
+}

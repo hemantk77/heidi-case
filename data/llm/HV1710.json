@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als erfahrene Hausverwaltung bieten wir Ihnen einen kompletten Service im Bereich Immobilienmanagement.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 2000,
+ "units_evidence": ">2.000 Verwaltete Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Philipp Kaiser"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\nPhilipp Kaiser",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "casavi",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "HIB is a Hausverwaltung for residential (Miete/WEG) and commercial properties, managing over 2,000 units, with a customer portal powered by casavi.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hib-verwaltung.de/",
+  "portal": "https://portal.hib-verwaltung.de/",
+  "about": "https://hib-verwaltung.de/uber-uns",
+  "impressum": "https://hib-verwaltung.de/impressum"
+ }
+}

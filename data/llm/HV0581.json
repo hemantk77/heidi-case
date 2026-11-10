@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr Partner für Immobilienverwaltungen in Berlin und Umgebung.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property management firm (Hausverwaltung) also offering rentals and building support (\"von der Hausverwaltung bis zur Baubetreuung\"); website is dated (last update 2019), no size data given.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.goewe.com/"
+ }
+}

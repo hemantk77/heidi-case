@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Das Leistungsspektrum umfasst die Vermittlung, Vermietung und Verwaltung von hochwertigen Immobilien",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1994,
+ "founded_evidence": "RICHERT & OERTEL IMMOBILIEN GMBH ist seit 1994 als inhabergeführtes Immobilienberatungsunternehmen tätig.",
+ "managing_directors": [
+  "Kay-Uwe Sebeikat"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Kay-Uwe Sebeikat",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Investment-focused real estate broker (Dresden HQ, Berlin office) that also offers rental and property/asset management, with 30+ years in business.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.r-o.de/",
+  "about": "https://www.r-o.de/unternehmen",
+  "jobs": "https://www.r-o.de/karriere",
+  "impressum": "https://www.r-o.de/impressum"
+ }
+}

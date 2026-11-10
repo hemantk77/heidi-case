@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Wohnkonzept Immobilienverwaltung widmet sich seit über 20 Jahren der fachkundigen kaufmännischen und technischen Betreuung",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine Berliner Haus- und Grundstücksverwaltung, welche sämtliche Leistungen einer modernen und serviceorientierten Immobilienverwaltung bietet",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Axel Kalinkat"
+ ],
+ "managing_directors_evidence": "Inhaber: Axel Kalinkat",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager for rental houses and WEG (condominium) associations for private owners, offering rental and WEG administration plus accounting and maintenance.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wohnkonzept-immobilienverwaltung.de/",
+  "about": "https://www.wohnkonzept-immobilienverwaltung.de/das-unternehmen/",
+  "services": "https://www.wohnkonzept-immobilienverwaltung.de/leistungen/",
+  "impressum": "https://www.wohnkonzept-immobilienverwaltung.de/impressum/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre lokalen Experten für Hausverwaltung in Berlin – spezialisiert auf WEG-Verwaltung, Mietverwaltung, Sondereigentumsverwaltung und Verkauf.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Anzahl verwalteter Einheiten 1.000+",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ulf Lennermann",
+  "Matthias Möller"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ulf Lennermann, Matthias Möller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "accenta is a Berlin property manager handling WEG, rental, special-ownership management plus sales, with 1,000+ units managed.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.accenta-berlin.de/",
+  "impressum": "https://accenta-berlin.de/impressum"
+ }
+}

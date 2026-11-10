@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die HOWOGE Wohnungsbaugesellschaft mbH ist eines der kommunalen Wohnungsunternehmen des Landes Berlin. Mit einem Bestand von rund 83.300 Mietwohnungen gehören wir zu den größten Vermietern in Deutschland.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 83300,
+ "units_evidence": "Mit einem Bestand von rund 83.300 Mietwohnungen gehören wir zu den größten Vermietern in Deutschland.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": "Meine HOWOGE – eine App für alle Fälle",
+ "segment_note": "HOWOGE is a large Berlin municipal housing company that owns and rents about 83,300 apartments, with a tenant app called Meine HOWOGE.",
+ "portal_or_app_rejected": "Meine HOWOGE",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.howoge.de/",
+  "about": "https://unternehmen.howoge.de",
+  "jobs": "https://karriere.howoge.de",
+  "services": "https://www.howoge.de/mieterservice/ansprechpartner-fuer-mieter.html",
+  "portal": "https://www.howoge.de/mieterservice/meine-howoge-eine-app-fuer-alle-faelle.html",
+  "impressum": "https://www.howoge.de/impressum.html"
+ }
+}

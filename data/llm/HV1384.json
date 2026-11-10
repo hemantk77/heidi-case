@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit 2011 ist Accord auf den Verkauf exklusiver Immobilien in den Premiumlagen von Berlin und Potsdam spezialisiert.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "Über uns – Boutique-Makler seit 2011",
+ "managing_directors": [
+  "Christian Vohl"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Christian Vohl",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Potsdam boutique brokerage selling premium residential properties (new builds and projects), founded 2011, with no property management offering on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.accord-immobilien.de/",
+  "about": "https://www.accord-immobilien.de/ueber-uns",
+  "impressum": "https://www.accord-immobilien.de/impressum"
+ }
+}

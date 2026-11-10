@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die GESA – Gesellschaft zur Entwicklung und Sanierung von Altstandorten mbH – ist ein Projektsteuerer des Bundes.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Gegründet wurde die Gesellschaft im Jahr 2006.",
+ "managing_directors": [
+  "Carsten Reymann",
+  "Dr. Ulrich Wöstmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Carsten Reymann Dr. Ulrich Wöstmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GESA is a federal-owned project steering company for contamination and brownfield remediation (Altlasten), not a property manager; it does not offer WEG, rental or special-property administration.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gesa-info.de/",
+  "about": "https://gesa-info.de/about/",
+  "services": "https://gesa-info.de/dienstleistung/",
+  "jobs": "https://gesa-info.de/karriere/",
+  "impressum": "https://gesa-info.de/impressum/"
+ }
+}

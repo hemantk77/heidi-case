@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "PROJEKTENTWICKLUNG Von der Vision bis zur Vermarktung decken wir die ganze Spannbreite ab. ... BAUTRÄGER Wir schaffen ganz praktisch Werte",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Rainer Bahr"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Rainer Bahr",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "econcept is a Berlin project developer and Bauträger (developer-builder) focused on building residential and commercial projects, with no property management offering mentioned on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.econcept.de/",
+  "about": "https://econcept.de/unternehmen/",
+  "impressum": "https://econcept.de/impressum/",
+  "portal": "https://econcept.de/2026/02/07/geschaeftsfuehrung-verstaerkt-2/",
+  "jobs": "https://econcept.de/2024/07/10/regenial-wettbewerb-projekt-am-postbahnhof-15-ausgezeichnet/"
+ }
+}

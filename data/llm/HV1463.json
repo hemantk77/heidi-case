@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit über 30 Jahren verwalten und vermitteln wir Immobilien in Berlin und Brandenburg: Miethäuser, Wohnungseigentumsanlagen, Sondereigentum und Gewerbeobjekte.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "Mit rund 15 Mitarbeiterinnen und Mitarbeitern betreuen wir rund 2.000 Einheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 15,
+ "employees_evidence": "Mit rund 15 Mitarbeiterinnen und Mitarbeitern betreuen wir rund 2.000 Einheiten.",
+ "founded_year": 1990,
+ "founded_evidence": "Gegründet 1990 und seit 1993 als GmbH tätig, verwaltet Monika Mischke & Partner",
+ "managing_directors": [
+  "Thomas Schwarz",
+  "Christin Schwarz"
+ ],
+ "managing_directors_evidence": "GeschäftsführerThomas Schwarz, Christin Schwarz",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Beauftragung der Heizkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Monika Mischke & Partner is part of the DANTEC group in Berlin, a family-run property manager (WEG, rental, special property) with about 2,000 units, also doing brokerage.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mischke-partner.de/",
+  "about": "https://www.dantec.de/ueber-uns.html",
+  "services": "https://www.dantec.de/leistungen.html",
+  "impressum": "https://www.dantec.de/impressum.html"
+ }
+}

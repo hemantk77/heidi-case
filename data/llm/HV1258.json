@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2017,
+ "founded_evidence": "Unter der obenstehenden Prämisse ist das Unternehmen durch den Geschäftsführer und Gesellschafter im Jahr 2017 gegründet worden.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Nudelmann & Friends Immobilien ist der Immobilienmakler in Berlin, der Käufern und Verkäufern zu allen Fragen rund um Immobilien kompetent zur Verfügung und zur Seite steht.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Benjamin Nudelman"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Benjamin Nudelman",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler"
+ ],
+ "segment_note": "Owner-led Berlin real-estate brokerage founded in 2017 that arranges sales and rentals of residential and commercial properties; no property management offering stated.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.nudelmann-friends.de/",
+  "about": "https://www.nudelmann-friends.de/ueber-uns/",
+  "services": "https://www.nudelmann-friends.de/portfolio/boardinghouse-im-herzen-von-berlin-steglitz/",
+  "portal": "https://www.nudelmann-friends.de/portfolio/knapp-4-000m%c2%b2-grosses-grundstueck-bebaut-mit-sanierungsbeduerftigem-einfamilienhaus/",
+  "impressum": "https://www.nudelmann-friends.de/impressum"
+ }
+}

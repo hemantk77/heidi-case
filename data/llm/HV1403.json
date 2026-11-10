@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Immobilienvermittlungen; Verkauf richtig gemacht: \"Wir können auf mehr als 15 Jahre Erfahrung in der Branche und weit über 300 erfolgreiche Immobilienvermittlungen zurückblicken.\"",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Damir Uzelac"
+ ],
+ "managing_directors_evidence": "Diensteanbieter Damir Uzelac DU IMMOBILIEN Friedrichstr. 155 10117 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DU Immobilien is a Berlin brokerage focused on selling residential properties, with no evidence of property management services.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://du.immo/",
+  "services": "https://du.immo/immobilienangebot/",
+  "impressum": "https://du.immo/impressum"
+ }
+}

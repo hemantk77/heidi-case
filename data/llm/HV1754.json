@@ -1,0 +1,32 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Das Familienunternehmen wurde in den 1970er Jahren gegründet.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Verwaltung der Objekte erfolgt innerhalb der Unternehmensgruppe.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Dr. Dieter Latzel",
+  "Theo Latzel"
+ ],
+ "managing_directors_evidence": "Die Leitung der Gesellschaften erfolgt durch: Dr. Dieter Latzel (geb. 1935), Rechtsanwalt und Notar a.D., Gründer und Geschäftsführer Theo Latzel (geb. 1973), Dipl.-Volkswirt, Geschäftsführer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-owned group that owns residential and commercial buildings in Berlin and Hamburg and manages them in-house; no external property management offering is stated.",
+ "services": [
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://stadtboden.com/"
+ }
+}

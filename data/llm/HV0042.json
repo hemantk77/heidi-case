@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kerngeschäftsfelder sind neben Vermietung und Centermanagement auch Property-Management für globale Anleger, Wohnungseigentumsverwaltung, Sondereigentumsverwaltung und Facility-Management.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 11000,
+ "units_evidence": "verwaltet in Kundencentern in Berlin, München, Plauen und Leipzig derzeit im Gesamtunternehmensverband ca. 11.000 Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 75,
+ "employees_evidence": "Mehr als 75 Mitarbeiter sind in unseren Geschäftsstellen beschäftigt.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jens Ullrich"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jens Ullrich",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "INTEGRA is a property manager (WEG, rental, special-ownership and facility management) with about 11,000 units and over 75 staff, headquartered in Dresden with a Berlin customer center.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.integra-verwaltung.de/",
+  "services": "https://www.integra-verwaltung.de/stellenangebote/",
+  "jobs": "https://www.integra-verwaltung.de/stellenangebote/",
+  "impressum": "https://www.integra-verwaltung.de/impressum"
+ }
+}

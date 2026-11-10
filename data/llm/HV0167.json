@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Wir in Berlin und Brandenburg bieten wir seit dem Jahr 2012 Dienstleistungen",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Kundschaft der Condominia Hausverwaltung Berlin UG besteht aus privaten und geschäftlichen Investoren und Eigentümern aus dem In- und Ausland, die den Aufwand der Immobilienverwaltung gern in professionelle Hände legen möchten.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ingo Koeppen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Ingo Koeppen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Gebäudeverwaltung",
+  "Sondereigentumsverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "segment_note": "Berlin and Brandenburg property manager (since 2012) offering rental, special-property (SEV) and WEG administration for private and commercial owners, managing director Ingo Koeppen.",
+ "units_managed": null,
+ "units_evidence": null,
+ "founded_year_rejected": 2012,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.condominia-berlin.de/",
+  "about": "https://condominia-berlin.de/about-us/",
+  "services": "https://condominia-berlin.de/unsere-leistungen/",
+  "impressum": "https://condominia-berlin.de/impressum/"
+ }
+}

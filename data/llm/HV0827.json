@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnimmobilienverwaltung in Berlin ",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1924,
+ "founded_evidence": "im Jahr 1924 gegründet wurde",
+ "managing_directors": [
+  "Dr. Marion Henschel"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dr. Marion Henschel (Vorsit",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "STRABAG Residential Property Services is a Berlin residential property manager specialising in WEG, rental and special-property management, part of STRABAG PFS.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.strabag-rps.de/",
+  "about": "https://www.strabag-pfs.com/de/ueber-uns",
+  "services": "https://www.strabag-pfs.com/de/leistungen",
+  "jobs": "https://www.strabag-pfs.com/de/karriere",
+  "portal": "https://www.strabag-pfs.com/de/kundenportal",
+  "impressum": "https://www.strabag-pfs.com/de/impressum"
+ }
+}

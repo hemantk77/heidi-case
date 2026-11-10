@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Mohammad Qasim Akbar",
+  "Mohamad Youssef Akbar",
+  "Nadim-Mohamad Ali Akbar",
+  "Nabil Akbar",
+  "Bareq Akbar"
+ ],
+ "managing_directors_evidence": "Mohammad Qasim Akbar, Mohamad Youssef Akbar, Nadim-Mohamad Ali Akbar, Nabil Akbar, Bareq Akbar, (als Bruchteilsgemeinschaft)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Hausverwaltung Akbar is a property management firm (name suggests Hausverwaltung) based at Saatwinkler Damm 11-12 in Berlin; the Impressum names five partners but the page gives no service details, unit counts, or founding year.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "impressum": "https://hv-akbar.de/impressum/"
+ }
+}

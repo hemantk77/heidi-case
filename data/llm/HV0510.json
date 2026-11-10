@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Immobilien: Wir verwalten sowohl Wohn- als auch Gewerbeimmobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Von 1993 bis 2013 wurden ausschließlich Projekte in Berlin realisiert.",
+ "managing_directors": [
+  "Arnt Meiser"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Arnt Meiser",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Kontor is a Berlin company that develops residential and commercial properties and also manages both residential and commercial real estate, including rentals and coordination of external service providers.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.berlin-kontor.de/",
+  "impressum": "https://www.berlin-kontor.de/impressum.html"
+ }
+}

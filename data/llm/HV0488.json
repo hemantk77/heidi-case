@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Projektentwicklung &‍Verwaltung von Immobilien",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Rebecca Mondet"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Rebecca Mondet",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BBB is a real-estate project developer and property manager (Projektentwicklung & Verwaltung von Immobilien) with offices in Ziesar and listings in Potsdam and Berlin; no unit counts are published.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bbbnet.de/"
+ }
+}

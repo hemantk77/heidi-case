@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten derzeit Miet- und Gewerbeimmobilien in den Berliner Bezirken Westend, Charlottenburg, Wilmersdorf, Friedenau sowie Steglitz-Zehlendorf.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "Das Team der Dr. Dietzmann Immobilienverwaltung (vorm. Assarius Immobilienverwaltung) wurde im Jahr 2015 gegründet.",
+ "managing_directors": [
+  "Robert Kowalkowski"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Robert Kowalkowski",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der jährlichen Heiz- und Betriebskostenabrechnungen für die Mieter einschließlich Anpassung der Vorauszahlungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Dr. Dietzmann Immobilienverwaltung, formerly Assarius) handling residential and commercial rentals in Westend, Charlottenburg, Wilmersdorf, Friedenau and Steglitz-Zehlendorf, founded 2015, with annual heating and operating cost billing offered.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://drdivw.de/",
+  "services": "https://drdivw.de/leistungen",
+  "about": "https://drdivw.de/unternehmen",
+  "impressum": "https://drdivw.de/impressum-und-datenschutz"
+ }
+}

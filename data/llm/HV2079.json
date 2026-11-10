@@ -1,0 +1,30 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Hausverwaltung wurde im Jahr 1959 von Wilhelm und Elise Duckwitz, geborene Hechel gegründet.",
+ "founded_year": 1959,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Hausverwaltung legen wir viel Wert darauf, unsere zukünftigen Mieter persönlich kennen zu lernen.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "Berlin-Reinickendorf property manager founded in 1959, managing 163 rental apartments for its own family-run portfolio, with an in-house caretaker and handyman.",
+ "units_evidence": "Wir haben insgesamt 163 Wohnungen im Bestand.",
+ "units_managed": 163,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-duckwitz.de/"
+ }
+}

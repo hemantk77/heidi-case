@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr Spezialist für die kaufmännische und technische Verwaltung von Immobilien in Berlin!",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 1900,
+ "units_evidence": "Der Verwaltungsbestand umfasst inzwischen rund 1.900 Miet- und Eigentumswohnungen, 1.300 Garagen- und Stellplätze sowie ca. 11.000m² Büro- und Ladenflächen.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 8,
+ "employees_evidence": "Derzeit beschäftigen wir 8 qualifizierte engagierte Mitarbeiterinnen und Mitarbeiter",
+ "founded_year": 2015,
+ "founded_evidence": "wurde im Jahre 2015 als spezialisiertes inhabergeführtes Unternehmen gegründet",
+ "managing_directors": [
+  "Dipl.-Ing. Tobias Seidel"
+ ],
+ "managing_directors_evidence": "vertreten durch Ihren Geschäftsführer: Dipl.-Ing. Tobias Seidel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager handling commercial and technical administration for about 1,900 rental and owner-occupied apartments plus parking spaces and commercial space, with 8 staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://omnia-hausverwaltung.de/",
+  "about": "https://omnia-hausverwaltung.de/team/",
+  "impressum": "https://omnia-hausverwaltung.de/impressum/"
+ }
+}

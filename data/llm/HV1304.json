@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Immobilienmakler im Süden Berlins",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Melanie Frank",
+  "Liane Frank"
+ ],
+ "managing_directors_evidence": "Melanie Frank:  ... Liane Frank Tel.: (030) 664 11 53",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Frank Immobilien is a family-run real estate brokerage in Berlin's southern districts (Rudow, Buckow, Britz) focused on selling properties, with no property management offered.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.frank-immobilien.eu/",
+  "about": "https://frank-immobilien.eu/team/",
+  "services": "https://frank-immobilien.eu/unser-service-fuer-verkaeufer/",
+  "impressum": "https://frank-immobilien.eu/impressum-2/"
+ }
+}

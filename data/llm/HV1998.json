@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir kümmern uns um alle Belange der Hausverwaltung und stehen Ihnen mit Rat und Tat zur Seite.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1980,
+ "founded_evidence": "Fredebeul Immobilien ist seit 1980 Ihr vertrauensvoller Partner in allen Immobilienfragen.",
+ "managing_directors": [
+  "Michael Fredebeul",
+  "Thomas Fredebeul",
+  "Simon Strathoff"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Fredebeul, Thomas Fredebeul, Simon Strathoff",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Bielefeld-based real estate broker and rental property manager (Mietverwaltung) active in Ostwestfalen, with some activity in Berlin; no unit counts or portal stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.fredebeul-immobilien.de/",
+  "services": "https://www.fredebeul-immobilien.de/mietverwaltung/",
+  "about": "https://www.fredebeul-immobilien.de/ueber-uns/",
+  "impressum": "https://www.fredebeul-immobilien.de/impressum/"
+ }
+}

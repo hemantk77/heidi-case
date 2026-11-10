@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Berufsbezeichnung: Immobilienmakler",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Thomas Nagel"
+ ],
+ "managing_directors_evidence": "Thomas Nagel\n Thomas Nagel Immobilien\nMarkgraf-Albrecht-Straße 1",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate brokerage focused on property sales (Kaufimmobilien, Nachlassimmobilien) with a team of two brokers and two back-office staff; no property management offered per the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://thomasnagel.immobilien/",
+  "services": "https://www.thomasnagel.immobilien/aktuelleangebote",
+  "impressum": "https://www.thomasnagel.immobilien/impressum"
+ }
+}

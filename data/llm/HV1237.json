@@ -1,0 +1,42 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Leidenschaft gilt dem treuhänderischen Property Management für die bundesweiten Immobilienbestände unserer Kundinnen und Kunden.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": 25000,
+ "units_evidence": "Derzeit betreuen wir von der BUWOG Immobilien Treuhand rund 25.000 Wohn- und Gewerbeeinheiten für nationale und internationale Investorinnen und Investoren",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Mit mehr als 100 Mitarbeiterinnen und Mitarbeitern ist die BUWOG Immobilien Treuhand",
+ "founded_year": 1951,
+ "founded_evidence": "1951 Gründung Die BUWOG wird von der Nachkriegsregierung zum Zweck der Wohnungsfürsorge für Bundesbedienstete ins Leben gerufen.",
+ "managing_directors": [
+  "Arnd Fittkau",
+  "Daniela Klüber",
+  "Petra Langemann",
+  "Luka Mucic",
+  "Ruth Werhahn"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Arnd Fittkau, Daniela Klüber, Petra Langemann, Luka Mucic, Ruth Werhahn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "BUWOG HOME",
+ "portal_evidence": "Nutzen Sie die vielen Vorteile und Services der \"BUWOG HOME\" App auf Ihrem Smartphone.",
+ "segment_note": "BUWOG Immobilien Treuhand is a Berlin-registered-address property manager (Vonovia subsidiary) managing about 25,000 residential and commercial units for investors, with 100+ staff and the BUWOG HOME tenant app.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.buwog-immobilientreuhand.de/",
+  "services": "https://www.buwog-immobilientreuhand.de/ihr-mieterservice",
+  "about": "https://www.buwog-immobilientreuhand.de/ueber-uns",
+  "jobs": "https://www.buwog-immobilientreuhand.de/karriere",
+  "portal": "https://www.buwog-immobilientreuhand.de/immer-app-to-date",
+  "impressum": "https://www.buwog-immobilientreuhand.de/impressum"
+ }
+}

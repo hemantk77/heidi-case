@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben der Mietverwaltung für Mehrfamilienhäuser gehören auch die WEG-Verwaltung und die Sondereigentumsverwaltung zu unseren Tätigkeitsschwerpunkten.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Wir sind ein kleines, inhabergeführtes Verwaltungsunternehmen mit einem Bestand von ca. 50 Immobilien mit ca. 1.000 Einheiten.",
+ "buildings_managed": 50,
+ "buildings_evidence": "Wir sind ein kleines, inhabergeführtes Verwaltungsunternehmen mit einem Bestand von ca. 50 Immobilien mit ca. 1.000 Einheiten.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marc Zunder"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Marc Zunder",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkosten-Abrechnung, ",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small owner-managed Berlin property manager with about 50 properties and 1,000 units, offering WEG, rental and special-property management.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-klett.de/",
+  "about": "https://www.hv-klett.de/hausverwaltung-klett-gmbh/wer%20wir%20sind",
+  "services": "https://www.hv-klett.de/hausverwaltung-klett-gmbh/wer%20wir%20sind",
+  "impressum": "https://www.hv-klett.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management - Durch die professionelle Verwaltung unserer Immobilien schaffen wir das Wohlbefinden unserer Mieter und verbessern stetig die Mieterfahrung.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Svein Erik Lilleland",
+  "Jonatan Öhman"
+ ],
+ "managing_directors_evidence": "Geschäftsführung\nSvein Erik Lilleland\nJonatan Öhman",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal",
+ "portal_evidence": "Unser Mieterportal für Service-Anfragen und Schadensmeldungen steht Ihnen in Kürze zur Verfügung.",
+ "segment_note": "ambelin GmbH is a Berlin real-estate company that offers rental properties in Berlin and across Germany and runs professional property management for its own portfolio; a tenant portal is announced as coming soon.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ambelin.de/",
+  "about": "https://ambelin.de/about/",
+  "jobs": "https://ambelin.de/careers/",
+  "impressum": "https://www.ambelin.de/impressum/"
+ }
+}

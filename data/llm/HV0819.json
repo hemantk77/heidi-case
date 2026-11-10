@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Vom Grundstückserwerb über die Unterstützung bei der Planung, den Vertrieb und den After-Sales-Service bis hin zur Hausverwaltung begleiten wir Sie",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 130,
+ "employees_evidence": "Unsere erstklassigen Dienstleistungen werden von mehr als 130 Mitarbeitern in den Bereichen Vertrieb, Marketing und Immobilienverwaltung erbracht.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Danny Wolf",
+  "Nikolai Dombrowski"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Danny Wolf, Nikolai Dombrowski",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based sales platform for new-build and privatization projects that also offers property management (Hausverwaltung) alongside brokerage and financing for developers and portfolio owners.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bestplace-immobilien.de/",
+  "about": "https://www.bestplace-immobilien.de/about-us",
+  "jobs": "https://www.bestplace-immobilien.de/career",
+  "impressum": "https://www.bestplace-immobilien.de/legal-notice"
+ }
+}

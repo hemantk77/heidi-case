@@ -1,0 +1,37 @@
+{
+ "buildings_managed": 89,
+ "buildings_evidence": "Gebäude\n89+",
+ "employees": 6,
+ "employees_evidence": "Anzahl der Mitarbeiter\n06",
+ "founded_year": null,
+ "founded_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre lokalen Experten für Hausverwaltung in Berlin – spezialisiert auf WEG-Verwaltung, Mietverwaltung, Sondereigentumsverwaltung und Verkauf.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ulf Lennermann",
+  "Matthias Möller"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer:\nUlf Lennermann\nMatthias Möller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin property manager specializing in WEG, rental and special-property management, plus sales and letting, with about 6 staff and 89+ buildings.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.baurag.de/",
+  "impressum": "https://www.baurag.de/impressum"
+ }
+}

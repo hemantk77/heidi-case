@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit mehr als 30 Jahren sind wir erfolgreich als familiengeführter Miet- und Eigentumsverwalter auf dem Berliner Immobilienmarkt tätig.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister",
+  "Makler"
+ ],
+ "units_managed": 1000,
+ "units_evidence": "Unsere Kernkompetenz umfasst die professionelle Verwaltung und Betreuung von derzeit ca. 1.000 Einheiten in Wohn- und Geschäftshäusern, Mehrfamilienhäusern und WEGs.",
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jörg Mitschke",
+  "Jessica Zebitz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\nJörg Mitschke, Jessica Zebitz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin family-run property manager (over 30 years) handling about 1,000 units of residential, mixed-use and WEG properties, also offering brokerage via an affiliated firm.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.valida-gmbh.de/",
+  "about": "https://valida-gmbh.de/unternehmen/",
+  "services": "https://valida-gmbh.de/leistungen",
+  "impressum": "https://valida-gmbh.de/impressum/"
+ }
+}

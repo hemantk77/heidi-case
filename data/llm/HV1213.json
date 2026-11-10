@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine junge Wohnungsgenossenschaft mit 592 Wohnungen am östlichen Eingangstor zu Berlin.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 592,
+ "units_evidence": "Wir sind eine junge Wohnungsgenossenschaft mit 592 Wohnungen am östlichen Eingangstor zu Berlin.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dr. Martina Jakubzik",
+  "Maria Kirsch"
+ ],
+ "managing_directors_evidence": "Vorstand Dr. Martina Jakubzik Maria Kirsch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (eG) managing its own portfolio of 592 apartments in Marzahn-Hellersdorf, with a Vorstand of two.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.neues-wohnen-hellersdorf.de/",
+  "services": "https://www.neues-wohnen-hellersdorf.de/service/",
+  "impressum": "https://www.neues-wohnen-hellersdorf.de/impressum/"
+ }
+}

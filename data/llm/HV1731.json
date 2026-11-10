@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung Czudnochowski",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The company is a property management firm (Hausverwaltung) based in Berlin-Nikolassee, with a site listing rentals (Zu vermieten) and forms; the site gives no unit or building counts.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.czudnochowski.de/anffahrt.html"
+ }
+}

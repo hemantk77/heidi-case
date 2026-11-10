@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit unserer Mietverwaltung entlasten wir Sie von Ihren Pflichten als Vermieter. Sind Sie dagegen eine Eigentümergemeinschaft, bieten wir Ihnen unsere Wohnungseigentumsverwaltung an.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Seit 1993 bin ich selbständig im Bereich Hausverwaltung tätig",
+ "managing_directors": [
+  "Karl-Heinz von Garrel"
+ ],
+ "managing_directors_evidence": "Karl-Heinz von Garrel\nImmobilienökonom (VWA)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Karl-Heinz von Garrel, sole proprietor since 1993) offering rental, WEG, special-property management, brokerage and Hauswart services; no unit count or portal stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.von-garrel-hv.de/",
+  "services": "https://www.von-garrel-hv.de/leistungen/",
+  "about": "https://www.von-garrel-hv.de/ueber-uns/philosophie/",
+  "impressum": "https://www.von-garrel-hv.de/kontakt/impressum/"
+ }
+}

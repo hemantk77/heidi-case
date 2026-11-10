@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Profitieren Sie beim Immobilienkauf oder -verkauf in Berlin von der Expertise eines erfahrenen Maklers wie KLINGER Immobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "KLINGER Immobilien is a Berlin real-estate brokerage (Makler) for buying and selling properties; the site mentions no property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.klingerimmobilien.de/",
+  "about": "https://www.klingerimmobilien.de/team",
+  "services": "https://www.klingerimmobilien.de/immobilienangebote/",
+  "portal": "https://www.klingerimmobilien.de/unser-system/",
+  "impressum": "https://www.klingerimmobilien.de/impressum/"
+ }
+}

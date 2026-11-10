@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die DGV Deutsche Grundstücksverwaltung GmbH wurde 2009 als Teil der WERTCONCEPT Investment Group in Berlin gegründet",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Es umfasst heute eine vollumfängliche Mietverwaltung, sowie die Verwaltung von Gewerbeimmobilien,  Wohnungseigentümergemeinschaften (WEG) und Sondereigentum (SEV).",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Markus Schaale"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Markus Schaale",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering rental, commercial, WEG and special-ownership (SEV) management for private owners and institutional investors, founded 2009 as part of WERTCONCEPT.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "is_property_manager_rejected": "yes",
+ "founded_year_rejected": 2009,
+ "_evidence_checked": 3,
+ "_evidence_failed": 2,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://dgv-online.com/",
+  "services": "https://dgv-online.com/leistungen/",
+  "about": "https://dgv-online.com/unternehmen/",
+  "impressum": "https://dgv-online.com/impressum/"
+ }
+}

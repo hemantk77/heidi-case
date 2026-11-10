@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "We run it ourselves. Asset management, accounting and maintenance are done by our own team in Berlin. No subcontractors stand between us and the tenant.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 1204,
+ "units_evidence": "1,204units under management",
+ "buildings_managed": 100,
+ "buildings_evidence": "100+buildings in Germany",
+ "employees": 29,
+ "employees_evidence": "29professionals in Berlin and Petah Tikva",
+ "founded_year": 2011,
+ "founded_evidence": "2011Founded in Berlin",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based residential investor that buys, renovates and self-manages about 1,204 units in 100+ buildings across Germany, with 29 staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.milestone-group.eu/"
+ }
+}

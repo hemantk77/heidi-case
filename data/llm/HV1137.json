@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als erfahrener Verwalter übernehmen wir sowohl den Ankauf als auch die professionelle Verwaltung unserer Immobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Lisa Bading",
+  "Gunter Bading"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: Lisa Bading & Gunter Bading",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Family-run Berlin company (over 30 years) that buys and professionally manages its own residential properties across several Berlin districts; no unit count or software stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bading-properties.de/",
+  "services": "https://bading-properties.de/properties/",
+  "impressum": "https://bading-properties.de/impressum"
+ }
+}

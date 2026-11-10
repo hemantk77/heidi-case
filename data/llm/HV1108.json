@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Hauptgeschäft ist die professionelle Vermittlung von private wie gewerblichen Kauf- und Mietobjekten.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Eric Behrendt"
+ ],
+ "managing_directors_evidence": "Inh. Eric Behrendt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Owner-operated Berlin real estate brokerage (Makler) selling and renting residential and commercial properties; no property management offered on the site.",
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://prinzimmobilien.com/",
+  "services": "https://prinz.immobilien/unsere-leistungen/",
+  "impressum": "https://prinz.immobilien/impressum/"
+ }
+}

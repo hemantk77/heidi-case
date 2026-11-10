@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Marco Bäsler"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Marco Bäsler",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "BEB is a Berlin firm focused on project development, brokerage of residential and commercial property, and investment advice; the site mentions only occasional rentals and post-sale \"Verwaltung und Betreuung\" without describing a management service.",
+ "portal_evidence": null,
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bebgmbh.com/",
+  "impressum": "https://www.bebgmbh.com/impressum"
+ }
+}

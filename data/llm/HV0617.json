@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Dienstleistungen umfassen Miet- und WEG-Verwaltung, Fondsverwaltung und Sondereigentumsverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Unser Team ist seit 1997 in der Immobilienverwaltung tätig.",
+ "managing_directors": [
+  "Alexandra Popov"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Alexandra Popov",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Portal24",
+ "portal_evidence": "Portal24 Deutsch English Herzlich willkommen im Service-Portal.",
+ "segment_note": "IntigrA is an owner-managed property manager (since 1997) offering rental, WEG, special-ownership and fund management, plus brokerage, with a Portal24 service portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.intigra-immobilien.de/",
+  "about": "https://intigra-immobilien.de/ueber-uns/",
+  "services": "https://intigra-immobilien.de/hausverwaltung/",
+  "portal": "http://portal.intigra-immobilien.de/user/auth/login",
+  "impressum": "https://intigra-immobilien.de/impressum/"
+ }
+}

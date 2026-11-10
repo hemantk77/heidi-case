@@ -1,0 +1,37 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "Seit 1999 begleiten wir Eigentümergemeinschaften mit Stabilität, Struktur und rechtssicheren Prozessen.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungen & Versammlungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung für WEGs in Berlin und Umland | Mühlberger und Fest",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jan Köster"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Jan Köster",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager founded 1999, focused on WEG administration with SE and MIE rental management, plus accounting and technical oversight.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.muehlberger-fest.de/",
+  "services": "http://www.muehlberger-fest.de/leistungen/",
+  "about": "http://www.muehlberger-fest.de/ueber-uns/",
+  "impressum": "http://www.muehlberger-fest.de/impressum/"
+ }
+}

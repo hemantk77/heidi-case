@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Neben der Vermittlungstätigkeit kaufe ich selber auch Immobilien an und übernehme die eigenständige Verwaltung dieser Immobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Leo Niederhafner"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte/-r: Leo Niederhafner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate broker (Immobilienmakler) for Berlin and Brandenburg that also buys properties for itself and manages them independently; no unit counts given.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.niederhafner-immobilien.de/",
+  "services": "https://niederhafner-immobilien.de/leistungen",
+  "impressum": "https://niederhafner-immobilien.de/impressum-datenschutz"
+ }
+}

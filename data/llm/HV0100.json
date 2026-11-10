@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "seit 1991",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Zwischen- und Jahresabrechnungen ... Nebenkostenabrechnungen und Mietanpassungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr verlässlicher Partner für WEG- und Miethausverwaltung in Berlin und Potsdam seit 1991",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michelle Dietz"
+ ],
+ "managing_directors_evidence": "Inh. Michelle Dietz",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "segment_note": "MEG Hausverwaltung is a Berlin and Potsdam property manager (WEG, rental, special-property and commercial) founded 1991, also offering construction supervision (Baubetreuung).",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.meg-hausverwaltung.de/",
+  "services": "https://www.meg-hausverwaltung.de/hausverwaltung-berlin/",
+  "jobs": "https://www.meg-hausverwaltung.de/karriere",
+  "impressum": "https://www.meg-hausverwaltung.de/impressum"
+ }
+}

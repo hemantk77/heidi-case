@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Beraten Garant und Basis für tragfähige Entscheidungen Umsetzen Garant für die Realisierung getroffener Entscheidungen Dekarbonisieren Garant für zukunftsfähige Assets und Portfolios Stabilisieren Grant für Übersicht und Steuerung in unruhigem Fahrwasser Investieren Garant für gleichgerichtete Interessen",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Kristina Jahn",
+  "Roman Bosold"
+ ],
+ "managing_directors_evidence": "Inhaltlich verantwortlich gemäß § 6 MDStV: Kristina Jahn und Roman Bosold",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Liva Estate GmbH is a Berlin firm offering consulting, implementation, decarbonisation, stabilisation and investment services for assets and portfolios, with no property management offering shown on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://liva.estate/",
+  "impressum": "https://liva.estate/impressum"
+ }
+}

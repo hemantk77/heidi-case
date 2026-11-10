@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir vermieten Ihre Wohnung in Berlin und im Umland bis Potsdam: vom ehrlichen Mietpreis über geprüfte Mieter bis zum Mietvertrag und zur Übergabe.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Sondereigentumsverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Adelina Kelmendi"
+ ],
+ "managing_directors_evidence": "Adelina Kelmendi",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate broker (§34c GewO) offering rental management for landlords, including tenant vetting, lease preparation, handover, and furnished rentals, plus property sales.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kelmendi-immobilien.com/",
+  "impressum": "https://kelmendi-immobilien.com/impressum"
+ }
+}

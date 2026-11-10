@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "KuPa Hausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Askell Kutzke",
+  "Lutz Papstein"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Askell Kutzke & Lutz Papstein",
+ "portal_evidence": "Online Portal",
+ "portal_or_app": "Online Portal",
+ "segment_note": "KuPa Hausverwaltung is a Berlin property manager offering WEG and rental-building management, with an online portal for owners and tenants.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kupa.de/",
+  "portal": "https://kupa.de/infos/index.html",
+  "impressum": "https://kupa.de/impressum/index.html"
+ }
+}

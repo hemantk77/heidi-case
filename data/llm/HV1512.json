@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienvermittlung: Immobilien, die für unsere Partner nicht interessant sich vermitteln wir an unsere Kunden in ganz Europa.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1994,
+ "founded_evidence": "seit 1994",
+ "managing_directors": [
+  "S.Demir"
+ ],
+ "managing_directors_evidence": "Inhaber: S.Demir",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Berlin-based real estate investment, development, and brokerage firm (since 1994) with no property management offering shown on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://demir-group.com/",
+  "impressum": "https://demir-group.com/impressum/"
+ }
+}

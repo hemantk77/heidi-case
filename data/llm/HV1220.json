@@ -1,0 +1,35 @@
+{
+ "buildings_managed": 11,
+ "buildings_evidence": "Aktuell gehören zur SBG 11 Häuser, die über ganz Berlin verteilt sind.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1984,
+ "founded_evidence": "Gründungsjahr: 1984",
+ "managing_directors": [
+  "Julian Benz",
+  "Renée Somnitz",
+  "Angelika Döhnert"
+ ],
+ "managing_directors_evidence": "Vorstand: Julian Benz, Renée Somnitz, Angelika Döhnert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Auch wenn sich in den mittlerweile 30 Jahren seit Bestehen der Selbstbaugenossenschaft viel verändert hat",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 170,
+ "units_evidence": "Aktuell besitzt die Genossenschaft 11 Häuser mit insgesamt 170 Wohneinheiten.",
+ "segment_note": "Berlin housing cooperative founded in 1984 that owns 11 houses with 170 units and has its own Hausverwaltung handling the buildings.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://selbstbaugenossenschaft.de/",
+  "about": "https://selbstbaugenossenschaft.de/?page_id=1399",
+  "impressum": "https://selbstbaugenossenschaft.de/?page_id=1446"
+ }
+}

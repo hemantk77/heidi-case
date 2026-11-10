@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Vor Ort bieten wir einen erstklassigen Service, für die Mieteransprache, Sanierungsmaßnahmen und alle Themen rund um die Verwaltung des Sondereigentums.",
+ "main_business": "property_management",
+ "services": [
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heiko Klayziewski"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Heiko Klayziewski",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AMS is a Solingen-registered firm offering Sondereigentums and rental management plus brokerage for investor-owned apartments in Berlin, Köln and Düsseldorf, with a small team.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ams.immo/",
+  "about": "https://ams.immo/ueber-uns",
+  "impressum": "https://ams.immo/impressum"
+ }
+}

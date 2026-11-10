@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienmakler und Hausverwalter, MARY DEITERS IMMOBILIEN GmbH",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate firm describing itself as estate agent and property manager (Hausverwalter), with a tenant service page; no unit counts or portal stated on the site.",
+ "services_evidence": "Verwalten / Mieterservice navigation items",
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mary-deiters.de/",
+  "about": "https://mary-deiters.de/unternehmen",
+  "services": "https://mary-deiters.de/mieterservice",
+  "impressum": "https://mary-deiters.de/impressum"
+ }
+}

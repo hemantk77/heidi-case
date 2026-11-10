@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Green Living Development ist ein inhabergeführtes Immobilienunternehmen mit Niederlassungen in Berlin, München-Grünwald, Stralsund, Moosburg und Zinnowitz. ... entwickelt hochwertige Wohn- und Gewerbeobjekte.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2017,
+ "founded_evidence": "2017 gegründete Unternehmen",
+ "managing_directors": [
+  "Frank Behn"
+ ],
+ "managing_directors_evidence": "Vertreten durch Frank Behn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based developer (Projektentwickler/Bauträger) of energy-efficient residential and commercial properties for investors; no property management services mentioned.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://greenliving-development.de/",
+  "about": "https://greenliving-development.de/unternehmen/",
+  "services": "https://greenliving-development.de/portfolio/",
+  "impressum": "https://greenliving-development.de/impressum/"
+ }
+}

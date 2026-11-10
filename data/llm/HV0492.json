@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Rund um die Mietverwaltung oder Sondereigentumsverwaltung halten wir Sie stets auf dem Laufenden.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Bianka Timpe"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Bianka Timpe",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ProCasa-Immobilienservice is a Berlin property manager offering Miet- and Sondereigentumsverwaltung alongside brokerage (Maklerservice), led by Bianka Timpe.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.procasa-immobilienservice.com/",
+  "impressum": "https://www.procasa-immobilienservice.com/about-4-4"
+ }
+}

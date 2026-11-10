@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Olaf Bading"
+ ],
+ "managing_directors_evidence": "Gesetzlicher Vertreter: alleiniger Geschäftsführer Olaf Bading",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Neukölln firm that describes itself as caring for an existing property portfolio (\"Verwaltungsobjekte\", \"Betreuung des bestehenden Immobilienbestands\"), run by sole managing director Olaf Bading; no units or services stated.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bading.eu/",
+  "impressum": "https://www.bading.eu/impressum.html"
+ }
+}

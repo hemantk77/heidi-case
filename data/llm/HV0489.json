@@ -1,0 +1,37 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Bajnova bietet WEG-Verwaltung, Mietverwaltung, Sondereigentumsverwaltung, Facility Management sowie die Erstellung von Nebenkostenabrechnungen – alles aus einer Hand.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ob WEG-Verwaltung, Mietverwaltung oder Sondereigentumsverwaltung – wir kümmern uns mit Fachwissen, Engagement und modernen Prozessen um Ihre Immobilie.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Mehmed Junuzovic"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Mehmed Junuzovic",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin-based property manager (WEG, rental, special-ownership and facility management) with a digital-communication focus; no unit or building counts or portal stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bajnova.de/",
+  "about": "https://bajnova.de/about",
+  "services": "https://bajnova.de/leistungen",
+  "impressum": "https://bajnova.de/reference/impressum"
+ }
+}

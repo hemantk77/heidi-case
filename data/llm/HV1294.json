@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": 350,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2015,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "WOONWOON is a Berlin serviced-apartment provider (short-term furnished rentals, 350+ apartments) run by REK Berlin Home Service GmbH, founded 2015.",
+ "units_evidence": "350+ Wohnungen",
+ "founded_evidence": "wurde 2015 gegründet",
+ "managing_directors_evidence": "Geschäftsführer: ... Nielsen, Niels Peter",
+ "employees_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence_note": null,
+ "managing_directors_rejected": [
+  "Nielsen, Niels Peter"
+ ],
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://woonwoon.de/",
+  "about": "https://woonwoon.de/ueber-uns/",
+  "impressum": "https://woonwoon.de/impressum/"
+ }
+}

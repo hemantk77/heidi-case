@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung mit Erlaubnis nach § 34c Abs. 1 der Gewerbeordnung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2025,
+ "founded_evidence": "wurde 2025 mit der Vision gegründet",
+ "managing_directors": [
+  "Jan Lennart Sander"
+ ],
+ "managing_directors_evidence": "Jan Lennart Sander",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung und die Koordination bewährter Handwerkspartner aus der Region.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Young Berlin/Rostock brokerage (also licensed for Immobilienverwaltung) offering sales, rental and property management with Nebenkostenabrechnung, founded 2025 with a small team.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immobilienpartner-sb.de/",
+  "about": "https://immobilienpartner-sb.de/ueber-uns",
+  "impressum": "https://immobilienpartner-sb.de/impressum"
+ }
+}

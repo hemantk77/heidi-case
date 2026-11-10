@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Hausverwaltung koordinieren wir das Miteinander von",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sylvia Barembruch-Grimm"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nDipl.-Kffr Sylvia Barembruch-Grimm",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Für Eigentümer sind wir jederzeit Online erreichbar: greifen Sie sicher und komfortabel auf Ihre Hausabrechnungen zu",
+ "portal_or_app": "Habitar24 Digital+Plus Portal",
+ "portal_evidence": "Habitar24 Digital+Plus Portal",
+ "segment_note": "Berlin property manager (Hausverwaltung) offering WEG and rental management, technical building care, and an online owner/tenant portal with access to house billing statements.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.habitar24.de/",
+  "impressum": "https://www.habitar24.de/impressum/",
+  "portal": "https://daten.habitar24.de",
+  "services": "https://www.habitar24.de/mieterservice/",
+  "jobs": "https://www.habitar24.de/jobs/"
+ }
+}

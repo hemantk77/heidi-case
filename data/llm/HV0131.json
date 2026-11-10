@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": "Es werden durch uns z.Zt. über 40 Liegenschaften in Berlin betreut",
+ "buildings_managed": 40,
+ "employees": 5,
+ "employees_evidence": "Unser Team besteht aus 5 Mitarbeitern.",
+ "founded_evidence": "Wir sind seit 1997 als selbstständiges Verwaltungs- und Immobilienunternehmen in Berlin tätig.",
+ "founded_year": 1997,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungsservice",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Tätigkeitsgebiete erstrecken sich über die Verwaltung von Wohnungseigentum und der Mietverwaltung ganzer Liegenschaften und Sondereigentum.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Oliver Rohr"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Oliver Rohr",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 1997 handling condominium (WEG), rental and special-property management for about 40 properties with a 5-person team.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "buildings_managed_placeholder": null,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-rohr.de/",
+  "about": "http://www.hv-rohr.de/cms/index72d1.html?option=com_content&view=article&id=3&Itemid=11",
+  "services": "http://www.hv-rohr.de/cms/index6028.html?option=com_content&view=article&id=4&Itemid=10",
+  "impressum": "http://www.hv-rohr.de/cms/index141c.html?option=com_content&view=article&id=15&Itemid=24"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "In unserem sechsköpfigen Team arbeiten Immobilienexperten, Finanzierungs-Spezialisten und Handwerker mit Leidenschaft!",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Kai Bierbüße"
+ ],
+ "managing_directors_evidence": "Kai Bierbüße (Geschäftsführer)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate firm (six-person team) offering property consulting, marketing for sale/rental, and financing services; no property management mentioned on the site.",
+ "employees_rejected": 6,
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.die-immonauten.de/",
+  "services": "https://www.die-immonauten.de/leistungen/",
+  "impressum": "https://www.die-immonauten.de/about/",
+  "about": "https://www.die-immonauten.de/about/"
+ }
+}

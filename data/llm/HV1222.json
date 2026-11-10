@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "GCP vermietet und verwaltet Wohnungen in ganz Deutschland",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "GCP App",
+ "portal_evidence": "Mieter-Service-Portal",
+ "segment_note": "GCP rents out and manages apartments across Germany, offers a Hausverwaltung, WEG and SE administration, and a GCP app/tenant portal; no unit count or employee count stated on the pages reviewed.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.grandcityproperty.de/",
+  "portal": "https://www.grandcityproperty.de/kontakt/gcp-app",
+  "about": "https://www.grandcityproperty.de/ueber-uns",
+  "services": "https://www.grandcityproperty.de/verwaltung-service",
+  "impressum": "https://www.grandcityproperty.de/impressum",
+  "jobs": "https://www.grandcityproperty.de/karriere"
+ }
+}

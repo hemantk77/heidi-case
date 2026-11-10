@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "In addition to renting properties for short and long term, we offer inclusive property management services for Berlin home-owners.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Federica Di Venuta",
+  "Giulia Piccini"
+ ],
+ "managing_directors_evidence": "Geschäftsführerinnen: Federica Di Venuta, Giulia Piccini",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin relocation and rental firm run by three expat founders that also offers inclusive property management for Berlin home-owners.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.dreimalfrauen.de/",
+  "about": "https://www.dreimalfrauen.de/about-us",
+  "impressum": "https://www.dreimalfrauen.de/copy-of-wip"
+ }
+}

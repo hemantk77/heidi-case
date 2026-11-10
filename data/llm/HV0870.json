@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Andreas Mielau ist seit vielen Jahren Mitglied des Verbandes ‚Ring Deutscher Makler‘ und betreibt seine Geschäfte unter Wahrung dessen standesrechtlicher Regeln.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Andreas Mielau"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Andreas Mielau",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Mielau Immobilien is a Berlin brokerage and valuation firm focused on the Berlin-Nordwest neighbourhood (Heiligensee, Konradshöhe, Hermsdorf, Tegel), with no property management offered on the site.",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://mielau-immobilien.de/",
+  "impressum": "https://mielau-immobilien.de/impressum/"
+ }
+}

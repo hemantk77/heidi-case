@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Leistungen – Administrative Verwaltung, Technische Verwaltung, Wirtschaftliche Verwaltung (services page)",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Heizkostenabrechnung für die Mieter",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DUO Hausverwaltung offers technical, administrative and commercial property management services, including heating cost billing for tenants, for the Großregion.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.duo-hausverwaltung.de/",
+  "services": "http://duo-hausverwaltung.de/leistungen",
+  "about": "http://duo-hausverwaltung.de/wir-ueber-uns",
+  "portal": "http://duo-hausverwaltung.de/wp-login.php"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Ex-Rohr GmbH aus Lübeck reinigt, prüft und saniert seit 1999 Rohre und Kanäle für Privathaushalte, Unternehmen und Kommunen.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 200,
+ "employees_evidence": "Rund 200 Mitarbeiter und mehr als 80 Fahrzeuge sind an zwölf Standorten in Nord- und Ostdeutschland im Einsatz",
+ "founded_year": 1999,
+ "founded_evidence": "ExRohr | Rohrreinigung & Kanalsanierung seit 1999 ✓ 24/7",
+ "managing_directors": [
+  "Arndt Schanze"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Arndt Schanze",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ExRohr is a drain-cleaning and sewer-rehabilitation contractor (about 200 staff, founded 1999, Lübeck HQ with a Berlin branch), not a property manager.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://exrohr.de/",
+  "jobs": "https://exrohr.de/karriere",
+  "services": "https://exrohr.de/verwaltung",
+  "impressum": "https://exrohr.de/impressum"
+ }
+}

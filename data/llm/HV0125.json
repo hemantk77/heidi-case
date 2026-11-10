@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Deutsche Boden Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Stellplätze"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "J. Adlersztejn"
+ ],
+ "managing_directors_evidence": "Vertreten durch DBI Deutsche Boden Immobilien GmbH & Co. KG, vertreten durch den GF J. Adlersztejn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based Hausverwaltung (DBI Deutsche Boden Immobilien GmbH & Co. KG) offering residential and commercial property management with tenant service hours and an emergency line; no unit counts or portal stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://deutsche-boden.de/",
+  "services": "https://deutsche-boden.de/service/",
+  "impressum": "https://deutsche-boden.de/impressum/"
+ }
+}

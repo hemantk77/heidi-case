@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immo Real bietet Full Service aus den Bereichen Immobilien Management, Projektentwicklung und Vermietung.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Immo Real Group is a Berlin premium real-estate investor and developer that also offers property management (Immobilien Management, Vermietung) for its portfolio, with a focus on Berlin-Mitte and Charlottenburg.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immoreal.com/",
+  "about": "https://www.immoreal.com/de/unternehmen",
+  "services": "https://www.immoreal.com/de/portfolio",
+  "jobs": "https://www.immoreal.com/de/karriere",
+  "impressum": "https://www.immoreal.com/de/impressum"
+ }
+}

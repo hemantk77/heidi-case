@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "B&O Service übernimmt als Komplettanbieter alle technischen Dienstleistungen von der Instandhaltung von Mietwohnungen über die Wohnungsmodernisierung und Wartung bis zur Behebung von Versicherungsschäden.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": "Betreute Wohneinheiten 640.000",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 1000,
+ "employees_evidence": "Aktuell werden 600.000 Wohnungen für Wohnungsunternehmen betreut. Deutschlandweit kümmert sich das Unternehmen um 1 Mio. Schäden pro Jahr. Dabei sind neben den 1.000 eigenen Handwerkerinnen und Handwerkern",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal Vermietende",
+ "portal_evidence": "Kundenportal Vermietende",
+ "segment_note": "B&O Service is a Germany-wide technical maintenance and apartment modernization provider (Handwerk as a Service) for housing companies, not a property manager.",
+ "units_managed_rejected": 640000,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://buo.de/",
+  "services": "https://buo.de/service/",
+  "impressum": "http://buo.de/bau/impressum"
+ }
+}

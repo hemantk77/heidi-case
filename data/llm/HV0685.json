@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Christopher Hopp"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter:  Herr Christopher Hopp",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "CITYPLAN Bau und Verwaltungs GmbH is a Berlin company whose website names only a contact address and legal details; its business activities are not described.",
+ "heating_billing_evidence": null,
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.cityplan.org/",
+  "impressum": "https://www.cityplan.info/impressum"
+ }
+}

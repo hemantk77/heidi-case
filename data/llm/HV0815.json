@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Makler ist Ihr Erfolg auch unser Erfolg.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2010,
+ "founded_evidence": "2010 Gründungsjahr der Gesellschaft",
+ "managing_directors": [
+  "Caren Rothmann",
+  "David Borck"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte/r Caren Rothmann & David Borck",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Immobilienmakler) founded 2010 that sells residential properties, new builds and Zinshäuser; the site describes no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://david-borck.de/",
+  "about": "https://david-borck.de/wohnen/unternehmen/",
+  "services": "https://david-borck.de/wohnen/kaufen/",
+  "jobs": "https://david-borck.de/wohnen/karriere/",
+  "impressum": "https://david-borck.de/impressum/"
+ }
+}

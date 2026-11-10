@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": "400 Objekte mit ca. 14.000 Wohneinheiten in und um Berlin betreut",
+ "buildings_managed": 400,
+ "employees": 80,
+ "employees_evidence": "beschäftigen zurzeit 80 Mitarbeiter",
+ "founded_evidence": "GRÜNDUNG DES UNTERNEHMENS Jahr 1999",
+ "founded_year": 1999,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "facility_or_caretaker",
+ "managing_directors": [
+  "George Andrae"
+ ],
+ "managing_directors_evidence": "GESCHÄFTSFÜHRER George Andrae ",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin facility management company (founded 1999, about 80 staff) that looks after 400 properties with roughly 14,000 residential units and offers a broad range of building-related services.",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": "400 Objekte mit ca. 14.000 Wohneinheiten in und um Berlin betreut",
+ "units_managed": 14000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.dhsol.de/",
+  "about": "https://www.dhsol.de/team.html",
+  "impressum": "https://www.dhsol.de/impressum.html"
+ }
+}

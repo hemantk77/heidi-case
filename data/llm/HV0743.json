@@ -1,0 +1,42 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Hausverwaltung - Fremd- und Mietverwaltung; WEG-Verwaltung; Sondereigentums-verwaltung; Gewerbeimmobilien-Verwaltung (Hausverwaltung page). Quote: \"Fremd- und Mietverwaltung Um Ihnen Ihre Pflichten abzunehmen und Sie damit zu entlasten\"",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 5500,
+ "units_evidence": "Heute sind wir Ihr erfahrener und kompetenter Partner im Immobilien-Bereich mit rund 5.500 verwalteten Einheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 28,
+ "employees_evidence": "Wir sind 28 Mitarbeiter mit unterschiedlichen Qualifikationen und langjähriger Branchenerfahrung.",
+ "founded_year": 2002,
+ "founded_evidence": "das-immomanagement.de wurde 2002 mit einem Anfangsbestand von 1.000 Einheiten gegründet.",
+ "managing_directors": [
+  "Daniel Probst",
+  "Andreas Richter"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Daniel Probst, Andreas Richter",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "Eigentümerportal",
+ "segment_note": "Berlin-area property manager (HQ listed in Dresden) offering rental, WEG, special-ownership and commercial management with about 5,500 managed units and 28 staff.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 7,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.das-immomanagement.de/",
+  "services": "https://das-immomanagement.de/hausverwaltung",
+  "about": "https://das-immomanagement.de/unternehmen",
+  "jobs": "https://das-immomanagement.de/karriere/",
+  "impressum": "https://das-immomanagement.de/impressum",
+  "portal": "https://das-immomanagement.de/serviceportal"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Wohnungseigentümergemeinschaften ab 4 Einheiten",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ramona Elizabeth Kühn"
+ ],
+ "managing_directors_evidence": "Inhaberin: Ramona Elizabeth Kühn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Online-Zugang",
+ "portal_evidence": "Unsere Auftraggeber erhalten bei Interesse einen Online-Zugang zur Objektverwaltung.",
+ "segment_note": "HVK Berlin is a Berlin property manager (Hausverwaltung Kühn) handling rental, commercial and WEG/Sondereigentum management, plus letting, with an online owner access offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvk-berlin.de/",
+  "impressum": "http://www.hvk-berlin.de/impressum.htm",
+  "services": "http://www.hvk-berlin.de/verwaltung.htm"
+ }
+}

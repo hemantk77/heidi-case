@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": "Hinter jeder Zahl steht ein Eigentümer, der sich auf uns verlässt ... >60 Liegenschaften in unserer Verwaltung",
+ "buildings_managed": 60,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung, die Freiraum schafft",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Florentin Braunewell",
+  "Katharina John"
+ ],
+ "managing_directors_evidence": "Florentin Braunewell, Geschäftsführer\nKatharina John, Geschäftsführerin",
+ "portal_or_app": "Eigentümer-Portal und App",
+ "portal_evidence": "Modernes Onlineportal & App",
+ "segment_note": "Berlin-based property manager (WEG, rental and portfolio management) with over 2,000 residential units and more than 60 properties, offering an owner portal and app.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": ">2.000\nWohneinheiten \nbetreut & verwaltet",
+ "units_managed": 2000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.vivanta-homes.de/",
+  "services": "https://www.vivanta-homes.de/weg-verwaltung",
+  "jobs": "https://www.vivanta-homes.de/karriere",
+  "portal": "https://portal.vivanta-homes.de/app/login",
+  "about": "https://www.vivanta-homes.de/unser-ansatz",
+  "impressum": "https://www.vivanta-homes.de/impressum"
+ }
+}

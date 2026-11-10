@@ -1,0 +1,38 @@
+{
+ "buildings_managed": 50,
+ "buildings_evidence": "Derzeit betreuen wir ca. 50 Objekte mit insgesamt ca. 1.000 Einheiten.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "Die Centré Haus- und Grundbesitz Verwaltungs GmbH wurde 1998 gegründet.",
+ "managing_directors": [
+  "Jana Brendel"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Jana Brendel",
+ "units_managed": 1000,
+ "units_evidence": "Derzeit betreuen wir ca. 50 Objekte mit insgesamt ca. 1.000 Einheiten.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Wohn- und Geschäftshäuser für Eigentümergemeinschaften und Privatpersonen genauso wie für institutionelle Anleger und Unternehmen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (founded 1998) handling about 50 properties and roughly 1,000 units for owner communities, private landlords and institutional investors, with rental and WEG administration.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.centre-hv.de/",
+  "about": "https://www.centre-hv.de/index.html",
+  "services": "https://www.centre-hv.de/leistungen.html",
+  "impressum": "https://www.centre-hv.de/impressum.html"
+ }
+}

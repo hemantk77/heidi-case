@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietverwaltung Ihre Wertanlage in besten Händen Wir verwalten Mieteinheiten aller Baualtersklassen in Berlin und Brandenburg",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Claudia Köppen"
+ ],
+ "managing_directors_evidence": "Claudia Köppen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ClaX - Hausverwaltung GmbH is a Berlin property manager offering rental management (Mietverwaltung) for residential units in Berlin and Brandenburg, run by Claudia Köppen.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.clax-hv.de/",
+  "services": "https://www.clax-hv.de/mietverwaltung.htm",
+  "impressum": "https://www.clax-hv.de/about.htm",
+  "about": "https://www.clax-hv.de/about.htm"
+ }
+}

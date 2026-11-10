@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die Adomos Immobilien GmbH wurde 2013 gegründet",
+ "founded_year": 2013,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Kamila Maria Schütz"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Kamila Maria Schütz",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin real estate firm (founded 2013) focused on property sales, rentals and valuations via brokerage; the site does not describe any property management services.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.adomos.de/",
+  "services": "https://www.adomos.de/immobilienangebot/verkauf",
+  "about": "https://www.adomos.de/ueber-uns",
+  "impressum": "https://www.adomos.de/impressum"
+ }
+}

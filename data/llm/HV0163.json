@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 8,
+ "employees_evidence": "Wir sind kein großes Unternehmen mit zurzeit 8 Mitarbeitern, und das ist auch gut so.",
+ "founded_evidence": "Die BRAUN & HUBERTUS GmbH ist als Inhaberfirma seit 1946 vorwiegend im Berliner und Brandenburger Immobilienmarkt tätig.",
+ "founded_year": 1946,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als vertrauensvolle Immobilienverwaltung bieten wir das gesamte Spektrum der Miethaus-, WEG- und Sondereigentumsverwaltung an",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Michael Braun"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Braun",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg property manager (Miethaus, WEG, Sondereigentum) plus brokerage, founded 1946, 8 staff, about 2,000 units managed.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "Betreuung von ca. 2000 Einheiten",
+ "units_managed": 2000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.braun-hausverwaltung.de/",
+  "impressum": "https://braunundhubertus.de/impressum.html"
+ }
+}

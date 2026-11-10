@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "The provided pages are from HausverwalterScout, a referral portal for property managers, not from Göha Hausverwaltungs GmbH itself; nothing about Göha's own business is stated.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwalterscout.de/",
+  "jobs": "https://www.hausverwalterscout.de/Hausverwalter-Jobs",
+  "services": "https://www.hausverwalterscout.de/Wohnungsangebote",
+  "impressum": "https://www.hausverwalterscout.de/Impressum"
+ }
+}

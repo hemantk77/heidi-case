@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir übernehmen die komplette Betreuung und Verwaltung vermieteter Immobilien im Auftrag des Eigentümers",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "A Berlin real-estate firm offering rental and WEG property management alongside brokerage, with no unit or building counts stated on the pages reviewed.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://a-von-leitner.de/",
+  "services": "https://www.a-von-leitner.de/immobilienangebote",
+  "impressum": "https://www.a-von-leitner.de/impressum"
+ }
+}

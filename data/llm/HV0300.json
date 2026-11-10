@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung Weinkamm OHG",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Tyrit Luise Weinkamm",
+  "Werner Weinkamm"
+ ],
+ "managing_directors_evidence": "Tyrit Luise und Werner Weinkamm",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Berlin property management firm (Hausverwaltung Weinkamm OHG) run by Luise and Werner Weinkamm; the website gives no details on portfolio size or services beyond its name.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-weinkamm.de/",
+  "impressum": "https://www.weinkamm.berlin/impressum/"
+ }
+}

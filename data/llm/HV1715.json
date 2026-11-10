@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienvermittlung in Cottbus und der gesamten Umgebung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "SDIM Immobilien wurde im Jahr 2013 gegründet",
+ "managing_directors": [
+  "R. Reinhardt"
+ ],
+ "managing_directors_evidence": "Herr. R. Reinhardt",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "SDIM Immobilien is a real-estate brokerage in Cottbus and Brandenburg (founded 2013) focused on selling and buying properties, with no property management offering on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilienmakler-cottbus.com/",
+  "about": "https://www.immobilienmakler-cottbus.com/ueber-uns/",
+  "jobs": "https://www.immobilienmakler-cottbus.com/ueber-uns/karriere/",
+  "services": "https://www.immobilienmakler-cottbus.com/immobilien/",
+  "impressum": "https://www.immobilienmakler-cottbus.com/impressum/"
+ }
+}

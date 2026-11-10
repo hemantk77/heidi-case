@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Strategie: Wir stellen die richtigen Fragen, um für Sie die passende Investitionsstrategie zu definieren. ... Der Verkauf: Wenn Sie es wünschen, organisieren wir einen profitablen Verkauf zum idealen Zeitpunkt gemäß aktueller Marktanalyse.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 7,
+ "employees_evidence": "Unser Kernteam setzt sich aus 7 Mitarbeitern zusammen",
+ "founded_year": 2003,
+ "founded_evidence": "Die W&W Real Estate wurde 2003 als Reaktion auf den festgestellten Bedarf ausländischer Investoren an lokaler Unterstützung gegründet.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate investment advisory firm (founded 2003) that advises foreign investors on acquisitions and sales; no property management services are described.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wwre.de/",
+  "services": "https://www.wwre.de/leistung.html",
+  "about": "https://www.wwre.de/team.html"
+ }
+}

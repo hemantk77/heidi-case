@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die BAUFA Handelsgesellschaft mbH ist ein mittelständisches Unternehmen im Norden Berlins zu deren Kernbereich die Verwaltung und Vermietung von Gewerbeeinheiten gehört.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Frederik Scheller"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Frederik Scheller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BAUFA is a Berlin-Reinickendorf company (part of Eckert Gruppe) that manages and leases commercial units such as offices, halls, storage rooms and outdoor advertising spaces.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://eckert-gruppe.de/",
+  "impressum": "https://eckert-gruppe.de/impressum"
+ }
+}

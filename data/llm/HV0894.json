@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Leicht Immobilien GmbH ist ein dynamisches Verwaltungs- und Maklerunternehmen in Werne, Nordrhein-Westfalen. Unser Portfolio umfasst zu zwei Dritteln Mietzinsverwaltung und zu einem Drittel die Verwaltung von WEG und Sondereigentum.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marcel Meitza"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Marcel Meitza",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "GetMomo Financial GmbH is a Berlin banking software provider for property managers (rent, deposit and WEG accounts), not a property manager itself; the quoted testimonial describes a separate Werne firm, Die Leicht Immobilien GmbH, which manages rentals and WEG.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.getmomo.de/",
+  "about": "https://getmomo.de/erfolgsgeschichten/",
+  "services": "https://getmomo.de/magazin/artikel/hausmeister-auf-520-euro-basis.html",
+  "jobs": "https://getmomo.de/magazin/artikel/hausmeister-auf-520-euro-basis.html",
+  "impressum": "https://getmomo.de/impressum/"
+ }
+}

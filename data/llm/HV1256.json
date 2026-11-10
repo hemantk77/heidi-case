@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": 7000,
+ "units_evidence": "+ 7.000 Wohnungen",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Annelie Kleist"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Annelie Kleist",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "coming home GmbH is a Berlin broker specialising in furnished rentals for time-limited stays, with 7,000+ listed apartments and 55,000+ rentals.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.coming-home.com/",
+  "services": "https://www.coming-home.com/vermieten/leistungen",
+  "about": "https://www.coming-home.com/ueber-uns",
+  "jobs": "https://www.coming-home.com/jobs",
+  "impressum": "https://www.coming-home.com/impressum"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "ENION Energieberatung GbR. Leistungen: Individueller Sanierungsfahrplan, Heizlastberechnung, Hydraulischer Abgleich, Fördermittelservice, Fachplanung und Baubegleitung Komplettsanierung",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Alexander Reinfeldt",
+  "Tim Sommerwerk",
+  "Christoph Weingart",
+  "Pierre Woltmann"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Gesellschafter: Alexander Reinfeldt, Tim Sommerwerk, Christoph Weingart, Pierre Woltmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ENION is an energy consultancy (GbR) offering energy efficiency advice, subsidy services and renovation planning, not property management.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.enion.de/",
+  "services": "https://enion.de/leistung/",
+  "jobs": "https://enion.de/karriere/",
+  "impressum": "https://enion.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wir verfügen über eine sehr ausgeprägte Vernetzung insbesondere in der Bundeshauptstadt. Unser Anspruch - Exzellentes Asset Management",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gero Hollmann",
+  "Volker Müller"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Gero Hollmann, Volker Müller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based, owner-managed real-estate consultancy focused on asset management and investment advisory for professional investors; no property management services are described on the site.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immpex.de/",
+  "services": "https://www.immpex.de/leistungen.html",
+  "impressum": "https://www.immpex.de/impressum.html"
+ }
+}

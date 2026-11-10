@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung und WEG - Verwaltung in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1969,
+ "founded_evidence": "Seit 1969",
+ "managing_directors": [
+  "Stefanie Hubert",
+  "Hauke Nils Hubert"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Stefanie Hubert, Hauke Nils Hubert",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Judith Richmann WEG- und Betriebskostenabrechnung",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Das Online-Kundenportal der Hubert Hausverwaltung",
+ "segment_note": "Berlin property manager since 1969 specializing in WEG administration, also rentals and property sales brokerage, with an online customer portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hubert-hausverwaltung-berlin.de/",
+  "about": "https://www.hubert-hausverwaltung-berlin.de/team/",
+  "portal": "https://www.hubert-hausverwaltung-berlin.de/kundenportal/",
+  "impressum": "https://www.hubert-hausverwaltung-berlin.de/impressum-kontakt/"
+ }
+}

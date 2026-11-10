@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Die HDS Hausdienst GmbH wurde 1997 als Unternehmen gegründet",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die HDS Hausdienst GmbH bietet Ihnen die professionelle Betreuung Ihrer Immobilie. Wir übernehmen für Sie: WEG Verwaltung Mietverwaltung / Sondereigentumsverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Frau Salomon-Seikrit"
+ ],
+ "managing_directors_evidence": "Anbieter: HDS Hausdienst GmbH Frau Salomon-Seikrit",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HDS Hausdienst GmbH is a Berlin property manager (founded 1997) offering WEG, rental/special-ownership and commercial/medical-practice administration.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_evidence": "über 300 Einheiten der WEG-Verwaltung, mehr als 150 Einheiten in der Sondereigentumsverwaltung",
+ "units_managed": null,
+ "units_managed_rejected": 450,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hds-berlin.de/",
+  "services": "http://hds-berlin.de/portfolio/",
+  "about": "http://hds-berlin.de/beispiel-seite/",
+  "impressum": "http://hds-berlin.de/impressum/"
+ }
+}

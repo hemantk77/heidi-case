@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Berner Group entwickelt seit rund vier Jahrzehnten anspruchsvolle Wohnimmobilien.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Berner",
+  "Stephanie Gaus"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Thomas Berner, Stephanie Gaus",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin developer and seller of residential properties (new builds, listed buildings, existing stock) that also offers investment products; the site does not mention property management for third parties.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berner-realestate.de/",
+  "jobs": "https://www.berner-realestate.de/karriere.html",
+  "about": "https://www.berner-realestate.de/unternehmen.html",
+  "impressum": "https://www.berner-realestate.de/impressum.html"
+ }
+}

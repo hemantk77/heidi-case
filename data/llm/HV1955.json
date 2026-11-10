@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Projektsteuerer betreuen wir Sie über den gesamten Projektverlauf und sichern Ihnen ein erfolgreichen Projektabschluss. Egal um welche Art von Immobilie oder Portfolio es sich handelt, die Pütz-Consulting-Berlin bietet Ihnen eine individuell abgestimmte Beratungsleistung.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peter Pütz"
+ ],
+ "managing_directors_evidence": "Peter Pütz\nPütz Consulting Berlin\nZikadenweg 27",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin consultancy offering project steering, building management consulting, and education-property development advice; no property management services are described.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.puetz-consulting-berlin.de/",
+  "about": "https://puetz-consulting-berlin.de/das-unternehmen/",
+  "impressum": "https://puetz-consulting-berlin.de/impressum/"
+ }
+}

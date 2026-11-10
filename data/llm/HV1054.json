@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnungen, Betriebskostenoptimierung",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Berliner Hausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jan Karsten Adam"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Jan Karsten Adam",
+ "portal_evidence": "Zusätzlich ermöglicht Ihnen unser Kundenportal, sich in Echtzeit über alle Vorgänge und aktuellen Themen zu Ihrer Immobilie zu informieren.",
+ "portal_or_app": "Kundenportal",
+ "segment_note": "Berlin-based property manager (Hausverwaltung) offering Zinshaus, Gewerbe and WEG management with a customer portal.",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://thorwald-real-estate.de/",
+  "services": "https://thorwald-real-estate.de/zinshausverwaltung/",
+  "portal": "https://login.thorwald-real-estate.de/",
+  "impressum": "https://thorwald-real-estate.de/impressum"
+ }
+}

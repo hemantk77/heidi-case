@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mehr als 130 verwaltete Wohnungseigentümergemeinschaften mit hohem Qualitätsstandard",
+ "main_business": "property_management",
+ "managing_directors": [
+  "RAin Birgit Steenholdt-Schütt",
+  "Manuela Thamm",
+  "Christian Krant"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: RAin Birgit Steenholdt-Schütt Manuela Thamm Christian Krant",
+ "portal_evidence": "Über moderne Eigentümerportale haben Sie schnellen Zugriff auf alle relevanten Unterlagen",
+ "portal_or_app": "Eigentümerportal",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "segment_note": "Berlin WEG property manager with over 130 managed condominium associations, offering an owner portal and digital communication.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hachmann-verwaltung.de/",
+  "about": "https://www.hachmann-verwaltung.de/ueber-uns/",
+  "services": "https://www.hachmann-verwaltung.de/leistungen/",
+  "portal": "https://www.hachmann-verwaltung.de/eigentuemerportal/",
+  "impressum": "https://www.hachmann-verwaltung.de/impressum/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung klassische A bis Z Verwaltung sowie immobiliennahe Dienstleistungen wie Reinigung, Grünpflege und Hauswartservice",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Mareen Melzer"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Mareen Melzer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based company offering property management (A-to-Z Immobilienverwaltung) plus cleaning, grounds care, caretaker service, relocation and consulting; no unit or portfolio size stated.",
+ "services": [
+  "Mietverwaltung",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.melzer-dv-gmbh.de/",
+  "impressum": "https://melzer-dv-gmbh.de/impressum"
+ }
+}

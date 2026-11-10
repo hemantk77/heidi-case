@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mette Immobilien- und Hausverwaltung hat ihren Firmensitz im Süden von Berlin",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sanja Mette"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Sanja Mette",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Tempelhof, Schöneberg, Rudow focus) offering Hausverwaltung for residential, commercial and special-ownership properties, with brokerage (Verkauf/Vermarktung) also listed.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://mette-hausverwaltung.de/",
+  "impressum": "https://mette-hausverwaltung.de/impressum-2/",
+  "about": "https://mette-hausverwaltung.de/ueber-uns/",
+  "services": "https://mette-hausverwaltung.de/leistungen/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 14,
+ "employees_evidence": "Aktuell beschäftigt die M. Mende Grundbesitzverwaltungs GmbH 14 Mitarbeiter inklusive der Geschäftsführung.",
+ "founded_evidence": "Die M. Mende Grundbesitzverwaltungs GmbH wurde 1994 von dem Münchener Juristen Marcus Mende gegründet",
+ "founded_year": 1994,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Umlagenabrechnung (Betriebs- und Heizkostenabrechnung)",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die M. Mende Grundbesitzverwaltungs GmbH betreut aktuell rund 3000 Einheiten im Großraum Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Florence-Dominique dal Molin-Mende",
+  "Anika Wilwand"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Florence-Dominique dal Molin-Mende ... Geschäftsführerin: Anika Wilwand",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin property manager for rental houses, WEG and special-property units (about 3,000 units, 14 staff), founded 1994, with in-house heating cost billing and no tenant or owner portal mentioned.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": "Die M. Mende Grundbesitzverwaltungs GmbH betreut aktuell rund 3000 Einheiten im Großraum Berlin.",
+ "units_managed": 3000,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mende-grundbesitz.de/",
+  "about": "https://mende-grundbesitz.de/ueberuns",
+  "services": "https://mende-grundbesitz.de/hausverwaltung",
+  "jobs": "https://mende-grundbesitz.de/karriere",
+  "impressum": "https://mende-grundbesitz.de/impressum"
+ }
+}

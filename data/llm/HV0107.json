@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zu den Kernkompetenzen der Schönstadt Haus- und Grundstücksverwaltung GmbH gehören alle Tätigkeiten der Wohnungseigentumsverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Nadezda Volkova",
+  "Elisabeth Kreutzberg (geb. Haupt)"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführerin: Nadezda Volkova, Elisabeth Kreutzberg (geb. Haupt)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering WEG, rental, commercial and special-ownership management, with a focus on full-service administration for owners.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://schoenstadt-gmbh.de/",
+  "services": "https://schoenstadt-gmbh.de/weg-verwaltung/",
+  "about": "https://schoenstadt-gmbh.de/ueber-uns/",
+  "impressum": "https://schoenstadt-gmbh.de/impressum/"
+ }
+}

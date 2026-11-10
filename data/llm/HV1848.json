@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihre kompetente Immobilienmaklerin für den Verkauf Ihrer Immobilie",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Elke Maria Pfeiffer"
+ ],
+ "managing_directors_evidence": "Inhaberin: Diplom Finanzwirtin Elke Maria  Pfeiffer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based sole-proprietor real estate broker focused on selling properties (apartments, houses, commercial units, plots) in Berlin, Potsdam and surroundings; no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://em-pfeiffer.de/",
+  "services": "https://em-pfeiffer.de/home/angebote",
+  "impressum": "https://em-pfeiffer.de/home/impressum"
+ }
+}

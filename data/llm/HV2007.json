@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Komplette Bauleistungen (schlüsselfertig) werden zusammen mit unseren Geschäftspartnern, speziell im privaten Wohnungsbau für Ein- und Mehrfamilienhäuser in traditioneller Bauweise erbracht.",
+ "services": [
+  "Other"
+ ],
+ "main_business": "other",
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": "JahrMitarbeiter i. D.Umsatz (Mio. €) 2020 30 2,6",
+ "founded_year": 1995,
+ "founded_evidence": "Unser Unternehmen wurde im Mai 1995 als Kapitalgesellschaft gegründet",
+ "managing_directors": [
+  "Gerd Fächner",
+  "Lars Fächner",
+  "Judith Fächner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Ing. Gerd Fächner Dipl.-Ing. Lars Fächner M.A. Judith Fächner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Stade Bau GmbH is a construction firm (trade works, renovation, general contracting, planning) with no property management offering on its website.",
+ "employees_rejected": 30,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://stadebau.de/",
+  "services": "http://stadebau.de/leistungen.html",
+  "impressum": "http://stadebau.de/kontakt.html"
+ }
+}

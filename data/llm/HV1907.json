@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Marko Niehof"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marko Niehof",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin construction supervisor and certified building expert (Bausachverständiger) who also serves Hausverwaltungen and WEG administrators with damage reports; no property management of its own found.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bautechnik.berlin/",
+  "impressum": "https://bautechnik.berlin/impressum/"
+ }
+}

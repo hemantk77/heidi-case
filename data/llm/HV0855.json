@@ -1,0 +1,39 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Im Jahr 1996 gründete Thorsten Schache das Unternehmen Arte Immobilien e. Kfm.",
+ "founded_year": 1996,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betreuung aller Mietverhältnisse mit formell und materiell korrekten  Mietberechnungen, Abrechnungen von Heiz- und Betriebskosten sowie der Erledigung des gesamten Schriftverkehrs mit Mietern und Behörden",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Ihre Immobilie kostengünstig und kompetent. Unsere Zuverlässigkeit ist Ihr Gewinn.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": "Thorsten Schache\nARTE IMMOBILIEN e. Kfm.",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Arte Immobilien is a Berlin property manager (founded 1996) offering WEG and rental management alongside brokerage, sales, and facility management, with no tenant or owner portal mentioned.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "managing_directors_rejected": [
+  "Thorsten Schache"
+ ],
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.arte-immobilien-berlin.de/",
+  "about": "https://www.arte-immobilien.de/de/immobilienmakler-berlin",
+  "services": "https://www.arte-immobilien.de/immobilien-kaufen-vermieten-verwalten-berlin",
+  "impressum": "https://www.arte-immobilien.de/impressum"
+ }
+}

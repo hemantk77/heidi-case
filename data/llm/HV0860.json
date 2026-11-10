@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Jonathan Freedman"
+ ],
+ "managing_directors_evidence": "Owner: Mr. Jonathan Freedman",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Schönhaus Immobilien GmbH is a Berlin company (Frankfurter Allee 53) whose site text provided only imprint and privacy content; its business activities are not described.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schoenhaus.de/"
+ }
+}

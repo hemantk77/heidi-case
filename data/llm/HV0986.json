@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die BBT Gruppe ist ein modernes Unternehmen mit umfassender immobilienwirtschaftlicher Expertise. Als Hersteller der innovativen Softwarelösung avestrategy bieten wir maßgeschneiderte Tools speziell für die Wohnungswirtschaft.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1990,
+ "founded_evidence": "Die BBT wurde 1990 gegründet.",
+ "managing_directors": [
+  "Holger Rentel"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Holger Rentel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BBT is a consultancy, insurance, financing and software (avestrategy) provider for housing companies; the site says it does not offer property management itself, though the homepage links to a \"BBT-Immobilienverwaltung\" section.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.bbt-gmbh.net/",
+  "portal": "https://bbt-gmbh.net/login/",
+  "about": "https://bbt-gmbh.net/die-bbt-ueber-uns/",
+  "services": "https://bbt-gmbh.net/beratungsexpertise/portfoliostrategie-und-management/",
+  "jobs": "https://bbt-gmbh.net/karriere/",
+  "impressum": "https://bbt-gmbh.net/impressum/"
+ }
+}

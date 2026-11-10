@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Herdegen Gebäudeservice GmbH bietet maßgeschneiderte Betreuungskonzepte, die individuell auf die Anforderungen Ihrer Liegenschaft abgestimmt sind.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2009,
+ "founded_evidence": "Im Jahr 2009 gründeten Kai und Doreen Herdegen das Unternehmen zunächst als Einzelunternehmen (e.K.).",
+ "managing_directors": [
+  "Kai Herdegen",
+  "Carola Großer"
+ ],
+ "managing_directors_evidence": "vertreten durch die Geschäftsführung: Kai Herdegen und Carola Großer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin cleaning and building-services company (Unterhaltsreinigung, Hausmeisterservice, Grünflächenpflege, Winterdienst) founded 2009; it does not offer property management, only technical caretaking and cleaning.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.saubere-sache.com/",
+  "services": "https://saubere-sache.com/hausmeisterservice.html",
+  "about": "https://saubere-sache.com/unternehmen.html",
+  "jobs": "https://saubere-sache.com/bewerbung.php",
+  "impressum": "https://saubere-sache.com/impressum.html"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "REBA IMMOBILIEN AG is a Berlin-linked investor, developer and commercial brokerage that lists \"Hausverwaltung\" as a page on its site, with few details.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.reba-immobilien.ch/",
+  "services": "https://www.reba-immobilien.ch/immobilienportfolio",
+  "impressum": "https://www.reba-immobilien.ch/impressum",
+  "about": "https://www.reba-immobilien.ch/bauunternehmen",
+  "jobs": "https://www.reba-immobilien.ch/reba-immobilien-ag/karriere"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management mit CAPERA. ... 30.000 verwaltete Wohnungen und Gewerbeeinheiten an 10 Standorten in ganz Deutschland.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dr. Stefan Ollig"
+ ],
+ "managing_directors_evidence": "GESCHÄFTSFÜHRER Dr. Stefan Ollig (CEO)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "segment_note": "CAPERA is a Neu-Isenburg-registered property manager (per Impressum) with 10 locations, focused on residential portfolios for institutional clients and also offering WEG administration nationwide.",
+ "units_managed": 30000,
+ "units_evidence": "30.000 verwaltete Wohnungen und Gewerbeeinheiten an 10 Standorten in ganz Deutschland.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://capera-immobilien.de/",
+  "services": "https://capera-immobilien.de/wohnungseigentumsverwaltung/",
+  "jobs": "https://capera-immobilien.de/karriere/",
+  "impressum": "https://capera-immobilien.de/impressum/",
+  "about": "https://capera-immobilien.de/category/unternehmen/"
+ }
+}

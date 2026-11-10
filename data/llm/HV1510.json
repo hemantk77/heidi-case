@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die SBW Berlin setzt sich für eine soziale bessere Welt ein.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2018,
+ "founded_evidence": "Anika Maneva und Stefan Wienecke gründeten SBW Berlin 2018, um ihre soziele Ideen umzusetzen.",
+ "managing_directors": [
+  "Anika Maneva",
+  "Stefan Wienecke"
+ ],
+ "managing_directors_evidence": "Frau Anika Maneva, Herr Stefan Wienecke (Geschäftsführung)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SBW Berlin gGmbH is a non-profit that awards scholarships and funds social projects; it does not offer property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://sbw.berlin/",
+  "about": "https://sbw.berlin/ueber-uns",
+  "services": "https://sbw.berlin/portfolio-items/mission-vision",
+  "jobs": "https://sbw.berlin/karriere",
+  "impressum": "https://sbw.berlin/impressum"
+ }
+}

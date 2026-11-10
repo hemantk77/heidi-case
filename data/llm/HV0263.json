@@ -1,0 +1,37 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2003,
+ "founded_evidence": "Die KSI GmbH wurde 2003 gegründet",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Kernkompetenz liegt in der kaufmännischen Betreuung von Wohn- und Gewerbemietobjekten.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jennifer Kunert",
+  "Jana Söllner"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer Jennifer Kunert & Jana Söllner",
+ "portal_or_app": "Eigentümer Log-in Bereich",
+ "portal_evidence": "Totale Transparenz durch Eigentümer Log-in Bereich",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "segment_note": "KSI GmbH is a Berlin property manager founded in 2003, handling commercial and residential rental properties with about 2,000 units, and offers an owner log-in area that is still marked \"Coming soon!\".",
+ "units_evidence": "Derzeit verwalten wir einen Bestand von ca. 2.000 Berliner Wohn-, Büro und- Geschäftseinheiten.",
+ "units_managed": 2000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immobilienverwaltung-ksi.de/",
+  "about": "https://www.immobilienverwaltung-ksi.de/unternehmensprofil.html",
+  "services": "https://www.immobilienverwaltung-ksi.de/hausverwaltung.html",
+  "impressum": "https://www.immobilienverwaltung-ksi.de/impressum.html"
+ }
+}

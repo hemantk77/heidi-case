@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wohnungsnotfallhilfe; Beratung; Wohnen und Betreuung; Unterbringung; Versorgung; Projekte; Assistenz und Teilhabe",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "GEBEWO is a social services organisation (homelessness aid, shelters, counselling, assisted living) with no property management offered on the website.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "managing_directors_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gebewo.de/",
+  "about": "https://gebewo.berlin/ueber-uns/uebersicht-ueber-uns",
+  "services": "https://gebewo.berlin/stellenangebote",
+  "jobs": "https://gebewo.berlin/stellenangebote",
+  "impressum": "https://gebewo.berlin/impressum"
+ }
+}

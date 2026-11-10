@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Anders als klassische Immobilienmakler bin ich nicht auf ein eigenes Verkaufsportfolio beschränkt, sondern suche aus einem breiten Angebot verschiedener Anbieter gezielt die Immobilie, die zu Ihren Wünschen und Vorstellungen passt.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Independent buyer's agent for properties on the Côte d'Azur and Italian Riviera, not a Berlin property manager; no property management offered.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ladima-re.com/",
+  "impressum": "https://www.ladima-riviera.com/impressum/"
+ }
+}

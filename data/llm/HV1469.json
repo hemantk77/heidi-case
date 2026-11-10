@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihre Immobilienmaklerin in Berlin-Reinickendorf",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1998,
+ "founded_evidence": "Seit 1998 bin ich ausgebildete und IHK-zertifizierte Kauffrau in der Grundstücks- und Wohnungswirtschaft.",
+ "managing_directors": [
+  "Dagmar Joachim"
+ ],
+ "managing_directors_evidence": "Verantwortlich für den Inhalt dieser Seite gemäß § 6 MStV: Dagmar Joachim",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin-Reinickendorf brokerage run by owner Dagmar Joachim, focused on selling properties and residential rentals; no property management services stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.joachim-immobilien.de/",
+  "about": "https://www.joachim-immobilien.de/ueber-uns/",
+  "services": "https://www.joachim-immobilien.de/leistungen/",
+  "jobs": "https://www.joachim-immobilien.de/leistungen/",
+  "portal": "https://www.joachim-immobilien.de/leistungen/",
+  "impressum": "https://www.joachim-immobilien.de/impressum/"
+ }
+}

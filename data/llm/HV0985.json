@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die S IMMO AG ist eine Immobilien-Investmentgesellschaft mit Sitz in Wien. Wir investieren zu 100 % in der Europäischen Union",
+ "main_business": "investment_or_development",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Pavel Měchura",
+  "Vít Urbanec"
+ ],
+ "managing_directors_evidence": "Vorstand Pavel Měchura Vít Urbanec",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "S IMMO AG is a Vienna-based real-estate investment company holding mainly office and retail properties in CEE and Austria, with no property management offering on the site.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.simmoag.de/",
+  "about": "https://simmoag.at/de/unternehmen",
+  "services": "https://simmoag.at/de/investor-relations/uebernahmeangebote",
+  "impressum": "https://simmoag.at/de/impressum"
+ }
+}

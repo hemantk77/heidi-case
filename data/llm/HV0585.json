@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als WEG-Verwaltung übernehmen wir die ordnungsgemäße und gesetzeskonforme Verwaltung des gemeinschaftlichen Eigentums gemäß Wohnungseigentumsgesetz (WEG).",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sascha Olschewski"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Sascha Olschewski",
+ "portal_or_app": "Portallösung",
+ "portal_evidence": "Wir setzen auf eine moderne, digitale Arbeitsweise mit einer Portallösung, die Eigentümern jederzeit einen transparenten Einblick in relevante Unterlagen bietet.",
+ "segment_note": "Young Berlin property manager offering WEG, SE and rental management with a digital owner portal; small, personal set-up with no stated unit count.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://olschewski-schade.de/",
+  "about": "https://www.olschewski-schade.de/uber-uns",
+  "services": "https://www.olschewski-schade.de/weg-verwaltung",
+  "impressum": "https://www.olschewski-schade.de/impressum"
+ }
+}

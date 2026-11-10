@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten ein komplettes Dienstleistungsangebot und agieren für Sie als Wohnungseigentümer und Vermieter.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Der stete Bestandszuwachs hat eine Vergrößerung auf derzeit siebzehn Mitarbeiter bewirkt.",
+ "founded_year": 1996,
+ "founded_evidence": "besteht seit 1996 als Personengesellschaft",
+ "managing_directors": [
+  "Nicolai Schwarzer",
+  "Dajana Kristan"
+ ],
+ "managing_directors_evidence": "Nicolai Schwarzer\nDajana Kristan",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1996, 17 staff) offering full service for condominium owners and landlords, with two managers assigned per residential property.",
+ "employees_rejected": 17,
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berlinhausverwaltung.de/",
+  "impressum": "https://www.schwarzer-hausverwaltung.de/impressum"
+ }
+}

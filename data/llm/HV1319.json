@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Property Management: Unser Property-Management-Team betreut Wohn- und Gewerbeimmobilien umfassend und zielorientiert – von der operativen Verwaltung bis zur strategischen Weiterentwicklung Ihrer Liegenschaften.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "LOTZ CONSULTING - Immobilienkompetenz seit 1991",
+ "managing_directors": [
+  "Stéphanie Lotz-Pech",
+  "Jörg Lotz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Stéphanie Lotz-Pech Jörg Lotz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based consultancy and property manager (since 1991) offering asset management, consulting, and commercial/residential property management for owners and investors, with a focus on Berlin.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.lotz-consulting.com/",
+  "services": "https://www.lotz-consulting.com/leistungen",
+  "impressum": "https://www.lotz-consulting.com/impressum"
+ }
+}

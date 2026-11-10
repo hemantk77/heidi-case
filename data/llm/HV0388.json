@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit unserer Gründung im Jahr 2000 sind wir bei Sacha Magen auf die Verwaltung von Mietshäusern spezialisiert.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2000,
+ "founded_evidence": "Seit unserer Gründung im Jahr 2000 sind wir bei Sacha Magen auf die Verwaltung von Mietshäusern spezialisiert.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Rechtzeitige Erstellung von Betriebs- und Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin landlord-side property manager founded in 2000, specialized in rental apartment buildings for private owners and institutional investors, with no stated unit count.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hv-magen.de/",
+  "impressum": "https://hv-magen.de/impressum/"
+ }
+}

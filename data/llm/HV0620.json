@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit über 20 Jahren verwalten wir Hotelbetriebe in Sachsen und Berlin.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Maria Siemund"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Maria Siemund",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Hotel management company in Saxony and Berlin offering hotel operations management, property management for hotel buildings, B2B communication, branding and SWOT analysis; no residential property management described.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gohrisch-domus.de/"
+ }
+}

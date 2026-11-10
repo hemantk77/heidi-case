@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre persönliche Hausverwaltung für Berlin & Brandenburg.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1958,
+ "founded_evidence": "Seit 1958 · 3. Generation",
+ "managing_directors": [
+  "Christopher Wolf"
+ ],
+ "managing_directors_evidence": "Vertreten durch Christopher Wolf",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Über das Kundenportal greifen Sie rund um die Uhr auf Abrechnungen, Protokolle und Termine zu.",
+ "segment_note": "Family-run Berlin/Brandenburg property manager (since 1958) offering WEG and rental administration with a digital customer portal, focused on small to mid-sized WEGs.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://wolfhv.de/",
+  "services": "https://wolfhv.de/leistungen",
+  "about": "https://wolfhv.de/ueber-uns/",
+  "portal": "https://wolfhv.de/kundenlogin/",
+  "jobs": "https://wolfhv.de/karriere/",
+  "impressum": "https://wolfhv.de/impressum/"
+ }
+}

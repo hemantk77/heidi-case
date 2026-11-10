@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "ESTAma ist als Asset und Property Management-Spezialist aktuell verantwortlich für ein Immobilienvermögen von rund €2,1 Mrd. deutschlandweit",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2005,
+ "founded_evidence": "ESTAma bietet seit 2005 Dienstleistungen in den Bereichen Asset, Center und Property Management an.",
+ "managing_directors": [
+  "Oliver Knörr"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nOliver Knörr",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ESTAma is a Berlin-based asset and property manager (since 2005) for commercial properties, with about €1.0–2.1 bn under management and also brokerage of sales.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.estama.eu/",
+  "services": "https://www.estama.eu/immobilienangebote/",
+  "about": "https://www.estama.eu/u%cc%88ber-uns/",
+  "jobs": "https://www.estama.eu/karriere/",
+  "impressum": "https://www.estama.eu/impressum/"
+ }
+}

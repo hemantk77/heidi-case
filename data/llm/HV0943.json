@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Phil Gries"
+ ],
+ "managing_directors_evidence": "Liquidator Phil Gries",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Est8 Services GmbH is in liquidation and its website is no longer available, so no business activities can be confirmed from the site.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://est8.services/",
+  "impressum": "https://est8.services/impressum"
+ }
+}

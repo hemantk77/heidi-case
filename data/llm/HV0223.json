@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir betreuen bereits über 700 Einheiten von der Miethausbetreuung, WEG Verwaltung und auch Sondereigentumsverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 700,
+ "units_evidence": "Wir betreuen bereits über 700 Einheiten von der Miethausbetreuung, WEG Verwaltung und auch Sondereigentumsverwaltung.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 6,
+ "employees_evidence": "Insgesamt 6 Mitarbeiter im Büro und 2 festangestellte Hausmeister kümmern sich um die Verwaltung der von uns betreuten Immobilie.",
+ "founded_year": 2011,
+ "founded_evidence": "Wir sind jung, dynamisch und digital seit 2011.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "fristgerechte Abrechnung der Betriebskosten gegenüber dem Mieter",
+ "portal_or_app": "ETG24 Portal",
+ "portal_evidence": "Wir bieten Ihnen jederzeit per Onlinezugriff in unserem ETG24 Portal Zugriff auf eine vielzahl digitaler Dokumente",
+ "segment_note": "Berlin property manager (since 2011) handling rental, WEG and special-ownership management for about 700 units, with an online ETG24 owner/tenant portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvv.berlin/"
+ }
+}

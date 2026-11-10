@@ -1,0 +1,31 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Vermittlung von Wohn- und Geschäftshäusern, Wohnanlagen und Gewerbeimmobilien",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Thomas Wolff"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Thomas Wolff, Immobilienfachwirt (IHK-Flensburg)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler"
+ ],
+ "segment_note": "Berlin brokerage firm placing residential and commercial properties; the site mentions no property management services.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wolff-immobilien-berlin.de/"
+ }
+}

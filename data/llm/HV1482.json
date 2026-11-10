@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung ist eine der zentralen Säulen unserer Arbeit.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Ludger Schröer"
+ ],
+ "managing_directors_evidence": "Diese wird vertreten durch den Geschäftsführer Herrn Ludger Schröer",
+ "heating_billing": "mentions_external_provider",
+ "heating_billing_evidence": "Ob Mietverhältnisse, Abrechnungen oder die Abstimmung zwischen Eigentümern und Nutzern – wir sorgen für Struktur, Transparenz und Verlässlichkeit in allen Verwaltungsprozessen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BELIMA is a Berlin property manager offering administration, facility management and controlling for residential and commercial properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hv-belima.com/",
+  "services": "https://hv-belima.com/stellenangebote/",
+  "jobs": "https://hv-belima.com/stellenangebote/",
+  "impressum": "https://hv-belima.com/impressum/"
+ }
+}

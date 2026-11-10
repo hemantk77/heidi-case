@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein Familienunternehmen, welches seit über 50 Jahren die Verwaltung von Miet- und Eigentumswohnungen übernimmt.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Sebastian Teichner"
+ ],
+ "managing_directors_evidence": "Inh. Sebastian Teichner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-North family property manager handling rental and condominium (WEG) administration for over 50 years, also active in the surrounding Berlin area.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hans-teichner.de/",
+  "about": "https://www.hans-teichner.de/ueber-uns/",
+  "impressum": "https://www.hans-teichner.de/impressum/"
+ }
+}

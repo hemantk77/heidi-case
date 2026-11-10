@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die Leistungen sind Sanierungsprojekte: \"Das Bauunternehmen für umfangreiche Sanierungen\" und \"Unser Schwerpunkt liegt auf umfangreichen Sanierungsprojekten – von der Wohnungssanierung über die Haussanierung bis zu Fassadendämmung und Kelleraußenwandabdichtung.\"",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2013,
+ "founded_evidence": "Seit 2013 sanieren wir Wohnungen und Häuser in Berlin und Umland",
+ "managing_directors": [
+  "Tamer Ates"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Tamer Ates",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SANIROVA is a Berlin renovation contractor (full renovations, facade insulation, cellar waterproofing) founded 2013; it does not offer property management.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.sanirova.de/",
+  "about": "https://sanirova.de/ueber-uns/",
+  "services": "https://sanirova.de/kontakt%20",
+  "impressum": "https://sanirova.de/impressum/"
+ }
+}

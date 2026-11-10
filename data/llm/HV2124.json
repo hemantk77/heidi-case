@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Cevdet Celik"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nCevdet Celik",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin-focused real estate investor and project developer that buys residential and commercial properties, with asset management; no property management offering is clearly stated.",
+ "founded_evidence": "mehr als 20 Jahre",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": "Hausverwaltung",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://spreereal.de/",
+  "services": "https://spreereal.de/portfolio/",
+  "about": "https://spreereal.de/unternehmen/",
+  "impressum": "https://spreereal.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 45,
+ "employees_evidence": "Wir begleiten, als bundesweit agierendes Unternehmen an 6 Standorten mit über 45 Mitarbeitern",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Schrobback"
+ ],
+ "managing_directors_evidence": "Gesetzlicher Vertreter: Andreas Schrobback, geschäftsansässig in Hagenstraße 67, 14193 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "is_property_manager_evidence": "Darüber hinaus bieten wir unseren Investoren und Anlegern nicht nur das klassische Asset- und Propertymanagement mit renditestarker und nachhaltiger Vermietung",
+ "segment_note": "AS Unternehmensgruppe is a Berlin real-estate investor, developer and investment manager that sells refurbished properties to private investors and mentions asset and property management, with about 45 employees.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.unternehmensgruppe-as.de/",
+  "services": "https://www.unternehmensgruppe-as.com/leistungsspektrum",
+  "about": "https://www.unternehmensgruppe-as.com/karriere-bei-der-as-unternehmensgruppe",
+  "jobs": "https://www.unternehmensgruppe-as.com/karriere-bei-der-as-unternehmensgruppe",
+  "impressum": "https://www.unternehmensgruppe-as.com/impressum"
+ }
+}

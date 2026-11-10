@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung, insbesondere auch die Wohnungseigentumsverwaltung, tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2009,
+ "founded_evidence": "Unsere Gesellschaft wurde im Sommer 2009 mit Bezug auf den Firmensitz",
+ "managing_directors": [
+  "Günter Ziegler"
+ ],
+ "managing_directors_evidence": "Günter Ziegler, Geschäftsführer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wirtschaftsplan Hausgeld-/Mietabrechnung Objektabrechnung",
+ "portal_or_app": "Service-Portal",
+ "portal_evidence": "Service-Portal",
+ "segment_note": "Berlin property manager (founded 2009) offering WEG and rental management plus brokerage, project development and facility services, with a Service-Portal for clients.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://spreeufer-gmbh.de/",
+  "about": "https://spreeufer-gmbh.de/de/spreeufer.html",
+  "services": "https://spreeufer-gmbh.de/de/dienstleistungen.html",
+  "impressum": "https://spreeufer-gmbh.de/de/impressum.html"
+ }
+}

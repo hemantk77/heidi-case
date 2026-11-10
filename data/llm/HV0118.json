@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltung von Miet-, Wohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Die Hausverwaltung Tanja Montag existiert seit 1993.",
+ "managing_directors": [
+  "Tanja Montag"
+ ],
+ "managing_directors_evidence": "Inhaberin: Tanja Montag",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnungen",
+ "portal_or_app": "Online Portal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Berlin property manager founded 1993 (small team, owner-operated) offering WEG, rental, special-property and commercial management with an online portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-montag.de/",
+  "about": "https://www.hausverwaltung-montag.de/unternehmen",
+  "services": "https://www.hausverwaltung-montag.de/leistungen",
+  "impressum": "https://www.hausverwaltung-montag.de/impressum"
+ }
+}

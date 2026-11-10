@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Hausverwaltung aus Berlin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Maria Menzel"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Maria Menzel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Ob Mieterkommunikation, Handwerkerkoordination oder Betriebskostenabrechnung – unsere Leistungen machen DOMESTICUS zu Ihrem Rundum-Sorglos-Partner in Berlin und Brandenburg.",
+ "portal_or_app": "Eigentümer- und Mieterportal",
+ "portal_evidence": "Unsere digitale Hausverwaltung bietet Ihnen rund um die Uhr Zugriff auf das Eigentümer- und Mieterportal.",
+ "segment_note": "Digital-first Berlin property manager offering WEG, rental and special-property management with an owner/tenant portal, certified under § 26a WEG.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.domesticus-immobilien.de/",
+  "services": "https://www.domesticus-immobilien.de/leistungen",
+  "about": "https://www.domesticus-immobilien.de/ueber-uns",
+  "impressum": "https://www.domesticus-immobilien.de/impressum"
+ }
+}

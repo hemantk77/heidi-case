@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wir Sind Immobilien-Händler, Kein Makler. Alle von uns angebotenen Immobilien sind unser Eigentum.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Seit 2006 verfolgen wir unser erfolgreiches und bisher einzigartiges Konzept",
+ "managing_directors": [
+  "Uwe Andreas Piehler"
+ ],
+ "managing_directors_evidence": "Uwe Andreas Piehler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "TARSAP is a Berlin real estate dealer and project developer that buys, renovates and sells its own properties; it states it does not offer brokerage and shows no property management services.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://tarsap.de/",
+  "about": "https://tarsap.de/de/tarsap-team.html",
+  "impressum": "https://tarsap.de/de/impressum.html"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Sascha Szilinski"
+ ],
+ "managing_directors_evidence": "Inhaber: Sascha Szilinski",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin/Brandenburg real estate brokerage run by owner Sascha Szilinski, with a 'Hausverwaltung' menu item but no details on managed units.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://biberstein.de/",
+  "services": "https://www.biberstein-immobilien.de/immobilienangebote/",
+  "about": "https://www.biberstein-immobilien.de/ueber-uns/",
+  "impressum": "https://www.biberstein-immobilien.de/impressum/"
+ }
+}

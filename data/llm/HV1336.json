@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Gleisbau, Tiefbau, Spezialtiefbau, Ingenieurbau, Logistik, Gerätevermietung – Komplettanbieter im Verkehrsbau",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 900,
+ "employees_evidence": "> 900 Mitarbeiter",
+ "founded_year": 1990,
+ "founded_evidence": "Seit 1990 sind wir dem Infrastrukturausbau in Deutschland verpflichtet.",
+ "managing_directors": [
+  "Roland Müller",
+  "Marian Thomas"
+ ],
+ "managing_directors_evidence": "Vorstand: Roland Müller (Vorsitzender), Marian Thomas",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BUG Verkehrsbau SE is a rail and transport-infrastructure contractor (track, civil, special civil engineering, equipment rental), not a property manager.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bug-gruppe.de/",
+  "jobs": "https://karriere.bug-gruppe.de/",
+  "impressum": "https://www.bug-gruppe.de/impressum",
+  "services": "https://karriere.bug-gruppe.de/"
+ }
+}

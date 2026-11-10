@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Eigentums- und Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Raimund Otto"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Raimund Otto",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "OTTO EHV GmbH is a Berlin property manager offering WEG and Sondereigentum administration, with at least two property visits per year.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.otto-ehv.com/",
+  "services": "https://www.otto-ehv.com/weg-verwaltung",
+  "impressum": "https://www.otto-ehv.com/impressum"
+ }
+}

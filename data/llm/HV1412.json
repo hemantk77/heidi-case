@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Die Hausdrachen GmbH garantiert schnelle, flexible und zuverlässige Hauswarts-Lösungen, welche die Erwartungen der Immobilieneigentümern und -verwaltungen übertreffen.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2018,
+ "founded_evidence": "Seit unserer Gründung im Jahr 2018 sind wir, Hausdrachen, mit Feuer und Leidenschaft Ihr dynamischer Partner in Berlin.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Hausdrachen is a Berlin facility-service provider (Hauswart, cleaning, small repairs, locksmith, garden care) for property owners and managers; it does not offer property management.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausdrachen-berlin.de/",
+  "services": "https://www.hausdrachen-berlin.de/leistungen",
+  "jobs": "https://www.hausdrachen-berlin.de/karriere",
+  "impressum": "https://www.hausdrachen-berlin.de/impressum"
+ }
+}

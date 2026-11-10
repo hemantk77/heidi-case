@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "Die Pegasus GmbH ist 1998 gegründet worden.",
+ "managing_directors": [
+  "Friedrich Kiesinger"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Friedrich Kiesinger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Pegasus GmbH is a Berlin social-business service provider (founded 1998) offering a Hausverwaltung service alongside facility management, trades, IT and catering, with no managed-unit numbers stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.pegasusgmbh.de/",
+  "about": "https://www.pegasusgmbh.de/ueber-uns",
+  "services": "https://www.pegasusgmbh.de/jobs-stellenangebote",
+  "jobs": "https://www.pegasusgmbh.de/jobs-stellenangebote",
+  "impressum": "https://www.pegasusgmbh.de/rechtliches/impressum"
+ }
+}

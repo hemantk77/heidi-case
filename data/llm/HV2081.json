@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "BRF Friedrichshain GmbH liefert die international bestens bewährten, linearen ORIGINAL DOBNER Deckensysteme aus su",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1957,
+ "founded_evidence": "1957 - Gründung des Staatlichen Bauhofs Berlin-Friedrichshain nunmehr BRF Friedrichshain GmbH",
+ "managing_directors": [
+  "Martin Woidicke"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Martin Woidicke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BRF Friedrichshain GmbH is a manufacturer/supplier of suspended metal ceiling systems (ORIGINAL DOBNER), not a property manager.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.brf.de/",
+  "about": "https://www.brf.de/dobner-und-brf-unternehmensgruppe.html",
+  "impressum": "https://www.brf.de/impressum.html"
+ }
+}

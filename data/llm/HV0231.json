@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Artvivendi Immobilienverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jörg Foth"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Jörg Foth",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wir fertigen eine jährliche Abrechnung für Ihre Mieter über die tatsächlichen Verbrauchskosten im Abrechnungszeitraum.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Pankow property manager (Wohnungs- und Grundstücksverwaltung) offering rental management, annual utility billing, bookkeeping and repairs, with a Abrechnungsservice for self-managing owners.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://artvivendi-immobilien.de/",
+  "services": "https://artvivendi-immobilien.de/artvivendi_leistungen.html",
+  "impressum": "https://artvivendi-immobilien.de/artvivendi_impressum.html"
+ }
+}

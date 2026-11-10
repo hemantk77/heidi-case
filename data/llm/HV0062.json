@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit der Findus Hausverwaltung GmbH setzen Sie auf ein engagiertes Team ... Wir stehen unseren Kunden*innen und ihren Mietern*innen als kompetenter und zuverlässiger Ansprechpartner im Rahmen der Immobilienverwaltung zur Seite.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Josephine Celine Pauer"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Josephine Celine Pauer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager offering rental, WEG and special-property management for residential, commercial and mixed buildings, with a small team and no stated unit count.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://findus-hv.de/",
+  "about": "https://findus-hv.de/ueber-uns",
+  "services": "https://findus-hv.de/immobilienverwaltung-berlin-brandenburg",
+  "jobs": "https://findus-hv.de/jobs",
+  "impressum": "https://findus-hv.de/impressum"
+ }
+}

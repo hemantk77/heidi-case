@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind spezialisiert auf die Vermittlung von hochwertigen Wohnimmobilien und Wohn- und Geschäftshäusern.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hans-Christoph Schierz"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Hans-Christoph Schierz (Geprüfter Immobilienmakler EIA & Geprüfter Immobilienbewerter EIA)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based owner-managed real estate brokerage (Makler) focused on selling and renting residential and mixed-use properties; no property management services mentioned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schierz-immobilien.de/",
+  "services": "https://www.schierz-immobilien.de/service/",
+  "about": "https://www.schierz-immobilien.de/unternehmen/",
+  "jobs": "https://www.schierz-immobilien.de/karriere-jobs/",
+  "impressum": "https://www.schierz-immobilien.de/impressum/",
+  "portal": "https://www.schierz-immobilien.de/login"
+ }
+}

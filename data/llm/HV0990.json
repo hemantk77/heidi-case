@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die ECC befindet sich in einem denkmalgeschütztem Gebäude der ehemaligen Askania Werke. ... Seit 2005 befindet sich in einem grossen Teil des Fabrikkomplexes die Kreativstadt Weißensee. Wir haben es uns zur Aufgabe gemacht, auf diesem historischen Areal ein Kultur- und Gewerbezentrum, zu entwickeln",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Peer Pette"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Peer Pette",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Pette Immobilienentwicklung GmbH develops and runs the Kreativstadt Weißensee creative/art studio complex in Berlin-Weißensee, renting studios, halls and café space; no property management for third parties is stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.pette-immobilien.de/",
+  "services": "https://www.kreativstadt-weissensee.de/services.php",
+  "impressum": "https://www.kreativstadt-weissensee.de/impressum.php",
+  "about": "https://www.kreativstadt-weissensee.de/geschichte.php"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "We're a global healthcare real estate investor and asset manager with a proven leadership team demonstrating execution excellence and deep sector expertise.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": 104,
+ "buildings_evidence": "a portfolio of 104 high-quality properties across North America, Brazil, Europe and Australia",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "The website belongs to Vital Infrastructure Property Trust, a healthcare REIT with a global portfolio; it does not match the Berlin company NWI Berlin VIII GmbH & Co. KG and shows no Berlin property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.nwhreit.com/",
+  "services": "https://www.vitalreit.com/portfolio/overview",
+  "about": "https://www.vitalreit.com/about/overview",
+  "jobs": "https://www.vitalreit.com/about/careers"
+ }
+}

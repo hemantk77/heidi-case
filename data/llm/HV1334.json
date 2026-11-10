@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind ein Hausservice, bei dem, der Kunde absolut im Mittelpunkt steht.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Familienunternehmen bestehend seit 1997.",
+ "managing_directors": [
+  "Christian Gehler",
+  "Benjamin Gehler"
+ ],
+ "managing_directors_evidence": "Inhaber: Christian Gehler & Benjamin Gehler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "Berlin facility service firm (Hausmeisterservice, cleaning, garden care, small transports) with no property management offered; not a fit for property management software sales.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wirliebenihreimmobilie.de/",
+  "services": "https://wirliebenihreimmobilie.de/dienstleistungen",
+  "about": "https://wirliebenihreimmobilie.de/%C3%BCber-uns",
+  "impressum": "https://wirliebenihreimmobilie.de/impressum-%2F-kontakt"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Berliner Büromakler",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Janusch-Nayarit Hichert-Singh"
+ ],
+ "managing_directors_evidence": "Inh. Janusch-Nayarit Hichert-Singh",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin office brokerage firm that rents out and finds tenants for commercial office space; no residential property management mentioned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immobilienprojekte-berlin.de/",
+  "services": "https://immobilienprojekte-berlin.de/services",
+  "about": "https://immobilienprojekte-berlin.de/unternehmen",
+  "impressum": "https://immobilienprojekte-berlin.de/impressum"
+ }
+}

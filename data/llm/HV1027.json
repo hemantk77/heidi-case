@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Drini Mino",
+  "Esad Göçmen"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigt: Drini Mino (Geschäftsführer) & Esad Göçmen (Geschäftsführer)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "D&E Bauwert GmbH is a general contractor for building, renovation and construction management in Berlin, part of the Drini Group; it does not appear to manage properties itself.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://drini-group.de/",
+  "jobs": "https://drini-group.de/karriere",
+  "impressum": "https://drini-group.de/impressum"
+ }
+}

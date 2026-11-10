@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Immobilienmaklerin, geprüfte Immobilienbewerterin und Immo-Mediatorin begleite ich Eigentümerinnen und Eigentümer in Berlin und Umgebung mit einer passenden Strategie für einen erfolgreichen Abschluss",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Regina Fraas"
+ ],
+ "managing_directors_evidence": "ERB GUT Immobilienvermittlung e .K. | Regina Fraas",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin sole-proprietor real estate broker (Regina Fraas) focused on selling multi-family houses, property valuation, and inherited or divorce-related sales; no property management offered per the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.erbgut-immobilien.de/",
+  "impressum": "https://www.erbgut-immobilien.de/impressum/"
+ }
+}

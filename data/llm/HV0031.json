@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die B. Philipp Hausverwaltung GmbH ist eine traditionsreiche privat geführte Hausverwaltung mit circa 3.500 Mietwohnungen in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 3500,
+ "units_evidence": "Die B. Philipp Hausverwaltung GmbH ist eine traditionsreiche privat geführte Hausverwaltung mit circa 3.500 Mietwohnungen in Berlin.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Bernd Philipp"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer: Bernd Philipp",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "B. Philipp is a privately run Berlin Hausverwaltung managing about 3,500 rental apartments, with a damage-report form and a Notdienst contact on its site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-philipp.de/",
+  "services": "https://hv-philipp.de/service",
+  "impressum": "https://hv-philipp.de/impressum"
+ }
+}

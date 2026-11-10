@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre Hausverwaltung in Berlin – Ihr individueller Service",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "D. Juch"
+ ],
+ "managing_directors_evidence": "Immobilienmakler Frau D. Juch",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (WEG, Miet, Sondereigentum, commercial) that also brokers properties and offers Nebenkostenabrechnung and Hausmeisterservice; no units or employee counts stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.classic-immobilien-berlin.de/",
+  "services": "https://www.classic-immobilien-berlin.de/verwaltung/",
+  "about": "https://www.classic-immobilien-berlin.de/ueber-uns/",
+  "impressum": "https://www.classic-immobilien-berlin.de/impressum-datenschutz/"
+ }
+}

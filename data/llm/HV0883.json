@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Immobilienmakler in Berlin Frohnau & Umgebung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dirk Wohltorf"
+ ],
+ "managing_directors_evidence": "Gründer und Inhaber Dirk Wohltorf",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real estate brokerage (Immobilienmakler) focused on sales in Frohnau and surroundings, led by owner Dirk Wohltorf; no property management offered per the website.",
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wohltorf.com/",
+  "services": "https://wohltorf.com/immobilienverkauf-im-bieterverfahren-so-sichern-sie-sich-das-beste-angebot/",
+  "portal": "https://wohltorf.com/unser-system/",
+  "about": "https://wohltorf.com/team",
+  "impressum": "https://wohltorf.com/impressum"
+ }
+}

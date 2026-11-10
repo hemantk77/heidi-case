@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung: Wir verwalten Ihre Immobilie nach den Vorgaben des WEG-Gesetzes, unter besonderer Berücksichtigung Ihrer Wünsche",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heike Bethke",
+  "Maik Bethke"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin:  Heike Bethke,  Immobilien-Ökonomin (VWA) ... Geschäftsführer:  Maik Bethke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate firm (Bethke Immobilien GmbH) offering WEG, rental and special-property management alongside sales and rentals; no unit counts stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.makler-bethke.de/",
+  "jobs": "https://www.makler-bethke.de/karriere",
+  "services": "https://www.makler-bethke.de/verwaltung",
+  "impressum": "https://www.makler-bethke.de/impressum"
+ }
+}

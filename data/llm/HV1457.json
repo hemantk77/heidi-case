@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Immobilienunternehmen mit Maklerservice und Hausverwaltung bieten wir Ihnen die nötige Entlastung bei der Immobilienverwaltung, Vermietung und mehr.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Gabriele von der Groeben"
+ ],
+ "managing_directors_evidence": "Inhaber: Gabriele von der Groeben, Inhaberin",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "die Erstellung der jährlichen Nebenkostenabrechnung",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kunden-Login",
+ "segment_note": "Berlin brokerage and small property manager (Hausverwaltung, WEG and rental management) run by owner Gabriele von der Groeben, with a client login for owners.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.groeben-immobilien.com/",
+  "services": "https://www.groeben-immobilien.com/fuer-eigentuemer/hausverwaltung/",
+  "portal": "https://www.groeben-immobilien.com/fuer-eigentuemer/kunden-login/",
+  "about": "https://www.groeben-immobilien.com/ueber-uns/",
+  "impressum": "https://www.groeben-immobilien.com/impressum/"
+ }
+}

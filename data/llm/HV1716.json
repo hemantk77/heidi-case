@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Abraham Immobilien GmbH & Co. Kg hat sich auf den Immobilienverkauf und die Gewerbevermietung von Off-Market Immobilien in Berlin und Umgebung spezialisiert.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marte Verwaltungs GmbH",
+  "Abraham Marte"
+ ],
+ "managing_directors_evidence": "Geschäftsführung/Prokura.: Marte Verwaltungs GmbH Abraham Marte",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "segment_note": "Berlin brokerage specializing in off-market property sales and commercial leasing, with no property management offering stated on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://abraham-immobilien.de/",
+  "services": "https://www.abraham-immobilien.de/services-4-1",
+  "impressum": "https://www.abraham-immobilien.de/impressum"
+ }
+}

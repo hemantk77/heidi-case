@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": "Unser Berliner Bestand – von unserem eigenen Team verwaltet. 100+ Möblierte Wohnungen",
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Joby Jose"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Joby Jose",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin company renting and managing fully furnished corporate apartments (100+ units), with its own team, and offering a Hausverwaltung service.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": "100+ Möblierte Wohnungen",
+ "units_managed": 100,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://livingspacesolutions.de/",
+  "about": "https://livingspacesolutions.de/de/for-business",
+  "portal": "https://livingspacesolutions.de/de/login",
+  "impressum": "https://livingspacesolutions.de/de/imprint"
+ }
+}

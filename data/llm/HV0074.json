@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die TRE ist eine seit 2021 bestehende, nach §26a WEG zertifizierte Hausverwaltung",
+ "founded_year": 2021,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die TRE ist eine seit 2021 bestehende, nach §26a WEG zertifizierte Hausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Annika Wehrle",
+  "Stefan Tontsch"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Annika Wehrle, Stefan Tontsch",
+ "portal_or_app": "Onlineportal",
+ "portal_evidence": "Bereits Kund:in? Dann direkt und smart über unser Onlineportal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "segment_note": "Berlin-based certified property manager (WEG and rental management) founded in 2021, offering an online owner/tenant portal and digital processes.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.tontschrealestate.com/",
+  "about": "https://www.tontschrealestate.com/ueber_uns",
+  "impressum": "https://www.tontschrealestate.com/impressum"
+ }
+}

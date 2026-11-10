@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Professionelle Hausverwaltung in Berlin für Mietwohnungen, Eigentümergemeinschaften und Gewerbeeinheiten.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Frank Rüdrich"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Frank Rüdrich, Fachwirt der Grundstücks- und Wohnungswirtschaft",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based Pankow real estate brokerage that also runs property management for rental, WEG and commercial properties, founded over 30 years ago.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ruedrich-immobilien.de/",
+  "services": "https://www.ruedrich-immobilien.de/hausverwaltung-berlin/",
+  "about": "https://www.ruedrich-immobilien.de/ueber-uns/",
+  "jobs": "https://www.ruedrich-immobilien.de/karriere/",
+  "impressum": "https://www.ruedrich-immobilien.de/impressum/"
+ }
+}

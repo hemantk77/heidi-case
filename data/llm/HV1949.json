@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind Unternehmer·innen und Wohnungseigentümer·innen in Verwaltungsbeiräten. Aus den Herausforderungen, die wir erleben, entwickeln wir die Eigentümer·innen-App WEG+.",
+ "main_business": "other",
+ "managing_directors": [
+  "Philipp Bosch",
+  "Carmen Ebeling"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Philipp Bosch, Carmen Ebeling",
+ "portal_or_app": "WEG+",
+ "portal_evidence": "WEG+ vernetzt Eigentümer·innen und Hausverwaltung, ermöglicht allen Beteiligten jederzeit den Zugriff auf alle relevanten Unterlagen",
+ "segment_note": "paeljo GmbH is a software and consulting company offering the owner app WEG+ and digitalization workshops for property managers; it does not itself offer property management.",
+ "services": [
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "segment_note_placeholder": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.paeljo.de/",
+  "impressum": "https://www.paeljo.de/impressum"
+ }
+}

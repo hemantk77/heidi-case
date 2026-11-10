@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Miethaus-, WEG- und Sondereigentumsverwaltung. Mehr erfahren",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "Mit rund 15 Mitarbeiterinnen und Mitarbeitern betreuen wir rund 2.000 Einheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 15,
+ "employees_evidence": "Mit rund 15 Mitarbeiterinnen und Mitarbeitern betreuen wir rund 2.000 Einheiten.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Schwarz",
+  "Christin Schwarz"
+ ],
+ "managing_directors_evidence": "GeschäftsführerThomas Schwarz, Christin Schwarz",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Beauftragung der Heizkostenabrechnung",
+ "portal_or_app": "Eigentümerportal",
+ "portal_evidence": "mit fester Ansprechperson und digitalem Eigentümerportal",
+ "segment_note": "Family-run Berlin property manager (WEG, rental houses, special property) with about 2,000 units, also brokerage, and an owner portal.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.dantec.de/",
+  "about": "https://www.dantec.de/ueber-uns.html",
+  "services": "https://www.dantec.de/leistungen.html",
+  "portal": "https://www.dantec.de/leistungen.html",
+  "impressum": "https://www.dantec.de/impressum.html"
+ }
+}

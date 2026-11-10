@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": "Wir verwalten rund 1.000 Einheiten in über 30 Liegenschaften.",
+ "buildings_managed": 30,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "ZenEstate ist eine inhabergeführte WEG-Verwaltung aus Berlin – spezialisiert, unabhängig und ausschließlich den Eigentümern verpflichtet.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Alina Deutsch"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Alina Deutsch",
+ "portal_or_app": "Onlineportal",
+ "portal_evidence": "Über unser Onlineportal haben Sie jederzeit Zugriff auf Unterlagen, Abrechnungen und wichtige Mitteilungen.",
+ "segment_note": "Owner-run Berlin WEG property manager with about 1,000 units in over 30 properties, offering an online owner portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": "Wir verwalten rund 1.000 Einheiten in über 30 Liegenschaften.",
+ "units_managed": 1000,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.zenestate.de/",
+  "services": "https://www.zenestate.de/angebot",
+  "impressum": "https://www.zenestate.de/impressum"
+ }
+}

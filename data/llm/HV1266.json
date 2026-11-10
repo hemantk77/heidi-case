@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Primono Group GmbH vereint als Dachgesellschaft alle Geschäftsbereiche des Primono Universums und bietet eine umfassende Übersicht der vielfältigen Unternehmen und Geschäftsfelder.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Uwe Hallas"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:\nUwe Hallas",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PRIMONO Group is a holding for construction management, general contracting, building technology, and energy businesses, with no property management offering shown on the site.",
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.primono.com/",
+  "impressum": "https://primono.com/impressum/"
+ }
+}

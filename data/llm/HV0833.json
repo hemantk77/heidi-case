@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir unterstützen Eigentümer, Käufer, Vermieter und Immobiliensuchende bei der Vermittlung von Wohn- und Gewerbeimmobilien.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Hari Horvat"
+ ],
+ "managing_directors_evidence": "Gesetzlicher Vertreter: Hari Horvat",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "HIHC Horvat Real Estate is a Berlin real-estate brokerage selling and renting residential and commercial properties; it does not show property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hihc.de/",
+  "about": "https://hihc.de/unternehmen/",
+  "jobs": "https://hihc.de/karriere/",
+  "services": "https://hihc.de/angebote/",
+  "impressum": "https://hihc.de/impressum/"
+ }
+}

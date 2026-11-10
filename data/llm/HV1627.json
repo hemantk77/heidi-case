@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Dabei fungieren wir als Berater für Mieter und Vermieter, mit dem Ziel euch zusammenzubringen.",
+ "main_business": "other",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Raymond Naseem",
+  "Sebastian Melchert"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Raymond Naseem, Sebastian Melchert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Housy GmbH is a tenant-matching platform that connects renters with landlords' apartment offers; it does not offer property management on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.housy.de/",
+  "portal": "https://www.housy.de/login-form?view=reset",
+  "about": "https://www.housy.de/ueber-uns",
+  "jobs": "https://www.housy.de/karriere",
+  "impressum": "https://www.housy.de/impressum"
+ }
+}

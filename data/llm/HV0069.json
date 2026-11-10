@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2021,
+ "founded_evidence": "2021 gründete Annett Kubiak zusätzlich die ak Immobilien Service GmbH",
+ "managing_directors": [
+  "Annett Kubiak"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Annett Kubiak, ak Immobilien Service GmbH",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ak Immobilien Service GmbH is a Berlin real-estate brokerage focused on selling and renting residential property in Biesdorf, Kaulsdorf and Mahlsdorf; the website shows no property management offering.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ak-immobilien.berlin/",
+  "services": "https://ak-immobilien.berlin/dienstleistungen/",
+  "about": "https://ak-immobilien.berlin/uberuns/",
+  "impressum": "https://ak-immobilien.berlin/impressum/"
+ }
+}

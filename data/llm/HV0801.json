@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Mineko steht für faires Mieten & Wohnen. ... Gewerbliche Nebenkostenprüfung: Sparen und bis zu 3 Jahre Geld zurück",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal jetzt prüfen lassen »",
+ "segment_note": "Mineko is a Berlin-based service that audits tenants' operating-cost statements (Nebenkostenabrechnung) for commercial and private tenants; it does not offer property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mineko.de/",
+  "services": "https://www.mineko.de/nebenkostenpruefung-gewerbe",
+  "portal": "https://www.mineko.de/dashboard/",
+  "about": "https://www.mineko.de/karriere",
+  "jobs": "https://www.mineko.de/karriere",
+  "impressum": "https://www.mineko.de/impressum"
+ }
+}

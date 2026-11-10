@@ -1,0 +1,41 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als erfahrener Partner übernehmen wir die professionelle Verwaltung von Wohnungseigentümergemeinschaften, Miethäusern (Property Management) sowie Sondereigentum.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 65,
+ "employees_evidence": "ein Team von über 65 qualifizierten Mitarbeitenden",
+ "founded_year": null,
+ "founded_evidence": "Seit mehr als 35 Jahren steht die Bayerische Immobilien Management GmbH für Kompetenz",
+ "managing_directors": [
+  "Artur Keilbach",
+  "Robert Bendlin",
+  "Daniel Hauck"
+ ],
+ "managing_directors_evidence": "Die Bayerische Immobilien Management GmbH wird vertreten durch die Geschäftsführer Artur Keilbach, Robert Bendlin, Daniel Hauck",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Betriebs- und Nebenkostenabrechnung",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Mieterportal mit inkludiertem Ticketsystem",
+ "segment_note": "Berlin-based (with Munich and Dresden sites) property manager for WEG, rental buildings and special property, with 65+ staff and a tenant/owner portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bayerische-immobilien-management.de/",
+  "about": "https://www.bayerische-immobilien-management.de/unternehmen1",
+  "services": "https://www.bayerische-immobilien-management.de/sondereigentumsverwaltung",
+  "jobs": "https://www.bayerische-immobilien-management.de/start-1-2",
+  "portal": "https://www.bayerische-immobilien-management.de/kundenportal",
+  "impressum": "https://www.bayerische-immobilien-management.de/impressum"
+ }
+}

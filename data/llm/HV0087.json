@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": "Mit über 1.000 Mitarbeitenden betreuen wir mehr als 5.000 landeseigene Liegenschaften in der ganzen Stadt",
+ "buildings_managed": 5000,
+ "employees": 1000,
+ "employees_evidence": "Mit über 1.000 Mitarbeitenden betreuen wir mehr als 5.000 landeseigene Liegenschaften",
+ "founded_year": 2003,
+ "founded_evidence": "Die BIM Berliner Immobilienmanagement GmbH ist seit 2003 die Immobilienexpertin des Landes Berlin.",
+ "managing_directors": [
+  "Tatjana Adams",
+  "Rudolf Birkholz"
+ ],
+ "managing_directors_evidence": "Tatjana Adams, Geschäftsführung Rudolf Birkholz, Geschäftsführung",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die BIM Berliner Immobilienmanagement GmbH verwaltet, vermietet und entwickelt über 5.000 landeseigene Immobilien im Auftrag des Landes Berlin",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "BIM is the state-owned real-estate manager of Berlin, managing over 5,000 publicly owned properties (schools, police, courts, administration) with over 1,000 staff, including commercial building management.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bim-berlin.de/",
+  "about": "https://www.bim-berlin.de/ueber-uns",
+  "services": "https://www.bim-berlin.de/landesimmobilien/portfolio",
+  "jobs": "https://www.bim-berlin.de/karriere",
+  "impressum": "https://www.bim-berlin.de/impressum"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung – WEG Verwaltung – Berlin und Brandenburg",
+ "main_business": "investment_or_development",
+ "services": [
+  "WEG-Verwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thomas Schönfeld"
+ ],
+ "managing_directors_evidence": "Thomas Schönfeld (Einzelfirma)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "DMEXX is a Berlin independent property advisory firm offering property sales, development, investment advice and WEG administration for Berlin and Brandenburg.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://dmexx.de/",
+  "services": "https://dmexx.de/immobilienangebote",
+  "impressum": "https://dmexx.de/impressum"
+ }
+}

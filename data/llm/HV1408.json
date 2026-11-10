@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Hendrik Schacht"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Hendrik Schacht",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate brokerage firm (rental and sales agent, investment placement) with a § 34c trade permit; the site does not describe any property management service.",
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": "Immobilienberater in Berlin und Umgebung",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://triga-home.de/",
+  "impressum": "https://triga-home.de/impressum"
+ }
+}

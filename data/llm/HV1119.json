@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Inhabergeführte Hausverwaltung mit Sitz in Berlin. Wir betreuen über 1.500 Wohn- und Gewerbeeinheiten in Berlin und Potsdam — Miet- und WEG-Verwaltung sowie Facility Management aus einer Hand.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 1500,
+ "units_evidence": "Wir betreuen über 1.500 Wohn- und Gewerbeeinheiten in Berlin und Potsdam",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 10,
+ "employees_evidence": "10 Mitarbeiter im Team",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Janine George",
+  "Anja Gerent",
+  "Thomas Galjad"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Janine George, Anja Gerent, Thomas Galjad",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-operated Berlin property manager (rental and WEG administration plus facility management) for about 1,500 units in Berlin and Potsdam, with 10 staff.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.berlinfacility.de/",
+  "about": "https://www.berlinfacility.de/ueber-uns.html",
+  "services": "https://www.berlinfacility.de/leistungen.html",
+  "jobs": "https://www.berlinfacility.de/ueber-uns.html",
+  "impressum": "https://www.berlinfacility.de/impressum.html"
+ }
+}

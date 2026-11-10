@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Alle Aufgaben rund um die Vermietung, Verwaltung und Sanierung erfolgen aus einer Hand und können dadurch optimal koordiniert werden.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 2100,
+ "units_evidence": "In unseren mehr als 2.100 Mietwohnungen finden Familien, Studierende, Alleinlebende und Junggebliebene nicht nur einen Aufenthaltsort für ihr Leben, sondern ein Zuhause.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 45,
+ "employees_evidence": "ca. 45 Mitarbeitende",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dipl. Ing. Max Aicher",
+  "Dominik Firlbeck",
+  "Dr. Christian Schwab"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Dipl. Ing. Max Aicher, Dominik Firlbeck, Dr. Christian Schwab",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Max Aicher Immobilien & Projekte, a landlord with over 2,100 rental apartments (incl. Berlin Wohngebiet \"Weiße Taube\"), also doing project development and commercial letting.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.max-aicher-immobilien.de/",
+  "about": "https://www.max-aicher-immobilien.de/home/ueber-uns",
+  "impressum": "https://www.max-aicher-immobilien.de/home/impressum",
+  "jobs": "https://www.max-aicher-immobilien.de/home/karriere"
+ }
+}

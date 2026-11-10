@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Kaufmännische und technische Verwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Bernhard Menzel",
+  "Michael Paul"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Bernhard Menzel – Michael Paul",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property consultancy offering commercial and technical administration (Verwaltung), management of residential condominium associations (WEG) when needed, and management of property companies' business.",
+ "services": [
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "units_managed_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.menzel-und-paul.de/",
+  "impressum": "https://menzel-und-paul.de/impressum/"
+ }
+}

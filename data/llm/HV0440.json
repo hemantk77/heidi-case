@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Franz-Josef Feldhaus"
+ ],
+ "managing_directors_evidence": "Verantwortl. u. Position: Inhaber Franz-Josef Feldhaus",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "HAUSVERWALTUNG FELDHAUS is a Berlin company (Tiergarten) run by owner Franz-Josef Feldhaus; the scraped text does not describe its services, portfolio size, or staff.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hv-feldhaus.de/"
+ }
+}

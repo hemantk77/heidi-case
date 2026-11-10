@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Rosenhof Grundstücksverwaltung GmbH vermietet und verwaltet Wohn- und Geschäftshäuser in Hamburg, Berlin, Kiel, Leipzig und Lübeck.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": 34,
+ "employees_evidence": "ca. 34 Mitarbeiter in den Bereichen kaufmännische und technische Mieterbetreuung, Finanzbuchhaltung und Vermietung.",
+ "founded_year": 1977,
+ "founded_evidence": "Seit: 1977 Rosenhof Grundstücksverwaltung GmbH als selbständige Immobilienverwaltung",
+ "managing_directors": [
+  "Dirk Hoÿer",
+  "Mario Zurlino"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Dirk Hoÿer, Mario Zurlino",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Rosenhof rents out and manages residential and commercial buildings in Hamburg, Berlin, Kiel, Leipzig and Lübeck, with about 34 staff; no Berlin-specific unit count is stated.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.rosenhof-gmbh.de/",
+  "about": "https://www.rosenhof-gmbh.de/unternehmensdaten/",
+  "impressum": "https://www.rosenhof-gmbh.de/impressum/"
+ }
+}

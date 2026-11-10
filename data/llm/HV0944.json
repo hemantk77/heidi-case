@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Marktpreisermittlung, Vermarktung, Behördliches, Kooperationspartner (Vermittlung der passenden Hausverwaltung)",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Susanne Rost"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigt und verantwortlich für den Inhalt: Susanne Rost, Anemonenstraße 52, 12559 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate brokerage (sale valuations, marketing, and sales of properties) run by Susanne Rost; the site names no property management services.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausundhome.de/",
+  "services": "https://www.hausundhome.de/home/angebote/",
+  "impressum": "https://www.hausundhome.de/impressum/"
+ }
+}

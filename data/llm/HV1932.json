@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Das bis heute inhabergeführte Unternehmen wurde im Jahre 1988 von Frau Paula Peters gegründet",
+ "founded_year": 1988,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir vermitteln Wohn- und Geschäftshäuser, Gewerbeimmobilien sowie Einfamlienhäuser in allen Stadtteilen Berlins",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Paula Peters"
+ ],
+ "managing_directors_evidence": "Inhaber Paula Peters",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Owner-operated Berlin real-estate brokerage (founded 1988) that sells and brokers residential and commercial properties; no property management services found on the website.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "portfolio_note": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kostorzimmobilien.de/",
+  "services": "https://kostorzimmobilien.de/de/makler-leistungen/",
+  "about": "https://kostorzimmobilien.de/de/wir-ueber-uns/",
+  "impressum": "https://kostorzimmobilien.de/de/impressum/"
+ }
+}

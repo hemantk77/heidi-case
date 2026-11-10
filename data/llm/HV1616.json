@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Offener und inspirierender Ort für Kreativwirtschaft und Kultur mitten in Berlin Kreuzberg",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "das neue Aufbau Haus am Moritzplatz wurde schließlich 2011 eröffnet",
+ "managing_directors": [
+  "Matthias Koch",
+  "Holger Fuchs"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Matthias Koch, Holger Fuchs",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Aufbau Haus GmbH runs an open creative-industry and culture venue at Moritzplatz in Berlin-Kreuzberg, renting space to creative tenants; it does not show property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://aufbauhaus.de/",
+  "about": "https://aufbauhaus.de/geschichte-des-gebaeudes",
+  "impressum": "https://aufbauhaus.de/impressum"
+ }
+}

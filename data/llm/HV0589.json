@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "AURORA Hausverwaltung Berlin – WEG-Verwaltung & Mietverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "AURORA Hausverwaltung is a Berlin property manager offering WEG administration and rental management, per the homepage title.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.aurora-hv.de/"
+ }
+}

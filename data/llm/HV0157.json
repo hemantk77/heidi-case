@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietverwaltung: Mit Fachwissen und Hingabe kümmern wir uns um Ihre Immobilie",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Michelle Bastian"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Michelle Bastian",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Nebenkostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (Hausverwaltung Paukstat GmbH) offering rental, special-ownership and property management with in-house multi-family house accounting software.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://hv-paukstat.de/",
+  "about": "https://hv-paukstat.de/ueberuns/",
+  "services": "https://hv-paukstat.de/dienstleistungen/",
+  "impressum": "https://hv-paukstat.de/impressum/"
+ }
+}

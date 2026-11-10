@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Familienunternehmen sind wir auf Gebäudereinigung und Hausmeisterdienste spezialisiert",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Timur Pidgornyi"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Timur Pidgornyi",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Comfort Plus GmbH is a Berlin cleaning and caretaking company (building cleaning, Hausmeisterdienste, winter service, garden care) with no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.comfort-plus.eu/",
+  "services": "https://comfort-plus.eu/leistungen/",
+  "impressum": "https://comfort-plus.eu/impressum/"
+ }
+}

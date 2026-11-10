@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bei NetNat Immobilienverwaltung GmbH stehen für eine kundenorientierte, fachgerechte und umfassende Objektverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "N.v.Luxburg",
+  "Natali Gräfin von Luxburg"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: N.v.Luxburg; ... Vertretungsberechtigt nach § 5 TMG:  Natali Gräfin von Luxburg",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "NetNat is a Berlin property manager handling residential, WEG, commercial and mixed-use properties, also offering project development and marketing.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://netnat-immobilienverwaltung.de/",
+  "services": "https://netnat-immobilienverwaltung.de/de/verwaltung",
+  "about": "https://netnat-immobilienverwaltung.de/de/netnat",
+  "impressum": "https://netnat-immobilienverwaltung.de/de/impressum"
+ }
+}

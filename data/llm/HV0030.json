@@ -1,0 +1,37 @@
+{
+ "buildings_managed": 200,
+ "buildings_evidence": "200 OBJEKTE",
+ "employees": 57,
+ "employees_evidence": "57 MITARBEITENDE",
+ "founded_year": 1983,
+ "founded_evidence": "wurde 1983 von Herrn Reinhard Kremer (†) gegründet",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "bietet umfassende Dienstleistungen für Wohnimmobilien, darunter WEG- und Miethausverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Wolfgang Kremer",
+  "Tim Kremer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Wolfgang Kremer, Tim Kremer",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal Login",
+ "segment_note": "Berlin WEG and rental-house property manager founded in 1983, family-owned, with 57 staff managing about 200 properties and 11,500 units.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 11500,
+ "units_evidence": "11.500 EINHEITEN",
+ "_evidence_checked": 7,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kremerhv.de/",
+  "about": "https://www.kremerhv.de/das-unternehmen",
+  "jobs": "https://www.kremerhv.de/karriere",
+  "portal": "http://app.kremerhv.de",
+  "impressum": "https://www.kremerhv.de/impressum"
+ }
+}

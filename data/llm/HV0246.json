@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Hausverwaltung ist die richtige Adresse, wenn Sie nach einem zuverlässigen Partner für die professionelle WEG-Verwaltung suchen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1994,
+ "founded_evidence": "Bereits seit 1994 kümmern wir uns um verschiedene Immobilien",
+ "managing_directors": [
+  "Jens Kühne"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Herr Jens Kühne",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IMACON is a Berlin property manager (WEG and rental management, plus marketing and caretaking) active since 1994, with no units or employee count stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://imacon-gmbh.de/",
+  "services": "https://www.imacon-gmbh.de/weg-verwaltung.php",
+  "jobs": "https://www.imacon-gmbh.de/wir-stellen-ein.php",
+  "impressum": "https://www.imacon-gmbh.de/impressum.php"
+ }
+}

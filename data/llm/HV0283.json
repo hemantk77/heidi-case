@@ -1,0 +1,23 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Anemone Poland"
+ ],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Flagg Hausverwaltung GmbH is a Berlin company whose website shows only contact details and imprint; the homepage does not describe its services.",
+ "managing_directors_evidence": "Geschäftsführerin: Anemone Poland",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://flagg-hv.de/"
+ }
+}

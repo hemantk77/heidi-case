@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Matthias Löffler",
+  "Walter Schuller"
+ ],
+ "managing_directors_evidence": "Vorstand:\nMatthias Löffler\nWalter Schuller",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "Mieterportal",
+ "portal_evidence": "Mieterportal",
+ "segment_note": "GeWoSüd is a Berlin housing cooperative (eG) whose member-housing business is run by its own Vorstand; the site does not explicitly describe offering property management to third parties.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "is_property_manager_evidence": "Die GeWoSüd steht für bezahlbares, zukunftsorientiertes Wohnen. ... Der Vorstand leitet die Geschäfte der Genossenschaft und wird dabei von den Mitarbeiterinnen und Mitarbeitern der Geschäftsstelle und in den Wohnanlagen unterstützt.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gewosued.de/",
+  "about": "https://gewosued.net/ueber-uns/wer-wir-sind/",
+  "impressum": "https://gewosued.net/ueber-uns/impressum"
+ }
+}

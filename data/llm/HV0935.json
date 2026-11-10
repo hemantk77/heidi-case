@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Gewerbliche Wohnungsvermittlung von Wohn-und Gewerberäumen jeder Art, speziell möblierter Wohnraum auf Zeit in allen Bezirken in Berlin und Umgebung sowie auch in Hamburg. Vermittlung von Eigentumswohnungen und Häusern gegen Provision.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1985,
+ "founded_evidence": "Seit 1985 vermittelt unsere Agentur Zimmer, Wohnungen und Häuser für eine kurz- oder auch längerfristige Nutzung an unsere Kunden.",
+ "managing_directors": [
+  "Snjezana Kleinecke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Snjezana Kleinecke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage specialising in furnished short- and long-term rentals (Mitwohn), also brokering owner-occupied flats and houses for commission; no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mitwohn.com/",
+  "jobs": "https://mitwohn.com/?page_id=49",
+  "services": "https://mitwohn.com/?page_id=58",
+  "about": "https://mitwohn.com/?page_id=15",
+  "impressum": "https://mitwohn.com/?page_id=9"
+ }
+}

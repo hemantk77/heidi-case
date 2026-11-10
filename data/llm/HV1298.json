@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienvermarktung für Käufer und Bauträger",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jürgen Meehsen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Jürgen Meehsen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ESCON GmbH is a Berlin real-estate firm focused on marketing and selling new residential projects for buyers and developers, with no property management services mentioned.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.escon-objekte.de/",
+  "about": "https://escon-objekte.de/ueber/",
+  "impressum": "https://escon-objekte.de/impressum/"
+ }
+}

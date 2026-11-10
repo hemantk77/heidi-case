@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebs- und Heizkostenabrechnung für die Mieter jedes Jahr",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Mietshäuser für Eigentümer, denen das ganze Haus gehört ... Eigentümergemeinschaften (WEG) verwalten wir nicht.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Justus Großpietsch",
+  "Jonathan Felsmann"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer: Justus Großpietsch, Jonathan Felsmann",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "segment_note": "LIEPA Real Estate is a Berlin brokerage that also runs rental property management (Mietverwaltung) for apartment buildings, but explicitly does not manage WEG communities.",
+ "units_managed": 300,
+ "units_evidence": "In der Hausverwaltung betreuen wir über 300 Einheiten in Berlin, Hamburg und Stuttgart.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://liepa-re.de/",
+  "services": "https://liepa-re.de/hausverwaltung",
+  "about": "https://liepa-re.de/ueber-uns",
+  "jobs": "https://liepa-re.de/karriere",
+  "impressum": "https://liepa-re.de/impressum"
+ }
+}

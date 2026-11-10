@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Möchten Sie alle Aufgaben bei der Vermietung Ihrer Wohnungen abgeben, sind wir Ihr verlässlicher Partner.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1920,
+ "founded_evidence": "Kümmel Immobilien - gegründet 1920",
+ "managing_directors": [
+  "Karsten Fechner"
+ ],
+ "managing_directors_evidence": "Karsten Fechner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate firm founded 1920 offering property sales, brokerage and a rental-management service for landlords who want to hand over letting tasks.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kuemmel-immobilien.de/",
+  "services": "https://kuemmel-immobilien.de/listing.php"
+ }
+}

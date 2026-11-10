@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "RELAXA übernimmt die strukturierte Verwaltung Ihrer Mietobjekte.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Payam Haji Bagheri",
+  "Pouya Haji Bagheri"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Gesellschafter: Payam Haji Bagheri Pouya Haji Bagheri",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (OHG) offering rental, commercial, WEG and portfolio management, and also taking over other property management firms.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://relaxa.immo/",
+  "services": "https://relaxa-immobilien.de/mietverwaltung",
+  "about": "https://relaxa-immobilien.de/unternehmensnachfolge",
+  "jobs": "https://relaxa-immobilien.de/karriere",
+  "impressum": "https://relaxa-immobilien.de/impressum"
+ }
+}

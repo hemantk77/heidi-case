@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit rund 20 Jahren betreuen wir Immobilien und Eigentümergemeinschaften in Berlin und Umgebung.",
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Betriebskostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Schwerpunkt liegt in der WEG-Verwaltung. Ergänzend übernehmen wir die Miet- und Sondereigentumsverwaltung.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jana Nesari"
+ ],
+ "managing_directors_evidence": "Inhaber:  Jana Nesari",
+ "portal_evidence": "Über unser Onlineportal können Eigentümer die dort bereitgestellten Dokumente einsehen.",
+ "portal_or_app": "Onlineportal",
+ "segment_note": "Owner-operated Berlin property manager (Dahlem/Steglitz-Zehlendorf) focused on WEG administration, also handling rental and special-property management, with an owner online portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hausverwaltung-nesari.de/",
+  "services": "https://hausverwaltung-nesari.de/verwaltung/",
+  "about": "https://hausverwaltung-nesari.de/ueber-uns/",
+  "impressum": "https://hausverwaltung-nesari.de/impressum"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "managing_directors_evidence": "Marc-Aurel Große\n Vertretungsberechtigter:\nMarc-Aurel Große",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real estate agent offering rentals (Vermietung), sales (Verkauf) and valuation/consulting for residential and commercial property; no property management services are described on the site.",
+ "managing_directors_rejected": [
+  "Marc-Aurel Große"
+ ],
+ "_evidence_checked": 1,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://grosse-immobilien.de/",
+  "services": "http://grosse-immobilien.de/service/",
+  "impressum": "http://grosse-immobilien.de/impressum-datenschutz/"
+ }
+}

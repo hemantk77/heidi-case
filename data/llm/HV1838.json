@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Dienstleistungen: Kauf, Verkauf und Vermittlung von Wohnungen, Appartaments, Häuser und Grundstücken.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tadeusz Javell"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Tadeusz Javell ",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Javell Immobilien is a Berlin sole proprietorship doing brokerage (purchase, sale and mediation of apartments, houses and plots), with Baltic Sea properties in Poland listed; no property management stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.javell-immobilien.de/",
+  "services": "https://www.javell-immobilien.de/ihre-angebote.html",
+  "impressum": "https://www.javell-immobilien.de/impressum.html"
+ }
+}

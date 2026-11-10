@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die SECON betreut Wohnhäuser und Geschäftshäuser in Berlin und Brandenburg. mehr... ... Die SECON betreut einzelne Wohnungen ( Sondereigentumsverwaltung ) , sowie ganze Wohnungseigentumsanlagen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": 4500,
+ "units_evidence": "Mit rund 4.500 verwalteten Wohneinheiten wurde im Jahre 2006 der Höchststand an Verwaltungseinheiten erreicht.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "SECON Haus - und Grundstücksverwaltung GmbH - seit 1993",
+ "managing_directors": [
+  "Andreas Wegner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Wegner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "SECON is a Berlin property manager since 1993 handling residential (rental and WEG), commercial, and special-ownership management, with about 4,500 units at its peak in 2006.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.secon-hausverwaltung.de/",
+  "services": "http://secon-hausverwaltung.de/weg-verwaltung",
+  "about": "https://secon-hausverwaltung.de/ueber-uns",
+  "jobs": "https://secon-hausverwaltung.de/bewerbungsunterlagen",
+  "impressum": "https://secon-hausverwaltung.de/impressum"
+ }
+}

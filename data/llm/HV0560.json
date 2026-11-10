@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Unsere Hausverwaltung wurde 1998 gegründet",
+ "founded_year": 1998,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Gerne erstellen wir Ihnen auch nur die jährliche BK-Abrechnung gegenüber Ihrem Mieter.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Haus- & Immobilienverwaltung Dipl.-Ing. Steffen Tietz -  Zertifizierter Verwalter nach §26a des Wohnungseigentümergesetzes",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dipl.-Ing. Steffen Tietz"
+ ],
+ "managing_directors_evidence": "Verantwortlich: Dipl.-Ing. Steffen Tietz",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Small Berlin property manager (founded 1998, owner-run) offering WEG, rental and special-property management plus brokerage, with a self-built EDV and no tenant portal mentioned.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-tietz.de/",
+  "services": "https://www.hausverwaltung-tietz.de/hausverwaltung/",
+  "about": "https://www.hausverwaltung-tietz.de/team-bewerbung/",
+  "jobs": "https://www.hausverwaltung-tietz.de/team-bewerbung/",
+  "impressum": "https://www.hausverwaltung-tietz.de/impressum-datenschutz/"
+ }
+}

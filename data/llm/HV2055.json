@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihr Immobilienmakler. Das sind wir. Die WÜSTENROT IMMOBILIEN GMBH ist der Immobiliendienstleister des Konzerns Wüstenrot & Württembergische.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "Im Jahr 1991 gegründet, verfügen wir aktuell über 230 Geschäftsstellen bundesweit.",
+ "managing_directors": [
+  "Jochen Dörner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Jochen Dörner",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Wüstenrot Immobilien Berlin is a real-estate brokerage (Immobilienmakler) for sales of properties, with no property management offered per the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wi-berlin.de/",
+  "impressum": "https://www.wi-berlin.de/impressum/",
+  "services": "https://www.wi-berlin.de/eigentuemer/",
+  "about": "https://www.wi-berlin.de/ueber-uns/",
+  "jobs": "https://www.wi-berlin.de/karriere/"
+ }
+}

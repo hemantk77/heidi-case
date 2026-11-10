@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Mit über 30 Jahren Erfahrung am Stammsitz in Dänemark und fast 20 Jahren Präsenz in Berlin",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mit eigenen Fachbereichen für Vertrieb , Projektentwicklung und Verwaltung bündeln wir alle zentralen Kompetenzen unter einem Dach",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Jesper Kim Pedersen",
+  "Niels Peter Nielsen"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Jesper Kim Pedersen Niels Peter Nielsen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "segment_note": "Berlin-based marketer and owner of its own portfolio of over 6,000 units (part of Esplanaden Immobilien Gruppe), with in-house sales, development and administration departments.",
+ "units_evidence": "Über 6.000 Einheiten in Berlin und Umgebung",
+ "units_managed": 6000,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hauptstadt-raeume.de/",
+  "jobs": "https://hauptstadt-raeume.de/karriere/",
+  "impressum": "https://hauptstadt-raeume.de/impressum/"
+ }
+}

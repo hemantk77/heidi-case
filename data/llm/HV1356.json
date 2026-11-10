@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "MYNE Service: We take care of everything – from professional valuation, renovation to furnishing, property management, and coordination of service providers.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Fabian Löhmer",
+  "Nikolaus Thomale"
+ ],
+ "managing_directors_evidence": "Represented by: Fabian Löhmer, Nikolaus Thomale",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MYNE Homes is a Berlin-based holiday home co-ownership provider (2–8 co-owners per property) that also offers property management for the properties it sells.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.myne-homes.com/",
+  "about": "https://www.myne-homes.com/about-us",
+  "impressum": "https://www.myne-homes.com/legal-notice"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1928,
+ "founded_evidence": "seit 1928 als inhabergeführtes Familienunternehmen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Hauptengagement liegt auf dem Gebiet der Hausverwaltung und der Verwaltung von Wohnungseigentum.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dr. Maximilian Offizier"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dr. Maximilian Offizier",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": 1800,
+ "units_evidence": "Sie verwaltet im Großraum Berlin viele Objekte in der klassischen Miethausverwaltung, Wohnungseigentumsanlagen nach WEG und Sondereigentum mit insgesamt ca. 1.800 Wohnungseinheiten.",
+ "segment_note": "Traditional Berlin property manager (since 1928) handling rental houses and WEG condominiums, with about 1,800 units.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vkp-berlin.de/",
+  "services": "https://vkp-berlin.de/unser-service/",
+  "about": "https://vkp-berlin.de/unternehmen/",
+  "impressum": "https://vkp-berlin.de/kontakt/"
+ }
+}

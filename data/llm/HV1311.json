@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Lösungen für neue Gebäude: Aufzüge, Rolltreppen und Automatiktüren im Neubau. Wir haben die passende Lösung für Ihr neues Gebäude – digital & energieeffizient.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "myKONE",
+ "portal_evidence": "myKONE-Kundenportal für Einblicke in den Service in Echtzeit",
+ "segment_note": "KONE is an elevator, escalator and automatic door manufacturer and service provider focused on new buildings, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.kone.de/",
+  "services": "https://www.kone.de/digital-services/",
+  "about": "https://www.kone.de/unternehmen/",
+  "jobs": "https://www.kone.de/karriere/",
+  "portal": "https://www.kone.de/support/mykone/",
+  "impressum": "https://www.kone.de/impressum.aspx"
+ }
+}

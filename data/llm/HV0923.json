@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir managen aktiv Ihre Immobilie und erfüllen nicht nur die klassischen Aufgaben einer Hausverwaltung rechtssicher und zuverlässig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Anja Sieber"
+ ],
+ "managing_directors_evidence": "“ Ich habe 23 Jahre in einer deutschen Großbank sehr vermögende Kunden betreuen dürfen.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-managed Berlin property manager (Sieber Immobilien GmbH) offering WEG, rental, special-property and commercial property management, plus some sales and letting.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.sieberimmobilien.de/",
+  "services": "https://www.sieberimmobilien.de/verwaltung-1",
+  "about": "https://www.sieberimmobilien.de/about",
+  "impressum": "https://www.sieberimmobilien.de/impressum"
+ }
+}

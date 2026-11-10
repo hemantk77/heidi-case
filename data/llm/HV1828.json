@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Volland Unternehmensgruppe übernimmt für Investoren die Projektkoordination und das Projektmanagement. Zudem unterützt sie bei der technischen und kaufmännischen Projektentwicklung",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Volland"
+ ],
+ "managing_directors_evidence": "Inhaltlich Verantwortlicher: Andreas Volland – Geschäftsführender Gesellschafter / CEO (Anschrift s.o.)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Munich project developer and investor focused on acquiring and revitalizing old-building apartment houses; offers project management for investors, not property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.volland-unternehmensgruppe.de/",
+  "about": "https://volland-unternehmensgruppe.de/ueber-uns",
+  "impressum": "https://volland-unternehmensgruppe.de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 240,
+ "employees_evidence": "Mit mehr als 650 Projekten und rund 240 Mitarbeiter:innen gehören wir zu den größten Immobilienentwicklerinnen Europas.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit rund 60 Jahren planen, errichten, vermieten und verkaufen wir Immobilien, bei Bedarf auch als Dienstleisterin.",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Christian Hattendorf",
+  "Rainer M. Schäfer"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer Christian Hattendorf, Rainer M. Schäfer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "STRABAG Real Estate is a real estate developer that plans, builds, rents and sells properties and offers development services for external clients; no property management offering is stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.strabag-real-estate.com/",
+  "services": "https://www.strabag-real-estate.com/de-DE/development-services/",
+  "about": "https://www.strabag-real-estate.com/de-DE/unternehmen/",
+  "jobs": "https://www.strabag-real-estate.com/de-DE/karriere/",
+  "impressum": "https://www.strabag-real-estate.com/de-DE/impressum/"
+ }
+}

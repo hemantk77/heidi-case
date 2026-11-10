@@ -1,0 +1,25 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit der Gründung im Juni 1996 waren wir eine überörtliche Gesellschaft bürgerlichen Rechts. Seit dem 28.02.2006 sind wir als Partnerschaftsgesellschaft unter der Firma SIMON und PARTNER Rechtsanwälte Steuerberater Wirtschaftsprüfer",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1996,
+ "founded_evidence": "Seit der Gründung im Juni 1996 waren wir eine überörtliche Gesellschaft bürgerlichen Rechts.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "SIMON und PARTNER (SIMON Law) is a law, tax and auditing partnership (Rechtsanwälte, Steuerberater, Wirtschaftsprüfer) with sites in Berlin, Hamburg and Wiesbaden, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.simon-law.de/",
+  "impressum": "https://www.simon-law.de/impressum"
+ }
+}

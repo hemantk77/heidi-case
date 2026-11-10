@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Michael Bolz"
+ ],
+ "managing_directors_evidence": "Herr Michael Bolz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "segment_note": "Berlin firm whose website only advertises rent-free garages, parking spaces and apartments from its properties; it does not state any property management services.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hv-bolz.de/",
+  "impressum": "https://www.hv-bolz.de/impressum/"
+ }
+}

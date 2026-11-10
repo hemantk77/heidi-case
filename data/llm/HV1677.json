@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Immo Fusion GmbH akquiriert und vermittelt Immobilien jeglicher Art im gesamten Bundesgebiet mit dem Schwerpunkt auf Berlin und Umland.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2012,
+ "founded_evidence": "Seit 2012 betreut die Immo Fusion GmbH individuell anspruchsvolle Kunden",
+ "managing_directors": [
+  "Khaled Abu Ramadan"
+ ],
+ "managing_directors_evidence": "Dipl.-Ing (FH) Khaled Abu Ramadan",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Immo Fusion GmbH is a Berlin real-estate brokerage and project developer focused on buying, selling and financing properties, with no property management offering on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immofusion.de/",
+  "impressum": "http://relaunch.immofusion.de/impressum/"
+ }
+}

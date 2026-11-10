@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1972,
+ "founded_evidence": "Seit 1972 realisieren und bewirtschaften wir Gewerbe-Immobilien, die Standorte positiv prägen.",
+ "managing_directors": [
+  "Andreas Jantzen",
+  "Dr. Stefan Rehkopf"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Vorstand: Andreas Jantzen, Dipl.-Ingenieur Architekt Dr. Stefan Rehkopf, Dipl.-Wirtsch.-Ingenieur",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "EUROPA-CENTER is a commercial real-estate developer and owner that builds and operates its own office, hotel and logistics properties, with no evidence of third-party property management.",
+ "is_property_manager_evidence": "Wir entwickeln, realisieren und betreiben Immobilien, in denen Unternehmen erfolgreich werden.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.europa-center.de/",
+  "services": "https://europa-center.com/de/leistungen",
+  "about": "https://europa-center.com/de/unternehmen",
+  "jobs": "https://europa-center.com/de/karriere",
+  "impressum": "https://europa-center.com/de/impressum"
+ }
+}

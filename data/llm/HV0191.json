@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit dem Jahr 2019 betreuen wir in Berlin einen Immobilienbestand",
+ "founded_year": 2019,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser engagiertes Hausverwaltungsteam kümmert sich mit Unterstützung von einsatzfreudigen Hausmeistern und weiteren zuverlässigen externen Partnern vor Ort um alle mietvertraglichen und technischen Belange.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Isabelle Braun",
+  "Jesper Kim Pedersen"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Isabelle Braun Jesper Kim Pedersen (GF)",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "REM Hausverwaltung GmbH is a Berlin property manager (founded 2019) looking after over 3,500 apartments, with rental and technical management plus a rental-listing service.",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_evidence": "von mehr als 3.500 Wohnungen",
+ "units_managed": 3500,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://rem-hv.de/",
+  "services": "https://rem-hv.de/mietangebote/",
+  "jobs": "https://rem-hv.de/karriere/",
+  "impressum": "https://rem-hv.de/impressum/"
+ }
+}

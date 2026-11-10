@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Charakteristika des 1991 unter dem Motto „Gemeinsam zum Erfolg“ gegründeten Marzahn-Hellersdorfer Wirtschaftskreises e. V. sind stabile Mitgliederzahlen und Finanzen",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "1991 unter dem Motto „Gemeinsam zum Erfolg“ gegründeten Marzahn-Hellersdorfer Wirtschaftskreises e. V.",
+ "managing_directors": [
+  "Dr. Klaus Teichmann",
+  "Uwe Zemann"
+ ],
+ "managing_directors_evidence": "Dr. Klaus Teichmann\nGeschäftsführer\n Uwe Zemann\nGeschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Marzahn-Hellersdorf business association (eV, founded 1991, 240 members) that does not offer property management; not a sales fit for property management software.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.mhwk.de/",
+  "about": "https://www.mhwk.de/ueber_uns/",
+  "portal": "https://www.mhwk.de/mitglieder-login/",
+  "impressum": "https://www.mhwk.de/impressum/"
+ }
+}

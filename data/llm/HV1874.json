@@ -1,0 +1,31 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1990,
+ "founded_evidence": "wurde 1990 in einer sehr spannenden und bewegten Zeit im ehemaligen Ost-Berlin gegründet",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "segment_note": "Berlin-Ost chapter of the Haus & Grund owners' association offering legal, tax and technical advice to property owners and members; not a property manager.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hugberlinost.de/",
+  "about": "https://www.hausundgrund.de/verein/berlin-ost/ueber-uns",
+  "impressum": "https://www.hausundgrund.de/verein/berlin-ost/impressum"
+ }
+}

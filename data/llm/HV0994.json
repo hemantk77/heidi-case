@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Mathias Kühne"
+ ],
+ "managing_directors_evidence": "Geschäftsführer\nDr. Mathias Kühne",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Interagila GmbH is a Berlin project developer and property sales firm that lists Hausverwaltung among its services, with no unit or building counts published.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.interagila.com/",
+  "about": "https://interagila.com/ueber-uns/unser-unternehmen/",
+  "services": "https://interagila.com/leistungen/",
+  "impressum": "https://interagila.com/impressum/"
+ }
+}

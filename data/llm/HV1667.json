@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Johannes Lindner"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Johannes Lindner",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin GmbH (Charlottenburg-Wilmersdorf) whose homepage shows only contact and Impressum details; the website text says nothing about its business activities.",
+ "is_property_manager_evidence": null,
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.lwb-berlin.de/"
+ }
+}

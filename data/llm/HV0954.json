@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Hausverwaltung übernehmen wir für Sie die vollumfängliche, professionelle Bewirtschaftung Ihres Grundbesitzes",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2018,
+ "founded_evidence": "Unsere 2018 in Berlin-Zehlendorf gegründete Gesellschaft",
+ "managing_directors": [
+  "Kerstin Purtz"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Kerstin Purtz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "H&P Real Estate Solutions is a Berlin-Zehlendorf property management firm founded in 2018, offering full commercial, technical and accounting administration for residential and commercial properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hp-res.de/",
+  "services": "https://www.hp-res.de/technische-verwaltung",
+  "jobs": "https://www.hp-res.de/karriere",
+  "impressum": "https://www.hp-res.de/impressum"
+ }
+}

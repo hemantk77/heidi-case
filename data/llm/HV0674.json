@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Hausverwaltung HVR bietet Ihnen eine hochqualifizierte, zielorientierte und individuelle Dienstleistungen",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dr. Arnold Rontz"
+ ],
+ "managing_directors_evidence": "Dr. Arnold Rontz",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "den Heizkostenabrechnungen ... den Betriebskostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based Hausverwaltung (rental property management) also active in Frankfurt and Limburg, offering rent accounting, heating and operating cost billing, and tenant care; the website is dated 2009 and shows no unit counts.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltung-hvr.de/",
+  "about": "http://hausverwaltung-hvr.de/unternehmen.php",
+  "services": "http://hausverwaltung-hvr.de/leistungen.php",
+  "impressum": "http://hausverwaltung-hvr.de/impressum.php"
+ }
+}

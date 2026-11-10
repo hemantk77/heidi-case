@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit über 60 Jahren steht der Name Kanold für Kompetenz in Sachen \"Grün\". Der Berliner Betrieb hat sich kontinuierlich personell, maschinell und in den Fachbereichen Garten-, Landschafts- & Sportplatzbau und in der Abteilung Baumdienst vergrößert.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "René Rehag"
+ ],
+ "managing_directors_evidence": "2. Der Geschäftsführer  René Rehag",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin green-space contractor offering garden and landscape construction, winter service, tree care and vehicle sales; it does not offer property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://kanold.berlin/",
+  "about": "https://kanold.berlin/das-unternehmen.html",
+  "jobs": "https://kanold.berlin/karriere/",
+  "impressum": "https://kanold.berlin/impressum.html"
+ }
+}

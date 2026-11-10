@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wenn Sie einen kompetenten Verwalter für Ihre Immobilien suchen, sind Sie bei uns richtig! Wir sind gerne für Sie da!",
+ "main_business": "property_management",
+ "services": [
+  "Other",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Holger-Dietmar Bildstein"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Holger-Dietmar Bildstein",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property company (Holger Bildstein Hausverwaltung/Immobilien) that offers property management alongside brokerage; site gives no unit or building counts.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bildstein-immobilien.de/",
+  "services": "https://www.bildstein-immobilien.de/unsere-aktuellen-angebote/",
+  "impressum": "https://www.bildstein-immobilien.de/about/",
+  "portal": "https://www.bildstein-immobilien.de/login"
+ }
+}

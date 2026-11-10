@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unsere Spezialisierung auf Vermittlung von Wohnimmobilien bietet Ihnen beste Expertise für den erfolgreichen Verkauf oder die Verrentung Ihrer Immobilie.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": "Heute sind wir ein Team aus rund zwölf Kollegen und Kolleginnen an drei Berliner Standorten.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dietmar Theiler"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Dietmar Theiler",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage specializing in selling and annuity (Verrentung) of residential properties; no property management offered per the site.",
+ "employees_rejected": 12,
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wohnhausimmobilien.de/",
+  "about": "https://wohnhausimmobilien.de/team",
+  "services": "https://wohnhausimmobilien.de/immobilienangebote",
+  "portal": "https://wohnhausimmobilien.de/marktuebersicht-berlin/",
+  "jobs": "https://wohnhausimmobilien.de/team/karriere/",
+  "impressum": "https://wohnhausimmobilien.de/impressum"
+ }
+}

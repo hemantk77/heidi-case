@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Heute bewirtschaften wir im gesamten Bundesgebiet rund 20.500 eigene Mietwohnungen.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": 20564,
+ "units_evidence": "20.564 Eigene Wohneinheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 244,
+ "employees_evidence": "244 Anzahl Mitarbeiter",
+ "founded_year": 1921,
+ "founded_evidence": "Die Wohnbau GmbH wurde 1921 in Berlin gegründet.",
+ "managing_directors": [
+  "Dipl.-Ing. Jens Bräutigam",
+  "Dipl.-Kfm. Matthias Schweizer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Ing. Jens Bräutigam Dipl.-Kfm. Matthias Schweizer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterportal",
+ "portal_evidence": "Sie ist einfach, schnell und flexibel, dafür sorgen wir zum Beispiel mit unserer Mieter-App und unserem Mieterportal.",
+ "segment_note": "Berlin-founded (1921) landlord managing about 20,500 own rental apartments nationwide, plus WEG and commercial management; has a tenant portal and app, 244 employees.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wohnbau-gmbh.de/",
+  "jobs": "https://www.wohnbau-gmbh.de/karriere",
+  "portal": "https://mieterportal.wohnbau-gmbh.de",
+  "about": "https://www.wohnbau-gmbh.de/unternehmen",
+  "impressum": "https://www.wohnbau-gmbh.de/impressum"
+ }
+}

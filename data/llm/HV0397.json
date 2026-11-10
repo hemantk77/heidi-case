@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Venturis Immobilienmanagement GmbH ist spezialisiert auf die Verwaltung von Gewerbe- und Spezialimmobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Philipp Pilla"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Philipp Pilla",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebs- und Nebenkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based commercial and special property manager (Gewerbeverwaltung) offering accounting, technical operation, renovation and tenant management, plus asset management as a supplement.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.venturis-immobilien.de/",
+  "services": "https://www.venturis-immobilien.de/leistungen",
+  "about": "https://www.venturis-immobilien.de/unternehmen",
+  "impressum": "https://www.venturis-immobilien.de/impressum/"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Carsten Frick"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Carsten F",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Mein Makler is a real-estate brokerage (Vermittlung, Vermietung and Finanzierung of residential and commercial properties) with a Berlin-Spandau office; no property management services are mentioned.",
+ "heating_billing_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.mein-makler.com/",
+  "services": "https://www.mein-makler.com/angebote/",
+  "about": "https://www.mein-makler.com/ueber-uns/",
+  "impressum": "https://www.mein-makler.com/impressum/"
+ }
+}

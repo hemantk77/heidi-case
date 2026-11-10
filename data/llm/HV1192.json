@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1977,
+ "founded_evidence": "Am 5. Juli 1977 wurde im Kulturhaus der Berliner Verkehrsbetriebe (BVB) in Niederschönhausen die Arbeiterwohnungsbaugenossenschaft (AWG) „Albert Kayser“ gegründet.",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Wohnungsbaugenossenschaft Wuhletal eG verfügt über ca. 3.100 Wohnungen. Unser Name steht für eine gute, sichere und sozial verantwortbare Wohnungsversorgung im Berliner Stadtteil Hellersdorf.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Karsten Ewert",
+  "Mike Riewe"
+ ],
+ "managing_directors_evidence": "Vorstand: Herr Karsten Ewert Herr Mike Riewe",
+ "portal_or_app": "Mein Wuhletal (Mitgliederportal)",
+ "portal_evidence": "MEIN WUHLETAL – MEIN MITGLIEDERPORTAL bieten wir unseren Mitgliedern einen modernen Kommunikationsweg",
+ "segment_note": "Housing cooperative in Berlin-Hellersdorf owning about 3,100 apartments, with a member portal \"Mein Wuhletal\"; it manages its own portfolio rather than third-party properties.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": "Die WG Wuhletal verfügt über 3.156 (Stand: Mai 2026) 1- bis 5-Zimmer-Wohnungen.",
+ "units_managed": 3156,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wg-wuhletal.de/",
+  "about": "https://www.wg-wuhletal.de/geschichte/",
+  "services": "https://www.wg-wuhletal.de/wohnungsangebote/",
+  "portal": "https://www.wg-wuhletal.de/social-media/",
+  "impressum": "https://www.wg-wuhletal.de/impressum/"
+ }
+}

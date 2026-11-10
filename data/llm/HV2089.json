@@ -1,0 +1,29 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Gemeinsam mit Geschäftspartnern, aber auch alleinverantwortlich, habe ich in den letzten 25 Jahren zahlreiche Wohnungen im Altbau und im Denkmalschutz restauriert",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin-based developer that restores historic apartments and buildings (Altbau/Denkmalschutz), with a related foundation HELLO; no property management service is described on the visible text.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "managing_directors_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.bruckner-gruppe.de/"
+ }
+}

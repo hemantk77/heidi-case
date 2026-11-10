@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung in Berlin – persönlich, zuverlässig und sorgfältig",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1993,
+ "founded_evidence": "Seit 1993 Ihr erfahrener Immobilienmakler in Berlin Steglitz-Zehlendorf",
+ "managing_directors": [
+  "Dr. Dagmar Lindenau-Czempiel"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Dr. Dagmar Lindenau-Czempiel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Von der Nebenkostenabrechnung über Instandhaltungsmaßnahmen bis hin zur umfassenden Sanierungsbetreuung kümmern wir uns um alle wichtigen Verwaltungsaufgaben aus einer Hand.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin Steglitz-Zehlendorf brokerage founded 1993 that also offers rental, WEG and property management including service-charge statements.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.drlindenau.de/",
+  "services": "https://www.drlindenau.de/angebote/",
+  "impressum": "https://www.drlindenau.de/impressum/"
+ }
+}

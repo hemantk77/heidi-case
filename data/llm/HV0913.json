@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die direkt angeschlossene VALIDA Hausverwaltung übernimmt für Sie die kaufmännische Betreuung, technische Verwaltung und das Facilitymanagement von Mietshäusern und Wohneigentumsobjekten.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1990,
+ "founded_evidence": "Seit 1990 bieten wir unseren nationalen und internationalen Privat- und Geschäftskunden qualiﬁzierte und fundierte Immobilien- und Finanzierungsdienstleistungen",
+ "managing_directors": [
+  "Stefan Heyden",
+  "Thomas Zebitz"
+ ],
+ "managing_directors_evidence": "GeschäftsführerStefan Heyden, Thomas Zebitz",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage and investment advisory firm (since 1990) that also runs an affiliated property management unit, VALIDA Hausverwaltung, for rental and condominium properties.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.zebitz-heyden.de/",
+  "services": "https://www.zebitz-heyden.de/leistungen/",
+  "about": "https://www.zebitz-heyden.de/unternehmen/",
+  "impressum": "https://www.zebitz-heyden.de/impressum/"
+ }
+}

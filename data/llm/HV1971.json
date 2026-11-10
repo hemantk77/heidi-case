@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit der Gründung im Jahr 1997 konzentrieren wir unser Engagement",
+ "founded_year": 1997,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unser Schwerpunkt liegt in der Konzeption und Realisierung sowie im Management von Wohn- und Gewerbeimmobilien",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Frank Hemprich",
+  "Ulrich Trautmann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl. Kfm. Frank Hemprich Dipl. Kfm. Ulrich Trautmann",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ID&A Immobilien is a Berlin developer and investment company founded in 1997 that also manages residential and commercial properties for global investors and family offices.",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ida-immobilien.de/",
+  "impressum": "https://www.ida-immobilien.de/kontakt/"
+ }
+}

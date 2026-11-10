@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten nach dem Wohnungseigentumsgesetz (WEG), sowie der jeweiligen Teilungserklärung/ Gemeinschaftsordnung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 21,
+ "buildings_evidence": "Zurzeit werden von uns 21 Wohnanlagen im Berliner Stadtgebiet betreut.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Veranlassung der Heiz- und Wasserkostenabrechnungen",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager handling WEG and rental management for 21 residential complexes, including arranging heating and water cost billing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvhess.de/",
+  "services": "http://www.hvhess.de/?Willkommen___WEG-Verwaltung",
+  "impressum": "http://www.hvhess.de/?Kontakt_%2F_Impressum",
+  "portal": "http://www.hvhess.de/?Willkommen&login"
+ }
+}

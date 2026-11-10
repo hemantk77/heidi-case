@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit der Gründung im Jahr 1986 ist unser Kerngeschäft die Verwaltung von Wohnungseigentumsanlagen, Mietshäusern und Gewerbeeinheiten sowie die Immobilien-Portfolioverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": 58,
+ "buildings_evidence": "mit einem derzeitigen Bestand von 58 Wohnanlagen",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1986,
+ "founded_evidence": "Seit der Gründung im Jahr 1986",
+ "managing_directors": [
+  "Andreas David"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nAndreas David\ngeschäftsführender Gesellschafter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "David Hausverwaltung GmbH is a Berlin/Potsdam property manager since 1986 handling WEG, rental, commercial and special-property management for 58 residential complexes.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.davidhausverwaltunggmbh.de/",
+  "services": "https://www.davidhausverwaltunggmbh.de/mietshaus-und-gewerbeimmobilienverwaltung",
+  "impressum": "https://www.davidhausverwaltunggmbh.de/impressum"
+ }
+}

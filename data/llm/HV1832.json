@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Langjährige Markterfahrung und ein leistungsstarkes Team sind die Stärken der 1993 gegründeten REMMCO INTERNATIONAL Real Estate Management-, Marketing- und Consultinggesellschaft.",
+ "founded_year": 1993,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Fokus liegt auf den folgenden Bereichen: eigene Projektentwicklung ... Unterstützung internationaler Hotelgruppen bei der europaweiten Expandierung ... Vermittlung von strategischen Portfolios im Bereich Einzelhandels- und Wohnimmobilien ... Entwicklung von Vertriebs- und Marketingkonzepten",
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Dr. Jochen Wondracek"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dr. Jochen Wondracek",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "REMMCO International is a Berlin real estate consultancy focused on own project development, hotel-group expansion support, portfolio brokerage and sales/marketing concepts, with no property management offered on the site.",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.remmco.de/",
+  "about": "http://www.remmco.de/aboutus_de.html",
+  "impressum": "http://www.remmco.de/contact_de.html"
+ }
+}

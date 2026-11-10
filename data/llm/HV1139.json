@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "acant Assekuranzmakler GmbH betreut seit vielen Jahren eine große Zahl an Hausverwaltungen und Asset Managern, vor allem aus Berlin und Brandenburg. Versicherungsmakler von Versicherungen und Vorsorge für IT-Unternehmen und freie Berufe.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Frank Schwandt"
+ ],
+ "managing_directors_evidence": "Geschäftsführer:  Frank Schwandt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "acant is an insurance broker specializing in property-related risks, serving property managers and asset managers in Berlin and Brandenburg, but does not itself manage properties.",
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://acant-estate.de/",
+  "impressum": "https://www.acant-estate.de/impressum/"
+ }
+}

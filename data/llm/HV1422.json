@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als erfahrenes Immobilienverwaltungsunternehmen bieten wir bei Picaflor umfassende Dienstleistungen für Wohn- und Geschäftshäuser sowie Gewerbeimmobilien, Logistikzentren und Rechenzentren an.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2013,
+ "founded_evidence": "Seit unserer Gründung im Jahr 2013 haben wir uns als zuverlässiger Partner für die professionelle Verwaltung und Betreuung von Immobilien etabliert.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin firm (Picaflor Immobilien GmbH) offering property management for residential, commercial, logistics and data centre properties alongside brokerage, founded 2013.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://picaflor-immobilien.de/",
+  "services": "https://www.picaflor-immobilien.de/portfolio/leistungen-fuer-verwaltung",
+  "impressum": "https://www.picaflor-immobilien.de/impressum"
+ }
+}

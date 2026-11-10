@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Unser Team deckt das gesamte Spektrum der Immobilienvermittlung ab.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1998,
+ "founded_evidence": "Gegründet wurde Hoppe Immobilien im Jahr 1998 von Carsten Hoppe gegründet.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "Hoppe Immobilien is a Berlin-Brandenburg real estate brokerage (sales and rentals of houses, condos and land) with no property management offering stated on the site.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hoppe-immobilien.de/",
+  "portal": "https://www.hoppe-immobilien.de/Kundenportal.htm",
+  "services": "https://www.hoppe-immobilien.de/Digitales-Angebotsverfahren.htm",
+  "about": "https://www.hoppe-immobilien.de/Ueber-uns.htm",
+  "impressum": "https://www.hoppe-immobilien.de/Impressum.htm"
+ }
+}

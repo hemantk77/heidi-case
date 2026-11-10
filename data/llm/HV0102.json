@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Tätigkeit richtet sich auf die Mietverwaltung von Wohn- und Gewerbeimmobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2004,
+ "founded_evidence": "Seit 2004 ist die Martina Schaale Hausverwaltung am Berliner Immobilienmarkt tätig.",
+ "managing_directors": [
+  "Martina Schaale"
+ ],
+ "managing_directors_evidence": "Inhaberin: Martina Schaale",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Vorbereitung von Betriebskostenabrechnungen sowie die Bearbeitung von Mietvertragsangelegenheiten gehören.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager since 2004 handling residential and commercial rental management for owners, with no WEG administration offered.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hausverwaltung-berlin.berlin/",
+  "services": "https://www.hausverwaltung-berlin.berlin/hausverwaltung-berlin/default.php",
+  "about": "https://www.hausverwaltung-berlin.berlin/unternehmen.html",
+  "jobs": "https://www.hausverwaltung-berlin.berlin/karriere.html",
+  "impressum": "https://www.hausverwaltung-berlin.berlin/impressum/index.php"
+ }
+}

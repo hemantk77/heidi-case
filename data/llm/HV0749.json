@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwalten. Operative Führung von Immobilienportfolios. Klare Zuständigkeiten, strukturierte Prozesse und eine Verwaltung, die Entscheidungen im Bestand aktiv begleitet.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Andreas Michelus"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Andreas Michelus",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Betriebskostenabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": "Alle Prozesse und Kennzahlen sind für unsere Kunden digital einsehbar – von Abrechnungen bis Reports.",
+ "segment_note": "MIVEO is a Berlin property manager offering rental and WEG administration plus development support, with a limited number of mandates and digital client access to reports.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.miveo-group.de/",
+  "about": "https://www.miveo-group.de/unternehmen",
+  "services": "https://www.miveo-group.de/verwalten",
+  "impressum": "https://www.miveo-group.de/impressum"
+ }
+}

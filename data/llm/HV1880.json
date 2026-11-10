@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir vermieten unsere Flächen selbst und sind für unsere Mieterinnen und Mieter direkt erreichbar – von der ersten Anfrage bis zur laufenden Verwaltung.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "units_evidence": null,
+ "managing_directors": [
+  "Florian O. Zweig"
+ ],
+ "managing_directors_evidence": "Florian O. Zweig, Geschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "ImmPrima is a Berlin-based owner-landlord that acquires, holds and rents its own commercial properties (Dresden sites via Graefenhahn), managing its own portfolio with no stated third-party management or unit counts.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immprima.de/",
+  "impressum": "https://www.immprima.de/impressum.html"
+ }
+}

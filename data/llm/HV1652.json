@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 12,
+ "employees_evidence": "12 + Mitarbeiter",
+ "founded_year": 1995,
+ "founded_evidence": "H+W GRUNDBESITZ wurde 1995 als Maklerunternehmen gegründet.",
+ "managing_directors": [
+  "Robert Hensky"
+ ],
+ "managing_directors_evidence": "vertreten durch den Geschäftsführer Herr Robert Hensky",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "segment_note": "H+W Grundbesitz is a Berlin real-estate brokerage (founded 1995) selling new-build condos, investment and Zinshaus properties, with no stated property management service.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hw-grundbesitz.de/",
+  "services": "https://www.hw-grundbesitz.de/leistungen",
+  "about": "https://www.hw-grundbesitz.de/ueber-uns",
+  "impressum": "https://www.hw-grundbesitz.de/impressum"
+ }
+}

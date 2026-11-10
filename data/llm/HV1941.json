@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Stoneweg is a global alternative investment manager with approximately €11 billion in AUM and part of SWI Group.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 275,
+ "employees_evidence": "Through 275+ professionals across 23 offices in Europe, the US, and Singapore",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Stoneweg is a global alternative investment manager (about €11 billion AUM) serving institutional investors, not a property manager for tenants or owners.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.stoneweg.com/",
+  "about": "https://www.stoneweg.com/our-platform/"
+ }
+}

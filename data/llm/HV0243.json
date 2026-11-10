@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung, WEG-Verwaltung und Hausverwaltung der WIB",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jan Breuing"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Jan Breuing",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebskostenabrechnungen und Mieterhöhungen",
+ "portal_or_app": "Digitales Servicecenter",
+ "portal_evidence": "Das digitale Servicecenter steht allen Eigentümern zur Verfügung, die einen smarten Zugang zu ihrer Immobilie wünschen.",
+ "segment_note": "Berlin property manager (WEG, Miethaus and Sondereigentum administration) offering a digital Servicecenter owner portal for owners and landlords.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wib-verwaltung.de/",
+  "impressum": "https://wib-verwaltung.de/impressum/"
+ }
+}

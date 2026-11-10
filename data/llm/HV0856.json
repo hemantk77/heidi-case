@@ -1,0 +1,41 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": "im Team\\n300+",
+ "founded_evidence": "Die Firma HETZER IMMOBILIEN GmbH wurde 1992 gegründet",
+ "founded_year": 1992,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihre lokalen Experten für Hausverwaltung in Berlin – spezialisiert auf WEG-Verwaltung, Mietverwaltung, Sondereigentumsverwaltung und Verkauf.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": "Vertretungsberechtigte Geschäftsführer:\\nAndreas Linthe\\nMatthias Möller",
+ "portal_evidence": "- casavi",
+ "portal_or_app": "casavi",
+ "segment_note": "Berlin property manager founded in 1992 offering WEG, rental, special-property management and sales, with a casavi-based tenant/owner portal.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "verwaltete Einheiten in und um Berlin\\n4.800+",
+ "units_managed": null,
+ "units_managed_rejected": 4800,
+ "employees_rejected": 300,
+ "managing_directors_rejected": [
+  "Andreas Linthe",
+  "Matthias Möller"
+ ],
+ "_evidence_checked": 6,
+ "_evidence_failed": 3,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hetzer-immobilien.de/",
+  "portal": "https://meine-verwaltung.hetzer-immobilien.de/app/login",
+  "impressum": "https://hetzer-immobilien.de/impressum"
+ }
+}

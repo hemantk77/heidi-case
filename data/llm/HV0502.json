@@ -1,0 +1,38 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1997,
+ "founded_evidence": "Ein starker Partner seit 1997",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Mietverträgen und Betriebskostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung: Vorbereitung und Durchführung von Eigentümer*innen-Versammlungen; Mietverwaltung: Vollständige kaufmännische und technische Verwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Stefan Stefanescu"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Stefan Stefanescu",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "segment_note": "Berlin property manager since 1997 offering WEG, rental and special-ownership administration, with a customer portal; no unit or building counts stated.",
+ "units_managed": null,
+ "units_evidence": null,
+ "is_property_manager_evidence_placeholder": null,
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.helipa-hausverwaltung.de/",
+  "services": "https://www.helipa-hausverwaltung.de/leistungen",
+  "about": "https://www.helipa-hausverwaltung.de/about",
+  "portal": "https://kundenportal.helipa-hausverwaltung.de/",
+  "impressum": "https://www.helipa-hausverwaltung.de/impressum"
+ }
+}

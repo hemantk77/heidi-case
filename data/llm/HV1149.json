@@ -1,0 +1,31 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Transparente Abrechnungen Unsere Abrechnungen sind transparent und einfach.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Immobilienverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Dr. Matthias Schoen"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Dr. Matthias Schoen, Merkurstraße 18 in 14482 Potsdam",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Leono Immobilien is a property management GbR (Rachow, Schoen and Winzer) based in Potsdam, with its own website describing it as \"Unsere Immobilienverwaltung\"; no unit or building counts are stated, and the site places its property management partly with C.F. Hausverwaltung UG in Leipzig.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://leono-immobilien.de/"
+ }
+}

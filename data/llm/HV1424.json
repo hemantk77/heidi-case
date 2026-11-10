@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Christiane Kemnitz\nHausverwaltung Assistentin\n +49 30 695 651 71 \n hausverwaltung@eberhardt-immobilien.de",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Tom Scheepers"
+ ],
+ "managing_directors_evidence": "Tom Scheepers\nGeschäftsführer, Mitglied im Bewertungsausschuss des RDM",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate brokerage (sales, rental, valuation) focused on Lichtenberg, Treptow and Köpenick, with a Hausverwaltung assistant listed; no managed-unit numbers stated.",
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": "Scheepers & Eberhardt Immobilien wurde vor beinahe 30 Jahren gegründet.",
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berlinso-immo.de/",
+  "about": "https://berlinso-immo.de/team",
+  "jobs": "https://berlinso-immo.de/karriere/",
+  "services": "https://berlinso-immo.de/unsere-dienstleistung/",
+  "portal": "https://berlinso-immo.de/unsere-dienstleistung/",
+  "impressum": "https://berlinso-immo.de/impressum"
+ }
+}

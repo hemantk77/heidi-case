@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als zuverlässiges und fachkundiges Maklerteam vermarkten wir Mietwohnungen, Gewerberäume, Eigentumswohnungen sowie Wohn- und Geschäftshäuser.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Elke Schmitt-Onnasch",
+  "Peter Onnasch"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Elke Schmitt-Onnasch und Dipl.-Ing. Peter Onnasch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (Makler) marketing rental and condo properties; no property management services mentioned on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.argona.de/",
+  "services": "https://www.argona-immobilien.de/aktuelle-angebote/",
+  "about": "https://www.argona-immobilien.de/kontakt/unser-team/",
+  "impressum": "https://www.argona-immobilien.de/about/",
+  "portal": "https://www.argona-immobilien.de/login"
+ }
+}

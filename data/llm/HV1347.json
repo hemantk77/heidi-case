@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Makler, die höchste Ansprüche an Transparenz, Kundenorientierung und Fachwissen erfüllen",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "2011 Gründung der Vandenberg Immoconsult GmbH",
+ "managing_directors": [
+  "Till Rüggesiek",
+  "Julian Helm"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Till Rüggesiek, Julian Helm",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Stonehedge is a Berlin brokerage focused on selling condominiums (Eigentumswohnungen) and investment properties, with no property management offering found on the site.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.stonehedge-immobilien.de/",
+  "about": "https://www.stonehedge-immobilien.de/team/",
+  "services": "https://www.stonehedge-immobilien.de/zertifizierter-weg-verwalter-voraussetzungen-rechtsgrundlagen-ihk-pruefung-aenderungen/",
+  "portal": "https://www.stonehedge-immobilien.de/eigentumswohnung-berlin-wilmersdorf-neubau-kaufen-vorteile-markt-preise/",
+  "impressum": "https://www.stonehedge-immobilien.de/impressum/"
+ }
+}

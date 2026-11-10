@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Gesellschaft wurde am 12.3.1984 gegründet. Sie befasst sich mit der Verwaltung von Miet- und Gewerbeobjekten sowie von Wohneigentum- und Sondereigentum.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1984,
+ "founded_evidence": "Die Gesellschaft wurde am 12.3.1984 gegründet.",
+ "managing_directors": [
+  "Manuela Schlusche"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Geschäftsführerin Manuela Schlusche",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung und Buchhaltung ... Mit Unterstützung der Hausverwaltungssoftware \"Haussoft\" (GFAD) übernehmen wir umfassende Serviceleistungen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager founded 1984 handling rental, commercial and condominium (WEG/Sondereigentum) properties, with accounting and renovation/construction supervision services.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immo-plan-berlin.info/",
+  "about": "https://immo-plan-berlin.info/Ueber-Uns/",
+  "impressum": "https://immo-plan-berlin.info/Impressum/"
+ }
+}

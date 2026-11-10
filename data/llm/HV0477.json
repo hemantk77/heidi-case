@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Berliner Hausverwaltung mit folgenden Bereichen: Immobilienverwaltung in Berlin Verwaltung von Gemeinschaften der Wohnungseigentümer in Berlin Mietverwaltung in Berlin",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2021,
+ "founded_evidence": "Die SCRIPTUS - Hausverwaltung wurde 2021, als neuer Geschäftszweig der SCRIPTUS Handels-und Dienstleistungsgesellschaft mbH etabliert.",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Betriebskostenabrechnungen bis zum 30.06. des Folgejahres",
+ "portal_or_app": "Portal 24 (Serviceportal)",
+ "portal_evidence": "Über unser Serviceportal haben Vermieter, WEG`s, Mieter und Servicepartner immer und überall vollen Zugriff auf ihre jeweils relevanten Daten.",
+ "segment_note": "Berlin property manager offering WEG, rental, commercial and special-ownership management plus renovation services, with a tenant/owner service portal (Portal 24), founded as a business unit in 2021.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://scriptus-hausverwaltung.de/",
+  "services": "https://scriptus-hausverwaltung.de/hausverwaltung.html",
+  "portal": "http://portal24.scriptus-hausverwaltung.de",
+  "impressum": "https://scriptus-hausverwaltung.de/impressum_datenschutz.html"
+ }
+}

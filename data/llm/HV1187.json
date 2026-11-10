@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten mehr als 5 300 Wohnungen in acht Berliner Bezirken für über 11 500 Genossenschaftsmitglieder.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": 5300,
+ "units_evidence": "Wir verwalten mehr als 5 300 Wohnungen in acht Berliner Bezirken für über 11 500 Genossenschaftsmitglieder.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 100,
+ "employees_evidence": "Unsere rund 100 Mitarbeiterinnen und Mitarbeiter arbeiten in unterschiedlichen Aufgabenbereichen zusammen.",
+ "founded_year": 1904,
+ "founded_evidence": "das Menschen in Berlin seit 1904 Wohnraum zur Verfügung stellt",
+ "managing_directors": [
+  "Torsten Knauer",
+  "Jörg Kneller"
+ ],
+ "managing_directors_evidence": "Vorstand: Torsten Knauer, Jörg Kneller",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mein EVM",
+ "portal_evidence": "Die Liste der gewählten Vertreterinnen und Vertreter je Wahlbezirk finden Sie im EVM-Mitgliederportal / in der Bewohner-App Mein EVM.",
+ "segment_note": "Berlin housing cooperative (eG) managing over 5,300 apartments in eight districts for its members, with a Mein EVM member portal and app.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.evmberlin.de/",
+  "services": "https://www.evmberlin.de/stellenangebote/",
+  "jobs": "https://www.evmberlin.de/stellenangebote/",
+  "impressum": "https://www.evmberlin.de/impressum",
+  "about": "https://www.evmberlin.de/ueber-uns/"
+ }
+}

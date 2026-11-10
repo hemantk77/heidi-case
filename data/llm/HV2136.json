@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Grizzly Investors | Investment und Asset Management",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2011,
+ "founded_evidence": "Seit der Gründung im Jahr 2011 hat sich Grizzly Investors zu den führenden Dienstleistern im Bereich Investment und Asset Management",
+ "managing_directors": [
+  "Olivier Bourdais"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Olivier Bourdais",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based investment and asset management firm focused on residential properties, with no stated property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://grizzly-investors.de/",
+  "impressum": "https://grizzly-investors.de/impressum/"
+ }
+}

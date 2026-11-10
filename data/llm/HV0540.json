@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Terzic Immobilienverwaltung - ein fairer Partner an Ihrer Seite",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Rusmin Terzic"
+ ],
+ "managing_directors_evidence": "Inh. Rusmin Terzic",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "Berlin property manager (owner e.g. Rusmin Terzic) offering WEG, rental and special-property management for owners across Berlin, with no stated unit count, portal or heating billing.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.terzic-iv.de/",
+  "impressum": "https://www.terzic-iv.de/impressum"
+ }
+}

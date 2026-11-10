@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Martin Schmidt"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nHerr Martin Schmidt",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate brokerage (sales and rentals) that also markets itself as a full-service provider for Hausverwaltungen and owners, including Hausordnungs- and Winterdienst.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "portal_evidence": null,
+ "heating_billing_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.imms-immobilien.de/",
+  "services": "https://imms-immobilien.de/fur-hausverwaltung-eigentumer/",
+  "jobs": "https://imms-immobilien.de/jobs-und-karriere/",
+  "impressum": "https://imms-immobilien.de/impressum/"
+ }
+}

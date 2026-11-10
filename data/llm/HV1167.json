@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Ombudsmann Immobilien – hilft bei Streit. Außergerichtliche Streitbeilegung – unabhängig und kostenfrei",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dirk Wohltorf",
+  "Axel Quester",
+  "Jeanette Kuhnert",
+  "Robert Vesely",
+  "Markus Jugan",
+  "Carolin Hegenbarth",
+  "Christian Osthus"
+ ],
+ "managing_directors_evidence": "Dirk Wohltorf, Berlin – Präsident ... Carolin Hegenbarth, Bundesgeschäftsführerin ... Dr. Christian Osthus, Geschäftsführer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Ombudsman (out-of-court dispute resolution body) run by the IVD trade association for consumer disputes with IVD members and private building projects; not a property manager.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ombudsmann-immobilien.net/",
+  "impressum": "https://www.ombudsmann-immobilien.net/index.php/impressum/"
+ }
+}

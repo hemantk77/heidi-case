@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Das erprobte Team von FUNDAX Immobilien steht für fachkundige, seriöse und engagierte Vermittlungsarbeit.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1985,
+ "founded_evidence": "Gegründet wurde FUNDAX Immobilien im Jahr 1985 von Brigitte und Michael Barth",
+ "managing_directors": [
+  "Brigitte Barth"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin Brigitte Barth",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Fundax Immobilien is a brokerage (Immobilienvermittlung) for sales and rentals, founded 1985, with offices in Sindelfingen/Böblingen and Berlin; the site describes no property management and the home page says the company is temporarily inactive.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.fundax.de/",
+  "about": "https://www.fundax.de/Ueber-uns.htm",
+  "services": "https://www.fundax.de/Mietangebote-Aidlingen.html",
+  "impressum": "https://www.fundax.de/Impressum.htm"
+ }
+}

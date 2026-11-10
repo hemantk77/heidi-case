@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "seit über 10 Jahren",
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Jahresabrechnungen, Instandhaltungspläne und die Kommunikation von Anfragen, Wünschen und Beschwerden sind unter anderem hier möglich.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "RAUMGOLD verwaltet Wohnanlagen im Stadtgebiet Berlin. Dazu gehören die übliche n Verwaltungsleistungen.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Henning Krugmann"
+ ],
+ "managing_directors_evidence": "Verantwortlicher für den Inhalt: Henning Krugmann",
+ "portal_evidence": "Nutzen Sie unser Online-Eigentümerportal oder unser Online-Mieterportal.",
+ "portal_or_app": "Online-Eigentümerportal und Online-Mieterportal (eigene App)",
+ "segment_note": "Berlin property manager specializing in WEG and Miethaus/SEV administration, with its own owner and tenant portal and app.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.raumgold.eu/",
+  "services": "https://raumgold.eu/leistungen/",
+  "about": "https://raumgold.eu/unternehmen/",
+  "impressum": "https://raumgold.eu/impressum/"
+ }
+}

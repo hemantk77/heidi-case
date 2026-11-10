@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Meine Leistungen Beratung Strategische Beratung für Käufer und Verkäufer. Ich analysiere Ihre Situation, entwickle eine maßgeschneiderte Strategie und begleite Sie durch den gesamten Prozess der Kauf- oder Verkaufsberatung.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Cornelia Strauß-Bergatt"
+ ],
+ "managing_directors_evidence": "Angaben gemäß § 5 TMG Cornelia Strauß-Bergatt C & S Immobilienberatung",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Solo real-estate brokerage and valuation firm (Cornelia Strauß-Bergatt) focused on buying, selling and valuing properties, with no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://immobilienberatung-berlin.de/",
+  "impressum": "https://immobilienberatung-berlin.de/impressum.html"
+ }
+}

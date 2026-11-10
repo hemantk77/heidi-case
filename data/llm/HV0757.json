@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Montanari Immobilienverwaltung Das ist die website der Hausverwaltung von Elke Montanari.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Elke Burkhardt Montanari"
+ ],
+ "managing_directors_evidence": "Elke Burkhardt Montanari Gepr. Immobilienverwaltung IHK (2021) Yorckstr. 36 31141 Hildesheim",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small property manager run by Elke Burkhardt Montanari, with a listed address in Hildesheim rather than Berlin, and no portfolio size stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://montanari-hausverwaltung.de/",
+  "impressum": "https://montanari-hausverwaltung.de/impressum/",
+  "about": "https://montanari-hausverwaltung.de/ueber-uns/"
+ }
+}

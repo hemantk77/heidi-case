@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir reinigen Büros, Coworking-Spaces und Gewerbeimmobilien in Berlin",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 25,
+ "employees_evidence": "Mit einem festen Team aus über 25 geschulten Mitarbeitern sind wir in allen 12 Berliner Bezirken aktiv.",
+ "founded_year": 2008,
+ "founded_evidence": "Die Hoffmann Verwaltungs GmbH wurde 2008 in Berlin gegründet.",
+ "managing_directors": [
+  "Goran Jovanovic"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Goran Jovanovic",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin commercial cleaning company (Gebäudereinigung, founded 2008, about 25 staff) serving Hausverwaltungen, hotels and offices; it does not offer property management.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hoffmannverwaltung.com/",
+  "about": "https://hoffmannverwaltung.com/bueroreinigung-berlin/",
+  "impressum": "https://hoffmannverwaltung.com/impressum/"
+ }
+}

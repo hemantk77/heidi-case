@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Der Meisterbetrieb aus Berlin beschäftigt ein leistungs- und qualitätsorientiertes Team mit insgesamt 11 Mitarbeitern und vier Lehrlingen.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Mietverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 11,
+ "founded_year": 1997,
+ "managing_directors": [
+  "Andreas Klimpel"
+ ],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin joinery (Tischlerei) run by master craftsman Andreas Klimpel, doing furniture, interior fit-outs, old-building renovation and security/lock work; no property management found.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": "Der Meisterbetrieb aus Berlin beschäftigt ein leistungs- und qualitätsorientiertes Team mit insgesamt 11 Mitarbeitern und vier Lehrlingen.",
+ "founded_evidence": "Der Meisterbetrieb bietet seit dem 01.06.1997 Qualitätsarbeiten aus Meisterhand.",
+ "managing_directors_evidence": "Andreas Klimpel",
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.tischlerei-klimpel.de/",
+  "services": "https://tischlerei-klimpel.de/leistungen/",
+  "impressum": "https://tischlerei-klimpel.de/impressum/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit über 30 Jahren verwalten und vermieten wir im Süden von Berlin Mietwohnungen und Gewerbe- sowie Lagerflächen.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Karl-Friedrich Dähne",
+  "Gerhild Obergfell"
+ ],
+ "managing_directors_evidence": "Inhaber: Dipl.-Betriebswirt Karl-Friedrich Dähne/ Gerhild Obergfell",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Rudow landlord-manager (Dähne-Obergfell Liegenschaftsverwaltung GbR) managing rental apartments, commercial and storage space and condominiums in southern Berlin for over 30 years; no unit counts or portal stated.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gvdaehne.de/",
+  "about": "https://www.gvdaehne.de/das-unternehmen.html",
+  "services": "https://www.gvdaehne.de/immobilen-angebote.html",
+  "impressum": "https://www.gvdaehne.de/impressum.html"
+ }
+}

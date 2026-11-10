@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Promeda Hausverwaltung GmbH betreut Miethäuser und Wohnungseigentümergemeinschaften in ganz Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": 4000,
+ "units_evidence": "Mit unserem Team verwalten wir aktuell circa 80 Liegenschaften mit insgesamt 4.000 Verwaltungseinheiten in Berlin.",
+ "buildings_managed": 80,
+ "buildings_evidence": "Mit unserem Team verwalten wir aktuell circa 80 Liegenschaften mit insgesamt 4.000 Verwaltungseinheiten in Berlin.",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2012,
+ "founded_evidence": "Die Promeda Hausverwaltung GmbH wurde im Jahr 2012 von Marcel Kurzke gegründet.",
+ "managing_directors": [
+  "Marcel Kurzke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Marcel Kurzke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Eigentümer-Onlinezugang / app.promeda.de",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "segment_note": "Berlin property manager (Pankow) for rental houses and WEGs, about 80 properties and 4,000 units, founded 2012, also offers brokerage since 2018.",
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.promeda.de/",
+  "jobs": "https://www.promeda.de/jobs/",
+  "about": "https://www.promeda.de/ueber-uns/",
+  "services": "https://www.promeda.de/leistungen/",
+  "portal": "https://app.promeda.de/",
+  "impressum": "https://www.promeda.de/impressum"
+ }
+}

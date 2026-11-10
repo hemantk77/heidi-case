@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Erlaubnis nach § 34 c Abs. 1 Satz 1 Nr. 1, 2, 4a & 4b der Gewerbeordnung zur Vermittlung des Abschlusses oder Nachweis der Gelegenheit zum Abschluss von Verträgen über Grundstücke",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Janett Schwarz"
+ ],
+ "managing_directors_evidence": "Janett Schwarz M.A. / Selbstständige Immobilienberaterin",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Small Berlin real-estate brokerage (sole proprietor Janett Schwarz) focused on selling apartments and houses with visual marketing; no property management offered.",
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "units_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schwarz-immobilien-berlin.de/",
+  "services": "https://schwarz-immobilien-berlin.de/web/de/berlin/wohnung-kaufen",
+  "impressum": "https://schwarz-immobilien-berlin.de/web/de/impressum"
+ }
+}

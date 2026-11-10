@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Dr. Daniel Frey",
+  "Jochen Humpert",
+  "Rainer Langenhorst",
+  "Katja Stiefenhöfer",
+  "Myriam Despas",
+  "Kevin Labus"
+ ],
+ "managing_directors_evidence": "Geschäftsführung Dr. Daniel Frey Jochen Humpert Rainer Langenhorst Katja Stiefenhöfer Myriam Despas Kevin Labus",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung",
+ "portal_or_app": "Covivio#HOME App",
+ "portal_evidence": "Covivio#HOME App erledigen Sie Ihre Anliegen in kürzester Zeit.",
+ "segment_note": "Covivio is a real-estate investor, owner, and developer (residential, office, hotel) that offers a tenant app; the site does not clearly state it runs third-party property management.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://wohnen.covivio.immo/",
+  "services": "https://www.covivio.immo/wohnen/service/",
+  "jobs": "https://karriere.covivio.immo/",
+  "about": "https://www.covivio.immo/",
+  "portal": "https://www.covivio.immo/myhome/login.php",
+  "impressum": "https://www.covivio.immo/impressum/"
+ }
+}

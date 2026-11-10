@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die BUWOG Immobilien Treuhand GmbH betreut im Bereich der Drittverwaltung rund über 20.000  Wohnungen und Gewerbeeinheiten.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 350,
+ "employees_evidence": "An acht Standorten deutschlandweit sorgen insgesamt rund 350 engagierte Mitarbeitende für einen optimalen Service.",
+ "founded_year": null,
+ "managing_directors": [
+  "Philip Grosse",
+  "Jens Günther",
+  "Udo Sauter",
+  "Ruth Werhahn",
+  "Katja Wünschel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Philip Grosse, Jens Günther, Udo Sauter, Ruth Werhahn, Katja Wünschel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "BUWOG Bauträger GmbH is a Vonovia-owned project developer building new residential projects in Germany; its sister company BUWOG Immobilien Treuhand GmbH handles third-party property management, which is not this entity's own business.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://buwog.de/",
+  "about": "https://www.buwog.de/ueber-uns",
+  "services": "https://www.buwog.de/service-kontakt",
+  "jobs": "https://www.buwog.de/stellenboerse",
+  "impressum": "https://www.buwog.de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Wohngeldabrechnungen (Wohnungseigentumsanlagen) und Betriebs- / Heizkostenabrechnungen (Mietshäuser)",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Eigentümern einen kompletten Service rund um die Immobilie in der Mietverwaltung, der Wohnungseigentumsverwaltung und dem Gebäudemanagement.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Ben Stoffregen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer Dipl.-Wi.-Ing. Ben Stoffregen, MBA",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "segment_note": "WoWiKo is a Berlin property manager (Mietverwaltung, WEG-Verwaltung, commercial and building management) for owners, part of the BAUWERKPLAN group; no unit count is stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://wowiko.com/",
+  "jobs": "https://www.bauwerkplan.com/karriere",
+  "impressum": "https://www.bauwerkplan.com/impressum"
+ }
+}

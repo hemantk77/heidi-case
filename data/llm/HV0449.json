@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung der Heiz- und Nebenkostenabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Mietverwaltung",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Marion Piepenburg"
+ ],
+ "managing_directors_evidence": "Marion Piepenburg\nPiepenburg Immobilienverwaltung\nBergstraße 77",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Berlin-based property manager offering rental (Mietverwaltung) and WEG administration, including heating and service-charge billing, focused on classic Berlin Altbau.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://piepenburg.berlin/",
+  "services": "https://www.immo-piepenburg.de/mietverwaltung",
+  "impressum": "https://www.immo-piepenburg.de/impressum"
+ }
+}

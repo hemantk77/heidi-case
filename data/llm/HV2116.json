@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 2003,
+ "founded_evidence": "Uns gibt es seit 2003.",
+ "managing_directors": [
+  "Jean-Marie Solvay",
+  "Barbara Lauinger"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Herr Jean-Marie Solvay und Frau Barbara Lauinger",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin consultancy and project manager for property companies and private owners (planning, construction supervision, controlling, development); no tenant/owner portal or evidence of WEG/Miet administration.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.albrecht-re.de/",
+  "about": "https://www.albrecht-re.de/pages/de/ueber-uns.php",
+  "services": "https://www.albrecht-re.de/pages/de/leistungen.php",
+  "impressum": "https://www.albrecht-re.de/pages/de/kontakt/footermenu/impressum.php"
+ }
+}

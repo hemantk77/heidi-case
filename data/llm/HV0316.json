@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Hausverwalter nehmen ich mich Ihrer Anliegen rund um Ihre Immobilie gerne an.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Philipp Ilemann"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Philipp Ilemann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (Heinrich Hausverwaltung GmbH, managing director Philipp Ilemann); the website says its business presence is still being built and gives no portfolio figures.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.heinrich-hausverwaltung.de/",
+  "impressum": "https://heinrich-hausverwaltung.de/impressum/"
+ }
+}

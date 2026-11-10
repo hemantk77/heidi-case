@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilie vermitteln Die bestmögliche Vermittlung ist unser Ziel.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1999,
+ "founded_evidence": "1999 gegründet für den Vertrieb von Eigentumswohnungen eigener Bauträgerobjekte",
+ "managing_directors": [
+  "Andreas Euhausen"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Andreas Euhausen",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage boutique (founded 1999, owner-managed) selling and renting residential and investment properties; the site describes no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilienart.de/",
+  "about": "https://immobilienart.de/team/",
+  "jobs": "https://immobilienart.de/karriere/",
+  "impressum": "https://immobilienart.de/impressum/"
+ }
+}

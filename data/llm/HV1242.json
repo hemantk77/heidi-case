@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Vorsitzender Mathias Voigt ... HOWOGE-Mieterrat ... Diese Seite gehört dem Mieterrat, nicht der HOWOGE. Mietverwaltung wird von HOWOGE durchgeführt: \"Mit dem Wohngeldrechner\" not applicable",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Mathias Voigt"
+ ],
+ "managing_directors_evidence": "Vorsitzender Mathias Voigt",
+ "heating_billing": "mentions_external_provider",
+ "heating_billing_evidence": "Die HOWOGE übersendet bei immer mehr Mieterinnen und Mietern monatlich die Informationen über deren monatlichen Verbrauch an Warmwasser und Heizung",
+ "portal_or_app": null,
+ "segment_note": "This website belongs to the HOWOGE tenant council (Mieterrat), an advocacy body for HOWOGE tenants, not to the property company itself.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 3,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://howoge-mieterrat.com/",
+  "services": "https://howoge-mieterrat.com/service-tipps/",
+  "impressum": "https://howoge-mieterrat.com/impressum/"
+ }
+}

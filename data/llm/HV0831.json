@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienvermittlung ist unsere Leidenschaft – sprechen Sie uns an und lassen Sie uns gemeinsam einen Termin für ein unverbindliches diskretes Gespräch über alle Ihre",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Barbara Neumann"
+ ],
+ "managing_directors_evidence": "Inh. Dipl.-Ing Barbara Neumann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small family-run Berlin brokerage (Kladow/Spandau focus) selling and renting residential properties; no property management services offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.neumann-immobilien-berlin.de/",
+  "about": "https://www.neumann-immobilien-berlin.de/ueber-uns",
+  "services": "https://www.neumann-immobilien-berlin.de/leistungen-und-service",
+  "impressum": "https://www.neumann-immobilien-berlin.de/impressum"
+ }
+}

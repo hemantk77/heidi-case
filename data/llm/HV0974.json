@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Ihr Immobilienverwalter in Berlin und Umgebung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Basima Chaaban"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Basima Chaaban",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnung, einschließlich Kontrolle und Prüfung der Rechnungen und Belege",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AM Group is a Berlin property manager offering WEG, rental and commercial management plus brokerage, with a managing director named Basima Chaaban.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://amgroupgmbh.de/",
+  "services": "https://amgroupgmbh.de/verwaltung",
+  "impressum": "https://amgroupgmbh.de/impressum/"
+ }
+}

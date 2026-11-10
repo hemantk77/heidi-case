@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Die SEWOGE wurde 1990 gegründet",
+ "founded_year": 1990,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Als Bestandshalter und Wohnungsverwaltungsunternehmen stehen wir seit 30 Jahren für Service und gesellschaftliche Verantwortung.",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Michael Blakey"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Blakey",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Mietverwaltung"
+ ],
+ "segment_note": "SEWOGE is a Berlin housing company that owns and manages its own residential stock and describes itself as a Wohnungsverwaltungsunternehmen; it does not state unit or building counts, employees, or a tenant portal.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://sewoge.de/",
+  "about": "https://sewoge.de/ueber-uns",
+  "impressum": "https://sewoge.de/impressum"
+ }
+}

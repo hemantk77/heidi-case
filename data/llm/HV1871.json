@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir haben das im Griff! ... Hauswartdienst / Haustechnikdienst ... Reinigungsservice innen ... Gartenpflegedienst ... Winterdienst",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Vor ca. 19 Jahren haben wir das Unternehmen, ehemals konzepta Gebäudeservice, mit der Idee gegründet, Services im Immobilienbereich auszuführen.",
+ "managing_directors": [
+  "Dirk Hammer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dirk Hammer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Konzepta REAL is a Berlin facility-services provider (caretaking, cleaning, garden care, winter service) with no property management offered on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.konzeptareal.de/",
+  "about": "http://www.konzeptareal.de/ueber-uns.html",
+  "services": "http://www.konzeptareal.de/leistungen.html",
+  "impressum": "http://www.konzeptareal.de/impressum.html"
+ }
+}

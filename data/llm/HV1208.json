@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Unsere Genossenschaft wurde am 21. Juni 1977, damals unter dem Namen AWG „Ingenieurhochbau Berlin“ gegründet.",
+ "founded_year": 1977,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wohnungsunternehmen",
+ "main_business": "housing_owner_landlord",
+ "managing_directors": [
+  "Linda Wolff",
+  "Roland Nicolaus"
+ ],
+ "managing_directors_evidence": "Vorstand: Linda Wolff, Roland Nicolaus ",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (founded 1977) with its own apartment stock in Marzahn-Hellersdorf, managed by a Vorstand of two; no unit count or portal stated.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_evidence": "Durch Übernahme fertig gestellter Neubauten wuchs der Bestand bis 1987 auf knapp 1.000 WE an.",
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://nordost77.de/",
+  "services": "https://nordost77.de/wohnungsangebote/",
+  "about": "https://nordost77.de/geschichte/",
+  "jobs": "https://nordost77.de/stellenausschreibung/",
+  "impressum": "https://nordost77.de/impressum/"
+ }
+}

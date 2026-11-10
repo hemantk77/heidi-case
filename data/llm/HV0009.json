@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Stefanie Frensch",
+  "Marc Eschholz"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Stefanie Frensch Marc Eschholz",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": "B&K-App",
+ "portal_evidence": "Die Vorteile unserer kostenlosen B&K-App: schnelle Bearbeitung Ihrer Anliegen und Schadensmeldungen Übersicht Ihrer Verträge",
+ "segment_note": "Traditional Berlin real estate group (founded as Becker & Kries, ~80 years old) that rents out its own residential and commercial portfolio and runs a free B&K tenant app; no explicit third-party property management offering found.",
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": "Becker & Kries wurde vor 80 Jahren vom Architekten Georg Becker und dem Bankdirektor Günter Kries als Becker & Kries GmbH gegründet.",
+ "is_property_manager_evidence": "Auf dem Impressum: Becker & Kries Holding GmbH & Co. KG, Meinekestrasse 25, 10719 Berlin; Unternehmensgeschichte: Auf dem Ehemaligen Sportgelände am Gesundbrunnen werden Sozialwohnungen geschaffen, die noch heute von Becker & Kries verwaltet werden.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.beckerundkries.de/",
+  "about": "https://www.beckerundkries.de/unser-unternehmen/",
+  "jobs": "https://www.beckerundkries.de/unternehmen/karriere/",
+  "portal": "https://www.beckerundkries.de/mieter-app/",
+  "services": "https://www.beckerundkries.de/unsere-angebote/",
+  "impressum": "https://www.beckerundkries.de/impressum/"
+ }
+}

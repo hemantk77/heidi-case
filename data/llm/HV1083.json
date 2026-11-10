@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "other",
+ "services": [],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Büro Gotthal GmbH (Berlin/Brandenburg) runs a blog with Hausverwaltung-related topics; the crawled pages do not state its services, portfolio size, or managing directors.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.gotthal.de/",
+  "services": "https://www.gotthal.de/tag/hausverwaltung/",
+  "jobs": "https://www.gotthal.de/03-21/",
+  "impressum": "https://www.gotthal.de/impressum/"
+ }
+}

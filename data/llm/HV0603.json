@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Der Tätigkeitsschwerpunkt liegt in der Verwaltung von Wohnungseigentümergemeinschaften nach WEG.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": "Seit über 40 Jahren arbeiten wir in der Wohnungswirtschaft",
+ "managing_directors": [
+  "Bernhard Marcuse"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Bernhard Marcuse",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Medi Hausverwaltung, Bernhard Marcuse e.K.) focused on WEG administration for owner communities, with over 40 years in the housing sector.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.medi-hausverwaltung.de/",
+  "about": "http://medi-hausverwaltung.de/ueber-uns",
+  "services": "http://medi-hausverwaltung.de/leistungen",
+  "impressum": "http://medi-hausverwaltung.de/datenschutz"
+ }
+}

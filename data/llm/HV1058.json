@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Kostenloses & unverbindliches Angebot für Ihre Immobilienverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Daniel Mathiesen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Daniel Mathiesen",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Abrechnungs-Service Rechtssichere Nebenkostenabrechnungen.",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Kundenportal",
+ "segment_note": "EXTRA Immobilien Gruppe GmbH is a property manager offering WEG, rental, commercial and special-property administration plus brokerage, with a Kundenportal and a billing service.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.extraimmobilien.com/",
+  "services": "https://www.extraimmobilien.com/Forms/Angebot-formular.html",
+  "impressum": "https://www.extraimmobilien.com/impressum.html"
+ }
+}

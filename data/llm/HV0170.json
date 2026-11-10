@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Hausverwaltung betreut seit über 10 Jahren erfolgreich den eigenen Immobilienbestand norwegischer Investoren.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Steinar Strømsnes"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Steinar Strømsnes",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager handling tenant care and rental administration for a portfolio owned by Norwegian investors, serving over 10 years.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.be-hv.de/",
+  "impressum": "https://be-hv.de/impressum/"
+ }
+}

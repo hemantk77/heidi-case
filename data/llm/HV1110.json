@@ -1,0 +1,33 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Torsten Ferber"
+ ],
+ "managing_directors_evidence": "Webmaster und inhaltlich verantwortlich ist Torsten Ferber",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler"
+ ],
+ "segment_note": "Ferber Immobilien is a Berlin real-estate brokerage (Immobilienmakler) with a contact line for \"Eigentümer und Verwalter\", but the site gives no explicit property management service.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ferber-immobilien.de/",
+  "impressum": "https://www.ferber-immobilien.de/impressum/",
+  "services": "https://www.ferber-immobilien.de/j/legal-guarantee"
+ }
+}

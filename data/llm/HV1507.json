@@ -1,0 +1,37 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 39,
+ "employees_evidence": "Ein eingeschworenes Team von 39 Mitarbeitern, das zupacken kann.",
+ "founded_year": null,
+ "founded_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "managing_directors": [
+  "Julian Streletzki",
+  "Kristina Eggert",
+  "Lars Kretzschmar",
+  "Thomas Mosig"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Julian Streletzki, Kristina Eggert, Lars Kretzschmar, Thomas Mosig",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Other"
+ ],
+ "segment_note": "Berlin-based real estate developer and builder of residential and commercial properties; the site describes project development and sales, with no property management offering stated.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.streletzki-gruppe.de/",
+  "about": "https://streletzki-gruppe.de/unternehmen/",
+  "jobs": "https://streletzki-gruppe.de/jobs/",
+  "impressum": "https://streletzki-gruppe.de/impressum-3/"
+ }
+}

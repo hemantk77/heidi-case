@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bekannt als Seminarveranstalter im Bereich des Wohnungseigentums im regionalen Raum rund um Berlin/Brandenburg und auch deutschlandweit, veranstaltet die Akademie der Wohnungseigentümer seit vielen Jahren Seminare zum WEG.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Erik Reinke"
+ ],
+ "managing_directors_evidence": "Vertreten durch: den Geschäftsführer Erik Reinke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based WEG seminar provider for homeowners (Picaper-Reinke, WEG-Fachseminare UG); does not offer property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.akademie-wohnungseigentuemer.de/",
+  "services": "https://www.akademie-wohnungseigentuemer.de/verwaltungsbeirat/",
+  "about": "https://www.akademie-wohnungseigentuemer.de/das-unternehmen/",
+  "impressum": "https://www.akademie-wohnungseigentuemer.de/impressum/",
+  "portal": "https://www.akademie-wohnungseigentuemer.de/wp-login.php?redirect_to=https%3A%2F%2Fwww.akademie-wohnungseigentuemer.de%2F"
+ }
+}

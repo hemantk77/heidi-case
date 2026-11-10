@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Christoph Freudenberg",
+  "Sven Gehrke"
+ ],
+ "managing_directors_evidence": "GF: Christoph Freudenberg, Sven Gehrke",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate company focused on selling residential investment properties to private investors, which also states it is a landlord with its own holdings and mentions acting as administrator of owners' property after sale, though no specific management portfolio is quantified.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.witte-grabert.de/",
+  "about": "https://www.witte-grabert.de/ueberuns/",
+  "services": "https://www.witte-grabert.de/portfolio/toblacher/",
+  "impressum": "https://witte-grabert.de/kontakt/"
+ }
+}

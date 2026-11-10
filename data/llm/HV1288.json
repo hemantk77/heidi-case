@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Seit 15 Jahren bin ich in Berlin als Immobilienmakler tätig und begleite meine Kunden durch die einzelnen Phasen des Immobilienkaufs und -verkaufs bis zum Notariat und darüber hinaus.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Dirk Fauser"
+ ],
+ "managing_directors_evidence": "Dirk Fauser Inhaber",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Fauser Immobilien is a Berlin real-estate brokerage (Makler) run by owner Dirk Fauser, focused on buying and selling properties, with no property management offered on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://fauserimmobilien.de/",
+  "about": "https://www.fauserimmobilien.de/ueber-uns/",
+  "impressum": "https://www.fauserimmobilien.de/impressum/"
+ }
+}

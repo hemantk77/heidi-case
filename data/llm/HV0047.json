@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Immobilienverwaltung",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 4,
+ "employees_evidence": "Wir, 4 Angestellte, 1 Geschäftsführer und 3 Honorarkräfte",
+ "founded_year": null,
+ "founded_evidence": "Seit nunmehr über 25 Jahren verwalten wir",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small Berlin property manager (4 employees plus 3 freelancers) handling residential, commercial and condominium (Sondereigentum) management for over 25 years.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://fritzsche-hv.de/",
+  "services": "https://fritzsche-hv.de/willkommen/unser-angebot",
+  "impressum": "https://fritzsche-hv.de/willkommen/impressum"
+ }
+}

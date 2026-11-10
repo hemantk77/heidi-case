@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir vermitteln anspruchsvolle Immobilien für Eigentümer, die Diskretion, Sorgfalt und Verbindlichkeit schätzen.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2012,
+ "founded_evidence": "Gegründet 2012, hat sich BB BuildingsBerlin auf die Vermittlung werthaltiger Bestands- und Renditeobjekte spezialisiert",
+ "managing_directors": [
+  "Raul Rümmer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Raul Rümmer",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin brokerage firm (§ 34c GewO) selling and letting residential, commercial and investment properties; no property management offered.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://buildingsberlin.de/",
+  "about": "https://buildingsberlin.de/ueber-uns.html",
+  "services": "https://buildingsberlin.de/leistungen.html",
+  "impressum": "https://buildingsberlin.de/impressum.html"
+ }
+}

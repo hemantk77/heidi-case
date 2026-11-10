@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die WVB Centuria bietet im Rahmen der Miet- und Hausverwaltung Full-Service-Dienstleistungen an",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "WVB Centuria GmbH is a Berlin-based property manager offering full-service rental and house management (Miet- und Hausverwaltung) for investors and tenants.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wvbcenturia.de/",
+  "jobs": "https://www.wvbcenturia.de/jobs-karriere",
+  "services": "https://www.wvbcenturia.de/detaildienstleistungen/",
+  "impressum": "https://www.wvbcenturia.de/impressum/"
+ }
+}

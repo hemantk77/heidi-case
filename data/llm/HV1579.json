@@ -1,0 +1,34 @@
+{
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2015,
+ "founded_evidence": "Seit 2015 verbinden wir lokal verankertes Marktverständnis",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Wohntum GmbH ist eine Berliner Immobilienagentur mit Fokus auf Vermittlung, Verkauf, Vermietung und strategische Baurechtschaffung.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Ilona Rexrodt"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Ilona Rexrodt",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "segment_note": "Berlin real-estate agency focused on brokerage, sales, rental and building-law preparation; no property management offering found on the site.",
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.wohntum.de/",
+  "services": "https://www.wohntum.de/immobilienangebote/",
+  "impressum": "https://www.wohntum.de/impressum/"
+ }
+}

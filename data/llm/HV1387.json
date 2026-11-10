@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ich investiere langfristig in vermietete Betriebsimmobilien. Im Mittelpunkt stehen Hallen-, Werkstatt-, Produktions-, Lager- und Serviceimmobilien mit etablierten mittelständischen Mietern.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Korte"
+ ],
+ "managing_directors_evidence": "Alexander Korte",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based investor and developer (Bauträger) focused on leased commercial operating properties in Berlin-Brandenburg, Mecklenburg-Vorpommern and Leipzig-Halle; the site does not mention property management services.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berlininvestment.com/",
+  "impressum": "https://alexanderkorte.com/impressum.html"
+ }
+}

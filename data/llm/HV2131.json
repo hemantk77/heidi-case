@@ -1,0 +1,35 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 25 Jahren ist Gerdlinde Sache (GSI) in der Vermittlung von Immobilien in Berlin und Brandenburg tätig.",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als inhabergeführtes Maklerbüro gründen wir auf langjähriges Vertrauen zwischen unseren Kunden, unseren Geschäftspartnern und uns.",
+ "is_property_manager_evidence_note": "Site describes itself as a Maklerbüro focused on sale and rental brokerage; no property management offered.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Gerdlinde Sachse"
+ ],
+ "managing_directors_evidence": "Inhaltlich verantwortlich gem. §5 TMG ist Gerdlinde Sachse",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg real estate brokerage (sale and rental of houses, apartments, plots) run by owner Gerdlinde Sachse; no property management offered on the website.",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.gsi.berlin/",
+  "about": "https://gsi.berlin/ueber-uns",
+  "services": "https://gsi.berlin/leistungen",
+  "impressum": "https://gsi.berlin/impressum"
+ }
+}

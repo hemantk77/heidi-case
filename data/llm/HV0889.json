@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung von Wohn- und Geschäftshäusern",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tanja Piechocki"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Tanja Piechocki, Betriebswirtin (IHK)",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Admina GmbH is a Berlin property management firm handling residential and commercial buildings plus WEG properties, managing director Tanja Piechocki.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.admina.de/"
+ }
+}

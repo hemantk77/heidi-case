@@ -1,0 +1,40 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG-Verwaltung Die Wohnungseigentumsverwaltung bildet den Schwerpunkt unserer Geschäftstätigkeit.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1991,
+ "founded_evidence": "Am 13.09.1991 gründete Herr Hans Borger die Borger & Partner als Gesellschaft mit beschränkter Haftung.",
+ "managing_directors": [
+  "Michaela Maruhn"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Michaela Maruhn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal Borger Home",
+ "portal_evidence": "Kundenportal Borger Home",
+ "segment_note": "Family-run Berlin property manager (founded 1991) focused on WEG administration, also offering rental management, sales, and caretaking, with a tenant/owner customer portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.borger-partner.de/",
+  "services": "https://www.borger-partner.de/leistungen/",
+  "about": "https://www.borger-partner.de/uber-uns/",
+  "jobs": "https://www.borger-partner.de/karriere/",
+  "impressum": "https://www.borger-partner.de/impressum/"
+ }
+}

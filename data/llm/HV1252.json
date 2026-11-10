@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Gewerbeimmobilien mieten im B1 Business Park in der Landsberger Straße 217-267 bedeutet für Start-ups sowie kleine und mittelständische Unternehmen von einer großen Flächenvielfalt zu profitieren.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alistair Brian Marks",
+  "Rüdiger Swoboda",
+  "Kremena Wissel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer (in alphabetischer Reihenfolge): Alistair Brian Marks, Rüdiger Swoboda, Kremena Wissel Adresse wie oben",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "B1 Business Park in Berlin-Mahlsdorf rents offices, storage and halls to businesses and self-storage users; it is a commercial letting site, not a residential property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://b1businesspark.de/",
+  "services": "https://www.b1businesspark.de/de/services.html",
+  "impressum": "https://www.b1businesspark.de/de/impressum.html"
+ }
+}

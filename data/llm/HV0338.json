@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "WEG Verwaltung, Mietverwaltung, Eigentümerversammlungen, Instandhaltung, Sanierung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Katrin Mayer",
+  "Jan Schmälzle"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Katrin Mayer, Jan Schmälzle",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": "Johanna Barth: Betriebskostenabrechnung ... Annette Schilbach: Leitung der WEG-Buchhaltung, Wohngeldabrechnung",
+ "portal_or_app": "etg24",
+ "portal_evidence": "In unserem Online-Portal etg24 steht unseren Eigentümer/innen ein Online Archiv mit den wichtigsten Dokumenten des Objektes und der Wohnung",
+ "segment_note": "Berlin property manager focused on WEG administration (condominiums), also rental and special-property management, with an etg24 owner portal and in-house caretaking staff.",
+ "heating_billing_rejected": "offers_as_service",
+ "_evidence_checked": 4,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hausverwaltung-mayer.de/",
+  "about": "https://hausverwaltung-mayer.de/hausverwaltung-mayer/team",
+  "services": "https://hausverwaltung-mayer.de/verwaltung/weg-verwaltung",
+  "impressum": "https://hausverwaltung-mayer.de/impressum"
+ }
+}

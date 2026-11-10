@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Bei der IVM Group Immobilien in Berlin sind Sie genau richtig, wenn Sie auf der Suche nach attraktiven und luxuriösen Immobilien in Berlin sind.",
+ "main_business": "investment_or_development",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Mario Magro"
+ ],
+ "managing_directors_evidence": "Mario Magro\nIVM Group Berlin\nRodelbahnpfad 5\n13465 Berlin",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "IVM Group is a Berlin property seller and listing firm offering houses, apartments and investment properties, with no property management services mentioned on the website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://ivm-group.de/",
+  "impressum": "https://ivm-group.de/de/privacy-policy/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Fachgebiete: Arbeitsrecht, Erbrecht, Familienrecht, Mietrecht, Sozialrecht, Verkehrsrecht, Wohneigentumsrecht. Bürogemeinschaft Rechtsanwältinnen & Rechtsanwälte in Berlin Prenzlauer Berg",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Henrik Solf",
+  "Sonja Knarr",
+  "Stefan Hölz",
+  "Roswitha Graff"
+ ],
+ "managing_directors_evidence": "Anbieter Rechtsanwältinnen Sonja Knarr & Roswitha Graff Rechtsanwälte Stefan Hölz & Henrik Solf",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "This is a Berlin law office (law partnership) specializing in tenant, labor, family, inheritance, social, traffic and condominium law, not a property manager.",
+ "is_property_manager_rejected": "no",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.schoenhauser.berlin/",
+  "services": "https://www.schoenhauser.berlin/kosten-service/",
+  "impressum": "https://www.schoenhauser.berlin/impressum/"
+ }
+}

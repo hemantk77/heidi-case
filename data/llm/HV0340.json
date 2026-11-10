@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Verwaltungsobjekte – Gewerbeobjekte (Büro-, Handels-, Hotel- und Gesundheitsimmobilien) – Centermanagement – Parkhausmanagement – Wohnhäuser – WEG-Verwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung",
+  "Mietverwaltung",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2001,
+ "founded_evidence": "Gründung: 2001",
+ "managing_directors": [
+  "Dipl.-Vw. Sören Jarck"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Dipl.-Vw. Sören Jarck",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Vitec is a Berlin-based owner-led group (founded 2001) managing mainly commercial properties plus some residential and WEG units, with no units count or portal disclosed.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vitec-berlin.de/",
+  "about": "https://www.vitec-berlin.de/de/unternehmen/",
+  "services": "https://www.vitec-berlin.de/de/highlights/",
+  "jobs": "https://www.vitec-berlin.de/de/karriere/",
+  "impressum": "https://www.vitec-berlin.de/de/impressum/"
+ }
+}

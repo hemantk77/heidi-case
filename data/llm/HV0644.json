@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir haben uns auf die Verwaltung von Mietshäusern spezialisiert.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Heinz-Dieter Jäckel"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Heinz-Dieter Jäckel",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Eine Jahresabrechnung ggf. im Zusammenwirken mit Ihrem Steuerberater/Wirtschaftsprüfer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-Spandau property manager specializing in residential apartment buildings, also offering commercial management and optional letting/brokerage, with a managing director named in the imprint.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://spandauer-hausverwaltung.de/",
+  "about": "http://spandauer-hausverwaltung.de/ueb.html",
+  "services": "http://spandauer-hausverwaltung.de/leis.html",
+  "impressum": "http://spandauer-hausverwaltung.de/imp.html"
+ }
+}

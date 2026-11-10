@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die PARANET-Deutschland GmbH treibt die Entwicklung von Traglufthallen intensiv voran.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Jürgen Wowra",
+  "Joy Bausch"
+ ],
+ "managing_directors_evidence": "Vertreten durch:\nHerr Jürgen Wowra und Frau Joy Bausch",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "PARANET-Deutschland GmbH is a tent-hall (Traglufthallen) manufacturer, seller and rental company, not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://paranet-deutschland.de/",
+  "jobs": "https://paranet-deutschland.de/jobs/",
+  "about": "https://paranet-deutschland.de/unternehmen/",
+  "impressum": "https://paranet-deutschland.de/impressum/"
+ }
+}

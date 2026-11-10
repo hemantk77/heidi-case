@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Objekte mit anderen Eigentümern (Fremdverwaltung) werden von der Hausverwaltung Kim Eggert mit der gleichen Organisationslogistik der Kim Eggert & Eckard Kanold GbR verwaltet.",
+ "main_business": "property_management",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1998,
+ "founded_evidence": "Seit 1998 verwaltet die Kim Eggert & Eckard Kanold GbR eigenen Berliner Grundbesitz.",
+ "managing_directors": [
+  "Kim Eggert",
+  "Eckard Kanold"
+ ],
+ "managing_directors_evidence": "Dieser Webauftritt ist der Auftritt der Kim Eggert & Eckard Kanold GbR sowie der Hausverwaltung Kim Eggert",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (GbR, since 1998) managing its own Friedrichshain portfolio plus third-party owners' buildings, with in-house technical caretaking; no unit count or portal stated.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hveggertkanold.de/",
+  "services": "https://hveggertkanold.de/unsere-angebote-fuer-sie/",
+  "impressum": "https://hveggertkanold.de/impressum/"
+ }
+}

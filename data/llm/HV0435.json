@@ -1,0 +1,28 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "other",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [],
+ "units_evidence": null,
+ "units_managed": null,
+ "segment_note": "Small company (Dillges / Klimek GbR) whose website only shows a residential complex at Leonberger Ring 32-50 in Berlin-Buckow and a contact/imprint page; it does not describe its services.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.dillges-klimek.de/",
+  "impressum": "https://www.dillges-klimek.de/impressum"
+ }
+}

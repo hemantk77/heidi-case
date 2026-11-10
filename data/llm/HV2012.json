@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die B. Böttcher Grundstücks GmbH Berlin ist seit über 30 Jahren als Dienstleister für Immobilienvertrieb, Bautätigkeit und Finanzierungsberatung auf dem Immobilienmarkt tätig.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": 850,
+ "units_evidence": "mehr als 850 betreuten Wohneinheiten in Neubauvorhaben",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1982,
+ "founded_evidence": "Entstanden aus der  1982 gegründeten Böttcher Immobilien KG",
+ "managing_directors": [
+  "Alfred Oberhuber"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Alfred Oberhuber",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based real-estate services firm focused on property brokerage, construction support and financing advice, with no property management offering stated on the site.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://bboettcher.de/",
+  "impressum": "http://www.bboettcher.de/impressum"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": "betreut mehr als 60 Häuser",
+ "buildings_managed": 60,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1984,
+ "founded_evidence": "Seit 1984 steht unser Name für die kompetente Verwaltung und Betreuung Ihrer Immobilie in Berlin.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere Tätigkeitsschwerpunkte liegen in der Verwaltung von Miethäusern, von Wohnungseigentümergemeinschaften (WEG-Verwaltung), Sondereigentumsverwaltung (SE-Verwaltung)",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Marco Müller"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Marco Müller",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Regelmäßige und transparente Abrechnungszyklen: monatlich, vierteljährlich oder jährlich",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (since 1984) handling about 2,000 rental and condo units and over 60 houses, including WEG, SE and rental management.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler"
+ ],
+ "units_evidence": "verwaltet momentan ca. 2.000 Miet- und Eigentumswohnungen",
+ "units_managed": 2000,
+ "_evidence_checked": 6,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kahlo-partner.de/",
+  "services": "https://kahlo-partner.de/eigentuemerservice.html",
+  "impressum": "https://kahlo-partner.de/impressum.html"
+ }
+}

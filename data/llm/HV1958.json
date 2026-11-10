@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Till-Oliver Kalähne"
+ ],
+ "managing_directors_evidence": "Vertreten durch die Geschäftsführer Till-Oliver Kalähne",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "bpm is a Berlin project developer and architecture firm building sustainable Energie-Plus-Quartiere; the text shows no property management service.",
+ "units_evidence": null,
+ "employees_evidence": null,
+ "founded_evidence": null,
+ "buildings_evidence": null,
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://bpm.gmbh/",
+  "impressum": "https://bpm.gmbh/impressum"
+ }
+}

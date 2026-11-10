@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Webseite https://www.qm-spandauer-neustadt.de/ ist ein Projekt der S.T.E.R.N. Gesellschaft der behutsamen Stadterneuerung mbH",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "This is a publicly funded neighborhood management office (Quartiersmanagement) run by S.T.E.R.N. mbH for urban renewal in Spandauer Neustadt; it does not offer property management, so it is not a sales fit.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://qm-spandauer-neustadt.de/",
+  "jobs": "https://qm-spandauer-neustadt.de/Anlaufstellen",
+  "portal": "https://qm-spandauer-neustadt.de/Login?returnurl=%2f",
+  "impressum": "https://qm-spandauer-neustadt.de/Terms"
+ }
+}

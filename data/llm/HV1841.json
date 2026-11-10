@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2016,
+ "founded_evidence": "Seit der Gründung von Capital Bay im Jahr 2016",
+ "managing_directors": [
+  "George Salden"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: George Salden",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "Berlin-based investment and development company focused on modular new-build housing, with a stated \"manage and operate\" role, but no explicit property management offering described on the site.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.capitalbay.eu/",
+  "about": "https://capitalbay.eu/home/ueber_uns/",
+  "impressum": "https://capitalbay.eu/impressum/"
+ }
+}

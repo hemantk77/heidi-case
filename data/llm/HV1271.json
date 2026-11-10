@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Propstack verbindet Kundenmanagement, Vermarktung, Automatisierung und künstliche Intelligenz in einer Plattform. Damit Makler weniger verwalten und mehr verkaufen.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "segment_note": "Propstack is a SaaS real-estate CRM vendor for brokers, banks, franchisors and project sales teams, not a property manager.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.propstack.de/",
+  "portal": "https://crm.propstack.de/app/login",
+  "about": "https://www.propstack.de/kundengeschichten/",
+  "services": "https://www.propstack.de/service/",
+  "impressum": "https://www.propstack.de/impressum/"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind ein inhabergeführtes Berliner Hausverwaltungsunternehmen mit dem Schwerpunkt der Miethaus- und WEG Verwaltung",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 3500,
+ "units_evidence": "Unser Team besteht derzeit aus 17 Mitarbeitern, welche einen Verwaltungsbestand von rund 3.500 Wohneinheiten für unsere Mandanten betreuen.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": 17,
+ "employees_evidence": "Unser Team von derzeit 17 Mitarbeitern betreut aktuell einen Bestand von rund 3.500 Wohneinheiten",
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Luise Salomon"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Luise Salomon",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "eConcept Kundenportal",
+ "portal_evidence": "Mit unserem eConcept Kundenportal bieten wir Ihnen einen exklusiven Service.",
+ "segment_note": "Berlin-based owner-managed property manager focused on rental-building and WEG management (about 3,500 units, 17 staff), with an online tenant/owner portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.immobilia-concept.de/",
+  "portal": "https://kundenportal.immobilia-concept.de/",
+  "services": "https://immobilia-concept.de/miethausverwaltung/",
+  "about": "https://immobilia-concept.de/ueber-uns/",
+  "jobs": "https://immobilia-concept.de/karriere/",
+  "impressum": "https://immobilia-concept.de/impressum/"
+ }
+}

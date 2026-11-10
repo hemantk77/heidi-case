@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Tätigkeitsfeld: Immobilienvermittlung",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "Ihr Immobilienmakler in Berlin & Brandenburg – seit 1995",
+ "managing_directors": [
+  "Michael Wille"
+ ],
+ "managing_directors_evidence": "Inhaber: Michael Wille",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MaklerBüro Wille is a Berlin/Brandenburg real estate brokerage (Immobilienvermittlung) founded 1995, with no property management offered on the website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.berlin-wille.de/",
+  "impressum": "https://www.berlin-wille.de/impressum/"
+ }
+}

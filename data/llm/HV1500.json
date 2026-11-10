@@ -1,0 +1,36 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 2011 bin ich mit Herz und Kompetenz als Immobilienmaklerin tätig.",
+ "founded_year": 2011,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Durch meine Verwaltertätigkeit gehören zu meinem engen Netzwerk gute Handwerker/- innen",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Kirsten Brusch"
+ ],
+ "managing_directors_evidence": "Inhaberin : Kirsten Brusch",
+ "portal_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "Solo real-estate broker (Maklerin) in Berlin-Pankow and the northern surroundings, also listed as offering property management (Verwaltertätigkeit), with no stated staff or portfolio size.",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.immobilien-brusch.de/",
+  "services": "https://www.immobilien-brusch.de/maklerleistungen-agb/",
+  "impressum": "https://www.immobilien-brusch.de/impressum/",
+  "about": "https://www.immobilien-brusch.de/about/",
+  "portal": "https://www.immobilien-brusch.de/login"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Seit 2006 ist die PANDION SERVICE in der Wohnungsverwaltung tätig.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Sondereigentumsverwaltung",
+  "Mietverwaltung",
+  "Makler",
+  "Facility/Hausmeister"
+ ],
+ "units_managed": 5000,
+ "units_evidence": "5.000 WE in Verwaltung",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2006,
+ "founded_evidence": "Seit 2006 ist die PANDION SERVICE in der Wohnungsverwaltung tätig.",
+ "managing_directors": [
+  "Toni Altindagoglu"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter Geschäftsführer: Toni Altindagoglu",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Start der Digitalisierungsstrategie: Einführung einer neuen Hausverwaltersoftware und Erstellung eines Kundenportals",
+ "segment_note": "Cologne-based property manager with a Berlin branch offering WEG, special-ownership and rental management plus brokerage, managing about 5,000 units.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://pandion-service.de/",
+  "services": "https://pandion-service.de/leistungen/",
+  "jobs": "https://pandion-service.de/karriere/",
+  "about": "https://pandion-service.de/ueber-uns/",
+  "impressum": "https://pandion-service.de/impressum/"
+ }
+}

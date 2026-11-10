@@ -1,0 +1,32 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Geschäftsführer Sebastian Klug & Michael Meyer sind geprüfte MarktWert-Makler (SPRENGNETTER Akademie)",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1982,
+ "founded_evidence": "Seriöse Immobilienvermittlung seit 1982",
+ "managing_directors": [
+  "Michael Meyer",
+  "Sebastian Klug"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Michael Meyer Sebastian Klug",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin/Brandenburg real-estate brokerage (sales and rental mediation) in Frohnau, Hermsdorf and Reinickendorf, founded 1982; the site describes no property management services.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.klug-immobilien.de/",
+  "about": "https://www.klug-immobilien.de/UeberUns.php?session=5a8ad1b40626b6f8a127629209be6602",
+  "services": "https://www.klug-immobilien.de/Immobilienangebote.php?session=5a8ad1b40626b6f8a127629209be6602",
+  "impressum": "https://www.klug-immobilien.de/Impressum.php?session=5a8ad1b40626b6f8a127629209be6602"
+ }
+}

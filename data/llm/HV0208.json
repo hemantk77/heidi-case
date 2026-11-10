@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten für Sie individuell in Berlin und Umgebung: Miethäuser, WEGs, Bruchteilsgemeinschaften",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 700,
+ "units_evidence": "umfaßt ca. 700 Wohneinheiten verteilt auf etwa 50 Wohnanlagen in allen Bezirken Berlins",
+ "buildings_managed": 50,
+ "buildings_evidence": "umfaßt ca. 700 Wohneinheiten verteilt auf etwa 50 Wohnanlagen in allen Bezirken Berlins",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Erika Bischoff-Meyer",
+  "Klaus-Peter Meyer"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Erika Bischoff-Meyer Klaus-Peter Meyer",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Monatsabrechnung Jahresabrechnung",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager for rental houses, WEGs and Bruchteilsgemeinschaften, about 700 units in roughly 50 residential complexes.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.meyerhausverwaltung.berlin/",
+  "services": "https://meyerimmobilien.de/leistungsspektrum",
+  "portal": "https://meyerimmobilien.de/onlineservice",
+  "about": "https://meyerimmobilien.de/leistungsspektrum",
+  "impressum": "https://meyerimmobilien.de/privacy-policy"
+ }
+}

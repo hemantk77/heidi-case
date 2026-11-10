@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Wir sind Ihr Ansprechpartner bei sämtlichen Fragen zum Thema dekorative Sanierung / Abdichtung von sensiblen Bauteilen und der Sanierung / Renovierung rund ums Haus.",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Martina Ratajczak"
+ ],
+ "managing_directors_evidence": "M. Ratajczak GmbH Martina Ratajczak",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "M. Ratajczak GmbH is a Berlin master craft company specializing in balcony, terrace and staircase waterproofing, decorative floors and general building renovation, with no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.ratajczak-gmbh.de/",
+  "services": "https://www.ratajczak-gmbh.de/ratajczak/leistungen/",
+  "impressum": "https://www.ratajczak-gmbh.de/ratajczak/impressum/"
+ }
+}

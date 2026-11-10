@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Auf alle Bedürfnisse, die an eine moderne Hausverwaltung gestellt werden, wird schnell, flexibel und professionell reagiert.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1995,
+ "founded_evidence": "Tätig sind wir in Berlin seit Januar 1995",
+ "managing_directors": [
+  "Elisabeth Tönis"
+ ],
+ "managing_directors_evidence": "Vertretungsberechtigter: Elisabeth Tönis",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Auf Wunsch erstellen wir Ihnen auch nur Ihre Nebenkostenabrechnung für Eigentums- und Mietwohnungen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property manager (Hausverwaltung) active since 1995, offering WEG and rental management plus on-request utility billing, with no stated unit count or portal.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.hvtoenis.de/",
+  "services": "https://www.hvtoenis.de/service/",
+  "impressum": "https://www.hvtoenis.de/about/",
+  "about": "https://www.hvtoenis.de/about/",
+  "portal": "https://www.hvtoenis.de/login"
+ }
+}

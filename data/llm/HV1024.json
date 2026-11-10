@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "HVK Berlin ist Ihr kompetenter Partner in Berlin für die Verwaltung und Vermietung Ihrer Immobilie. ... Wir übernehmen die Verwaltung von Miet- und Gewerbeobjekten sowie die Vermietung von Immobilien.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Martin Kühn"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Martin Kühn",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Kühn Group GmbH in Berlin is a real-estate group that buys, brokers and manages investment properties, with its HVK Berlin unit offering rental and commercial property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kuehn-group.de/",
+  "impressum": "https://www.kuehn-group.de/impressum.htm",
+  "about": "https://www.kuehn-group.de/unternehmen.htm"
+ }
+}

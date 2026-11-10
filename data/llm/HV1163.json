@@ -1,0 +1,22 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Ackerhöfe is a historic courtyard complex in Berlin-Mitte offering apartments, offices and retail spaces for rent; the site does not describe any property management service for third parties.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ackerhoefe.de/",
+  "impressum": "https://ackerhoefe.de/kontakt/impressum/"
+ }
+}

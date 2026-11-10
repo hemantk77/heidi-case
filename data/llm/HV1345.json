@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Iakov Surovin"
+ ],
+ "managing_directors_evidence": "Von Iakov Surovin, Geschäftsführer Immovate Management GmbH | August 2026",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Immovate Management GmbH is a Berlin firm offering graffiti removal, drying, renovation, and Hausmeisterservice (caretaking) for buildings; it does not explicitly offer Hausverwaltung on the pages reviewed.",
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "is_property_manager_evidence": "Wir betreuen Hausverwaltungen, Eigentümer und Gewerbetreibende in allen Berline",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://immo-vate.de/",
+  "about": "https://immo-vate.de/ueber-uns/",
+  "services": "https://immo-vate.de/hausmeisterservice-berlin/"
+ }
+}

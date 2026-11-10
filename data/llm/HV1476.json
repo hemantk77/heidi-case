@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit über 14 Jahren vermieten und verkaufen wir Immobilien im höheren Segment",
+ "founded_year": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ihre Immobilienmakler in Berlin",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Andreas Venohr"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Andreas Venohr",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real-estate brokerage (sales and rental of higher-segment homes) with no property management services mentioned on the website.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": "mehr als 1700 Wohnungen gehören mittlerweile zu unseren notariell beurkundeten Objekten",
+ "units_managed": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.carat24-immobilien.de/",
+  "about": "https://www.carat24-immobilien.de/ueber-uns/",
+  "impressum": "https://www.carat24-immobilien.de/impressum/"
+ }
+}

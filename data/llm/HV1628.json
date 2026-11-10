@@ -1,0 +1,27 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilien Highlights; Was ist Ihre Immobilie Wert? Geben Sie die Daten Ihrer Immobilie ein und erhalten eine Wertindikation.",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Tommy Koch"
+ ],
+ "managing_directors_evidence": "Geschäftsführung: Tommy Koch",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "ICO Immobilien is a Berlin property brokerage (sales marketing, financing, staging) with no property management offering on its website.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://ico-immobilien.com/",
+  "about": "https://ico-immobilien.com/about.html",
+  "impressum": "https://ico-immobilien.com/impressum.html"
+ }
+}

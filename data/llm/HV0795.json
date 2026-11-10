@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir verwalten Ihre Immobilie in Berlin und Umgebung verantwortlich und kompetent",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": 1500,
+ "units_evidence": "1500 \nMIET- UND EIGENTUMSWOHNUNGEN\nIN DER VERWALTUNG ",
+ "buildings_managed": 45,
+ "buildings_evidence": "45 \nHÄUSER IN DER\nBETREUUNG ",
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1962,
+ "founded_evidence": "1962 \nGEGRÜNDET IN",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "etg24.de",
+ "portal_evidence": "Das branchenspezifische Eigentümerportal etg24.de macht es Ihnen leicht, in die dort hinterlegten Verwaltungsunterlagen Einsicht zu nehmen und uns Nachrichten zukommen zu lassen.",
+ "segment_note": "Berlin property management firm (founded 1962) managing about 1,500 apartments and 45 houses for owner communities and landlords, offering owners the etg24.de portal.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://maikoal.de/"
+ }
+}

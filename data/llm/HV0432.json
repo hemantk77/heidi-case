@@ -1,0 +1,35 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir bieten Ihnen alle Leistungen rund um die Verwaltung Ihrer Immobilie. Sowohl die kaufmännische Verwaltung wie auch die technische Unterstützung. Für Miethäuser und Wohnungseigentümergemeinschaften.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Corinna Multhoff"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Corinna Multhoff",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Mieterbereich / Eigentümerbereich",
+ "portal_evidence": "Mieterbereich  ...  Eigentümerbereich",
+ "segment_note": "CM Immobilienverwaltung GmbH is a Berlin property manager handling WEG and rental property administration, with tenant and owner areas on its website.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.cm-immobilien-gmbh.de/",
+  "impressum": "https://www.cm-immobilien-gmbh.de/impressum",
+  "about": "https://www.cm-immobilien-gmbh.de/ueber-uns",
+  "services": "https://www.cm-immobilien-gmbh.de/leistungen"
+ }
+}

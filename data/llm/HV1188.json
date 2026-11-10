@@ -1,0 +1,37 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": "Wohnungsgenossenschaft Altglienicke eG; Derzeit keine Aufnahme neuer Genossenschaftsmitglieder. Aktuell nehmen wir keine neuen Genossenschaftsmitglieder auf.",
+ "main_business": "housing_owner_landlord",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Marion Dawurske",
+  "Tim Franzke"
+ ],
+ "managing_directors_evidence": "Frau Marion Dawurske I Vorstand Herr Tim Franzke I Vorstand",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin housing cooperative (Wohnungsgenossenschaft) in Altglienicke that rents its own housing and commercial space to members and tenants; currently not accepting new members.",
+ "is_property_manager_rejected": "yes",
+ "_evidence_checked": 2,
+ "_evidence_failed": 1,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wg-altglienicke.de/",
+  "services": "https://www.wg-altglienicke.de:443/angebote",
+  "portal": "https://www.wg-altglienicke.de:443/user/login",
+  "impressum": "https://www.wg-altglienicke.de:443/impressum"
+ }
+}

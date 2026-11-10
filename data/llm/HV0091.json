@@ -1,0 +1,41 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Zu unserem Verwaltungsbestand gehören Wohnungseigentümergemeinschaften, Mietshäuser, Gewerbeimmobilien und vermietete Eigentumswohnungen.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": 9000,
+ "units_evidence": "Aus dem Herzen von Berlin heraus betreuen wir in Berlin und Brandenburg ca. 9.000 Wohneinheiten.",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Thiemo Bosse",
+  "Claudia Brinker"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Thiemo Bosse und Claudia Brinker",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal mit Ticketsystem und eigener APP",
+ "portal_evidence": "Wir sind digital - Unser interaktives Kundenportal mit Ticketsystem und eigener APP sorgt für Transparenz – unsere Kunden haben jederzeit Zugriff auf Ihre Daten.",
+ "segment_note": "Berlin property manager (WEG, rental and commercial, about 9,000 units in Berlin and Brandenburg) with a customer portal and app, plus a sister brokerage company.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://gehrung-hausverwaltung-berlin.de/",
+  "services": "https://gehrung-hausverwaltung-berlin.de/immobilienservice.html",
+  "about": "https://gehrung-hausverwaltung-berlin.de/ueber-uns.html",
+  "jobs": "https://gehrung-hausverwaltung-berlin.de/karriere.html",
+  "portal": "https://portal.gehrung-hausverwaltung-berlin.de/user/auth/login",
+  "impressum": "https://gehrung-hausverwaltung-berlin.de/impressum.html"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Als Green Lion Consulting haben wir uns auf nachhaltige Immobilienprojekte spezialisiert und verfolgen die Vision von einer besseren Welt.",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Green Lion Consulting is an ESG consultancy for sustainable real estate (analysis, strategy, retrofitting, certification, training), not a property manager.",
+ "_evidence_checked": 1,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://green-lion.com/",
+  "services": "https://green-lion.com/esg-beratung",
+  "about": "https://green-lion.com/unternehmen"
+ }
+}

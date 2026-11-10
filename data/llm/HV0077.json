@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Sie suchen eine zertifizierte und moderne Hausverwaltung? Wir sind für Sie da.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung"
+ ],
+ "units_managed": 2000,
+ "units_evidence": "Wir betreuen bundesweit mehr als 2.000 Einheiten",
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "seit\n2002 · IHK zertifiziert",
+ "managing_directors": [
+  "Andrea Kuschel"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Andrea Kuschel",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Das digitale Portal Ihrer Hausverwaltung",
+ "segment_note": "Berlin-based property manager (WEG, Miet and SEV) with a digital portal and app, managing over 2,000 units nationwide, part of the INVESTIX group.",
+ "_evidence_checked": 5,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://eurix-hausverwaltung.de/",
+  "jobs": "https://eurix-hausverwaltung.de/karriere-eurix",
+  "portal": "https://kundenportal.eurix-hausverwaltung.de/login",
+  "impressum": "https://eurix-hausverwaltung.de/impressum-6112"
+ }
+}

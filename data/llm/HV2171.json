@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Stark vor Ort seit 1990!",
+ "founded_year": 1990,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "termingerechte Haus-, Wohngeld und Betriebskostenabrechnungen.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Unsere leistungsfähige Verwaltungssoftware und EDV ermöglichen ein umfangreiches und jederzeit aktuelles Berichtwesen sowie termingerechte Haus-, Wohngeld und Betriebskostenabrechnungen.",
+ "main_business": "property_management",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin property company (since 1990) that rents out and manages properties, handling Wohngeld and service-charge billing, with about 90% of its properties in Berlin.",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.vvimmo.de/",
+  "about": "https://vvimmo.de/geschichte.htm",
+  "services": "https://vvimmo.de/vermietung-und-verwaltung.htm"
+ }
+}

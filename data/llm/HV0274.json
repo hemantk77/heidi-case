@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine kleine bis mittelständische Hausverwaltung mit direktem, persönlichem Kontakt zu unseren Eigentümern und unseren Mietern.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Gewerbeverwaltung",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 1988,
+ "founded_evidence": "Seit 1988 verwalten wir mit Erfahrung und Kompetenz für unsere Eigentümer die Immobilie.",
+ "managing_directors": [
+  "Marcel Reiche"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Marcel Reiche",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkosten- und Eigentümerabrechnungen, USt-Voranmeldungen. ... Nebenkostenabrechnungen Termingerecht und nachvollziehbar: Wir erstellen d",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Small-to-mid Berlin property manager (since 1988) offering rental management, accounting and service charge statements, with 24h emergency line.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.hoberg-reiche.de/",
+  "about": "https://www.hoberg-reiche.de/ueber-uns/",
+  "services": "https://www.hoberg-reiche.de/leistungen/",
+  "impressum": "https://www.hoberg-reiche.de/impressum/"
+ }
+}

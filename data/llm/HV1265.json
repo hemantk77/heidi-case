@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "brokerage",
+ "services": [
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [],
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Berlin real-estate brokerage (Immobilienmakler) focused on buying and selling residential property; no property management offering found in the provided text.",
+ "_evidence_checked": 0,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.werneburg-immobilien.de/",
+  "services": "https://www.werneburg-immobilien.de/service/finanzierungsrechner/",
+  "about": "https://www.werneburg-immobilien.de/unternehmen/firmenprofil/",
+  "jobs": "https://www.werneburg-immobilien.de/unternehmen/stellenangebote/",
+  "impressum": "https://www.werneburg-immobilien.de/unternehmen/impressum/"
+ }
+}

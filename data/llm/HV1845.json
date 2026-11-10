@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Ingenieursberatung und -planung in den Bereichen der TGA, insbesondere in der Heizungstechnik, Lüftungstechnik, und Sanitärtechnik",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "André Bischoff"
+ ],
+ "managing_directors_evidence": "Dipl.-Wi.Jur. (FH) André Bischoff, Geschäftsführung",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Ingenieurbüro Bischoff is an engineering firm offering TGA planning (heating, ventilation, sanitary), energy consulting, building construction and architecture services in Berlin, with no property management offered.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.ingenieurbuero-bischoff.de/",
+  "services": "https://www.ingenieurbuero-bischoff.de/leistung/index.html",
+  "jobs": "https://www.ingenieurbuero-bischoff.de/karriere/index.html",
+  "impressum": "https://www.ingenieurbuero-bischoff.de/impressum.html"
+ }
+}

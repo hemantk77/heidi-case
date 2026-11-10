@@ -1,0 +1,33 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": 17,
+ "employees_evidence": "Team17 Personen, davon 7 Immobilienmakler:innen",
+ "founded_evidence": "Gründung2024, Gründer und Geschäftsführer: Fabian Paegel",
+ "founded_year": 2024,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Leistungen Verkauf, Vermietung, kostenlose Immobilienbewertung, Finanzierungsberatung; Immobilienmakler Berlin & Umland: Immobilienmakler für Berlin und Umland: kostenlose Immobilienbewertung, Verkauf, Vermietung und Finanzierung aus einer Hand.",
+ "main_business": "brokerage",
+ "managing_directors": [
+  "Fabian Paegel"
+ ],
+ "managing_directors_evidence": "Fabian Paegel, Geschäftsführer",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin real estate brokerage (Immobilienmakler) offering sales, rentals, valuations and financing advice, with 17 staff; no property management services mentioned.",
+ "services": [
+  "Makler"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.paegelrealestate.com/",
+  "about": "https://www.paegelrealestate.com/team",
+  "impressum": "https://www.paegelrealestate.com/impressum"
+ }
+}

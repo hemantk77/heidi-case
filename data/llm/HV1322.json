@@ -1,0 +1,30 @@
+{
+ "is_property_manager": "unclear",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 60,
+ "employees_evidence": "Im Firmenverbund vereinen mehr als 60 Mitarbeiter Erfahrung, Professionalität, Neugier und Agilität.",
+ "founded_year": 2002,
+ "founded_evidence": "Seit der Gründung 2002 haben wir die gesamte Wertschöpfungskette im eigenen Haus aufgebaut",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "MÄHREN is a Berlin-based owner-operator focused on acquiring, developing and privatising residential property (ETW conversions), with 60+ staff; no property management service is described on the pages reviewed.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://maehren.de/",
+  "about": "https://maehren.de/unternehmen",
+  "jobs": "https://maehren.de/karriere",
+  "services": "https://maehren.de/pressecenter/maehren-veraeussert-portfolio-aus-sechs-wohnimmobilien-in-berlin-an-ca-fastigheter/",
+  "impressum": "https://maehren.de/impressum"
+ }
+}

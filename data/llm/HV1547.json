@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Die Groth Gruppe, die die Entwicklung des Projektes über viele Jahre maßgeblich vorangetrieben hat",
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Klaus Groth",
+  "Thomas Groth",
+  "Antonia Heiming"
+ ],
+ "managing_directors_evidence": "Kfm. Klaus Groth, Kfm. Thomas Groth, Kffr. Antonia Heiming",
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Groth Gruppe is a Berlin real-estate developer (Projektentwicklung, Projektsteuerung, sales and buyer support) with no property management services mentioned on the site.",
+ "founded_evidence": null,
+ "employees_evidence": null,
+ "buildings_evidence": "In 40 Jahren über 145 Bauprojekte mit mehr als 1.050 Gebäuden.",
+ "units_evidence": null,
+ "heating_billing_evidence": null,
+ "portal_evidence": null,
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.grothgruppe.de/",
+  "about": "https://www.grothgruppe.de/News/Unternehmens-News/",
+  "jobs": "https://www.grothgruppe.de/Unternehmen/Karriere/",
+  "impressum": "https://www.grothgruppe.de/Impressum/"
+ }
+}

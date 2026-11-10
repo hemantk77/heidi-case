@@ -1,0 +1,38 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2012,
+ "founded_evidence": "Stephan Koch gründete mit Frau Hartmann 2012 das Unternehmen, um der langjährigen gemeinsamen Tätigkeit einen größeren Rahmen zu geben.",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Erstellung von Wirtschaftsplänen und Jahresabrechnungen",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind im gesamten Feld der WEG-Hausverwaltung u. Miethausverwaltung und des Immobilien-Managements tätig",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Jaqueline Hartmann"
+ ],
+ "managing_directors_evidence": "VERTRETEN DURCH: Jaqueline Hartmann",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin Prenzlauer Berg firm offering WEG and rental property management alongside brokerage and investment advisory, founded 2012.",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.kochundkollegen.com/",
+  "services": "https://kochundkollegen.com/immobilienangebote/",
+  "about": "https://kochundkollegen.com/ueber-uns/",
+  "impressum": "https://kochundkollegen.com/impressum/"
+ }
+}

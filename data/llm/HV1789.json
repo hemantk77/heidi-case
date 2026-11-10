@@ -1,0 +1,26 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Eichhoernchenaufzucht - und Auswilderungsstation Dr. Tania Nordhaus",
+ "main_business": "other",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": null,
+ "managing_directors": [
+  "Tanja Nordhaus"
+ ],
+ "managing_directors_evidence": "Impressum: Tanja Nordhaus - Peetziger Weg 8 - 14165 Berlin // 01725941246",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "segment_note": "The website belongs to a squirrel rearing and release station run by Dr. Tania Nordhaus, not a real-estate company, and it offers no property management.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://eichhoernchen.com/"
+ }
+}

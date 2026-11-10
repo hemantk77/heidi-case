@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Die Akkurat Hausverwaltung in Berlin übernimmt die kaufmännische, technische und rechtliche Geschäftsführung der Eigentümergemeinschaft",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Veranlassung, bzw. Erstellung von Heizkostenabrechnungen",
+ "portal_or_app": "Digitale Serviceplattform",
+ "portal_evidence": "Auf unserer digitalen Serviceplattform haben Sie jederzeit Zugang zu allen wichtigen Informationen und Vorgängen",
+ "segment_note": "Berlin and Potsdam property manager for WEG and rental buildings, also offering sales brokerage, with an online service platform and heating cost billing.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://akkurat-hausverwaltung.de/",
+  "about": "https://akkurat-hausverwaltung.de/index.html",
+  "services": "https://akkurat-hausverwaltung.de/leistungen.html",
+  "portal": "https://akkurat-hausverwaltung.de/login3.html"
+ }
+}

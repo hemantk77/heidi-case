@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Hausverwaltung in Berlin - Werte erhalten und entwickeln!",
+ "main_business": "property_management",
+ "services": [
+  "Makler",
+  "WEG-Verwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Alexander Lochmann"
+ ],
+ "managing_directors_evidence": "Vertreten durch: Alexander Lochmann",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "AKZENT is a Berlin real estate firm doing brokerage and property management (Hausverwaltung), with a Hausverwaltung-until-sale offer and a Genehmigung for WEG administration.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.akzentimmobilien.de/",
+  "services": "https://www.akzentimmobilien.de/hausverwaltung-in-berlin",
+  "about": "https://www.akzentimmobilien.de/mitarbeiter",
+  "jobs": "https://www.akzentimmobilien.de/kontakt-2",
+  "impressum": "https://www.akzentimmobilien.de/impressum"
+ }
+}

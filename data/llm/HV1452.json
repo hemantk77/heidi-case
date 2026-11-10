@@ -1,0 +1,33 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Leistungen: Hausmeisterdienst, Gebäudereinigung, GaLa- und Grünpflegearbeiten, Reparatur- und Instandsetzungsarbeiten, Winterdienst, Sonderreinigung",
+ "main_business": "facility_or_caretaker",
+ "services": [
+  "Facility/Hausmeister"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "units_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Tim Martin Herbst"
+ ],
+ "managing_directors_evidence": "Vertreten durch den Geschäftsführer: Tim Martin Herbst",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Fortes is a Berlin/Brandenburg building service provider (cleaning, caretaking, gardening, winter service, repairs), not a property manager.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://fortes-fm.de/",
+  "about": "https://fortes-fm.de/ueber-uns/",
+  "impressum": "https://fortes-fm.de/impressum/"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Flórez Immobilien & Hausverwaltung ist ein inhabergeführtes Familienunternehmen in dritter Generation. Kerngeschäft ist die professionelle und zuverlässige Haus- und Wohnungsverwaltung.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "Makler",
+  "Other"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Natalia Flórez Gonzalez"
+ ],
+ "managing_directors_evidence": "Geschäftsführerin: Natalia Flórez Gonzalez",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Owner-led family property management firm in Berlin-Steglitz-Zehlendorf offering residential property management plus brokerage, valuation and construction supervision via partners.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://florez-immobilien.de/",
+  "about": "https://florez-immobilien.de/uber-uns"
+ }
+}

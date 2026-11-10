@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "buildings_managed_placeholder": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Seit 1994 verwalte ich verschiedene Wohnanlagen in Berlin.",
+ "founded_year": 1994,
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Meine Leistungen für die Verwaltung von Wohnungseigentum",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Sandra Braunwald"
+ ],
+ "managing_directors_evidence": "Sandra Braunwald Hausverwalterin Fehmarner Straße 13 13353 Berlin",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "services": [
+  "WEG-Verwaltung"
+ ],
+ "segment_note": "Small Berlin sole-practitioner property manager (Hausverwalterin) focused on WEG administration of residential condominiums since 1994.",
+ "units_evidence": null,
+ "units_managed": null,
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://hvbraunwald.de/",
+  "services": "http://hvbraunwald.de/web/leistungen",
+  "impressum": "http://hvbraunwald.de/web/impressum"
+ }
+}

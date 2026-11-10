@@ -1,0 +1,34 @@
+{
+ "buildings_evidence": null,
+ "buildings_managed": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_evidence": "Über 22 Jahre Erfahrung in der Berliner Immobilienverwaltung",
+ "founded_year": null,
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Nebenkostenabrechnung, Zahlungsverkehr und laufende Buchhaltung – alles digital und transparent für Sie einsehbar.",
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Haagen Hausverwaltung GmbH – moderne und digitale Mietverwaltung in Berlin.",
+ "main_business": "property_management",
+ "managing_directors": [
+  "Steffen Haagen"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Steffen Haagen",
+ "portal_or_app": "Kundenportal",
+ "portal_evidence": "Ihr digitales Kundenportal",
+ "segment_note": "Berlin property manager (Mietverwaltung, digital-first) with 22+ years experience, offering a digital customer portal for owners and tenants.",
+ "services": [
+  "Mietverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://haagen-hausverwaltung.de/",
+  "about": "https://haagen-hausverwaltung.de/home/",
+  "services": "https://haagen-hausverwaltung.de/home/",
+  "impressum": "https://haagen-hausverwaltung.de/impressum"
+ }
+}

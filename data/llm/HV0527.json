@@ -1,0 +1,36 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind eine in 2002 gegründete Immobilienverwaltung mit Sitz in Berlin.",
+ "main_business": "property_management",
+ "services": [
+  "Mietverwaltung",
+  "WEG-Verwaltung",
+  "Gewerbeverwaltung"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": 2002,
+ "founded_evidence": "Wir sind eine in 2002 gegründete Immobilienverwaltung mit Sitz in Berlin.",
+ "managing_directors": [
+  "Sabine Spehr"
+ ],
+ "managing_directors_evidence": "vertreten durch: Sabine Spehr",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "sind Ihr erster Ansprechpartner im Bezug auf Ihre Mietzahlungen und Nebenkostenabrechnungen.",
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "segment_note": "Berlin-based property manager founded in 2002, handling rental and WEG administration for residential, commercial and mixed-use properties in Berlin, Saxony and Mecklenburg-Vorpommern.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://www.geag-berlin.de/",
+  "services": "https://www.geag-berlin.de/mieter/",
+  "about": "https://www.geag-berlin.de/unternehmen/",
+  "impressum": "https://www.geag-berlin.de/impressum/"
+ }
+}

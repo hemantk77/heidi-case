@@ -1,0 +1,34 @@
+{
+ "is_property_manager": "unclear",
+ "is_property_manager_evidence": null,
+ "main_business": "investment_or_development",
+ "services": [
+  "Other"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": 100,
+ "employees_evidence": "Über 100 spezialisierte und erfahrene Mitarbeiter in diversen Tochterunternehmen",
+ "founded_year": 2003,
+ "founded_evidence": "Wir sind die WERTCONCEPT Investment Group – ein 2003 gegründeter inhabergeführter",
+ "managing_directors": [
+  "Gregor Richter"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Gregor Richter",
+ "heating_billing": "not_mentioned",
+ "heating_billing_evidence": null,
+ "portal_or_app": null,
+ "portal_evidence": null,
+ "units_evidence": null,
+ "buildings_evidence": null,
+ "segment_note": "WERTCONCEPT is a Berlin-based owner-investor and developer (founded 2003) focusing on acquisitions, development and own portfolio; the site mentions \"Verwaltung\" only as an internal function, with no explicit third-party property management offer.",
+ "_evidence_checked": 3,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.wertconcept.de/",
+  "about": "https://wertconcept.de/uber-uns/",
+  "jobs": "https://wertconcept.de/karriere/",
+  "impressum": "https://wertconcept.de/impressum/"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "is_property_manager": "yes",
+ "is_property_manager_evidence": "Wir sind spezialisiert auf die professionelle Verwaltung von Wohn-, Gewerbe- und gemischt genutzten Immobilien.",
+ "main_business": "property_management",
+ "services": [
+  "WEG-Verwaltung",
+  "Mietverwaltung",
+  "Sondereigentumsverwaltung",
+  "Gewerbeverwaltung",
+  "Makler"
+ ],
+ "units_managed": null,
+ "units_evidence": null,
+ "buildings_managed": null,
+ "buildings_evidence": null,
+ "employees": null,
+ "employees_evidence": null,
+ "founded_year": null,
+ "founded_evidence": null,
+ "managing_directors": [
+  "Stefan Klug",
+  "Rita Ulke"
+ ],
+ "managing_directors_evidence": "Geschäftsführer: Stefan Klug Geschäftsführerin: Rita Ulke",
+ "heating_billing": "offers_as_service",
+ "heating_billing_evidence": "Jährliche Abrechnung der Betriebskosten, Heizkosten und Aufzugskosten",
+ "portal_or_app": "Kunden-Login",
+ "portal_evidence": "Kunden-Login",
+ "segment_note": "Berlin property manager handling residential, commercial and mixed-use buildings (WEG, rental, special-property management), also brokerage, with a customer login.",
+ "_evidence_checked": 4,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "http://www.citygate-immobilien.de/",
+  "portal": "https://www.citygate-immobilien.de/wp-login.php",
+  "impressum": "https://www.citygate-immobilien.de/impressum-datenschutz/"
+ }
+}

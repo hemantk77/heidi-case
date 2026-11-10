@@ -1,0 +1,28 @@
+{
+ "is_property_manager": "no",
+ "is_property_manager_evidence": "Immobilienmakler Norddeutschland | Möllerherm Immobilien",
+ "main_business": "brokerage",
+ "services": [
+  "Makler"
+ ],
+ "units_managed": null,
+ "buildings_managed": null,
+ "employees": null,
+ "founded_year": 1999,
+ "founded_evidence": "Familienunternehmen seit 1999",
+ "managing_directors": [],
+ "managing_directors_evidence": null,
+ "heating_billing": "not_mentioned",
+ "portal_or_app": null,
+ "segment_note": "Möllerherm Immobilien is a North German real-estate brokerage (Immobilienmakler) focused on selling and renting properties, founded 1999, with no property management offering shown on the pages reviewed.",
+ "_evidence_checked": 2,
+ "_evidence_failed": 0,
+ "_model": "claude-haiku-5-5",
+ "_source_urls": {
+  "home": "https://moellerherm-immobilien.de/",
+  "jobs": "https://moellerherm-immobilien.de/suchprofil-erstellen",
+  "about": "https://moellerherm-immobilien.de/ueber-uns",
+  "services": "https://moellerherm-immobilien.de/karrierebereich",
+  "impressum": "https://moellerherm-immobilien.de/impressum"
+ }
+}
