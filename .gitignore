@@ -1,0 +1,15 @@
+# Secrets - never commit API keys
+.env
+.env.*
+!.env.example
+
+# Scraped and personal data - keep out of a public repo
+# (cached website copies, managing directors' names and e-mail addresses, API responses)
+data/
+sheet_import/
+_to_delete/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
